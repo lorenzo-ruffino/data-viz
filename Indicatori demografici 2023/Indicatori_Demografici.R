@@ -1,18 +1,23 @@
 library(tidyverse)
 library(sf)
+library(janitor)
 library(readxl)
+library(svglite)
 library(scales)
-library(showtext)
 
 
+setwd("C:/Users/loren_afkjpxa/OneDrive/Documenti/DataViz_Personali/2024_04_02_Indicatori_Demografici")
 
-province = read_sf("Input/province.json")
-regioni = read_sf("Input/regioni.json")
-dati = read_excel("Input/Tavole_indicatori_demografici.xlsx", sheet = "Foglio1")
+
+province = read_sf("C:/Users/loren_afkjpxa/Downloads/province.json")
+regioni = read_sf("C:/Users/loren_afkjpxa/OneDrive/Documenti/DataVIz_YouTrend/2022_11_21_Aborto/Dati/regioni.json")
+
+dati = read_excel("Tavole_indicatori_demografici.xlsx", sheet = "Foglio1")
 
 data = left_join(province, dati, by=c("COD_PROV" = "Codice_Prov"))
 
 
+library(showtext)
 font_add_google("Source Sans Pro")
 showtext_auto()
 
@@ -55,7 +60,7 @@ max = max(data$Tasso_Variazione_Per_Mille)
 
 
 #svglite(filename = paste0("Indicatori_Dem_Variazione_pop", ".svg"), width = 10, height = 9.5,standalone = TRUE,id = NULL, fix_text_size = TRUE, scaling = 1, always_valid = FALSE)
-png("01_Indicatori_Dem_Variazione_pop.png", width = 9.5, height = 10, units="in", res=300)
+png("Indicatori_Dem_Variazione_pop.png", width = 9.5, height = 10, units="in", res=300)
 ggplot()  +
   theme_map()+
   geom_sf(data = data, mapping=aes(geometry = geometry, fill=Tasso_Variazione_Per_Mille), color = "#a6a6a6",  lwd = 0.4 )+
@@ -74,41 +79,7 @@ ggplot()  +
     guide_colourbar( label.position = "left", direction = "vertical", barheight = 100, barwidth = 40, frame.colour = "black", ticks.colour = "black"))+
   labs(x = NULL, 
        y = NULL, 
-       title = "Com'Ã¨ cambiata la popolazione nel 2023", 
+       title = "Com'è cambiata la popolazione nel 2023", 
        subtitle = "Variazione della popolazione ogni 1.000 abitanti nel corso del 2023", 
        caption =  "Elaborazione di Lorenzo Ruffino | Fonte dati: Istat")
 dev.off()
-
-
-
-
-### Tasso di crescita naturale della popolazione
-
-min = min(data$Tasso_Crescita_Naturale)
-max = max(data$Tasso_Crescita_Naturale)
-
-
-png("02_Indicatori_Dem_CrescitaNaturalePop.png", width = 9.5, height = 10, units="in", res=300)
-ggplot()  +
-  theme_map()+
-  geom_sf(data = data, mapping=aes(geometry = geometry, fill=Tasso_Crescita_Naturale), color = "#a6a6a6",  lwd = 0.4 )+
-  geom_sf(data = regioni, mapping=aes(geometry = geometry), color = "#1C1C1C",  lwd = 10, fill="white", alpha=0)+
-  scale_fill_stepsn(
-    breaks= c(-10, -8, -6, -4, -2, 0, 1), #seq(-10, 1, by=2),
-    values=rescale(c(-10, 0, 1)),
-    limits = c(-10, 1),
-    colours = c("#F12938", "white", "#0478EA"),
-    space = "Lab",
-    na.value = "grey50",
-    guide = "coloursteps",
-    aesthetics = "fill",
-    oob = scales::squish,
-    labels = function(x) paste0(round(x/1, 1), ""),
-    guide_colourbar( label.position = "left", direction = "vertical", barheight = 100, barwidth = 40, frame.colour = "black", ticks.colour = "black"))+
-  labs(x = NULL, 
-       y = NULL, 
-       title = "La (de)crescita naturale della popolazione", 
-       subtitle = "Tasso di crescita naturale (nascite - decessi) ogni 1.000 abitanti nl 2023", 
-       caption =  "Elaborazione di Lorenzo Ruffino | Fonte dati: Istat")
-dev.off()
-
