@@ -32,7 +32,7 @@ link_3 = "https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici
 download(link_3, dest="comuni_data.zip", mode="wb") 
 unzip ("comuni_data.zip", exdir = "Input")
 
-comuni_data = as.data.frame(fread("Input/Elenco-codici-statistici-e-denominazioni-delle-unit.-territoriali/Codici-statistici-e-denominazioni-al-22_01_2024.csv"))
+comuni_data = as.data.frame(fread("Input/Elenco-codici-statistici-e-denominazioni-delle-unit…-territoriali/Codici-statistici-e-denominazioni-al-22_01_2024.csv"))
 
 
 
@@ -138,7 +138,7 @@ ggplot(data, aes(x=perc, y=ripartizione_geografica, group=ripartizione_geografic
   geom_col(show.legend = F)+
   geom_text(data, mapping=aes(x=perc-.5, y=ripartizione_geografica, group=ripartizione_geografica, label = paste0(round(perc, 1), "%")),
              size=14, hjust=1, colour="white", family="Source Sans Pro")+
-  scale_fill_manual(values =c("Capoluoghi Regione"="#EC1B4B", "Capoluoghi Provincia"="#2E9598", "Altri comuni "="#565679" ))+
+  scale_fill_manual(values =c("Capoluoghi Regione"="#F12938", "Capoluoghi Provincia"="#0478EA", "Altri comuni "="#565679" ))+
   #scale_x_continuous(limits=c(0,18), breaks=seq(0, 18, by=2), labels = function(x) paste0(x, "%"), expand = c(0.01, 0))+
   scale_y_discrete(labels = function(x) str_wrap(x, width = 5)) +
   labs(x = NULL,
