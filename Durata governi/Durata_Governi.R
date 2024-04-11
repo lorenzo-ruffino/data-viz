@@ -10,7 +10,6 @@ tables = wikipage  %>%
   html_nodes("table")  %>%
   html_table(na.strings = "_")
 
-
 data = tables[[1]]%>%
   clean_names()%>%
   select(giorni_effettivi_2, governo)%>%
@@ -20,14 +19,11 @@ data = tables[[1]]%>%
   arrange(desc(giorni))%>%
   slice(1:30)
 
-
 data$governo <- reorder(data$governo, data$giorni)
 
 
-
-#font_add_google("Source Sans Pro")
-#showtext_auto()
-
+font_add_google("Source Sans Pro")
+showtext_auto()
 
 theme_barchart <- function(...) {
   theme_minimal() +
