@@ -49,7 +49,7 @@ ggplot(data, aes(x = "", y=valore, fill=tipologia)) +
   scale_fill_manual(values =c("Dimessi"="#F12938", "Non dimessi"="#0478EA" ))+
   coord_polar(theta = "y", direction = -1) +
   annotate("text",
-           label = "Il 18%\ndegli eurodeputati\nsi è dimesso\nper un'altro incarico",
+           label = "Il 18%\ndegli eurodeputati\nsi Ã¨ dimesso\nper un altro incarico",
            family = "Source Sans Pro",
            #fontface = "bold",
            color = "#F12938",
