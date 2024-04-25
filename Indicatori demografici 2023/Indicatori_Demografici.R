@@ -6,9 +6,6 @@ library(svglite)
 library(scales)
 
 
-setwd("C:/Users/loren_afkjpxa/OneDrive/Documenti/DataViz_Personali/2024_04_02_Indicatori_Demografici")
-
-
 province = read_sf("C:/Users/loren_afkjpxa/Downloads/province.json")
 regioni = read_sf("C:/Users/loren_afkjpxa/OneDrive/Documenti/DataVIz_YouTrend/2022_11_21_Aborto/Dati/regioni.json")
 
@@ -79,7 +76,7 @@ ggplot()  +
     guide_colourbar( label.position = "left", direction = "vertical", barheight = 100, barwidth = 40, frame.colour = "black", ticks.colour = "black"))+
   labs(x = NULL, 
        y = NULL, 
-       title = "Com'è cambiata la popolazione nel 2023", 
+       title = "Com'Ã¨ cambiata la popolazione nel 2023", 
        subtitle = "Variazione della popolazione ogni 1.000 abitanti nel corso del 2023", 
        caption =  "Elaborazione di Lorenzo Ruffino | Fonte dati: Istat")
 dev.off()
