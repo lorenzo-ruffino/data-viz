@@ -5,7 +5,6 @@ library(scales)
 library(ggtext)
 library(showtext)
 
-
 province = read_sf("Input/province.json")
 regioni = read_sf("Input/regioni.json")
 dati = read_excel("Input/Tavole_indicatori_demografici.xlsx", sheet = "Foglio1")%>%
