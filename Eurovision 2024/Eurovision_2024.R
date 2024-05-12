@@ -7,6 +7,8 @@ library(showtext)
 font_add_google("Source Sans Pro")
 showtext_auto()
 
+#Source: https://eurovision.tv/event/malmo-2024/grand-final/results/
+
 data <- data.frame(
   country = c("Rest of the World", "Australia", "Belgium", "Finland", "France", "Germany", "Italy", "Luxembourg", "Netherlands", "Portugal", "San Marino", "Spain", "Sweden", "Switzerland", "UK",
               "Albania", "Austria", "Cyprus", "Czech Republic", "Ireland", "Moldova", "Slovenia",
@@ -28,9 +30,9 @@ data <- data.frame(
 
 data_long <- data %>%
   mutate(category = case_when(
-    points == 12 ~ "Più votato",
-    points == 10 ~ "Secondo più votato",
-    points == 8 ~ "Terzo più votato",
+    points == 12 ~ "PiÃ¹ votato",
+    points == 10 ~ "Secondo piÃ¹ votato",
+    points == 8 ~ "Terzo piÃ¹ votato",
     TRUE ~ "Altre posizioni"
   )) %>%
   select(country, category)
@@ -47,7 +49,7 @@ europe_map <- europe_map %>%
 map_data <- left_join(europe_map, data_long, by = c("region" = "country"))
 
 
-map_data$category <- factor(map_data$category, levels=c("Più votato", "Secondo più votato", "Terzo più votato", "Altre posizioni"))
+map_data$category <- factor(map_data$category, levels=c("PiÃ¹ votato", "Secondo piÃ¹ votato", "Terzo piÃ¹ votato", "Altre posizioni"))
 
 
 theme_map <- function(...) {
@@ -89,7 +91,7 @@ ggplot() +
   geom_map(data = map_data, map = map_data,
            aes(long, lat, map_id = region, fill = category),
            color = "black", size = 0.1) +
-  scale_fill_manual(values = c("Più votato" = "#0044A6", "Secondo più votato" = "#0175C8", "Terzo più votato" = "#29ABCB", "Altre posizioni" = "#FB77C6"),
+  scale_fill_manual(values = c("PiÃ¹ votato" = "#0044A6", "Secondo piÃ¹ votato" = "#0175C8", "Terzo piÃ¹ votato" = "#29ABCB", "Altre posizioni" = "#FB77C6"),
                     na.value = "lightgray") +
   labs(title = "Mappa dell'Europa",
        fill = "Posizione") +
