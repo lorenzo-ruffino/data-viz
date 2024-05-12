@@ -93,8 +93,6 @@ ggplot() +
            color = "black", size = 0.1) +
   scale_fill_manual(values = c("Più votato" = "#0044A6", "Secondo più votato" = "#0175C8", "Terzo più votato" = "#29ABCB", "Altre posizioni" = "#FB77C6"),
                     na.value = "lightgray") +
-  labs(title = "Mappa dell'Europa",
-       fill = "Posizione") +
   labs(x = NULL, 
        y = NULL, 
        title = "Il televoto a Israele all'Eurovision", 
