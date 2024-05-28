@@ -26,7 +26,7 @@ data$eta <- factor(data$eta, levels =c(">65", "60 - 64", "55 - 59", "50 - 54", "
                                        "40 - 44", "35 - 39", "30 - 34", "25 - 29", "20 - 24", "<19"),
                    ordered = TRUE)
 
-#font_add_google("Source Sans Pro")
+font_add_google("Source Sans Pro")
 showtext_auto()
 
 theme_barchart <- function(...) {
@@ -82,7 +82,7 @@ ggplot(data, aes(x = eta, color = categoria)) +
   scale_y_continuous(expand = c(0, 0))+
   labs(x = NULL,
        y = NULL,
-       title = "L'età dei dipendenti pubblici e privati",
+       title = "L'etÃ  dei dipendenti pubblici e privati",
        subtitle = "Dipendenti <span style='color:#0478EA;'><b>privati</b></span> e <span style='color:#F12938;'><b>pubblici</b></span> per fascia anagrafica nel 2022",
        caption = paste("Elaborazione di Lorenzo Ruffino | Fonte dati: INPS")) +
   theme_barchart()
