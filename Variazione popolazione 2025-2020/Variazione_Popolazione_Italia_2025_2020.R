@@ -13,6 +13,7 @@ library(readxl)
 # POSAS_2025_it_Comuni.csv: https://demo.istat.it/data/posas/POSAS_2025_it_Comuni.zip
 # POSAS_2020_it_Comuni.csv: https://demo.istat.it/data/posas/POSAS_2020_it_Comuni.zip
 # Elenco comuni soppressi.csv: https://www.istat.it/wp-content/uploads/2024/09/Elenco-comuni-soppressi.zip
+# Aree interne: https://www.istat.it/wp-content/uploads/2022/07/20220715_Elenco_Comuni_Classi_di_Aree_Interne.xlsx
 
 
 comuni_2025 = as.data.frame(fread("Input/POSAS_2025_it_Comuni.csv"))%>%
