@@ -17,7 +17,7 @@ latest <- data.frame(
   GSPC.Low = NA, 
   GSPC.Close = NA,
   GSPC.Volume = NA,
-  GSPC.Adjusted = 5062
+  GSPC.Adjusted = 4982
 )
 
 sp500_df <- rbind(sp500_df, latest)
@@ -63,7 +63,7 @@ for (i in 1:nrow(presidents)) {
   all_returns <- rbind(all_returns, president_returns)
 }
 
-ccustom_colors <- c(
+custom_colors <- c(
   "Eisenhower" = "#95B8D1",   
   "Kennedy" = "#B8E0D2",      
   "Nixon" = "#D6BCFA",         
@@ -114,7 +114,7 @@ theme_linechart <- function(...) {
 png("Rendimento_S&P500_Presidenti_Cento_Giorni.png", width = 9.5, height = 10, units="in", res=300)
 ggplot(all_returns, aes(x = calendar_day, y = return_cumulative, color = president)) +
   geom_line(aes(size = president == "Trump (2025)")) +
-  scale_size_manual(values = c("FALSE" = 0.3, "TRUE" = 1)) +
+  scale_size_manual(values = c("FALSE" = 0.4, "TRUE" = 1)) +
   geom_text_repel(
     data = all_returns %>% 
       group_by(president) %>% 
@@ -150,7 +150,7 @@ dev.off()
 
 summary_table <- all_returns %>%
   group_by(president) %>%
-  filter(calendar_day ==76) %>%
+  filter(calendar_day ==77) %>%
   select(president, return_cumulative) %>%
   arrange(desc(return_cumulative))
 
