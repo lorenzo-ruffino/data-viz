@@ -122,7 +122,7 @@ ggplot(data, aes(x=valore, y=categoria, group=tipologia, fill=tipologia)) +
   geom_blank(data, mapping=aes(x=massimo, y=categoria, group=tipologia, fill=tipologia)) + 
   labs(x = NULL,
        y = NULL,
-       title = "Quante tasse sul reddito di pagano",
+       title = "Quante tasse sul reddito si pagano",
        subtitle = "Dichiarazione dei redditi del 2024 sul 2023 per fascia di reddito imponibile", 
        caption = paste("Elaborazione di Lorenzo Ruffino | Fonte dati: Ministero dell'Economia"))
 dev.off()
