@@ -1,0 +1,381 @@
+"","partenza","arrivo","value"
+"1","Abruzzo","Basilicata",1053
+"2","Abruzzo","Calabria",2118
+"3","Abruzzo","Campania",13574
+"4","Abruzzo","Emilia-Romagna",21627
+"5","Abruzzo","Friuli-Venezia Giulia",2663
+"6","Abruzzo","Lazio",47593
+"7","Abruzzo","Liguria",2442
+"8","Abruzzo","Lombardia",25259
+"9","Abruzzo","Marche",20346
+"10","Abruzzo","Molise",5714
+"11","Abruzzo","Piemonte",8295
+"12","Abruzzo","Puglia",11294
+"13","Abruzzo","Sardegna",1792
+"14","Abruzzo","Sicilia",4287
+"15","Abruzzo","Toscana",8822
+"16","Abruzzo","Trentino-Alto Adige",2769
+"17","Abruzzo","Umbria",3424
+"18","Abruzzo","Valle d'Aosta",286
+"19","Abruzzo","Veneto",9821
+"20","Basilicata","Abruzzo",2316
+"21","Basilicata","Calabria",4794
+"22","Basilicata","Campania",11425
+"23","Basilicata","Emilia-Romagna",16364
+"24","Basilicata","Friuli-Venezia Giulia",1500
+"25","Basilicata","Lazio",14703
+"26","Basilicata","Liguria",1505
+"27","Basilicata","Lombardia",19045
+"28","Basilicata","Marche",2203
+"29","Basilicata","Molise",488
+"30","Basilicata","Piemonte",7796
+"31","Basilicata","Puglia",15200
+"32","Basilicata","Sardegna",494
+"33","Basilicata","Sicilia",1669
+"34","Basilicata","Toscana",8746
+"35","Basilicata","Trentino-Alto Adige",1138
+"36","Basilicata","Umbria",1694
+"37","Basilicata","Valle d'Aosta",170
+"38","Basilicata","Veneto",4796
+"39","Calabria","Abruzzo",3716
+"40","Calabria","Basilicata",5003
+"41","Calabria","Campania",20778
+"42","Calabria","Emilia-Romagna",54122
+"43","Calabria","Friuli-Venezia Giulia",5870
+"44","Calabria","Lazio",59283
+"45","Calabria","Liguria",10388
+"46","Calabria","Lombardia",107927
+"47","Calabria","Marche",5490
+"48","Calabria","Molise",933
+"49","Calabria","Piemonte",40480
+"50","Calabria","Puglia",12931
+"51","Calabria","Sardegna",2422
+"52","Calabria","Sicilia",19809
+"53","Calabria","Toscana",29268
+"54","Calabria","Trentino-Alto Adige",5566
+"55","Calabria","Umbria",6535
+"56","Calabria","Valle d'Aosta",2400
+"57","Calabria","Veneto",23074
+"58","Campania","Abruzzo",26353
+"59","Campania","Basilicata",11708
+"60","Campania","Calabria",24255
+"61","Campania","Emilia-Romagna",146979
+"62","Campania","Friuli-Venezia Giulia",26152
+"63","Campania","Lazio",170763
+"64","Campania","Liguria",20508
+"65","Campania","Lombardia",180040
+"66","Campania","Marche",30313
+"67","Campania","Molise",15815
+"68","Campania","Piemonte",54852
+"69","Campania","Puglia",27724
+"70","Campania","Sardegna",9735
+"71","Campania","Sicilia",21037
+"72","Campania","Toscana",95797
+"73","Campania","Trentino-Alto Adige",14631
+"74","Campania","Umbria",21522
+"75","Campania","Valle d'Aosta",1586
+"76","Campania","Veneto",59175
+"77","Emilia-Romagna","Abruzzo",12120
+"78","Emilia-Romagna","Basilicata",5573
+"79","Emilia-Romagna","Calabria",23000
+"80","Emilia-Romagna","Campania",65415
+"81","Emilia-Romagna","Friuli-Venezia Giulia",9170
+"82","Emilia-Romagna","Lazio",34533
+"83","Emilia-Romagna","Liguria",15957
+"84","Emilia-Romagna","Lombardia",128800
+"85","Emilia-Romagna","Marche",33577
+"86","Emilia-Romagna","Molise",2878
+"87","Emilia-Romagna","Piemonte",26459
+"88","Emilia-Romagna","Puglia",47385
+"89","Emilia-Romagna","Sardegna",13757
+"90","Emilia-Romagna","Sicilia",47778
+"91","Emilia-Romagna","Toscana",41324
+"92","Emilia-Romagna","Trentino-Alto Adige",11555
+"93","Emilia-Romagna","Umbria",6797
+"94","Emilia-Romagna","Valle d'Aosta",1030
+"95","Emilia-Romagna","Veneto",57097
+"96","Friuli-Venezia Giulia","Abruzzo",1809
+"97","Friuli-Venezia Giulia","Basilicata",585
+"98","Friuli-Venezia Giulia","Calabria",2397
+"99","Friuli-Venezia Giulia","Campania",11308
+"100","Friuli-Venezia Giulia","Emilia-Romagna",9885
+"101","Friuli-Venezia Giulia","Lazio",10960
+"102","Friuli-Venezia Giulia","Liguria",2877
+"103","Friuli-Venezia Giulia","Lombardia",18308
+"104","Friuli-Venezia Giulia","Marche",2547
+"105","Friuli-Venezia Giulia","Molise",332
+"106","Friuli-Venezia Giulia","Piemonte",5766
+"107","Friuli-Venezia Giulia","Puglia",7786
+"108","Friuli-Venezia Giulia","Sardegna",2784
+"109","Friuli-Venezia Giulia","Sicilia",10309
+"110","Friuli-Venezia Giulia","Toscana",5771
+"111","Friuli-Venezia Giulia","Trentino-Alto Adige",3752
+"112","Friuli-Venezia Giulia","Umbria",1338
+"113","Friuli-Venezia Giulia","Valle d'Aosta",222
+"114","Friuli-Venezia Giulia","Veneto",49879
+"115","Lazio","Abruzzo",48302
+"116","Lazio","Basilicata",5681
+"117","Lazio","Calabria",26178
+"118","Lazio","Campania",82816
+"119","Lazio","Emilia-Romagna",50637
+"120","Lazio","Friuli-Venezia Giulia",16035
+"121","Lazio","Liguria",14477
+"122","Lazio","Lombardia",100933
+"123","Lazio","Marche",27104
+"124","Lazio","Molise",8173
+"125","Lazio","Piemonte",33441
+"126","Lazio","Puglia",35619
+"127","Lazio","Sardegna",24044
+"128","Lazio","Sicilia",35782
+"129","Lazio","Toscana",65798
+"130","Lazio","Trentino-Alto Adige",12845
+"131","Lazio","Umbria",46898
+"132","Lazio","Valle d'Aosta",1393
+"133","Lazio","Veneto",43809
+"134","Liguria","Abruzzo",2046
+"135","Liguria","Basilicata",917
+"136","Liguria","Calabria",6282
+"137","Liguria","Campania",9663
+"138","Liguria","Emilia-Romagna",17293
+"139","Liguria","Friuli-Venezia Giulia",3122
+"140","Liguria","Lazio",13154
+"141","Liguria","Lombardia",55333
+"142","Liguria","Marche",2741
+"143","Liguria","Molise",395
+"144","Liguria","Piemonte",73003
+"145","Liguria","Puglia",6944
+"146","Liguria","Sardegna",8120
+"147","Liguria","Sicilia",13603
+"148","Liguria","Toscana",36487
+"149","Liguria","Trentino-Alto Adige",2898
+"150","Liguria","Umbria",1719
+"151","Liguria","Valle d'Aosta",1814
+"152","Liguria","Veneto",8602
+"153","Lombardia","Abruzzo",18226
+"154","Lombardia","Basilicata",7800
+"155","Lombardia","Calabria",54581
+"156","Lombardia","Campania",77734
+"157","Lombardia","Emilia-Romagna",141435
+"158","Lombardia","Friuli-Venezia Giulia",18742
+"159","Lombardia","Lazio",70934
+"160","Lombardia","Liguria",64824
+"161","Lombardia","Marche",26064
+"162","Lombardia","Molise",3521
+"163","Lombardia","Piemonte",151817
+"164","Lombardia","Puglia",70003
+"165","Lombardia","Sardegna",36615
+"166","Lombardia","Sicilia",101545
+"167","Lombardia","Toscana",66281
+"168","Lombardia","Trentino-Alto Adige",24850
+"169","Lombardia","Umbria",10093
+"170","Lombardia","Valle d'Aosta",4630
+"171","Lombardia","Veneto",98393
+"172","Marche","Abruzzo",17348
+"173","Marche","Basilicata",952
+"174","Marche","Calabria",2636
+"175","Marche","Campania",15226
+"176","Marche","Emilia-Romagna",40636
+"177","Marche","Friuli-Venezia Giulia",2890
+"178","Marche","Lazio",20784
+"179","Marche","Liguria",3046
+"180","Marche","Lombardia",26011
+"181","Marche","Molise",1035
+"182","Marche","Piemonte",7622
+"183","Marche","Puglia",13930
+"184","Marche","Sardegna",2334
+"185","Marche","Sicilia",8290
+"186","Marche","Toscana",10631
+"187","Marche","Trentino-Alto Adige",3033
+"188","Marche","Umbria",7897
+"189","Marche","Valle d'Aosta",284
+"190","Marche","Veneto",11100
+"191","Molise","Abruzzo",10815
+"192","Molise","Basilicata",397
+"193","Molise","Calabria",835
+"194","Molise","Campania",10192
+"195","Molise","Emilia-Romagna",7613
+"196","Molise","Friuli-Venezia Giulia",712
+"197","Molise","Lazio",11829
+"198","Molise","Liguria",608
+"199","Molise","Lombardia",6733
+"200","Molise","Marche",2111
+"201","Molise","Piemonte",2541
+"202","Molise","Puglia",5201
+"203","Molise","Sardegna",430
+"204","Molise","Sicilia",948
+"205","Molise","Toscana",2711
+"206","Molise","Trentino-Alto Adige",741
+"207","Molise","Umbria",879
+"208","Molise","Valle d'Aosta",83
+"209","Molise","Veneto",2276
+"210","Piemonte","Abruzzo",7345
+"211","Piemonte","Basilicata",4002
+"212","Piemonte","Calabria",25528
+"213","Piemonte","Campania",29807
+"214","Piemonte","Emilia-Romagna",36077
+"215","Piemonte","Friuli-Venezia Giulia",6949
+"216","Piemonte","Lazio",29220
+"217","Piemonte","Liguria",76464
+"218","Piemonte","Lombardia",146719
+"219","Piemonte","Marche",9166
+"220","Piemonte","Molise",1791
+"221","Piemonte","Puglia",26468
+"222","Piemonte","Sardegna",20235
+"223","Piemonte","Sicilia",44782
+"224","Piemonte","Toscana",26865
+"225","Piemonte","Trentino-Alto Adige",5829
+"226","Piemonte","Umbria",4283
+"227","Piemonte","Valle d'Aosta",10700
+"228","Piemonte","Veneto",25208
+"229","Puglia","Abruzzo",20818
+"230","Puglia","Basilicata",13285
+"231","Puglia","Calabria",9357
+"232","Puglia","Campania",23575
+"233","Puglia","Emilia-Romagna",103033
+"234","Puglia","Friuli-Venezia Giulia",15434
+"235","Puglia","Lazio",63737
+"236","Puglia","Liguria",10938
+"237","Puglia","Lombardia",128827
+"238","Puglia","Marche",24667
+"239","Puglia","Molise",7791
+"240","Puglia","Piemonte",41256
+"241","Puglia","Sardegna",4519
+"242","Puglia","Sicilia",13320
+"243","Puglia","Toscana",31040
+"244","Puglia","Trentino-Alto Adige",11305
+"245","Puglia","Umbria",6700
+"246","Puglia","Valle d'Aosta",936
+"247","Puglia","Veneto",43033
+"248","Sardegna","Abruzzo",1903
+"249","Sardegna","Basilicata",437
+"250","Sardegna","Calabria",1904
+"251","Sardegna","Campania",6654
+"252","Sardegna","Emilia-Romagna",19148
+"253","Sardegna","Friuli-Venezia Giulia",3730
+"254","Sardegna","Lazio",24531
+"255","Sardegna","Liguria",7924
+"256","Sardegna","Lombardia",39027
+"257","Sardegna","Marche",2956
+"258","Sardegna","Molise",361
+"259","Sardegna","Piemonte",19008
+"260","Sardegna","Puglia",4005
+"261","Sardegna","Sicilia",6302
+"262","Sardegna","Toscana",15581
+"263","Sardegna","Trentino-Alto Adige",3774
+"264","Sardegna","Umbria",2318
+"265","Sardegna","Valle d'Aosta",1122
+"266","Sardegna","Veneto",13087
+"267","Sicilia","Abruzzo",5947
+"268","Sicilia","Basilicata",1847
+"269","Sicilia","Calabria",18245
+"270","Sicilia","Campania",19769
+"271","Sicilia","Emilia-Romagna",93906
+"272","Sicilia","Friuli-Venezia Giulia",21243
+"273","Sicilia","Lazio",64209
+"274","Sicilia","Liguria",21287
+"275","Sicilia","Lombardia",191050
+"276","Sicilia","Marche",13099
+"277","Sicilia","Molise",1090
+"278","Sicilia","Piemonte",71858
+"279","Sicilia","Puglia",16033
+"280","Sicilia","Sardegna",7254
+"281","Sicilia","Toscana",53714
+"282","Sicilia","Trentino-Alto Adige",12732
+"283","Sicilia","Umbria",7059
+"284","Sicilia","Valle d'Aosta",1725
+"285","Sicilia","Veneto",62245
+"286","Toscana","Abruzzo",6092
+"287","Toscana","Basilicata",3321
+"288","Toscana","Calabria",12497
+"289","Toscana","Campania",44625
+"290","Toscana","Emilia-Romagna",49447
+"291","Toscana","Friuli-Venezia Giulia",6434
+"292","Toscana","Lazio",53297
+"293","Toscana","Liguria",35554
+"294","Toscana","Lombardia",63655
+"295","Toscana","Marche",9346
+"296","Toscana","Molise",1331
+"297","Toscana","Piemonte",22869
+"298","Toscana","Puglia",16397
+"299","Toscana","Sardegna",11998
+"300","Toscana","Sicilia",31682
+"301","Toscana","Trentino-Alto Adige",6167
+"302","Toscana","Umbria",20649
+"303","Toscana","Valle d'Aosta",864
+"304","Toscana","Veneto",23557
+"305","Trentino-Alto Adige","Abruzzo",1418
+"306","Trentino-Alto Adige","Basilicata",457
+"307","Trentino-Alto Adige","Calabria",2408
+"308","Trentino-Alto Adige","Campania",5383
+"309","Trentino-Alto Adige","Emilia-Romagna",9653
+"310","Trentino-Alto Adige","Friuli-Venezia Giulia",3514
+"311","Trentino-Alto Adige","Lazio",6741
+"312","Trentino-Alto Adige","Liguria",1918
+"313","Trentino-Alto Adige","Lombardia",18377
+"314","Trentino-Alto Adige","Marche",2206
+"315","Trentino-Alto Adige","Molise",327
+"316","Trentino-Alto Adige","Piemonte",4046
+"317","Trentino-Alto Adige","Puglia",5236
+"318","Trentino-Alto Adige","Sardegna",2368
+"319","Trentino-Alto Adige","Sicilia",5756
+"320","Trentino-Alto Adige","Toscana",4880
+"321","Trentino-Alto Adige","Umbria",1091
+"322","Trentino-Alto Adige","Valle d'Aosta",160
+"323","Trentino-Alto Adige","Veneto",24582
+"324","Umbria","Abruzzo",3426
+"325","Umbria","Basilicata",671
+"326","Umbria","Calabria",3203
+"327","Umbria","Campania",11840
+"328","Umbria","Emilia-Romagna",11261
+"329","Umbria","Friuli-Venezia Giulia",1723
+"330","Umbria","Lazio",34190
+"331","Umbria","Liguria",2083
+"332","Umbria","Lombardia",13689
+"333","Umbria","Marche",8928
+"334","Umbria","Molise",473
+"335","Umbria","Piemonte",4992
+"336","Umbria","Puglia",3964
+"337","Umbria","Sardegna",1938
+"338","Umbria","Sicilia",4420
+"339","Umbria","Toscana",20208
+"340","Umbria","Trentino-Alto Adige",1767
+"341","Umbria","Valle d'Aosta",221
+"342","Umbria","Veneto",5802
+"343","Valle d'Aosta","Abruzzo",309
+"344","Valle d'Aosta","Basilicata",143
+"345","Valle d'Aosta","Calabria",1794
+"346","Valle d'Aosta","Campania",864
+"347","Valle d'Aosta","Emilia-Romagna",2269
+"348","Valle d'Aosta","Friuli-Venezia Giulia",433
+"349","Valle d'Aosta","Lazio",1148
+"350","Valle d'Aosta","Liguria",1584
+"351","Valle d'Aosta","Lombardia",3769
+"352","Valle d'Aosta","Marche",388
+"353","Valle d'Aosta","Molise",61
+"354","Valle d'Aosta","Piemonte",10140
+"355","Valle d'Aosta","Puglia",803
+"356","Valle d'Aosta","Sardegna",1036
+"357","Valle d'Aosta","Sicilia",1191
+"358","Valle d'Aosta","Toscana",1078
+"359","Valle d'Aosta","Trentino-Alto Adige",248
+"360","Valle d'Aosta","Umbria",154
+"361","Valle d'Aosta","Veneto",955
+"362","Veneto","Abruzzo",5960
+"363","Veneto","Basilicata",1828
+"364","Veneto","Calabria",10558
+"365","Veneto","Campania",26331
+"366","Veneto","Emilia-Romagna",61209
+"367","Veneto","Friuli-Venezia Giulia",56309
+"368","Veneto","Lazio",29915
+"369","Veneto","Liguria",8328
+"370","Veneto","Lombardia",103367
+"371","Veneto","Marche",9095
+"372","Veneto","Molise",1066
+"373","Veneto","Piemonte",21140
+"374","Veneto","Puglia",23219
+"375","Veneto","Sardegna",10381
+"376","Veneto","Sicilia",30598
+"377","Veneto","Toscana",25425
+"378","Veneto","Trentino-Alto Adige",28770
+"379","Veneto","Umbria",4166
+"380","Veneto","Valle d'Aosta",746
