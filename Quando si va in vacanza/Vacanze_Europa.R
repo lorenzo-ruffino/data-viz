@@ -218,11 +218,12 @@ heatmap_data <- data %>%
 
 
 data_wide = heatmap_data %>%
-  select(-geo)%>%
+  select(-geo, -date)%>%
+  mutate(mean_pct_holiday = round(mean_pct_holiday, 1))%>%
   spread(country_name, mean_pct_holiday)
 
 
-write.csv(data_wide, file="occupati_ferie_per_settimana.csv", row.names = F)
+write.csv(data_wide, file="stima_lavoratori_in_ferie_per_settimana.csv", row.names = F)
 
 
 
