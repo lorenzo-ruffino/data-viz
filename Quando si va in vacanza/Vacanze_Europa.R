@@ -218,7 +218,7 @@ heatmap_data <- data %>%
 
 
 data_wide = heatmap_data %>%
-  select(-geo, -date)%>%
+  select(-geo)%>%
   mutate(mean_pct_holiday = round(mean_pct_holiday, 1))%>%
   spread(country_name, mean_pct_holiday)
 
