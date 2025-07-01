@@ -234,6 +234,7 @@ ggplot(heatmap_data, aes(x = date, y = country_name, fill = mean_pct_holiday)) +
                        limits = c(0, 50),
                        breaks = seq(0, 50, by = 5),
                        labels = function(x) paste0(x, "%"),
+                       na.value = "#440154",
                        option = "viridis") +
   scale_x_date(date_breaks = "1 month", 
                date_labels = "%b", 
