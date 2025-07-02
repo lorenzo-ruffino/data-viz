@@ -74,7 +74,7 @@ data = left_join(weekly_absences, quaterly_reasons_extended, by = c('geo', 'quar
     date = lubridate::ymd("2024-12-30") + weeks(week_number - 1)
   )%>%
   # Togliamo alcuni paesi con diversi dati mancanti
-  filter(!geo %in% c("UK", "BG", "EE", "LU", "ME", "MK", "MT"))
+  filter(!geo %in% c("UK", "BG", "EE", "LU", "ME", "MK", "MT", "TR", "RO"))
 
 data_wide = data %>%
   spread(geo, mean_pct_holiday)
@@ -136,9 +136,9 @@ ggplot(data, aes(x = date, y = mean_pct_holiday)) +
   scale_y_continuous(labels = function(x) paste0(x, "%"), expand = c(0, 0)) +
   theme_linechart()+
   labs(x = NULL, 
-       y = "% lavoratori in ferie", 
+       y = NULL, 
        title = "Quando si va in vacanza",
-       subtitle = "Stima della ercentuale di occupati in ferie in <span style='color:#F12938;'>Italia</span>, <span style='color:#0478EA;'>Unione Europa</span> e <span style='color:grey40;'>singoli Stati</span>",
+       subtitle = "Stima della percentuale di occupati in ferie in <span style='color:#F12938;'>Italia</span>, <span style='color:#0478EA;'>Unione Europa</span> e <span style='color:grey40;'>singoli Stati</span>",
        caption = "Elaborazione di Lorenzo Ruffino su dati Eurostat")
 dev.off()
 
@@ -218,7 +218,7 @@ heatmap_data <- data %>%
 
 
 data_wide = heatmap_data %>%
-  select(-geo)%>%
+  select(-geo, -date)%>%
   mutate(mean_pct_holiday = round(mean_pct_holiday, 1))%>%
   spread(country_name, mean_pct_holiday)
 
@@ -231,16 +231,19 @@ png("Vacanze_Europa.png", width = 10, height = 10, units="in", res=300)
 ggplot(heatmap_data, aes(x = date, y = country_name, fill = mean_pct_holiday)) +
   geom_tile(color = "white", size = 0.1) +
   scale_fill_viridis_b(name = "% in ferie", 
-                       limits = c(0, 50),
-                       breaks = seq(0, 50, by = 5),
-                       labels = function(x) paste0(x, "%"),
+                       limits = c(0, 45),
+                       breaks = seq(0, 50, by = 2.5),
+                       labels = function(x) ifelse(x %% 5 == 0, paste0(x, "%"), ""),
                        na.value = "#440154",
                        option = "viridis") +
   scale_x_date(date_breaks = "1 month", 
                date_labels = "%b", 
+               limits = c(as.Date("2024-12-30"), as.Date("2025-12-29")),
                expand = c(0, 0)) +
   scale_y_discrete(expand = c(0, 0)) +
-  theme_linechart() +
+  theme_linechart()  +
+  theme(
+    axis.line = element_line(linewidth = 0))+
   labs(
     x = NULL,
     y = NULL,
