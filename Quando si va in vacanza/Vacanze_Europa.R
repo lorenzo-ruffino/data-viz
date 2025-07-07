@@ -138,7 +138,7 @@ ggplot(data, aes(x = date, y = mean_pct_holiday)) +
   labs(x = NULL, 
        y = NULL, 
        title = "Quando si va in vacanza",
-       subtitle = "Stima della percentuale di occupati in ferie in <span style='color:#F12938;'>Italia</span>, <span style='color:#0478EA;'>Unione Europa</span> e <span style='color:grey40;'>singoli Stati</span>",
+       subtitle = "Stima della percentuale di lavoratori in ferie in <span style='color:#F12938;'>Italia</span>, <span style='color:#0478EA;'>Unione Europa</span> e <span style='color:grey40;'>singoli Stati</span>",
        caption = "Elaborazione di Lorenzo Ruffino su dati Eurostat")
 dev.off()
 
