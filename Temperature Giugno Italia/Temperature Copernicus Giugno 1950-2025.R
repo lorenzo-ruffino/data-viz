@@ -135,7 +135,7 @@ df_labeled %>%
   group_by(periodo) %>%
   summarise(temperatura_media = mean(t2m, na.rm = TRUE)) %>%
   pivot_wider(names_from = periodo, values_from = temperatura_media) %>%
-  mutate(aumento = `2025` - `1961-1990`) 
+  mutate(aumento = `2025` - `1991-2020`) 
 
 
 italy_average_daily =  df_labeled %>%
@@ -156,13 +156,13 @@ write.csv(italy_average_daily, file="Output/italy_average_daily.csv", row.names 
 
 region_average = df_labeled %>%
   filter(year >= 1991 & year <= 2020 | year == 2025) %>%
-  mutate(periodo = ifelse(year == 2025, "2025", "1961-1990")) %>%
+  mutate(periodo = ifelse(year == 2025, "2025", "1991-2020")) %>%
   group_by(region, periodo) %>%
   summarise(temperatura_media = mean(t2m, na.rm = TRUE)) %>%
   pivot_wider(names_from = periodo, values_from = temperatura_media) %>%
-  mutate(aumento = `2025` - `1961-1990`,
-         var_pct = (`2025`/  `1961-1990`)-1) %>%
-  select(baseline = `1961-1990`, temp_2025 = `2025`, aumento, var_pct)
+  mutate(aumento = `2025` - `1991-2020`,
+         var_pct = (`2025`/  `1991-2020`)-1) %>%
+  select(baseline = `1991-2020`, temp_2025 = `2025`, aumento, var_pct)
 
 
 write.csv(region_average, file="Output/region_average.csv", row.names = F)
@@ -180,13 +180,13 @@ macro_region_average = df_labeled %>%
     )
   )%>%
   filter(year >= 1991 & year <= 2020 | year == 2025) %>%
-  mutate(periodo = ifelse(year == 2025, "2025", "1961-1990")) %>%
+  mutate(periodo = ifelse(year == 2025, "2025", "1991-2020")) %>%
   group_by(macro_area, periodo) %>%
   summarise(temperatura_media = mean(t2m, na.rm = TRUE)) %>%
   pivot_wider(names_from = periodo, values_from = temperatura_media) %>%
-  mutate(aumento = `2025` - `1961-1990`,
-         var_pct = (`2025`/  `1961-1990`)-1) %>%
-  select(macro_area, baseline = `1961-1990`, temp_2025 = `2025`, aumento, var_pct)
+  mutate(aumento = `2025` - `1991-2020`,
+         var_pct = (`2025`/  `1991-2020`)-1) %>%
+  select(macro_area, baseline = `1991-2020`, temp_2025 = `2025`, aumento, var_pct)
 
 
 
@@ -222,27 +222,15 @@ st_write(grid_sf, output_path, driver = "GeoJSON")
 
 griglia_average = df_labeled %>%
   filter(year >= 1991 & year <= 2020 | year == 2025) %>%
-  mutate(periodo = ifelse(year == 2025, "2025", "1961-1990")) %>%
+  mutate(periodo = ifelse(year == 2025, "2025", "1991-2020")) %>%
   group_by(lon, lat, region, periodo) %>%
   summarise(temperatura_media = mean(t2m, na.rm = TRUE)) %>%
   pivot_wider(names_from = periodo, values_from = temperatura_media) %>%
-  mutate(aumento = `2025` - `1961-1990`,
-         var_pct = (`2025`/  `1961-1990`)-1) %>%
+  mutate(aumento = `2025` - `1991-2020`,
+         var_pct = (`2025`/  `1991-2020`)-1) %>%
   mutate(
     tile_id = paste0(round(lon, 1), "_", round(lat, 1))
   )
 
-
-griglia_average = df_labeled %>%
-  filter(year >= 1991 & year <= 2020 | year == 2025) %>%
-  mutate(periodo = ifelse(year == 2025, "2025", "1961-1990")) %>%
-  group_by(lon, lat, periodo) %>%
-  summarise(temperatura_media = mean(t2m, na.rm = TRUE)) %>%
-  pivot_wider(names_from = periodo, values_from = temperatura_media) %>%
-  mutate(aumento = `2025` - `1961-1990`,
-         var_pct = (`2025`/  `1961-1990`)-1) %>%
-  mutate(
-    tile_id = paste0(round(lon, 1), "_", round(lat, 1))
-  )
 
 write.csv(griglia_average, file="Output/griglia_average.csv", row.names = F)
