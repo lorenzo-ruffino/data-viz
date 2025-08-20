@@ -1,6 +1,7 @@
 library(tidyverse)
 library(rvest)
 library(showtext)
+library(janitor)
 
 "https://it.wikipedia.org/wiki/Governi_italiani_per_durata" %>%
   read_html() ->
@@ -66,6 +67,6 @@ ggplot(data, aes(x=giorni, y=governo, fill=colore, label = giorni)) +
   labs(x = NULL,
        y = NULL,
        title = "La durata dei governi", 
-       subtitle = "Primi 30 governi per durata effettiva | Dato del governo Meloni aggiornato all'11 aprile 2024", 
+       subtitle = "Primi 30 governi per durata effettiva | Dato del governo Meloni aggiornato al 6 agosto 2024", 
        caption = paste("Elaborazione di Lorenzo Ruffino | Fonte dati: Wikipedia"))
 dev.off()
