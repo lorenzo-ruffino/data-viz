@@ -7,8 +7,9 @@ library(readr)
 library(showtext)
 library(ggtext)
 
-estrai_giugno <- function(anno) {
-  url <- paste0("https://www.meteo.dfg.unito.it/mese-6-", anno)
+# Funzione per estrarre dati di un mese specifico
+estrai_mese <- function(anno, mese) {
+  url <- paste0("https://www.meteo.dfg.unito.it/mese-", mese, "-", anno)
   
   pagina <- tryCatch({
     GET(url,
@@ -18,7 +19,7 @@ estrai_giugno <- function(anno) {
       content(as = "text", encoding = "ISO-8859-1") %>%
       read_html()
   }, error = function(e) {
-    message("Errore", anno, ": ", e$message)
+    message("Errore ", anno, " mese ", mese, ": ", e$message)
     return(NULL)
   })
   
@@ -26,7 +27,7 @@ estrai_giugno <- function(anno) {
   
   tabella <- pagina %>% html_element(".divTable.mese")
   if (is.na(tabella)) {
-    message("Tabella non trovata", anno)
+    message("Tabella non trovata ", anno, " mese ", mese)
     return(NULL)
   }
   
@@ -47,40 +48,51 @@ estrai_giugno <- function(anno) {
     }) %>%
     compact() %>%
     map_df(~ set_names(as.list(.x), intestazioni)) %>%
-    mutate(anno = anno, mese = 6)
+    mutate(anno = anno, mese = mese)
   
   return(dati)
 }
 
-tutti_i_giugno <- 2005:2025 %>%
-  map_df(estrai_giugno)
+# Funzione per estrarre tutti i mesi estivi di un anno
+estrai_estate <- function(anno) {
+  mesi_estivi <- c(6, 7, 8)  # Giugno, Luglio, Agosto
+  
+  risultati <- map_df(mesi_estivi, function(mese) {
+    estrai_mese(anno, mese)
+  })
+  
+  return(risultati)
+}
 
+# Estrai dati per tutti gli anni
+tutti_i_dati_estivi <- 2005:2025 %>%
+  map_df(estrai_estate)
 
-tutti_i_giugno_pulito <- tutti_i_giugno %>%
+# Pulisci i dati
+tutti_i_dati_estivi_pulito <- tutti_i_dati_estivi %>%
   mutate(
     Tmax = str_extract(`Tmax[°C]`, "^[0-9]+\\.?[0-9]*") %>% as.numeric(),
     Tmin = str_extract(`Tmin[°C]`, "^[0-9]+\\.?[0-9]*") %>% as.numeric(),
     Tmed = str_extract(`Tmed[°C]`, "^[0-9]+\\.?[0-9]*") %>% as.numeric(),
     giorno = as.numeric(giorno)
-  )%>%
-  select(anno, mese, giorno, Tmax, Tmin, Tmed)
-
-
-media_2005_2024 <- tutti_i_giugno_pulito %>%
-  filter(anno >= 2005, anno <= 2024) %>%
-  mutate(
-    giorno = as.integer(giorno),
-    Tmed = as.numeric(Tmed)
   ) %>%
-  group_by(giorno) %>%
+  select(anno, mese, giorno, Tmax, Tmin, Tmed) %>%
+  # Crea date reali
+  mutate(
+    data = as.Date(paste(anno, mese, giorno, sep = "-")),
+    # Crea una data "generica" per allineare tutti gli anni (usando 2024 come anno di riferimento)
+    data_generica = as.Date(paste(2024, mese, giorno, sep = "-"))
+  )
+
+# Calcola la media 2005-2024
+media_2005_2024 <- tutti_i_dati_estivi_pulito %>%
+  filter(anno >= 2005, anno <= 2024) %>%
+  group_by(data_generica) %>%
   summarise(Tmed = mean(Tmed, na.rm = TRUE), .groups = "drop")
 
-
 # Tema e grafico
-
 font_add_google("Source Sans Pro")
 showtext_auto()
-
 
 theme_linechart <- function(...) {
   theme_minimal() +
@@ -111,32 +123,65 @@ theme_linechart <- function(...) {
     )
 }
 
-png("Temperatura_Giugno_Torino.png", width = 9.5, height = 10, units="in", res=300)
-ggplot(tutti_i_giugno_pulito, aes(x = giorno, y = Tmed)) +
-  geom_line(data = filter(tutti_i_giugno_pulito, anno < 2025),
+png("Temperature_Estate_Torino.png", width = 12, height = 10, units="in", res=300)
+ggplot(tutti_i_dati_estivi_pulito, aes(x = data_generica, y = Tmed)) +
+  # Linee per tutti gli anni tranne 2025
+  geom_line(data = filter(tutti_i_dati_estivi_pulito, anno < 2025),
             aes(group = anno),
-            color = "grey80", alpha = 0.6) +
-  geom_line(data = filter(tutti_i_giugno_pulito, anno == 2025),
+            color = "grey80", alpha = 0.6, size = 0.3) +
+  # Media 2005-2024
+  geom_line(data = media_2005_2024,
+            aes(x = data_generica, y = Tmed),
+            color = "#0478EA", size = 1) +
+  # Anno 2025 in evidenza
+  geom_line(data = filter(tutti_i_dati_estivi_pulito, anno == 2025),
             aes(group = anno),
             color = "#F12938", size = 1.2) +
-  geom_line(data = media_2005_2024,
-            aes(x = giorno, y = Tmed),
-            color = "#0478EA", size = 1) +
-  scale_x_continuous(breaks = seq(1, 30, by = 3)) +
+  scale_x_date(
+    date_breaks = "1 week",
+    date_labels = "%d %b",
+    limits = as.Date(c("2024-06-01", "2024-08-31")),
+    expand = c(0,0)
+  ) +
   scale_y_continuous(labels = function(x) paste0(x, "°")) +
-  theme_linechart()+
-  labs(x = "Giorno del mese di giugno", 
-       y = "Temperature media", 
-       title = "Quanto caldo fa a Torino",
-       subtitle = "Temperature medie giornaliere a giugno: <span style='color:#F12938;'>2025</span>, <span style='color:#0478EA;'>media 2005–2024</span> e <span style='color:grey40;'>singoli anni</span>",
-       caption = "Elaborazione di Lorenzo Ruffino \nFonte: Osservatorio Meteorologico dell'Università di Torino, Dipartimento di Fisica")
-dev.off()
-
-
-tutti_i_giugno_pulito %>%
-  filter(giorno <= 27)%>%
-  group_by(anno < 2025)%>%
-  summarise(Tmax = mean(Tmax, na.rm=T),
-            Tmed = mean(Tmed, na.rm=T),
-            Tmin = mean(Tmin, na.rm=T))
-  
+  theme_linechart() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  labs(x = "Data", 
+       y = "Temperatura media",
+  scale_y_continuous(labels = function(x) paste0(x, "°")),
+  expand = c(0,0)) +
+  theme_linechart() +
+  geom_vline(xintercept = as.Date("2024-07-01"), color = "grey60", linetype = "dashed", alpha = 0.7) +
+  geom_vline(xintercept = as.Date("2024-08-01"), color = "grey60", linetype = "dashed", alpha = 0.7) +
+ labs(x = "", 
+              y = "Temperatura media", 
+              title = "Quanto caldo fa a Torino",
+              subtitle = "Temperature medie giornaliere: <span style='color:#F12938;'>2025</span>, <span style='color:#0478EA;'>media 2005–2024</span> e <span style='color:grey40;'>singoli anni</span>",
+              caption = "Elaborazione di Lorenzo Ruffino \nFonte: Osservatorio Meteorologico dell'Università di Torino, Dipartimento di Fisica")
+   dev.off()
+       
+       # Statistiche riassuntive per confronto
+       tutti_i_dati_estivi_pulito %>%
+         group_by(anno < 2025) %>%
+         summarise(
+           Tmax = mean(Tmax, na.rm = TRUE),
+           Tmed = mean(Tmed, na.rm = TRUE),
+           Tmin = mean(Tmin, na.rm = TRUE),
+           .groups = "drop"
+         )
+       
+       # Statistiche per singolo mese
+      medie =  tutti_i_dati_estivi_pulito %>%
+         mutate(nome_mese = case_when(
+           mese == 6 ~ "Giugno",
+           mese == 7 ~ "Luglio", 
+           mese == 8 ~ "Agosto" 
+         )) %>%
+         filter(giorno <=10)%>%
+         group_by(nome_mese, giorno, anno < 2025) %>%
+         summarise(
+           Tmax = mean(Tmax, na.rm = TRUE),
+           Tmed = mean(Tmed, na.rm = TRUE),
+           Tmin = mean(Tmin, na.rm = TRUE),
+           .groups = "drop"
+         )
