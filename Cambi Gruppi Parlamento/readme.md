@@ -11,6 +11,7 @@ Bisogna scegliere la legislatura, andare sulla voce "Gruppi", poi "Variazioni de
 https://dati.camera.it/sparql
 
 Query (per i dati delle varie legislature, bisogna cambiare il filtro):
+
 ```SELECT DISTINCT
   ?gruppo
   ?nomeGruppo
@@ -44,6 +45,6 @@ WHERE {
   OPTIONAL { ?aderisce ocd:endDate ?fine . }
 }
 ORDER BY ?deputato ?inizio
+```
 
-
-*Dati delle XXIX legislatura aggiornati al 20 agosto 2025*
+*Dati delle XXIX legislatura aggiornati al 23 agosto 2025*
