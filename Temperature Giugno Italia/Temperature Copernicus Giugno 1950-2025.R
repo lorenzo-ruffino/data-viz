@@ -7,19 +7,28 @@ library(sf)
 library(rnaturalearthhires)
 library(rnaturalearth)
 
+<<<<<<< Updated upstream
 setwd("~/Documenti/data-viz/Temperature Estate 2025 Italia")
-
-wf_set_key(user = "...",  
-           key  = "...") 
+=======
+setwd("~/Documents/data-viz/Temperature Estate Italia")
+>>>>>>> Stashed changes
 
 wf_set_key(user = "53371aae-64d6-4215-ba84-fb15384f77bf",
            key  = "075797c7-d3d8-434e-a0d4-8f0667467827")
 
+<<<<<<< Updated upstream
+wf_set_key(user = "53371aae-64d6-4215-ba84-fb15384f77bf",
+           key  = "075797c7-d3d8-434e-a0d4-8f0667467827")
+
 output_dir = "~/Documenti/data-viz/Temperature Estate 2025 Italia/Dati"
+=======
+output_dir = "~/Documents/data-viz/Temperature Estate Italia/Dati"
+>>>>>>> Stashed changes
 
 
 ## Download dei dati
 
+<<<<<<< Updated upstream
 start_years = seq(1950, 2025, by = 5)
 
 for (start in start_years) {
@@ -47,6 +56,30 @@ for (start in start_years) {
         request  = req,
         transfer = TRUE,
         path     = path.expand(output_dir)
+=======
+for (y in 1950:2025) {
+  for (mese in c("06","07","08")) {
+    req <- list(
+      dataset_short_name = "derived-era5-land-daily-statistics",
+      variable           = "2m_temperature",
+      year               = as.character(y),
+      month              = mese,
+      day                = sprintf("%02d", 1:ifelse(mese=="06",30,31)),
+      daily_statistic    = "daily_mean",
+      time_zone          = "utc+02:00",
+      frequency          = "1_hourly",
+      area               = c(47, 6, 36, 19),
+      format             = "netcdf",
+      target             = paste0("ERA5L_T2m_Mean_Italy_", mese, "_", y, ".nc")
+    )
+    try({
+      wf_request(
+        request  = req,
+        transfer = TRUE,
+        path     = path.expand(output_dir),
+        user     = "53371aae-64d6-4215-ba84-fb15384f77bf",
+        time_out = 60*60*4   # 4 ore: eviti timeout senza bloccare per giorni
+>>>>>>> Stashed changes
       )
     })
   }
