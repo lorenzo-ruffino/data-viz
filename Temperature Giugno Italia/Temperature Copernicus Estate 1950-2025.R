@@ -12,15 +12,12 @@ setwd("~/Documenti/data-viz/Temperature Estate 2025 Italia")
 wf_set_key(user = "...",  
            key  = "...") 
 
-wf_set_key(user = "53371aae-64d6-4215-ba84-fb15384f77bf",
-           key  = "075797c7-d3d8-434e-a0d4-8f0667467827")
-
 output_dir = "~/Documenti/data-viz/Temperature Estate 2025 Italia/Dati"
 
 
 ## Download dei dati
 
-start_years = seq(1950, 2025, by = 5)
+start_years = seq(1975, 2000, by = 5)
 
 for (start in start_years) {
   end = min(start + 4, 2025)  
@@ -43,7 +40,7 @@ for (start in start_years) {
     
     try({
       wf_request(
-        user     = "53371aae-64d6-4215-ba84-fb15384f77bf",
+        user     = "...",
         request  = req,
         transfer = TRUE,
         path     = path.expand(output_dir)
