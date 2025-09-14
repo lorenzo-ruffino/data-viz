@@ -14,6 +14,9 @@ output_dir = 'Dati'
 
 ## Download dei dati
 
+wf_set_key(user = "...",
+           key  = "...")
+
 start_years = seq(1950, 2025, by = 5)
 
 for (start in start_years) {
@@ -41,7 +44,7 @@ for (start in start_years) {
         request  = req,
         transfer = TRUE,
         path     = path.expand(output_dir),
-        user     = "b59990dd-0a5b-41a7-8471-a2845035a537",
+        user     = "...",
         time_out = 60*60*4   # 4 ore: eviti timeout senza bloccare per giorni
       )
     })
