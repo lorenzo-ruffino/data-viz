@@ -6,7 +6,7 @@
 55,3,99,0,0,81110,0,0,7705,"ANCONA","ANCONA","http://www.regione.marche.it","logoMarche.jpg","042002","N",1
 55,5,99,0,0,81110,0,0,24924,"ANCONA","ANCONA","http://www.regione.marche.it","logoMarche.jpg","042002","N",1
 55,7,99,0,0,81110,0,0,30735,"ANCONA","ANCONA","http://www.regione.marche.it","logoMarche.jpg","042002","N",1
-55,8,99,0,0,81110,0,0,41496,"ANCONA","ANCONA","http://www.regione.marche.it","logoMarche.jpg","042002","N",1
+55,8,99,0,0,81110,0,0,41509,"ANCONA","ANCONA","http://www.regione.marche.it","logoMarche.jpg","042002","N",1
 56,3,9,0,0,4101,0,0,395,"ARCEVIA","ARCEVIA","http://www.regione.marche.it","logoMarche.jpg","042003","N",1
 56,5,9,0,0,4101,0,0,1238,"ARCEVIA","ARCEVIA","http://www.regione.marche.it","logoMarche.jpg","042003","N",1
 56,7,9,0,0,4101,0,0,1496,"ARCEVIA","ARCEVIA","http://www.regione.marche.it","logoMarche.jpg","042003","N",1
@@ -62,15 +62,15 @@
 69,3,40,0,0,25046,0,0,2593,"FABRIANO","FABRIANO","http://www.regione.marche.it","logoMarche.jpg","042017","N",1
 69,5,40,0,0,25046,0,0,7829,"FABRIANO","FABRIANO","http://www.regione.marche.it","logoMarche.jpg","042017","N",1
 69,7,40,0,0,25046,0,0,9604,"FABRIANO","FABRIANO","http://www.regione.marche.it","logoMarche.jpg","042017","N",1
-69,8,37,0,0,23001,0,0,11683,"FABRIANO","FABRIANO","http://www.regione.marche.it","logoMarche.jpg","042017","N",1
+69,8,40,0,0,25046,0,0,12653,"FABRIANO","FABRIANO","http://www.regione.marche.it","logoMarche.jpg","042017","N",1
 70,3,27,0,0,20772,0,0,1392,"FALCONARA MARITTIMA","FALCONARA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","042018","N",1
 70,5,27,0,0,20772,0,0,6127,"FALCONARA MARITTIMA","FALCONARA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","042018","N",1
 70,7,27,0,0,20772,0,0,8094,"FALCONARA MARITTIMA","FALCONARA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","042018","N",1
-70,8,27,0,0,20772,0,0,10891,"FALCONARA MARITTIMA","FALCONARA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","042018","N",1
+70,8,27,0,0,20772,0,0,10893,"FALCONARA MARITTIMA","FALCONARA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","042018","N",1
 71,3,8,0,0,8606,0,0,773,"FILOTTRANO","FILOTTRANO","http://www.regione.marche.it","logoMarche.jpg","042019","N",1
 71,5,8,0,0,8606,0,0,2479,"FILOTTRANO","FILOTTRANO","http://www.regione.marche.it","logoMarche.jpg","042019","N",1
 71,7,8,0,0,8606,0,0,3224,"FILOTTRANO","FILOTTRANO","http://www.regione.marche.it","logoMarche.jpg","042019","N",1
-71,8,8,0,0,8606,0,0,4221,"FILOTTRANO","FILOTTRANO","http://www.regione.marche.it","logoMarche.jpg","042019","N",1
+71,8,8,0,0,8606,0,0,4224,"FILOTTRANO","FILOTTRANO","http://www.regione.marche.it","logoMarche.jpg","042019","N",1
 72,3,2,0,0,1499,0,0,172,"GENGA","GENGA","http://www.regione.marche.it","logoMarche.jpg","042020","N",1
 72,5,2,0,0,1499,0,0,557,"GENGA","GENGA","http://www.regione.marche.it","logoMarche.jpg","042020","N",1
 72,7,2,0,0,1499,0,0,670,"GENGA","GENGA","http://www.regione.marche.it","logoMarche.jpg","042020","N",1
@@ -78,7 +78,7 @@
 73,3,40,0,0,32923,0,0,3670,"JESI","JESI","http://www.regione.marche.it","logoMarche.jpg","042021","N",1
 73,5,40,0,0,32923,0,0,10809,"JESI","JESI","http://www.regione.marche.it","logoMarche.jpg","042021","N",1
 73,7,40,0,0,32923,0,0,13523,"JESI","JESI","http://www.regione.marche.it","logoMarche.jpg","042021","N",1
-73,8,40,0,0,32923,0,0,17613,"JESI","JESI","http://www.regione.marche.it","logoMarche.jpg","042021","N",1
+73,8,40,0,0,32923,0,0,17621,"JESI","JESI","http://www.regione.marche.it","logoMarche.jpg","042021","N",1
 74,3,10,0,0,12789,0,0,1111,"LORETO","LORETO","http://www.regione.marche.it","logoMarche.jpg","042022","N",1
 74,5,10,0,0,12789,0,0,3200,"LORETO","LORETO","http://www.regione.marche.it","logoMarche.jpg","042022","N",1
 74,7,10,0,0,12789,0,0,3982,"LORETO","LORETO","http://www.regione.marche.it","logoMarche.jpg","042022","N",1
@@ -110,11 +110,11 @@
 81,3,6,0,0,5882,0,0,615,"MONTE SAN VITO","MONTE SAN VITO","http://www.regione.marche.it","logoMarche.jpg","042030","N",1
 81,5,6,0,0,5882,0,0,1866,"MONTE SAN VITO","MONTE SAN VITO","http://www.regione.marche.it","logoMarche.jpg","042030","N",1
 81,7,6,0,0,5882,0,0,2396,"MONTE SAN VITO","MONTE SAN VITO","http://www.regione.marche.it","logoMarche.jpg","042030","N",1
-81,8,6,0,0,5882,0,0,3240,"MONTE SAN VITO","MONTE SAN VITO","http://www.regione.marche.it","logoMarche.jpg","042030","N",1
+81,8,6,0,0,5882,0,0,3242,"MONTE SAN VITO","MONTE SAN VITO","http://www.regione.marche.it","logoMarche.jpg","042030","N",1
 82,3,2,0,0,1624,0,0,173,"MORRO D'ALBA","MORRO D'ALBA","http://www.regione.marche.it","logoMarche.jpg","042031","N",1
 82,5,2,0,0,1624,0,0,481,"MORRO D'ALBA","MORRO D'ALBA","http://www.regione.marche.it","logoMarche.jpg","042031","N",1
 82,7,2,0,0,1624,0,0,573,"MORRO D'ALBA","MORRO D'ALBA","http://www.regione.marche.it","logoMarche.jpg","042031","N",1
-82,8,2,0,0,1624,0,0,785,"MORRO D'ALBA","MORRO D'ALBA","http://www.regione.marche.it","logoMarche.jpg","042031","N",1
+82,8,2,0,0,1624,0,0,783,"MORRO D'ALBA","MORRO D'ALBA","http://www.regione.marche.it","logoMarche.jpg","042031","N",1
 83,3,3,0,0,3884,0,0,376,"NUMANA","NUMANA","http://www.regione.marche.it","logoMarche.jpg","042032","N",1
 83,5,3,0,0,3884,0,0,1096,"NUMANA","NUMANA","http://www.regione.marche.it","logoMarche.jpg","042032","N",1
 83,7,3,0,0,3884,0,0,1319,"NUMANA","NUMANA","http://www.regione.marche.it","logoMarche.jpg","042032","N",1
@@ -166,7 +166,7 @@
 95,3,43,0,0,39531,0,0,4846,"SENIGALLIA","SENIGALLIA","http://www.regione.marche.it","logoMarche.jpg","042045","N",1
 95,5,43,0,0,39531,0,0,12921,"SENIGALLIA","SENIGALLIA","http://www.regione.marche.it","logoMarche.jpg","042045","N",1
 95,7,43,0,0,39531,0,0,15813,"SENIGALLIA","SENIGALLIA","http://www.regione.marche.it","logoMarche.jpg","042045","N",1
-95,8,42,0,0,38290,0,0,20492,"SENIGALLIA","SENIGALLIA","http://www.regione.marche.it","logoMarche.jpg","042045","N",1
+95,8,43,0,0,39531,0,0,21030,"SENIGALLIA","SENIGALLIA","http://www.regione.marche.it","logoMarche.jpg","042045","N",1
 96,3,4,0,0,3027,0,0,310,"SERRA DE' CONTI","SERRA DE' CONTI","http://www.regione.marche.it","logoMarche.jpg","042046","N",1
 96,5,4,0,0,3027,0,0,960,"SERRA DE' CONTI","SERRA DE' CONTI","http://www.regione.marche.it","logoMarche.jpg","042046","N",1
 96,7,4,0,0,3027,0,0,1148,"SERRA DE' CONTI","SERRA DE' CONTI","http://www.regione.marche.it","logoMarche.jpg","042046","N",1
@@ -206,7 +206,7 @@
 160,3,52,0,0,40701,0,0,4628,"ASCOLI PICENO","ASCOLI PICENO","http://www.regione.marche.it","logoMarche.jpg","044007","N",2
 160,5,52,0,0,40701,0,0,13013,"ASCOLI PICENO","ASCOLI PICENO","http://www.regione.marche.it","logoMarche.jpg","044007","N",2
 160,7,52,0,0,40701,0,0,15767,"ASCOLI PICENO","ASCOLI PICENO","http://www.regione.marche.it","logoMarche.jpg","044007","N",2
-160,8,52,0,0,40701,0,0,21242,"ASCOLI PICENO","ASCOLI PICENO","http://www.regione.marche.it","logoMarche.jpg","044007","N",2
+160,8,52,0,0,40701,0,0,21243,"ASCOLI PICENO","ASCOLI PICENO","http://www.regione.marche.it","logoMarche.jpg","044007","N",2
 161,3,2,0,0,1083,0,0,108,"CARASSAI","CARASSAI","http://www.regione.marche.it","logoMarche.jpg","044010","N",2
 161,5,2,0,0,1083,0,0,252,"CARASSAI","CARASSAI","http://www.regione.marche.it","logoMarche.jpg","044010","N",2
 161,7,2,0,0,1083,0,0,313,"CARASSAI","CARASSAI","http://www.regione.marche.it","logoMarche.jpg","044010","N",2
@@ -222,7 +222,7 @@
 164,3,3,0,0,1851,0,0,193,"CASTORANO","CASTORANO","http://www.regione.marche.it","logoMarche.jpg","044013","N",2
 164,5,3,0,0,1851,0,0,556,"CASTORANO","CASTORANO","http://www.regione.marche.it","logoMarche.jpg","044013","N",2
 164,7,3,0,0,1851,0,0,685,"CASTORANO","CASTORANO","http://www.regione.marche.it","logoMarche.jpg","044013","N",2
-164,8,3,0,0,1851,0,0,985,"CASTORANO","CASTORANO","http://www.regione.marche.it","logoMarche.jpg","044013","N",2
+164,8,3,0,0,1851,0,0,987,"CASTORANO","CASTORANO","http://www.regione.marche.it","logoMarche.jpg","044013","N",2
 165,3,3,0,0,3118,0,0,387,"COLLI DEL TRONTO","COLLI DEL TRONTO","http://www.regione.marche.it","logoMarche.jpg","044014","N",2
 165,5,3,0,0,3118,0,0,1095,"COLLI DEL TRONTO","COLLI DEL TRONTO","http://www.regione.marche.it","logoMarche.jpg","044014","N",2
 165,7,3,0,0,3118,0,0,1364,"COLLI DEL TRONTO","COLLI DEL TRONTO","http://www.regione.marche.it","logoMarche.jpg","044014","N",2
@@ -234,11 +234,11 @@
 167,3,1,0,0,1028,0,0,75,"COSSIGNANO","COSSIGNANO","http://www.regione.marche.it","logoMarche.jpg","044016","N",2
 167,5,1,0,0,1028,0,0,215,"COSSIGNANO","COSSIGNANO","http://www.regione.marche.it","logoMarche.jpg","044016","N",2
 167,7,1,0,0,1028,0,0,311,"COSSIGNANO","COSSIGNANO","http://www.regione.marche.it","logoMarche.jpg","044016","N",2
-167,8,0,0,0,0,0,0,0,"COSSIGNANO","COSSIGNANO","http://www.regione.marche.it","logoMarche.jpg","044016","N",2
+167,8,1,0,0,1028,0,0,426,"COSSIGNANO","COSSIGNANO","http://www.regione.marche.it","logoMarche.jpg","044016","N",2
 168,3,5,0,0,4848,0,0,529,"CUPRA MARITTIMA","CUPRA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","044017","N",2
 168,5,5,0,0,4848,0,0,1278,"CUPRA MARITTIMA","CUPRA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","044017","N",2
 168,7,5,0,0,4848,0,0,1592,"CUPRA MARITTIMA","CUPRA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","044017","N",2
-168,8,5,0,0,4848,0,0,2189,"CUPRA MARITTIMA","CUPRA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","044017","N",2
+168,8,5,0,0,4848,0,0,2196,"CUPRA MARITTIMA","CUPRA MARITTIMA","http://www.regione.marche.it","logoMarche.jpg","044017","N",2
 169,3,8,0,0,7805,0,0,803,"FOLIGNANO","FOLIGNANO","http://www.regione.marche.it","logoMarche.jpg","044020","N",2
 169,5,8,0,0,7805,0,0,2533,"FOLIGNANO","FOLIGNANO","http://www.regione.marche.it","logoMarche.jpg","044020","N",2
 169,7,8,0,0,7805,0,0,3114,"FOLIGNANO","FOLIGNANO","http://www.regione.marche.it","logoMarche.jpg","044020","N",2
@@ -246,11 +246,11 @@
 170,3,2,0,0,1255,0,0,125,"FORCE","FORCE","http://www.regione.marche.it","logoMarche.jpg","044021","N",2
 170,5,2,0,0,1255,0,0,364,"FORCE","FORCE","http://www.regione.marche.it","logoMarche.jpg","044021","N",2
 170,7,2,0,0,1255,0,0,446,"FORCE","FORCE","http://www.regione.marche.it","logoMarche.jpg","044021","N",2
-170,8,2,0,0,1255,0,0,628,"FORCE","FORCE","http://www.regione.marche.it","logoMarche.jpg","044021","N",2
+170,8,2,0,0,1255,0,0,629,"FORCE","FORCE","http://www.regione.marche.it","logoMarche.jpg","044021","N",2
 171,3,15,0,0,13514,0,0,1534,"GROTTAMMARE","GROTTAMMARE","http://www.regione.marche.it","logoMarche.jpg","044023","N",2
 171,5,15,0,0,13514,0,0,4091,"GROTTAMMARE","GROTTAMMARE","http://www.regione.marche.it","logoMarche.jpg","044023","N",2
 171,7,15,0,0,13514,0,0,5116,"GROTTAMMARE","GROTTAMMARE","http://www.regione.marche.it","logoMarche.jpg","044023","N",2
-171,8,15,0,0,13514,0,0,7010,"GROTTAMMARE","GROTTAMMARE","http://www.regione.marche.it","logoMarche.jpg","044023","N",2
+171,8,15,0,0,13514,0,0,6998,"GROTTAMMARE","GROTTAMMARE","http://www.regione.marche.it","logoMarche.jpg","044023","N",2
 172,3,3,0,0,1993,0,0,166,"MALTIGNANO","MALTIGNANO","http://www.regione.marche.it","logoMarche.jpg","044027","N",2
 172,5,3,0,0,1993,0,0,562,"MALTIGNANO","MALTIGNANO","http://www.regione.marche.it","logoMarche.jpg","044027","N",2
 172,7,3,0,0,1993,0,0,696,"MALTIGNANO","MALTIGNANO","http://www.regione.marche.it","logoMarche.jpg","044027","N",2
@@ -294,7 +294,7 @@
 182,3,1,0,0,184,0,0,9,"PALMIANO","PALMIANO","http://www.regione.marche.it","logoMarche.jpg","044056","N",2
 182,5,1,0,0,184,0,0,56,"PALMIANO","PALMIANO","http://www.regione.marche.it","logoMarche.jpg","044056","N",2
 182,7,1,0,0,184,0,0,78,"PALMIANO","PALMIANO","http://www.regione.marche.it","logoMarche.jpg","044056","N",2
-182,8,1,0,0,184,0,0,103,"PALMIANO","PALMIANO","http://www.regione.marche.it","logoMarche.jpg","044056","N",2
+182,8,1,0,0,184,0,0,104,"PALMIANO","PALMIANO","http://www.regione.marche.it","logoMarche.jpg","044056","N",2
 183,3,5,0,0,3947,0,0,342,"RIPATRANSONE","RIPATRANSONE","http://www.regione.marche.it","logoMarche.jpg","044063","N",2
 183,5,5,0,0,3947,0,0,975,"RIPATRANSONE","RIPATRANSONE","http://www.regione.marche.it","logoMarche.jpg","044063","N",2
 183,7,5,0,0,3947,0,0,1285,"RIPATRANSONE","RIPATRANSONE","http://www.regione.marche.it","logoMarche.jpg","044063","N",2
@@ -342,7 +342,7 @@
 194,3,37,0,0,31246,0,0,4108,"FERMO","FERMO","http://www.regione.marche.it","logoMarche.jpg","109006","N",3
 194,5,37,0,0,31246,0,0,10972,"FERMO","FERMO","http://www.regione.marche.it","logoMarche.jpg","109006","N",3
 194,7,37,0,0,31246,0,0,13455,"FERMO","FERMO","http://www.regione.marche.it","logoMarche.jpg","109006","N",3
-194,8,37,0,0,31246,0,0,17591,"FERMO","FERMO","http://www.regione.marche.it","logoMarche.jpg","109006","N",3
+194,8,37,0,0,31246,0,0,17592,"FERMO","FERMO","http://www.regione.marche.it","logoMarche.jpg","109006","N",3
 195,3,1,0,0,949,0,0,65,"FRANCAVILLA D'ETE","FRANCAVILLA D'ETE","http://www.regione.marche.it","logoMarche.jpg","109007","N",3
 195,5,1,0,0,949,0,0,245,"FRANCAVILLA D'ETE","FRANCAVILLA D'ETE","http://www.regione.marche.it","logoMarche.jpg","109007","N",3
 195,7,1,0,0,949,0,0,353,"FRANCAVILLA D'ETE","FRANCAVILLA D'ETE","http://www.regione.marche.it","logoMarche.jpg","109007","N",3
@@ -390,7 +390,7 @@
 206,3,13,0,0,11143,0,0,1058,"MONTEGRANARO","MONTEGRANARO","http://www.regione.marche.it","logoMarche.jpg","109018","N",3
 206,5,13,0,0,11143,0,0,3023,"MONTEGRANARO","MONTEGRANARO","http://www.regione.marche.it","logoMarche.jpg","109018","N",3
 206,7,13,0,0,11143,0,0,3765,"MONTEGRANARO","MONTEGRANARO","http://www.regione.marche.it","logoMarche.jpg","109018","N",3
-206,8,13,0,0,11143,0,0,5029,"MONTEGRANARO","MONTEGRANARO","http://www.regione.marche.it","logoMarche.jpg","109018","N",3
+206,8,13,0,0,11143,0,0,5032,"MONTEGRANARO","MONTEGRANARO","http://www.regione.marche.it","logoMarche.jpg","109018","N",3
 207,3,1,0,0,339,0,0,42,"MONTELEONE DI FERMO","MONTELEONE DI FERMO","http://www.regione.marche.it","logoMarche.jpg","109019","N",3
 207,5,1,0,0,339,0,0,112,"MONTELEONE DI FERMO","MONTELEONE DI FERMO","http://www.regione.marche.it","logoMarche.jpg","109019","N",3
 207,7,1,0,0,339,0,0,150,"MONTELEONE DI FERMO","MONTELEONE DI FERMO","http://www.regione.marche.it","logoMarche.jpg","109019","N",3
@@ -502,7 +502,7 @@
 106,3,8,0,0,5590,0,0,751,"CAMERINO","CAMERINO","http://www.regione.marche.it","logoMarche.jpg","043007","N",4
 106,5,8,0,0,5590,0,0,2013,"CAMERINO","CAMERINO","http://www.regione.marche.it","logoMarche.jpg","043007","N",4
 106,7,8,0,0,5590,0,0,2439,"CAMERINO","CAMERINO","http://www.regione.marche.it","logoMarche.jpg","043007","N",4
-106,8,8,0,0,5590,0,0,3188,"CAMERINO","CAMERINO","http://www.regione.marche.it","logoMarche.jpg","043007","N",4
+106,8,8,0,0,5590,0,0,3189,"CAMERINO","CAMERINO","http://www.regione.marche.it","logoMarche.jpg","043007","N",4
 107,3,1,0,0,470,0,0,36,"CAMPOROTONDO DI FIASTRONE","CAMPOROTONDO DI FIASTRONE","http://www.regione.marche.it","logoMarche.jpg","043008","N",4
 107,5,1,0,0,470,0,0,108,"CAMPOROTONDO DI FIASTRONE","CAMPOROTONDO DI FIASTRONE","http://www.regione.marche.it","logoMarche.jpg","043008","N",4
 107,7,1,0,0,470,0,0,146,"CAMPOROTONDO DI FIASTRONE","CAMPOROTONDO DI FIASTRONE","http://www.regione.marche.it","logoMarche.jpg","043008","N",4
@@ -526,7 +526,7 @@
 112,3,40,0,0,37279,0,0,4245,"CIVITANOVA MARCHE","CIVITANOVA MARCHE","http://www.regione.marche.it","logoMarche.jpg","043013","N",4
 112,5,40,0,0,37279,0,0,11016,"CIVITANOVA MARCHE","CIVITANOVA MARCHE","http://www.regione.marche.it","logoMarche.jpg","043013","N",4
 112,7,40,0,0,37279,0,0,13745,"CIVITANOVA MARCHE","CIVITANOVA MARCHE","http://www.regione.marche.it","logoMarche.jpg","043013","N",4
-112,8,40,0,0,37279,0,0,18187,"CIVITANOVA MARCHE","CIVITANOVA MARCHE","http://www.regione.marche.it","logoMarche.jpg","043013","N",4
+112,8,40,0,0,37279,0,0,18188,"CIVITANOVA MARCHE","CIVITANOVA MARCHE","http://www.regione.marche.it","logoMarche.jpg","043013","N",4
 113,3,2,0,0,1220,0,0,69,"COLMURANO","COLMURANO","http://www.regione.marche.it","logoMarche.jpg","043014","N",4
 113,5,2,0,0,1220,0,0,226,"COLMURANO","COLMURANO","http://www.regione.marche.it","logoMarche.jpg","043014","N",4
 113,7,2,0,0,1220,0,0,351,"COLMURANO","COLMURANO","http://www.regione.marche.it","logoMarche.jpg","043014","N",4
@@ -562,7 +562,7 @@
 121,3,44,0,0,36290,0,0,4203,"MACERATA","MACERATA","http://www.regione.marche.it","logoMarche.jpg","043023","N",4
 121,5,44,0,0,36290,0,0,11357,"MACERATA","MACERATA","http://www.regione.marche.it","logoMarche.jpg","043023","N",4
 121,7,44,0,0,36290,0,0,14447,"MACERATA","MACERATA","http://www.regione.marche.it","logoMarche.jpg","043023","N",4
-121,8,44,0,0,36290,0,0,18474,"MACERATA","MACERATA","http://www.regione.marche.it","logoMarche.jpg","043023","N",4
+121,8,44,0,0,36290,0,0,18484,"MACERATA","MACERATA","http://www.regione.marche.it","logoMarche.jpg","043023","N",4
 122,3,10,0,0,8767,0,0,875,"MATELICA","MATELICA","http://www.regione.marche.it","logoMarche.jpg","043024","N",4
 122,5,10,0,0,8767,0,0,2532,"MATELICA","MATELICA","http://www.regione.marche.it","logoMarche.jpg","043024","N",4
 122,7,10,0,0,8767,0,0,3184,"MATELICA","MATELICA","http://www.regione.marche.it","logoMarche.jpg","043024","N",4
@@ -630,7 +630,7 @@
 138,3,5,0,0,6029,0,0,578,"POLLENZA","POLLENZA","http://www.regione.marche.it","logoMarche.jpg","043041","N",4
 138,5,5,0,0,6029,0,0,1672,"POLLENZA","POLLENZA","http://www.regione.marche.it","logoMarche.jpg","043041","N",4
 138,7,5,0,0,6029,0,0,2118,"POLLENZA","POLLENZA","http://www.regione.marche.it","logoMarche.jpg","043041","N",4
-138,8,5,0,0,6029,0,0,2815,"POLLENZA","POLLENZA","http://www.regione.marche.it","logoMarche.jpg","043041","N",4
+138,8,5,0,0,6029,0,0,2814,"POLLENZA","POLLENZA","http://www.regione.marche.it","logoMarche.jpg","043041","N",4
 139,3,10,0,0,10998,0,0,1094,"PORTO RECANATI","PORTO RECANATI","http://www.regione.marche.it","logoMarche.jpg","043042","N",4
 139,5,10,0,0,10998,0,0,2926,"PORTO RECANATI","PORTO RECANATI","http://www.regione.marche.it","logoMarche.jpg","043042","N",4
 139,7,10,0,0,10998,0,0,3651,"PORTO RECANATI","PORTO RECANATI","http://www.regione.marche.it","logoMarche.jpg","043042","N",4
@@ -698,7 +698,7 @@
 154,3,2,0,0,804,0,0,84,"VISSO","VISSO","http://www.regione.marche.it","logoMarche.jpg","043057","N",4
 154,5,2,0,0,804,0,0,279,"VISSO","VISSO","http://www.regione.marche.it","logoMarche.jpg","043057","N",4
 154,7,2,0,0,804,0,0,337,"VISSO","VISSO","http://www.regione.marche.it","logoMarche.jpg","043057","N",4
-154,8,2,0,0,804,0,0,480,"VISSO","VISSO","http://www.regione.marche.it","logoMarche.jpg","043057","N",4
+154,8,2,0,0,804,0,0,479,"VISSO","VISSO","http://www.regione.marche.it","logoMarche.jpg","043057","N",4
 1,3,4,0,0,3569,0,0,436,"ACQUALAGNA","ACQUALAGNA","http://www.regione.marche.it","logoMarche.jpg","041001","N",5
 1,5,4,0,0,3569,0,0,1213,"ACQUALAGNA","ACQUALAGNA","http://www.regione.marche.it","logoMarche.jpg","041001","N",5
 1,7,4,0,0,3569,0,0,1470,"ACQUALAGNA","ACQUALAGNA","http://www.regione.marche.it","logoMarche.jpg","041001","N",5
@@ -738,7 +738,7 @@
 9,3,68,0,0,51891,0,0,6742,"FANO","FANO","http://www.regione.marche.it","logoMarche.jpg","041013","N",5
 9,5,68,0,0,51891,0,0,17167,"FANO","FANO","http://www.regione.marche.it","logoMarche.jpg","041013","N",5
 9,7,68,0,0,51891,0,0,21272,"FANO","FANO","http://www.regione.marche.it","logoMarche.jpg","041013","N",5
-9,8,66,0,0,50436,0,0,26889,"FANO","FANO","http://www.regione.marche.it","logoMarche.jpg","041013","N",5
+9,8,68,0,0,51891,0,0,27725,"FANO","FANO","http://www.regione.marche.it","logoMarche.jpg","041013","N",5
 10,3,7,0,0,6784,0,0,872,"FERMIGNANO","FERMIGNANO","http://www.regione.marche.it","logoMarche.jpg","041014","N",5
 10,5,7,0,0,6784,0,0,2325,"FERMIGNANO","FERMIGNANO","http://www.regione.marche.it","logoMarche.jpg","041014","N",5
 10,7,7,0,0,6784,0,0,2837,"FERMIGNANO","FERMIGNANO","http://www.regione.marche.it","logoMarche.jpg","041014","N",5
@@ -834,7 +834,7 @@
 35,3,106,0,0,80873,0,0,12010,"PESARO","PESARO","http://www.regione.marche.it","logoMarche.jpg","041044","N",5
 35,5,106,0,0,80873,0,0,29240,"PESARO","PESARO","http://www.regione.marche.it","logoMarche.jpg","041044","N",5
 35,7,106,0,0,80873,0,0,34675,"PESARO","PESARO","http://www.regione.marche.it","logoMarche.jpg","041044","N",5
-35,8,105,0,0,79912,0,0,43218,"PESARO","PESARO","http://www.regione.marche.it","logoMarche.jpg","041044","N",5
+35,8,106,0,0,80873,0,0,43713,"PESARO","PESARO","http://www.regione.marche.it","logoMarche.jpg","041044","N",5
 36,3,3,0,0,2212,0,0,269,"PETRIANO","PETRIANO","http://www.regione.marche.it","logoMarche.jpg","041045","N",5
 36,5,3,0,0,2212,0,0,718,"PETRIANO","PETRIANO","http://www.regione.marche.it","logoMarche.jpg","041045","N",5
 36,7,3,0,0,2212,0,0,871,"PETRIANO","PETRIANO","http://www.regione.marche.it","logoMarche.jpg","041045","N",5
@@ -894,7 +894,7 @@
 49,3,20,0,0,12160,0,0,1542,"URBINO","URBINO","http://www.regione.marche.it","logoMarche.jpg","041067","N",5
 49,5,20,0,0,12160,0,0,4323,"URBINO","URBINO","http://www.regione.marche.it","logoMarche.jpg","041067","N",5
 49,7,20,0,0,12160,0,0,5354,"URBINO","URBINO","http://www.regione.marche.it","logoMarche.jpg","041067","N",5
-49,8,20,0,0,12160,0,0,6990,"URBINO","URBINO","http://www.regione.marche.it","logoMarche.jpg","041067","N",5
+49,8,20,0,0,12160,0,0,6989,"URBINO","URBINO","http://www.regione.marche.it","logoMarche.jpg","041067","N",5
 50,3,14,0,0,11966,0,0,1164,"VALLEFOGLIA","VALLEFOGLIA","http://www.regione.marche.it","logoMarche.jpg","041068","N",5
 50,5,14,0,0,11966,0,0,3368,"VALLEFOGLIA","VALLEFOGLIA","http://www.regione.marche.it","logoMarche.jpg","041068","N",5
 50,7,14,0,0,11966,0,0,4130,"VALLEFOGLIA","VALLEFOGLIA","http://www.regione.marche.it","logoMarche.jpg","041068","N",5
