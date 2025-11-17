@@ -5,6 +5,8 @@ library(ggrepel)
 library(sf)
 library(scales)
 
+setwd("~/Documents/Progetti/data-viz/Turismo Estate 2025")
+
 font_add_google("Source Sans Pro")
 showtext_auto()
 
@@ -104,9 +106,8 @@ theme_barchart <- function(...) {
     theme(
       text=element_text(family="Source Sans Pro"),
       legend.position="right",
-      axis.line = element_blank(),
-      axis.text.x = element_text(size = 15,  color = "#1C1C1C", hjust = 0.5,  margin = margin(b = 0, t = 0, l = 0, unit = "cm")),
-      axis.text  = element_blank(),
+      axis.line = element_line(linewidth = 0.5),
+      axis.text = element_text(size = 15,  color = "#1C1C1C", hjust = 0.5,  margin = margin(b = 0, t = 0, l = 0, unit = "cm")),
       axis.ticks = element_blank(),
       panel.background = element_blank() ,
       panel.grid.major = element_blank(), 
@@ -162,18 +163,16 @@ png("Turisti_Italia_Totale.png", width = 11, height = 10, units="in", res=300)
 ggplot(data, aes(x=year, y=turisti/1e6, label = round(turisti/1e6, 0),fill=colore)) +
   theme_barchart()+
   geom_col(show.legend = F) + 
-  scale_color_manual(values = c("TRUE" = "#F12938",
-                                "FALSE" = "#3399FF")) +
   scale_fill_manual(values = c("TRUE" = "#F12938",
                                 "FALSE" = "#3399FF")) +
   geom_text(size=4, vjust=1.6, hjust=0.5, color="white", family="Source Sans Pro", show.legend = F)+
-  scale_y_continuous(breaks=seq(0, 150, by=25), labels = function(x) paste0(x, " mln"), expand = c(0, 0))+
-  scale_x_continuous(limits=c(1999, 2026), breaks=seq(2000, 2024, by=4), labels = function(x) paste0(x, ""), expand = c(0, 0))+
+  scale_y_continuous(breaks=seq(0, 250, by=25), labels = function(x) paste0(x, " mln"), expand = c(0, 0))+
+  scale_x_continuous(limits=c(1999, 2026), breaks=seq(2000, 2025, by=5), labels = function(x) paste0(x, ""), expand = c(0, 0))+
   coord_cartesian(ylim=c(0,215), clip = "off")+
   labs(x = NULL,
        y = NULL,
        title = "L'estate turistica del 2025 è stata la migliore di sempre",
-       subtitle = "Pernottamenti tra giugno e agosto in Italia, anni 2000-2025. Dati in milioni",
+       subtitle = "Pernottamenti tra giugno e agosto in Italia, anni 2000-2025",
        caption = "Elaborazione di Lorenzo Ruffino | Fonte dati: Eurostat")
 dev.off()
 
