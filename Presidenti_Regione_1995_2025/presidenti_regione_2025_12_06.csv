@@ -1,0 +1,127 @@
+regione,nome_cognome,genere,partito,coalizione,data_inizio,data_fine
+Abruzzo,Antonio Falconio,M,Partito Popolare Italiano,CSX,1995-06-08,2000-05-09
+Abruzzo,Giovanni Pace,M,Alleanza Nazionale,CDX,2000-05-09,2005-04-22
+Abruzzo,Ottaviano Del Turco,M,Socialisti Democratici Italiani,CSX,2005-04-22,2008-07-17
+Abruzzo,Giovanni Chiodi,M,Il Popolo della Libertà,CDX,2009-01-03,2014-06-13
+Abruzzo,Luciano D'Alfonso,M,Partito Democratico,CSX,2014-06-13,2018-08-10
+Abruzzo,Marco Marsilio,M,Fratelli d'Italia,CDX,2019-02-23,2024-04-10
+Abruzzo,Marco Marsilio,M,Fratelli d'Italia,CDX,2024-04-10,
+Basilicata,Angelo Raffaele Dinardo,M,Partito Popolare Italiano,CSX,1995-06-15,2000-05-08
+Basilicata,Filippo Bubbico,M,Democratici di Sinistra,CSX,2000-05-08,2005-05-06
+Basilicata,Vito De Filippo,M,La Margherita,CSX,2005-05-06,2010-04-21
+Basilicata,Vito De Filippo,M,Partito Democratico,CSX,2010-04-21,2013-04-24
+Basilicata,Marcello Pittella,M,Partito Democratico,CSX,2013-12-18,2018-07-06
+Basilicata,Vito Bardi,M,Forza Italia,CDX,2019-04-16,2024-05-24
+Basilicata,Vito Bardi,M,Forza Italia,CDX,2024-05-24,
+Calabria,Giuseppe Nisticò,M,Forza italia,CDX,1995-04-23,1998-08-10
+Calabria,Giovambattista Caligiuri,M,Forza italia,CDX,1998-08-11,2000-05-04
+Calabria,Giuseppe Chiaravalloti,M,Forza Italia,CDX,2000-05-05,2005-04-20
+Calabria,Agazio Loiero,M,La Margherita/Partito Democratico,CSX,2005-04-20,2010-04-10
+Calabria,Giuseppe Scopelliti,M,Il Popolo della Libertà/Nuovo Centrodestra,CDX,2010-04-10,2014-04-29
+Calabria,Mario Oliverio,M,Partito Democratico,CSX,2014-12-09,2020-02-15
+Calabria,Jole Santelli,F,Forza Italia,CDX,2020-02-15,2020-10-15
+Calabria,Roberto Occhiuto,M,Forza Italia,CDX,2021-10-29,2025-10-06
+Calabria,Roberto Occhiuto,M,Forza Italia,CDX,2025-10-07,
+Campania,Antonio Rastrelli,M,Alleanza Nazionale,CDX,1995-04-23,2000-05-17
+Campania,Antonio Bassolino,M,Democratici di Sinistra,CSX,2000-05-18,2005-05-04
+Campania,Antonio Bassolino,M,Partito Democratico,CSX,2005-05-04,2010-04-17
+Campania,Stefano Caldoro,M,Il Popolo della Libertà,CDX,2010-04-17,2015-06-18
+Campania,Vincenzo De Luca,M,Partito Democratico,CSX,2015-07-02,2020-10-26
+Campania,Vincenzo De Luca,M,Partito Democratico,CSX,2020-10-26,2025-11-24
+Campania,Roberto Fico,M,Movimento 5 Stelle,CSX,2025-11-25,
+Emilia-Romagna,Pier Luigi Bersani,M,Democratici di Sinistra,CSX,1995-04-23,2000-04-16
+Emilia-Romagna,Vasco Errani,M,Democratici di Sinistra,CSX,2000-04-16,2005-04-04
+Emilia-Romagna,Vasco Errani,M,Democratici di Sinistra,CSX,2005-04-04,2010-03-29
+Emilia-Romagna,Vasco Errani,M,Partito Democratico,CSX,2010-03-29,2014-07-08
+Emilia-Romagna,Stefano Bonaccini,M,Partito Democratico,CSX,2014-12-22,2020-02-28
+Emilia-Romagna,Stefano Bonaccini,M,Partito Democratico,CSX,2020-02-28,2024-07-12
+Emilia-Romagna,Michele De Pascale,M,Partito Democratico,CSX,2024-12-13,
+Friuli-Venezia Giulia,Riccardo Illy,M,Indipendente,CSX,2003-06-14,2008-04-19
+Friuli-Venezia Giulia,Renzo Tondo,M,Il Popolo della Libertà,CDX,2008-04-19,2013-04-25
+Friuli-Venezia Giulia,Debora Serracchiani,F,Partito Democratico,CSX,2013-04-25,2018-03-26
+Friuli-Venezia Giulia,Massimiliano Fedriga,M,Lega,CDX,2018-05-03,2023-04-07
+Friuli-Venezia Giulia,Massimiliano Fedriga,M,Lega,CDX,2023-04-07,
+Lazio,Piero Badaloni,M,Indipendente di centro-sinistra,CSX,1995-06-16,2000-05-15
+Lazio,Francesco Storace,M,Alleanza Nazionale,CDX,2000-05-15,2005-05-02
+Lazio,Piero Marrazzo,M,Indipendente di centro-sinistra,CSX,2005-05-02,2009-10-27
+Lazio,Renata Polverini,F,Il Popolo della Libertà,CDX,2010-04-16,2013-03-12
+Lazio,Nicola Zingaretti,M,Partito Democratico,CSX,2013-03-12,2018-03-19
+Lazio,Nicola Zingaretti,M,Partito Democratico,CSX,2018-03-19,2022-11-10
+Lazio,Francesco Rocca,M,Indipendente di destra,CDX,2023-03-02,
+Liguria,Giancarlo Mori,M,Partito Popolare Italiano,CSX,1995-06-06,2000-05-12
+Liguria,Sandro Biasotti,M,Forza Italia,CDX,2000-05-12,2005-04-14
+Liguria,Claudio Burlando,M,Democratici di Sinistra,CSX,2005-04-14,2010-04-07
+Liguria,Claudio Burlando,M,Partito Democratico,CSX,2010-04-07,2015-06-11
+Liguria,Giovanni Toti,M,Forza Italia,CDX,2015-06-11,2020-10-27
+Liguria,Giovanni Toti,M,Cambiamo! Italia al Centro,CDX,2020-10-27,2024-07-26
+Liguria,Alessandro Piana,M,Lega,CDX,2024-07-26,2024-11-06
+Liguria,Marco Bucci,M,Indipendente di centro-destra,CDX,2024-11-06,
+Lombardia,Roberto Formigoni,M,Cristiani Democratici Uniti,CDX,1995-06-27,2000-04-16
+Lombardia,Roberto Formigoni,M,Forza Italia,CDX,2000-04-16,2005-04-05
+Lombardia,Roberto Formigoni,M,Forza Italia,CDX,2005-04-05,2010-04-21
+Lombardia,Roberto Formigoni,M,Il Popolo della Libertà,CDX,2010-04-21,2013-03-18
+Lombardia,Roberto Maroni,M,Lega Nord,CDX,2013-03-18,2018-03-26
+Lombardia,Attilio Fontana,M,Lega,CDX,2018-03-26,2023-03-10
+Lombardia,Attilio Fontana,M,Lega,CDX,2023-03-10,
+Marche,Vito D'Ambrosio,M,Partito Democratico della Sinistra,CSX,1995-06-19,2000-05-15
+Marche,Vito D'Ambrosio,M,Democratici di Sinistra,CSX,2000-05-15,2005-04-18
+Marche,Gian Mario Spacca,M,La Margherita,CSX,2005-04-18,2010-04-08
+Marche,Gian Mario Spacca,M,Partito Democratico,CSX,2010-04-08,2015-06-12
+Marche,Luca Ceriscioli,M,Partito Democratico,CSX,2015-06-12,2020-09-30
+Marche,Francesco Acquaroli,M,Fratelli d'Italia,CDX,2020-09-30,2025-09-29
+Marche,Francesco Acquaroli,M,Fratelli d'Italia,CDX,2025-09-30,
+Molise,Giovanni Di Stasi,M,Democratici di Sinistra,CSX,1995-04-16,2000-05-19
+Molise,Giovanni Di Stasi,M,Democratici di Sinistra,CSX,2000-05-20,2001-11-21
+Molise,Angelo Michele Iorio,M,Forza Italia,CDX,2001-11-21,2006-11-07
+Molise,Angelo Michele Iorio,M,Forza Italia,CDX,2006-11-07,2011-11-15
+Molise,Angelo Michele Iorio,M,Il Popolo della Libertà,CDX,2011-11-15,2013-03-16
+Molise,Paolo Di Laura Frattura,M,Partito Democratico,CSX,2013-03-16,2018-05-08
+Molise,Donato Toma,M,Forza Italia,CDX,2018-05-08,2023-07-06
+Molise,Francesco Roberti,M,Forza Italia,CDX,2023-07-06,
+Piemonte,Enzo Ghigo,M,Forza Italia,CDX,1995-06-12,2000-04-17
+Piemonte,Enzo Ghigo,M,Forza Italia,CDX,2000-04-17,2005-04-27
+Piemonte,Mercedes Bresso,F,Democratici di Sinistra/Partito Democratico,CSX,2005-04-27,2010-04-09
+Piemonte,Roberto Cota,M,Lega Nord,CDX,2010-04-09,2014-06-09
+Piemonte,Sergio Chiamparino,M,Partito Democratico,CSX,2014-06-09,2019-06-06
+Piemonte,Alberto Cirio,M,Forza Italia,CDX,2019-06-06,2024-06-21
+Piemonte,Alberto Cirio,M,Forza Italia,CDX,2024-06-21,
+Puglia,Salvatore Distaso,M,Forza Italia,CDX,1995-04-23,2000-05-19
+Puglia,Raffaele Fitto,M,Forza Italia,CDX,2000-05-19,2005-04-27
+Puglia,Nichi Vendola,M,Rifondazione Comunista,CSX,2005-04-27,2010-04-26
+Puglia,Nichi Vendola,M,Sinistra Ecologia Libertà,CSX,2010-04-26,2015-06-26
+Puglia,Michele Emiliano,M,Indipendente di centro-sinistra,CSX,2015-06-26,2020-11-24
+Puglia,Michele Emiliano,M,Indipendente di centro-sinistra,CSX,2020-11-24,2025-11-24
+Puglia,Antonio Decaro,M,Partito Democratico,CSX,2025-11-25,
+Sardegna,Mauro Pili,M,Forza italia,CDX,1999-06-27,2004-06-25
+Sardegna,Renato Soru,M,Progetto Sardegna/Partito Democratico,CSX,2004-06-26,2008-12-25
+Sardegna,Ugo Cappellacci,M,Il Popolo della Libertà/Forza Italia,CDX,2009-02-27,2014-03-12
+Sardegna,Francesco Pigliaru,M,Partito Democratico,CSX,2014-03-12,2019-03-20
+Sardegna,Christian Solinas,M,Partito Sardo d'Azione,CDX,2019-03-20,2024-03-20
+Sardegna,Alessandra Todde,F,Movimento 5 Stelle,CSX,2024-03-20,
+Sicilia,Salvatore Cuffaro,M,Cristiani Democratici Uniti/Unione di Centro,CDX,2001-07-17,2006-06-15
+Sicilia,Salvatore Cuffaro,M,Unione di Centro,CDX,2006-06-15,2008-01-18
+Sicilia,Raffaele Lombardo,M,Movimento per le Autonomie,CDX,2008-04-28,2012-11-10
+Sicilia,Rosario Crocetta,M,Partito Democratico,CSX,2012-11-10,2017-11-18
+Sicilia,Nello Musumeci,M,#DiventeràBellissima/Fratelli d'Italia,CDX,2017-11-18,2022-10-13
+Sicilia,Renato Schifani,M,Forza Italia,CDX,2022-10-13,
+Toscana,Vannino Chiti,M,Partito Democratico della Sinistra,CSX,1995-06-13,2000-05-18
+Toscana,Claudio Martini,M,Democratici di Sinistra,CSX,2000-05-18,2005-05-06
+Toscana,Claudio Martini,M,Democratici di Sinistra,CSX,2005-05-06,2010-04-16
+Toscana,Enrico Rossi,M,Partito Democratico,CSX,2010-04-16,2015-06-17
+Toscana,Enrico Rossi,M,Partito Democratico,CSX,2015-06-17,2020-10-08
+Toscana,Eugenio Giani,M,Partito Democratico,CSX,2020-10-08,2025-10-13
+Toscana,Eugenio Giani,M,Partito Democratico,CSX,2025-10-14,
+Umbria,Bruno Bracalente,M,Partito Democratico della Sinistra,CSX,1995-04-23,2000-05-15
+Umbria,Maria Rita Lorenzetti,F,Democratici di Sinistra,CSX,2000-05-15,2005-04-07
+Umbria,Maria Rita Lorenzetti,F,Partito Democratico,CSX,2005-04-07,2010-04-16
+Umbria,Catiuscia Marini,F,Partito Democratico,CSX,2010-04-16,2015-06-10
+Umbria,Catiuscia Marini,F,Partito Democratico,CSX,2015-06-10,2019-05-28
+Umbria,Donatella Tesei,F,Lega,CDX,2019-11-11,2024-12-01
+Umbria,Stefania Proietti,F,Indipendente,CSX,2024-12-02,
+Veneto,Giancarlo Galan,M,Forza Italia,CDX,1995-06-26,2000-06-06
+Veneto,Giancarlo Galan,M,Forza Italia,CDX,2000-06-06,2005-05-09
+Veneto,Giancarlo Galan,M,Il Popolo della Libertà,CDX,2005-05-09,2010-04-07
+Veneto,Luca Zaia,M,Lega Nord,CDX,2010-04-07,2015-06-15
+Veneto,Luca Zaia,M,Lega Nord,CDX,2015-06-15,2020-10-15
+Veneto,Luca Zaia,M,Lega,CDX,2020-10-15,2025-11-24
+Veneto,Alberto Stefani,M,Lega,CDX,2025-11-25,
