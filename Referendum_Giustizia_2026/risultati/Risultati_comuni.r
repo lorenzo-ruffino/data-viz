@@ -259,6 +259,25 @@ risultati_nazionale <- agg_risultati(risultati_comuni)
 # 5. SALVATAGGIO CSV BASE
 # ==============================================================================
 
+# Aggiunge cod_istat a risultati_comuni tramite tabella di corrispondenza
+if (file.exists(CODICI_CSV)) {
+  codici_istat <- fread(CODICI_CSV, sep = ";", encoding = "Latin-1", na.strings = character(0)) %>%
+    rename(cod_elettorale = `CODICE ELETTORALE`, cod_istat = `CODICE ISTAT`) %>%
+    mutate(
+      cod_istat = gsub('="([^"]*)"', "\\1", cod_istat),
+      cod_join  = str_sub(as.character(cod_elettorale), -7, -1)
+    ) %>%
+    select(cod_join, cod_istat)
+
+  risultati_comuni <- risultati_comuni %>%
+    mutate(cod_join = paste0(sprintf("%03d", as.integer(cod_provincia)),
+                             sprintf("%04d", as.integer(cod_comune)))) %>%
+    left_join(codici_istat, by = "cod_join") %>%
+    select(-cod_join)
+
+  cat("Comuni con cod_istat:", sum(!is.na(risultati_comuni$cod_istat)), "/", nrow(risultati_comuni), "\n")
+}
+
 fwrite(risultati_comuni,    file.path(OUTPUT_DIR, "risultati_comuni.csv"))
 fwrite(risultati_province,  file.path(OUTPUT_DIR, "risultati_province.csv"))
 fwrite(risultati_regioni,   file.path(OUTPUT_DIR, "risultati_regioni.csv"))
