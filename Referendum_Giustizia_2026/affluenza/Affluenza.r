@@ -96,7 +96,7 @@ for (idx in 1:nrow(df_province)) {
             vot_t         = cv$vot_t,
             vot_m         = cv$vot_m,
             vot_f         = cv$vot_f,
-            perc          = as.numeric(cv$perc),
+            perc          = cv$perc,
             stringsAsFactors = FALSE
           )
         )
@@ -109,7 +109,7 @@ for (idx in 1:nrow(df_province)) {
           row_wide[[paste0("vot_t_com", j)]] <- cv$vot_t[j]
           row_wide[[paste0("vot_m_com", j)]] <- cv$vot_m[j]
           row_wide[[paste0("vot_f_com", j)]] <- cv$vot_f[j]
-          row_wide[[paste0("perc_com",  j)]] <- as.numeric(cv$perc[j])
+          row_wide[[paste0("perc_com",  j)]] <- cv$perc[j]
         }
         all_comuni_wide[[length(all_comuni_wide) + 1]] <- row_wide
       }
@@ -135,7 +135,7 @@ cat("Comuni (long):", nrow(affluenza_comuni_long), "righe | (wide):", nrow(afflu
 # 3. JOIN CODICI ISTAT
 # ==============================================================================
 
-codici <- fread("../codici_comuni_15-03-2026.csv") %>%
+codici <- fread("/Users/lorenzoruffino/Documents/Progetti/data-viz/Referendum_Giustizia_2026/codici_comuni_15-03-2026.csv") %>%
   rename(cod_elettorale = `CODICE ELETTORALE`,
          cod_istat      = `CODICE ISTAT`,
          cod_catastale  = `CODICE BELFIORE`) %>%
@@ -184,6 +184,7 @@ affluenza_nazionale <- agg_cols(affluenza_comuni_long)
 # 5. SALVATAGGIO CSV
 # ==============================================================================
 
-fwrite(affluenza_comuni_long, "affluenza_comuni_long.csv")
-fwrite(affluenza_comuni_wide, "affluenza_comuni_wide.csv")
+script_dir <- "/Users/lorenzoruffino/Documents/Progetti/data-viz/Referendum_Giustizia_2026/affluenza"
+fwrite(affluenza_comuni_long, file.path(script_dir, "affluenza_comuni_long.csv"))
+fwrite(affluenza_comuni_wide, file.path(script_dir, "affluenza_comuni_wide.csv"))
 cat("CSV salvati in affluenza/\n")

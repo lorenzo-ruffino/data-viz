@@ -14,11 +14,13 @@ SCHEDA        <- "01"
 N_WORKERS     <- 4L
 MAX_RETRY     <- 3L
 
+OUTPUT_DIR <- "/Users/lorenzoruffino/Documents/Progetti/data-viz/Referendum_Giustizia_2026/risultati"
+
 # ==============================================================================
-# 1. LISTA COMUNI CON sz_tot (sempre fresca da API via Risultati.r)
+# 1. LISTA COMUNI CON sz_tot (da CSV già estratto)
 # ==============================================================================
 
-source("Risultati.r")
+risultati_comuni <- fread(file.path(OUTPUT_DIR, "risultati_comuni.csv"))
 
 comuni_base <- risultati_comuni %>%
   select(cod_regione, desc_regione, cod_provincia, desc_provincia,
@@ -73,8 +75,8 @@ fetch_sezione <- function(row_list) {
     'https://eleapi.interno.gov.it/siel/PX/scrutiniFI/DE/',
     row_list$DATE, '/TE/', row_list$TIPO_ELEZIONE,
     '/SK/', row_list$SCHEDA,
-    '/PR/', row_list$cod_provincia,
-    '/CM/', row_list$cod_comune,
+    '/PR/', sprintf("%03d", as.integer(row_list$cod_provincia)),
+    '/CM/', sprintf("%04d", as.integer(row_list$cod_comune)),
     '/SZ/', row_list$cod_sezione
   )
 
@@ -148,14 +150,14 @@ fetch_sezione <- function(row_list) {
           vot_t          = sch$vot_t,
           vot_m          = sch$vot_m,
           vot_f          = sch$vot_f,
-          perc_vot       = as.numeric(sch$perc_vot),
+          perc_vot       = as.numeric(gsub(",", ".", sch$perc_vot)),
           sk_bianche     = sch$sk_bianche,
           sk_nulle       = sch$sk_nulle,
           sk_contestate  = sch$sk_contestate,
           voti_si        = sch$voti_si,
           voti_no        = sch$voti_no,
-          perc_si        = as.numeric(sch$perc_si),
-          perc_no        = as.numeric(sch$perc_no),
+          perc_si        = as.numeric(gsub(",", ".", sch$perc_si)),
+          perc_no        = as.numeric(gsub(",", ".", sch$perc_no)),
           dt_agg         = as.character(sch$dt_agg),
           stato          = "ok",
           stringsAsFactors = FALSE
@@ -186,7 +188,9 @@ sezioni_input <- lapply(1:nrow(df_sezioni), function(i) {
 cat("Avvio fetch parallelo con", N_WORKERS, "worker...\n")
 t0 <- proc.time()
 
-risultati_raw <- mclapply(sezioni_input, fetch_sezione, mc.cores = N_WORKERS)
+cl <- makeCluster(N_WORKERS)
+risultati_raw <- parLapply(cl, sezioni_input, fetch_sezione)
+stopCluster(cl)
 
 elapsed <- round((proc.time() - t0)["elapsed"])
 cat("Completato in", elapsed, "secondi\n")
@@ -202,5 +206,5 @@ cat("Sezioni totali:", nrow(risultati_sezioni), "\n")
 # 3. SALVATAGGIO
 # ==============================================================================
 
-fwrite(risultati_sezioni, "risultati_sezioni.csv")
+fwrite(risultati_sezioni, file.path(OUTPUT_DIR, "risultati_sezioni.csv"))
 cat("CSV salvato: risultati_sezioni.csv\n")

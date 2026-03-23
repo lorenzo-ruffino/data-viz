@@ -14,6 +14,8 @@ SCHEDA        <- "01"
 N_WORKERS     <- 4L
 MAX_RETRY     <- 3L
 
+OUTPUT_DIR <- "/Users/lorenzoruffino/Documents/Progetti/data-viz/Referendum_Giustizia_2026/risultati"
+
 headers <- c(
   'accept'            = 'application/json, text/plain, */*',
   'accept-language'   = 'en-US,en;q=0.6',
@@ -44,7 +46,7 @@ df_er <- data_enti %>% filter(tipo == "ER") %>%
          desc_rip = desc)
 
 df_na <- data_enti %>% filter(tipo == "NA") %>%
-  mutate(cod_rip  = substr(cod, 1, 1),
+  mutate(cod_rip  = sprintf("%02d", as.integer(substr(cod, 1, 1))),
          cod_naz  = substr(cod, 2, 4),
          desc_naz = desc) %>%
   left_join(df_er %>% select(cod_rip, desc_rip), by = "cod_rip")
@@ -61,14 +63,14 @@ parse_scheda <- function(data) {
   list(
     sz_perv       = if (!is.null(sch)) sch$sz_perv    else NA_integer_,
     vot_t         = if (!is.null(sch)) sch$vot_t      else NA_integer_,
-    perc_vot      = as.numeric(sch$perc_vot),
+    perc_vot      = as.numeric(gsub(",", ".", sch$perc_vot)),
     sk_bianche    = if (!is.null(sch)) sch$sk_bianche else NA_integer_,
     sk_nulle      = if (!is.null(sch)) sch$sk_nulle   else NA_integer_,
     sk_contestate = if (!is.null(sch)) sch$sk_contestate else NA_integer_,
     voti_si       = if (!is.null(sch)) sch$voti_si    else NA_integer_,
     voti_no       = if (!is.null(sch)) sch$voti_no    else NA_integer_,
-    perc_si       = as.numeric(sch$perc_si),
-    perc_no       = as.numeric(sch$perc_no),
+    perc_si       = as.numeric(gsub(",", ".", sch$perc_si)),
+    perc_no       = as.numeric(gsub(",", ".", sch$perc_no)),
     dt_agg        = as.character(sch$dt_agg)
   )
 }
@@ -210,14 +212,14 @@ fetch_paese <- function(row_list) {
         sz_tot        = d$int$sz_tot,
         sz_perv       = if (!is.null(sch)) sch$sz_perv    else NA_integer_,
         vot_t         = if (!is.null(sch)) sch$vot_t      else NA_integer_,
-        perc_vot      = if (!is.null(sch)) as.numeric(sch$perc_vot) else NA_real_,
+        perc_vot      = if (!is.null(sch)) as.numeric(gsub(",", ".", sch$perc_vot)) else NA_real_,
         sk_bianche    = if (!is.null(sch)) sch$sk_bianche else NA_integer_,
         sk_nulle      = if (!is.null(sch)) sch$sk_nulle   else NA_integer_,
         sk_contestate = if (!is.null(sch)) sch$sk_contestate else NA_integer_,
         voti_si       = if (!is.null(sch)) sch$voti_si    else NA_integer_,
         voti_no       = if (!is.null(sch)) sch$voti_no    else NA_integer_,
-        perc_si       = if (!is.null(sch)) as.numeric(sch$perc_si) else NA_real_,
-        perc_no       = if (!is.null(sch)) as.numeric(sch$perc_no) else NA_real_,
+        perc_si       = if (!is.null(sch)) as.numeric(gsub(",", ".", sch$perc_si)) else NA_real_,
+        perc_no       = if (!is.null(sch)) as.numeric(gsub(",", ".", sch$perc_no)) else NA_real_,
         dt_agg        = if (!is.null(sch)) as.character(sch$dt_agg) else NA_character_,
         stato         = "ok",
         stringsAsFactors = FALSE
@@ -251,7 +253,7 @@ print(table(risultati_paesi$stato))
 # 6. SALVATAGGIO
 # ==============================================================================
 
-fwrite(risultati_paesi,       "risultati_estero.csv")
-fwrite(risultati_ripartizioni,"risultati_estero_ripartizioni.csv")
+fwrite(risultati_paesi,        file.path(OUTPUT_DIR, "risultati_estero.csv"))
+fwrite(risultati_ripartizioni, file.path(OUTPUT_DIR, "risultati_estero_ripartizioni.csv"))
 cat("CSV salvati: risultati_estero.csv (", nrow(risultati_paesi), "paesi) |",
     "risultati_estero_ripartizioni.csv (", nrow(risultati_ripartizioni), "ripartizioni)\n")
