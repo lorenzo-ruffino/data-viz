@@ -401,3 +401,190 @@ ggplot() +
     )
 dev.off()
 cat("Salvata: grafici/mappa_estero.png\n")
+
+# ==============================================================================
+# RISULTATI PER GRADO DI URBANIZZAZIONE
+# ==============================================================================
+
+library(readxl)
+
+CLASSIF_XLSX <- file.path(PROJ_DIR, "utilities", "Classificazioni statistiche-e-dimensione-dei-comuni_01_01_2026.xlsx")
+
+comuni_class <- read_excel(CLASSIF_XLSX, sheet = 1) %>%
+  select(codice_istat = 2, urbaniz = `Grado di urbanizzazione 2021`) %>%
+  mutate(
+    codice_istat = as.character(as.integer(codice_istat)),
+    urbaniz      = as.character(as.integer(urbaniz))
+  ) %>%
+  filter(!is.na(urbaniz))
+
+urbaniz_label <- c(
+  "1" = "Città,\nzone\nurbane",
+  "2" = "Cittadine,\nzone\nsuburbane",
+  "3" = "Zone\nrurali"
+)
+
+risultati_comuni <- fread(file.path(PROJ_DIR, "risultati", "risultati_comuni.csv"))
+
+urb_data <- risultati_comuni %>%
+  filter(stato == "ok", !is.na(cod_istat)) %>%
+  mutate(codice_istat = as.character(as.integer(cod_istat))) %>%
+  inner_join(comuni_class, by = "codice_istat") %>%
+  group_by(urbaniz) %>%
+  summarise(
+    ele_t    = sum(ele_t,    na.rm = TRUE),
+    vot_t    = sum(vot_t,    na.rm = TRUE),
+    voti_si  = sum(voti_si,  na.rm = TRUE),
+    voti_no  = sum(voti_no,  na.rm = TRUE),
+    .groups  = "drop"
+  ) %>%
+  mutate(
+    perc_si  = voti_si / (voti_si + voti_no),
+    perc_no  = voti_no / (voti_si + voti_no),
+    perc_vot = vot_t / ele_t,
+    label    = factor(urbaniz_label[urbaniz],
+                      levels = rev(urbaniz_label))  # città in alto
+  )
+
+# Formato long per barre Sì/No
+urb_long <- urb_data %>%
+  select(label, perc_si, perc_no) %>%
+  tidyr::pivot_longer(cols = c(perc_si, perc_no),
+                      names_to = "voto", values_to = "perc") %>%
+  mutate(
+    voto     = factor(voto, levels = c("perc_no", "perc_si")),
+    perc_txt = paste0(round(perc * 100, 1), "%"),
+    colore   = ifelse(voto == "perc_si", "#0478EA", "#E74C3C")
+  )
+
+library(ggtext)
+
+png(file.path(PROJ_DIR, "grafici", "risultati_urbanizzazione.png"),
+    width = 6, height = 6, units = "in", res = 300)
+
+ggplot(urb_long, aes(y = label, x = perc, fill = colore)) +
+  geom_col(width = 0.55, position = "stack") +
+  geom_text(aes(label = perc_txt),
+            position = position_stack(vjust = 0.5),
+            family = "Source Sans Pro", size = 4, color = "white", fontface = "bold") +
+  scale_fill_identity() +
+  scale_x_continuous(expand = expansion(mult = c(0, 0))) +
+  theme_minimal() +
+  theme(
+    text               = element_text(family = "Source Sans Pro"),
+    panel.grid         = element_blank(),
+    axis.title         = element_blank(),
+    axis.text.y        = element_text(size = 15, color = "#1C1C1C", lineheight = 1.1),
+    axis.text.x        = element_blank(),
+    legend.position    = "none",
+    plot.title.position = "plot",
+    plot.title         = element_text(size = 20, color = "#1C1C1C", hjust = 0,
+                                      margin = margin(b = 5)),
+    plot.subtitle      = element_markdown(size = 12, color = "#1C1C1C", hjust = 0,
+                                          lineheight = 1.3,
+                                          margin = margin(t = 0, b = 4)),
+    plot.caption       = element_text(size = 11, color = "#1C1C1C", hjust = 1,
+                                      margin = margin(t = 4)),
+    plot.margin        = unit(c(0.5, 0.5, 0.4, 0.5), "cm")
+  ) +
+  labs(
+    title    = "Come le città hanno votato No",
+    subtitle = "Voti <span style='color:#0478EA;font-weight:bold;'>a favore</span> e <span style='color:#E74C3C;font-weight:bold;'>contro</span> la riforma costituzionale al referendum del 22–23 marzo 2026",
+    caption  = "Elaborazione di Lorenzo Ruffino | Fonte: Ministero dell'Interno, Istat"
+  )
+
+dev.off()
+cat("Salvata: grafici/risultati_urbanizzazione.png\n")
+
+# ==============================================================================
+# RISULTATI PER URBANIZZAZIONE × MACRO-AREA (Nord / Centro / Mezzogiorno)
+# ==============================================================================
+
+macro_area <- c(
+  "01" = "Nord", "02" = "Nord", "03" = "Nord", "04" = "Nord",
+  "05" = "Nord", "06" = "Nord", "07" = "Nord", "08" = "Nord",
+  "09" = "Centro", "10" = "Centro", "11" = "Centro", "12" = "Centro",
+  "13" = "Mezzogiorno", "14" = "Mezzogiorno", "15" = "Mezzogiorno",
+  "16" = "Mezzogiorno", "17" = "Mezzogiorno", "18" = "Mezzogiorno",
+  "19" = "Mezzogiorno", "20" = "Mezzogiorno"
+)
+
+urb_macro <- risultati_comuni %>%
+  filter(stato == "ok", !is.na(cod_istat)) %>%
+  mutate(
+    codice_istat = as.character(as.integer(cod_istat)),
+    area         = macro_area[sprintf("%02d", as.integer(cod_regione))]
+  ) %>%
+  filter(!is.na(area)) %>%
+  inner_join(comuni_class, by = "codice_istat") %>%
+  group_by(area, urbaniz) %>%
+  summarise(
+    voti_si = sum(voti_si, na.rm = TRUE),
+    voti_no = sum(voti_no, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    perc_si = voti_si / (voti_si + voti_no),
+    perc_no = voti_no / (voti_si + voti_no),
+    label   = factor(urbaniz_label[urbaniz], levels = rev(urbaniz_label)),
+    area    = factor(area, levels = c("Nord", "Centro", "Mezzogiorno"))
+  )
+
+urb_macro_long <- urb_macro %>%
+  select(area, label, perc_si, perc_no) %>%
+  pivot_longer(cols = c(perc_si, perc_no), names_to = "voto", values_to = "perc") %>%
+  mutate(
+    voto     = factor(voto, levels = c("perc_no", "perc_si")),
+    perc_txt = paste0(round(perc * 100, 1), "%"),
+    colore   = ifelse(voto == "perc_si", "#0478EA", "#E74C3C")
+  )
+
+# Etichette area da posizionare sopra la prima barra di ogni pannello
+area_labels <- urb_macro_long %>%
+  distinct(area) %>%
+  mutate(label = factor(rev(urbaniz_label)[1], levels = rev(urbaniz_label)),
+         x = 0.5, perc_txt = as.character(area), colore = NA_character_)
+
+png(file.path(PROJ_DIR, "grafici", "risultati_urbanizzazione_area.png"),
+    width = 8.5, height = 8, units = "in", res = 300)
+
+ggplot(urb_macro_long, aes(y = label, x = perc, fill = colore)) +
+  geom_col(width = 0.8, position = "stack") +
+  geom_text(data = area_labels, aes(y = 3.55, x = 0.5, label = area),
+            inherit.aes = FALSE, family = "Source Sans Pro", size = 4.5,
+            fontface = "bold", color = "#1C1C1C", vjust = 0) +
+  geom_text(aes(label = perc_txt),
+            position = position_stack(vjust = 0.5),
+            family = "Source Sans Pro", size = 3.2, color = "white", fontface = "bold") +
+  scale_fill_identity() +
+  scale_x_continuous(expand = expansion(mult = c(0, 0))) +
+  scale_y_discrete(expand = expansion(add = c(0.6, 0.9))) +
+  coord_cartesian(clip = "off") +
+  facet_wrap(~ area, nrow = 1) +
+  theme_minimal() +
+  theme(
+    text               = element_text(family = "Source Sans Pro"),
+    panel.grid         = element_blank(),
+    axis.title         = element_blank(),
+    axis.text.y        = element_text(size = 12, color = "#1C1C1C", lineheight = 1.1),
+    axis.text.x        = element_blank(),
+    legend.position    = "none",
+    strip.text         = element_blank(),
+    panel.spacing      = unit(0.8, "cm"),
+    plot.title.position = "plot",
+    plot.title         = element_text(size = 20, color = "#1C1C1C", hjust = 0,
+                                      margin = margin(b = 5)),
+    plot.subtitle      = element_markdown(size = 12, color = "#1C1C1C", hjust = 0,
+                                          lineheight = 1.3, margin = margin(t = 0, b = -20)),
+    plot.caption       = element_text(size = 11, color = "#1C1C1C", hjust = 1,
+                                      margin = margin(t = 1)),
+    plot.margin        = unit(c(0.5, 0.5, 0.3, 0.5), "cm")
+  ) +
+  labs(
+    title    = "Come le città hanno votato No, per area geografica",
+    subtitle = "Voti <span style='color:#0478EA;font-weight:bold;'>a favore</span> e <span style='color:#E74C3C;font-weight:bold;'>contro</span> la riforma costituzionale al referendum del 22–23 marzo 2026",
+    caption  = "Elaborazione di Lorenzo Ruffino | Fonte: Ministero dell'Interno, Istat"
+  )
+
+dev.off()
+cat("Salvata: grafici/risultati_urbanizzazione_area.png\n")
