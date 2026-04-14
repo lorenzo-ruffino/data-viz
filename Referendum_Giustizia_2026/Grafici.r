@@ -588,3 +588,77 @@ ggplot(urb_macro_long, aes(y = label, x = perc, fill = colore)) +
 
 dev.off()
 cat("Salvata: grafici/risultati_urbanizzazione_area.png\n")
+
+# ==============================================================================
+# MAPPA COMUNI IN PAREGGIO
+# ==============================================================================
+
+geo26 <- st_read(file.path(PROJ_DIR, "utilities", "Com01012026_g_WGS84.json"), quiet = TRUE) %>%
+    st_make_valid()
+
+# Confini provinciali e regionali aggregati
+province26 <- geo26 %>%
+    group_by(COD_PROV) %>%
+    summarise(geometry = st_union(geometry), .groups = "drop")
+
+regioni26 <- geo26 %>%
+    group_by(COD_REG) %>%
+    summarise(geometry = st_union(geometry), .groups = "drop")
+
+# Centroidi per i cerchi
+centroidi26 <- geo26 %>%
+    st_centroid() %>%
+    mutate(
+        lon      = st_coordinates(.)[, 1],
+        lat      = st_coordinates(.)[, 2],
+        cod_istat = as.integer(PRO_COM)
+    ) %>%
+    st_drop_geometry() %>%
+    select(cod_istat, lon, lat)
+
+# Comuni in pareggio: differenza percentuale <= 0.5pp
+comuni_ok <- fread(file.path(PROJ_DIR, "risultati", "risultati_comuni.csv")) %>%
+    filter(stato == "ok", voti_si == voti_no) %>%
+    mutate(cod_istat = as.integer(cod_istat))
+
+pareggio <- comuni_ok %>%
+    inner_join(centroidi26, by = "cod_istat")
+
+cat("Comuni in pareggio esatto:", nrow(pareggio), "\n")
+
+png(file.path(PROJ_DIR, "grafici", "mappa_pareggio.png"), width = 8, height = 8, units = "in", res = 300)
+ggplot() +
+    geom_sf(data = province26, fill = "#F0F0F0", color = "#CCCCCC", linewidth = 0.2) +
+    geom_sf(data = regioni26,  fill = NA,        color = "#888888", linewidth = 0.55) +
+    geom_point(
+        data  = pareggio,
+        aes(x = lon, y = lat, size = vot_t),
+        shape = 21, fill = "#F4A7B9", color = "white", stroke = 0.3, alpha = 0.85
+    ) +
+    scale_size_continuous(
+        name   = "Votanti",
+        range  = c(0.3, 5),
+        breaks = c(100, 300, 700),
+        labels = function(x) formatC(x, format = "d", big.mark = "\u2009")
+    ) +
+    guides(
+        size = guide_legend(override.aes = list(fill = "#F4A7B9", color = "white", stroke = 0.3))
+    ) +
+    coord_sf(expand = FALSE) +
+    theme_map() +
+    theme(
+        legend.position        = "inside",
+        legend.position.inside = c(0.87, 0.78),
+        legend.key.size        = unit(0.5, "cm"),
+        plot.subtitle          = element_text(size = 11, color = "#1C1C1C", hjust = 0,
+                                              lineheight = 1.3,
+                                              margin = margin(t = 2, b = 4, unit = "pt"))
+    ) +
+    labs(
+        title    = "Dove Sì e No hanno pareggiato",
+        subtitle = "Comuni in cui Sì e No hanno ottenuto esattamente lo stesso numero di voti\nReferendum costituzionale del 22–23 marzo 2026",
+        caption  = "Elaborazione di Lorenzo Ruffino | Fonte: Ministero dell'Interno",
+        x = NULL, y = NULL
+    )
+dev.off()
+cat("Salvata: grafici/mappa_pareggio.png\n")
