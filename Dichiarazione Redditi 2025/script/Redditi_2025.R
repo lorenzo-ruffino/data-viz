@@ -2,14 +2,14 @@
 # Dichiarazione Redditi 2025 (anno d'imposta 2024)
 # Confronto con Dichiarazione 2024 (anno d'imposta 2023)
 # Variazioni REALI: deflazione del valore precedente con
-# inflazione 2023 -> 2024 = 1.014
+# inflazione 2023 -> 2024 = 1.008 (FOI senza tabacchi, ISTAT)
 # ============================================================
 
 library(tidyverse)
 library(data.table)
 library(janitor)
 
-INFLAZIONE <- 1.014
+INFLAZIONE <- 1.008
 
 # Determina la cartella output (..../Dichiarazione Redditi 2025/output)
 script_dir <- tryCatch({
