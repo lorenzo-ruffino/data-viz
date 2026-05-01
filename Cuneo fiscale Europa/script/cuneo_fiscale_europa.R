@@ -97,6 +97,11 @@ caption_fonte <- "Elaborazione di Lorenzo Ruffino su dati Eurostat (earn_nt_net)
 
 # --- Etichette ----------------------------------------------------------------
 
+# Per le linee tratteggiate dei livelli salariali: ordina i punti per
+# rapporto crescente, così le linee salgono sempre (mai un segmento che
+# scende) e terminano nel paese con il cuneo più alto a quel livello.
+dat_livelli <- dat %>% arrange(pct, rapporto)
+
 # Etichetta del paese: sul punto al 167% del salario medio
 labels_paese <- dat %>% filter(pct == 167)
 
@@ -116,7 +121,7 @@ png("../output/cuneo_fiscale_europa.png",
     width = 8, height = 7.5, units = "in", res = 220, bg = "white")
 print(
   ggplot(dat, aes(x = GRS, y = rapporto)) +
-    geom_line(aes(group = pct),
+    geom_path(data = dat_livelli, aes(group = pct),
               linetype = "dashed", colour = "#9A9A9A", linewidth = 0.4) +
     geom_line(aes(group = paese, colour = paese),
               linewidth = 0.7) +
