@@ -113,11 +113,13 @@ anno_dato <- max(dat$anno)
 # --- Grafico ------------------------------------------------------------------
 
 png("../output/cuneo_fiscale_europa.png",
-    width = 9, height = 6.8, units = "in", res = 220, bg = "white")
+    width = 8, height = 7.5, units = "in", res = 220, bg = "white")
 print(
   ggplot(dat, aes(x = GRS, y = rapporto)) +
-    geom_line(aes(group = pct), linetype = "dashed",
-              colour = "#9A9A9A", linewidth = 0.4) +
+    geom_line(aes(group = pct),
+              linetype = "dashed", colour = "#9A9A9A", linewidth = 0.4) +
+    geom_line(aes(group = paese, colour = paese),
+              linewidth = 0.7) +
     geom_point(aes(colour = paese), size = 3.6) +
     geom_text_repel(data = labels_paese,
                     aes(label = as.character(paese), colour = paese),
