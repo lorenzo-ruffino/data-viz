@@ -116,8 +116,10 @@ png("../output/cuneo_fiscale_europa.png",
     width = 8, height = 7.5, units = "in", res = 220, bg = "white")
 print(
   ggplot(dat, aes(x = GRS, y = rapporto)) +
+    geom_line(aes(group = pct),
+              linetype = "dashed", colour = "#9A9A9A", linewidth = 0.4) +
     geom_line(aes(group = paese, colour = paese),
-              linetype = "dashed", linewidth = 0.65) +
+              linewidth = 0.7) +
     geom_point(aes(colour = paese), size = 2.4) +
     geom_text_repel(data = labels_paese,
                     aes(label = as.character(paese), colour = paese),
