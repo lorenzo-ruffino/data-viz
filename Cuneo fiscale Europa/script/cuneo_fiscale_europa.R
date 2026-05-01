@@ -138,8 +138,8 @@ print(
       x = "Stipendio netto annuo, a parità di potere d'acquisto (PPS)",
       y = "Costo totale del lavoro per ogni euro di stipendio netto",
       title = "Quanto pesa il fisco sugli stipendi in Europa",
-      subtitle = paste0("Rapporto tra costo totale del lavoro e stipendio netto sull'asse Y e stipendio netto in PPS sull'asse X, single\n",
-                        "senza figli,\nsei livelli salariali (50%, 67%, 80%, 100%, 125% e 167% del salario medio nazionale), anno ", anno_dato),
+      subtitle = paste0("Rapporto tra costo totale del lavoro e stipendio netto sull'asse Y e stipendio netto in PPS sull'asse X, single senza figli,\n",
+                        "sei livelli salariali (50%, 67%, 80%, 100%, 125% e 167% del salario medio nazionale), anno ", anno_dato),
       caption = caption_fonte
     ) +
     theme_linechart() +
