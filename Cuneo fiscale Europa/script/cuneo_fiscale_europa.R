@@ -116,11 +116,9 @@ png("../output/cuneo_fiscale_europa.png",
     width = 8, height = 7.5, units = "in", res = 220, bg = "white")
 print(
   ggplot(dat, aes(x = GRS, y = rapporto)) +
-    geom_line(aes(group = pct),
-              linetype = "dashed", colour = "#9A9A9A", linewidth = 0.4) +
     geom_line(aes(group = paese, colour = paese),
-              linewidth = 0.7) +
-    geom_point(aes(colour = paese), size = 3.6) +
+              linetype = "dashed", linewidth = 0.65) +
+    geom_point(aes(colour = paese), size = 2.4) +
     geom_text_repel(data = labels_paese,
                     aes(label = as.character(paese), colour = paese),
                     nudge_x = 6000, direction = "y", hjust = 0,
@@ -149,13 +147,20 @@ print(
       expand = c(0.02, 0.02)
     ) +
     labs(
-      x = NULL, y = NULL,
+      x = "Stipendio lordo annuo, a parità di potere d'acquisto (PPS)",
+      y = "Costo totale del lavoro per ogni euro di stipendio netto",
       title = "Quanto pesa il fisco sugli stipendi in Europa",
-      subtitle = paste0("Rapporto tra costo totale del lavoro e stipendio netto (asse Y) e stipendio lordo in PPS (asse X), ",
+      subtitle = paste0("Rapporto tra costo totale del lavoro e stipendio netto sull'asse Y e stipendio lordo in PPS sull'asse X, ",
                         "single person\nwithout children, sei livelli salariali (50%, 67%, 80%, 100%, 125% e 167% del salario medio nazionale), anno ", anno_dato),
       caption = caption_fonte
     ) +
     theme_linechart() +
-    theme(legend.position = "none")
+    theme(
+      legend.position = "none",
+      axis.title.x = element_text(size = 11, color = "#1C1C1C", hjust = 0.5,
+                                  margin = margin(t = 0.3, unit = "cm")),
+      axis.title.y = element_text(size = 11, color = "#1C1C1C", hjust = 0.5,
+                                  angle = 90, margin = margin(r = 0.3, unit = "cm"))
+    )
 )
 dev.off()
