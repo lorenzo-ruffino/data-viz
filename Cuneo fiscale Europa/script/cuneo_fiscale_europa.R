@@ -108,13 +108,13 @@ anno_dato <- max(dat$anno)
 png("../output/cuneo_fiscale_europa.png",
     width = 8, height = 7.5, units = "in", res = 220, bg = "white")
 print(
-  ggplot(dat, aes(x = GRS, y = rapporto)) +
+  ggplot(dat, aes(x = NET, y = rapporto)) +
     geom_line(aes(group = paese, colour = paese),
               linewidth = 0.7) +
     geom_point(aes(colour = paese), size = 2.4) +
     geom_text_repel(data = labels_paese,
                     aes(label = as.character(paese), colour = paese),
-                    nudge_x = 6000, direction = "y", hjust = 0,
+                    nudge_x = 3000, direction = "y", hjust = 0,
                     segment.size = 0.3, segment.colour = "#9A9A9A",
                     min.segment.length = 0, point.padding = 0.4,
                     box.padding = 0.4, force = 4, seed = 7,
@@ -124,8 +124,8 @@ print(
     scale_color_manual(values = palette_paesi) +
     scale_x_continuous(
       labels = function(x) paste0(format(x / 1000, big.mark = ".", decimal.mark = ","), "k"),
-      breaks = seq(20000, 100000, by = 20000),
-      limits = c(13000, 115000),
+      breaks = seq(15000, 60000, by = 10000),
+      limits = c(13000, 70000),
       expand = c(0.01, 0.01)
     ) +
     scale_y_continuous(
@@ -135,10 +135,10 @@ print(
       expand = c(0.02, 0.02)
     ) +
     labs(
-      x = "Stipendio lordo annuo, a parità di potere d'acquisto (PPS)",
+      x = "Stipendio netto annuo, a parità di potere d'acquisto (PPS)",
       y = "Costo totale del lavoro per ogni euro di stipendio netto",
       title = "Quanto pesa il fisco sugli stipendi in Europa",
-      subtitle = paste0("Rapporto tra costo totale del lavoro e stipendio netto sull'asse Y e stipendio lordo in PPS sull'asse X, ",
+      subtitle = paste0("Rapporto tra costo totale del lavoro e stipendio netto sull'asse Y e stipendio netto in PPS sull'asse X, ",
                         "persona\nsingola senza figli, sei livelli salariali (50%, 67%, 80%, 100%, 125% e 167% del salario medio nazionale), anno ", anno_dato),
       caption = caption_fonte
     ) +
