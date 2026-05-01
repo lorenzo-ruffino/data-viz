@@ -55,11 +55,11 @@ showtext_auto()
 showtext_opts(dpi = 300)
 
 palette_paesi <- c(
-  "Italia"         = "#0478EA",
+  "Italia"         = "#F12938",
   "Francia"        = "#A82DE3",
-  "Germania"       = "#F12938",
+  "Germania"       = "#1C1C1C",
   "Spagna"         = "#F2A900",
-  "Unione europea" = "#1C1C1C"
+  "Unione europea" = "#0478EA"
 )
 
 theme_linechart <- function(...) {
@@ -97,20 +97,8 @@ caption_fonte <- "Elaborazione di Lorenzo Ruffino su dati Eurostat (earn_nt_net)
 
 # --- Etichette ----------------------------------------------------------------
 
-# Per le linee tratteggiate dei livelli salariali: ordina i punti per
-# rapporto crescente, così le linee salgono sempre (mai un segmento che
-# scende) e terminano nel paese con il cuneo più alto a quel livello.
-dat_livelli <- dat %>% arrange(pct, rapporto)
-
 # Etichetta del paese: sul punto al 167% del salario medio
 labels_paese <- dat %>% filter(pct == 167)
-
-# Etichetta della percentuale di salario: appena prima del punto più a sinistra di ogni livello
-labels_pct <- dat %>%
-  group_by(pct) %>%
-  filter(GRS == min(GRS)) %>%
-  ungroup() %>%
-  mutate(label = paste0(pct, "%"))
 
 anno_dato <- max(dat$anno)
 
@@ -121,8 +109,6 @@ png("../output/cuneo_fiscale_europa.png",
     width = 8, height = 7.5, units = "in", res = 220, bg = "white")
 print(
   ggplot(dat, aes(x = GRS, y = rapporto)) +
-    geom_path(data = dat_livelli, aes(group = pct),
-              linetype = "dashed", colour = "#9A9A9A", linewidth = 0.4) +
     geom_line(aes(group = paese, colour = paese),
               linewidth = 0.7) +
     geom_point(aes(colour = paese), size = 2.4) +
@@ -135,11 +121,6 @@ print(
                     size = 4.2, fontface = "bold",
                     family = "Source Sans Pro",
                     show.legend = FALSE) +
-    geom_text(data = labels_pct,
-              aes(label = label),
-              hjust = 1, nudge_x = -1800, size = 3.6,
-              family = "Source Sans Pro", colour = "#1C1C1C",
-              show.legend = FALSE) +
     scale_color_manual(values = palette_paesi) +
     scale_x_continuous(
       labels = function(x) paste0(format(x / 1000, big.mark = ".", decimal.mark = ","), "k"),
@@ -158,7 +139,7 @@ print(
       y = "Costo totale del lavoro per ogni euro di stipendio netto",
       title = "Quanto pesa il fisco sugli stipendi in Europa",
       subtitle = paste0("Rapporto tra costo totale del lavoro e stipendio netto sull'asse Y e stipendio lordo in PPS sull'asse X, ",
-                        "single person\nwithout children, sei livelli salariali (50%, 67%, 80%, 100%, 125% e 167% del salario medio nazionale), anno ", anno_dato),
+                        "persona\nsingola senza figli, sei livelli salariali (50%, 67%, 80%, 100%, 125% e 167% del salario medio nazionale), anno ", anno_dato),
       caption = caption_fonte
     ) +
     theme_linechart() +
