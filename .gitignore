@@ -33,3 +33,6 @@ Fuori corso università/Iscritti_Fuori_Corso.png
 Densità Popolazione Italia/GrigliaPop2021_Ind_ITA.json
 Elezioni Italia/2025_11_23_Veneto_Regionali/Regionali_AltreRegioni_candidDiLista.txt
 Elezioni Italia/2025_11_23_Veneto_Regionali/Regionali_AltreRegioni_candidDiLista.txt
+
+# Geometrie NUTS scaricate localmente (rigenerabili da YouTrend/Utilities/)
+*/input/NUTS_RG_*.geojson
