@@ -1,0 +1,1 @@
+L'Italia è il paese più anziano dell'Ue nel 2025 con 49,1 anni, media 43,8. Sotto l'Italia Bulgaria e Portogallo (47,3). Tra i tre grandi paesi, Spagna 45,8, Germania 45,5, Francia 42,8. Migliore Irlanda 39,6.
