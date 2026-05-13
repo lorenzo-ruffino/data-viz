@@ -1,0 +1,6 @@
+componente,euro_per_lavoratore,pct_del_calo
+Totale (Δ salario annuo FTE reale 2014→2024),-1795.8189655975002,100
+1. Salario puro (intra-cella settore × tipologia),-825.0270667812329,45.94154993272008
+2. Composizione settoriale pura,-855.1863919565216,47.62096894727839
+3. Composizione contrattuale entro-settore,-115.60550685975728,6.437481120002167
+4. Interazione settore × tipologia,3.552713678800501e-13,-1.9783250688737724e-14

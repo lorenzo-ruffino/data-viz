@@ -1,0 +1,595 @@
+anno,attivita_economica_ateco_2007,tipologia_contrattuale,numero_lavoratori_con_almeno_una_giornata_retribuita_nell_anno,numero_settimane_retribuite_nell_anno,numero_settimane_utili_nell_anno,numero_giornate_retribuite_nell_anno,somma_retribuzioni_nell_anno
+2014,Altre attivita' di servizi,Stagionale,8020,185551,152980,902829,54343818
+2014,Altre attivita' di servizi,Tempo determinato,77505,2264595,1711968,11477911,618102075
+2014,Altre attivita' di servizi,Tempo indeterminato,378802,17454179,14662976,96792738,6703463860
+2014,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,36524,695254,546138,2918832,181441371
+2014,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,62337,1325221,987502,5879096,406438611
+2014,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,91771,3973177,3338401,21948996,1901094959
+2014,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,242044,5893691,5125896,28422713,1914115207
+2014,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,340497,8534909,6074242,39068475,1929124866
+2014,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,732223,30806455,22586543,165242698,9040610304
+2014,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,531,12162,10609,62234,4079678
+2014,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,6525,91091,70849,463674,24114440
+2014,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,37427,1871362,1599098,10872031,623015143
+2014,Attivita' finanziarie e assicurative,Stagionale,269,4167,3149,20373,1550399
+2014,Attivita' finanziarie e assicurative,Tempo determinato,17953,680593,631301,3848559,478736940
+2014,Attivita' finanziarie e assicurative,Tempo indeterminato,505950,25657832,24675157,151824435,24003463074
+2014,Attivita' immobiliari,Stagionale,1171,31026,26080,147870,10228118
+2014,Attivita' immobiliari,Tempo determinato,4878,151246,115503,802767,51616294
+2014,Attivita' immobiliari,Tempo indeterminato,32990,1540472,1275131,8910422,837190600
+2014,Attivita' manifatturiere,Stagionale,34519,731625,678557,3527633,266862480
+2014,Attivita' manifatturiere,Tempo determinato,319220,10427771,9511071,55301139,4067021374
+2014,Attivita' manifatturiere,Tempo indeterminato,3318108,161344734,153803121,922218303,93142733179
+2014,"Attivita' professionali, scientifiche e tecniche",Stagionale,2345,46206,35669,227981,14080032
+2014,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,58675,1691223,1440156,8697843,649146540
+2014,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,361071,17357406,15034071,100510966,8788094560
+2014,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,15107,375709,320635,1831724,117951059
+2014,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,284463,8598543,6688864,45103355,2714679552
+2014,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,1826858,86995995,75123557,499732921,40640562689
+2014,Costruzioni,Stagionale,872,19635,18102,92537,6502521
+2014,Costruzioni,Tempo determinato,190090,4621328,4370974,22602705,1728998148
+2014,Costruzioni,Tempo indeterminato,779718,32572612,31161856,173932185,14595556000
+2014,Estrazione di minerali da cave e miniere,Stagionale,61,1450,1372,7322,556307
+2014,Estrazione di minerali da cave e miniere,Tempo determinato,3170,116651,113385,631925,72076445
+2014,Estrazione di minerali da cave e miniere,Tempo indeterminato,43378,2156677,2122452,12468227,1874449531
+2014,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,491,10669,9179,55496,3852668
+2014,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,14228,460007,406274,2491661,180486186
+2014,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,138665,6959671,6747439,40928198,4135974030
+2014,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,3,131,123,754,72028
+2014,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,1293,47352,44109,262999,27395711
+2014,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,82085,4153201,4111208,24654673,3767674005
+2014,Istruzione,Stagionale,1643,37763,21907,155553,7198453
+2014,Istruzione,Tempo determinato,329760,10492232,9779760,56987636,3770642546
+2014,Istruzione,Tempo indeterminato,142711,6711255,5548572,38036768,2455814281
+2014,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,21541,444218,358680,2128770,127963870
+2014,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,566479,15884606,13060639,80475961,5003392673
+2014,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,825251,38746671,30553877,219143932,13977090729
+2014,Sanita' e assistenza sociale,Stagionale,653,17325,11089,86112,4050602
+2014,Sanita' e assistenza sociale,Tempo determinato,111889,3735675,2861621,19915436,1199914050
+2014,Sanita' e assistenza sociale,Tempo indeterminato,545831,26595171,22312420,151486085,10257640024
+2014,Servizi di informazione e comunicazione,Stagionale,6333,76544,69092,314643,37960142
+2014,Servizi di informazione e comunicazione,Tempo determinato,71458,1328278,1188537,6626992,593844785
+2014,Servizi di informazione e comunicazione,Tempo indeterminato,406285,20048254,18626516,116630614,13567787426
+2014,Trasporto e magazzinaggio,Stagionale,10096,284640,237073,1448292,110806550
+2014,Trasporto e magazzinaggio,Tempo determinato,144182,4409472,3863580,22279243,1795687046
+2014,Trasporto e magazzinaggio,Tempo indeterminato,816398,39660825,37598857,226964367,21465445596
+2015,Altre attivita' di servizi,Stagionale,8497,187983,154560,929277,55498779
+2015,Altre attivita' di servizi,Tempo determinato,64246,1789137,1352915,9073556,503653429
+2015,Altre attivita' di servizi,Tempo indeterminato,396730,17720082,14718883,98642442,6826536454
+2015,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,37968,663870,528384,3016507,199606928
+2015,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,64626,1266598,1022807,6191133,673469792
+2015,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,104816,4180032,3517099,23463417,1969034412
+2015,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,239861,5783212,5027640,28062465,1911419530
+2015,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,296433,7151968,5117614,32960909,1649076624
+2015,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,826471,33627438,24566447,181659033,9955678079
+2015,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,532,12572,11184,64895,4176466
+2015,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,6173,80837,63572,405467,21382402
+2015,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,37240,1843070,1571796,10717515,614211852
+2015,Attivita' finanziarie e assicurative,Stagionale,82,1926,1580,9574,712558
+2015,Attivita' finanziarie e assicurative,Tempo determinato,14461,527875,488953,2983765,364511940
+2015,Attivita' finanziarie e assicurative,Tempo indeterminato,511517,25764782,24744393,152513732,24170041838
+2015,Attivita' immobiliari,Stagionale,1353,36859,31387,177178,12488508
+2015,Attivita' immobiliari,Tempo determinato,4082,119436,91146,627320,41572444
+2015,Attivita' immobiliari,Tempo indeterminato,38927,1674802,1364811,9657192,885991354
+2015,Attivita' manifatturiere,Stagionale,34862,715898,664109,3462637,265217094
+2015,Attivita' manifatturiere,Tempo determinato,264990,8232265,7507107,43540091,3308882709
+2015,Attivita' manifatturiere,Tempo indeterminato,3416215,164795290,156895188,946234966,97166194911
+2015,"Attivita' professionali, scientifiche e tecniche",Stagionale,2477,52323,40834,258515,16336061
+2015,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,50435,1355545,1166198,6977803,559529164
+2015,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,401574,18259153,15753923,105490302,9280123270
+2015,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,15432,385635,328637,1886685,122792499
+2015,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,248435,7248669,5594445,38023239,2310133251
+2015,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,1937985,89769017,76998838,516135432,42060032254
+2015,Costruzioni,Stagionale,804,17327,16225,84050,5925426
+2015,Costruzioni,Tempo determinato,161007,3769540,3571188,18452851,1444925265
+2015,Costruzioni,Tempo indeterminato,805422,33176797,31700383,178185818,15118450553
+2015,Estrazione di minerali da cave e miniere,Stagionale,45,865,828,4329,339774
+2015,Estrazione di minerali da cave e miniere,Tempo determinato,2439,88117,85745,481423,56300896
+2015,Estrazione di minerali da cave e miniere,Tempo indeterminato,42897,2121360,2086469,12302523,1907025355
+2015,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,506,11262,9779,57254,4109718
+2015,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,13711,425883,372837,2299964,167884129
+2015,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,146061,7233492,6992156,42483736,4330927913
+2015,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,5,126,66,670,26485
+2015,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,999,36643,34041,205610,21947646
+2015,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,79935,4049522,4002376,24064927,3733449529
+2015,Istruzione,Stagionale,1577,31396,20978,150338,7791238
+2015,Istruzione,Tempo determinato,314346,10100261,9467825,55505865,3729302385
+2015,Istruzione,Tempo indeterminato,157629,7106546,5807695,40193151,2574412509
+2015,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,25051,504100,398453,2421010,144232240
+2015,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,545899,14423905,11833332,72492609,4566362431
+2015,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,915199,41949234,33199388,237351641,15265803731
+2015,Sanita' e assistenza sociale,Stagionale,608,12634,7763,63513,2745651
+2015,Sanita' e assistenza sociale,Tempo determinato,105110,3359860,2557322,17916196,1090466929
+2015,Sanita' e assistenza sociale,Tempo indeterminato,599331,28180780,23470166,160320738,10771640602
+2015,Servizi di informazione e comunicazione,Stagionale,7260,59671,56435,246035,31539271
+2015,Servizi di informazione e comunicazione,Tempo determinato,73807,1117872,1003765,5435659,545538659
+2015,Servizi di informazione e comunicazione,Tempo indeterminato,431207,20454001,18988760,119544883,14008128094
+2015,Trasporto e magazzinaggio,Stagionale,8782,238578,202425,1222777,97506219
+2015,Trasporto e magazzinaggio,Tempo determinato,134892,4088426,3605830,20798958,1723086435
+2015,Trasporto e magazzinaggio,Tempo indeterminato,861379,41310017,39029985,236276794,22464886325
+2016,Altre attivita' di servizi,Stagionale,8591,191888,155712,943548,56504661
+2016,Altre attivita' di servizi,Tempo determinato,72236,2061368,1536457,10536128,575995323
+2016,Altre attivita' di servizi,Tempo indeterminato,387546,17912693,14745804,100318122,6890727177
+2016,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,37489,660449,521917,3046285,202817377
+2016,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,68789,1394867,1114200,6894223,725515551
+2016,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,102234,4418137,3707656,25041297,2051395295
+2016,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,234938,5742514,4986571,28061711,1934900766
+2016,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,365414,9005873,6382977,42260582,2110565995
+2016,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,818383,35002415,25573903,191559959,10535139103
+2016,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,504,12071,10690,62424,4120135
+2016,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,6502,87319,68447,441323,23197424
+2016,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,36289,1814266,1546621,10569892,606130477
+2016,Attivita' finanziarie e assicurative,Stagionale,93,2110,1706,10262,779960
+2016,Attivita' finanziarie e assicurative,Tempo determinato,13848,509388,466761,2870191,331346185
+2016,Attivita' finanziarie e assicurative,Tempo indeterminato,514874,26139424,25006831,154762336,24626632767
+2016,Attivita' immobiliari,Stagionale,1518,41504,35224,202501,14198084
+2016,Attivita' immobiliari,Tempo determinato,4494,132182,99050,701717,46371812
+2016,Attivita' immobiliari,Tempo indeterminato,39853,1865824,1499912,10813644,958959525
+2016,Attivita' manifatturiere,Stagionale,33331,710645,654860,3399878,255987678
+2016,Attivita' manifatturiere,Tempo determinato,299742,9534301,8647675,50482377,3792085323
+2016,Attivita' manifatturiere,Tempo indeterminato,3382670,166599498,158453448,962202807,99203925549
+2016,"Attivita' professionali, scientifiche e tecniche",Stagionale,2383,49603,38796,251428,15631263
+2016,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,61845,1663086,1412714,8541970,642147020
+2016,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,407214,19461631,16748185,112774220,9972593409
+2016,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,15623,385512,326828,1895073,123287459
+2016,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,297543,8822280,6738945,46475710,2797434245
+2016,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,1928398,92421564,79127834,533470716,43870975291
+2016,Costruzioni,Stagionale,584,11717,10895,55779,3794219
+2016,Costruzioni,Tempo determinato,182564,4426932,4181862,21761396,1680241440
+2016,Costruzioni,Tempo indeterminato,751628,32890873,31334108,178987997,15109774427
+2016,Estrazione di minerali da cave e miniere,Stagionale,68,1445,1373,7031,535581
+2016,Estrazione di minerali da cave e miniere,Tempo determinato,2197,73122,69813,390888,43994027
+2016,Estrazione di minerali da cave e miniere,Tempo indeterminato,41141,2056222,2021668,11927863,1853038563
+2016,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,386,8683,7855,44814,3151037
+2016,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,15153,484003,422106,2607656,188040788
+2016,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,146185,7325154,7078749,43054614,4384332600
+2016,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,1,14,4,36,2391
+2016,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,1008,35925,32830,200468,19876542
+2016,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,79567,4019280,3969770,23864969,3750065658
+2016,Istruzione,Stagionale,2101,47443,28533,237243,10470224
+2016,Istruzione,Tempo determinato,333591,10365978,9637133,57279708,3995207717
+2016,Istruzione,Tempo indeterminato,153653,7229886,5883696,41014489,2642857077
+2016,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,21479,448838,363813,2157372,130572506
+2016,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,625803,17120855,14075347,85939562,5406428067
+2016,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,910396,43213076,34258749,245527425,15887021061
+2016,Sanita' e assistenza sociale,Stagionale,593,11200,7089,56811,2525610
+2016,Sanita' e assistenza sociale,Tempo determinato,130156,4240013,3215485,22603394,1403041489
+2016,Sanita' e assistenza sociale,Tempo indeterminato,610258,29516849,24493161,168063408,11264527939
+2016,Servizi di informazione e comunicazione,Stagionale,5029,46528,43275,197155,22937509
+2016,Servizi di informazione e comunicazione,Tempo determinato,76165,1206261,1070916,5868346,575824550
+2016,Servizi di informazione e comunicazione,Tempo indeterminato,426494,21021313,19661960,122756267,14455517940
+2016,Trasporto e magazzinaggio,Stagionale,9415,259979,224140,1322748,105507321
+2016,Trasporto e magazzinaggio,Tempo determinato,166149,5110147,4503027,25938370,2087530628
+2016,Trasporto e magazzinaggio,Tempo indeterminato,866206,42311365,39998197,242688833,23065531253
+2017,Altre attivita' di servizi,Stagionale,9441,216134,175659,1065080,62614817
+2017,Altre attivita' di servizi,Tempo determinato,96296,2849629,2084208,14483285,758323296
+2017,Altre attivita' di servizi,Tempo indeterminato,374344,17520439,14385092,98223722,6766707041
+2017,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,43838,789349,614332,3561606,231776741
+2017,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,84189,1743523,1361131,8504782,824897317
+2017,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,102523,4502760,3801844,25521102,2185633907
+2017,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,263989,6558579,5619223,31585133,2137398406
+2017,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,563872,14299575,10052599,64976770,3069739238
+2017,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,800862,34866029,25538559,190773521,10526483335
+2017,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,477,11123,9677,56586,3715609
+2017,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,6867,99600,76683,505006,26160536
+2017,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,35494,1777168,1512999,10357672,593438971
+2017,Attivita' finanziarie e assicurative,Stagionale,78,1608,1284,7405,569628
+2017,Attivita' finanziarie e assicurative,Tempo determinato,13664,500146,449173,2815887,302608956
+2017,Attivita' finanziarie e assicurative,Tempo indeterminato,503761,25529382,24476267,151124070,24284825733
+2017,Attivita' immobiliari,Stagionale,1809,44378,35527,207604,14022448
+2017,Attivita' immobiliari,Tempo determinato,6544,196041,143296,1033017,63760807
+2017,Attivita' immobiliari,Tempo indeterminato,40216,1907872,1537125,11076009,997280358
+2017,Attivita' manifatturiere,Stagionale,35545,778947,707212,3738248,281377209
+2017,Attivita' manifatturiere,Tempo determinato,391364,13019567,11707747,69214931,5035706074
+2017,Attivita' manifatturiere,Tempo indeterminato,3342786,165472803,157372436,960013891,100233017728
+2017,"Attivita' professionali, scientifiche e tecniche",Stagionale,2183,45897,34347,231775,13563540
+2017,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,76052,2056631,1710438,10579403,750391099
+2017,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,405670,19565690,16909729,113580914,10334615190
+2017,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,17313,435291,361038,2131549,138949614
+2017,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,394654,12169609,9213940,63982209,3780940621
+2017,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,1903924,91971149,78771428,531349728,44425461364
+2017,Costruzioni,Stagionale,671,14119,13051,67420,4491797
+2017,Costruzioni,Tempo determinato,218064,5607412,5262442,27889334,2112144613
+2017,Costruzioni,Tempo indeterminato,704571,31414252,29890440,172438620,14649572356
+2017,Estrazione di minerali da cave e miniere,Stagionale,75,1718,1575,8605,655428
+2017,Estrazione di minerali da cave e miniere,Tempo determinato,2449,85762,82050,458441,44988559
+2017,Estrazione di minerali da cave e miniere,Tempo indeterminato,38510,1930746,1897505,11223175,1758345058
+2017,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,536,11853,9868,61437,3873391
+2017,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,18674,627010,549383,3399652,238317901
+2017,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,146562,7348401,7096541,43238722,4450360199
+2017,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,2,22,11,103,3570
+2017,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,1528,56693,52445,315503,28718293
+2017,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,79060,4021655,3969061,23887332,3761063896
+2017,Istruzione,Stagionale,2399,54663,32481,267662,12157506
+2017,Istruzione,Tempo determinato,344668,10988364,10085517,60557927,4152554385
+2017,Istruzione,Tempo indeterminato,147090,6986001,5706466,39770941,2621750486
+2017,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,23703,502100,407136,2404346,143767385
+2017,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,805235,23142403,19017212,116816421,7317769834
+2017,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,885312,42416719,33861784,241710227,15941960091
+2017,Sanita' e assistenza sociale,Stagionale,768,15073,9560,74010,3290699
+2017,Sanita' e assistenza sociale,Tempo determinato,162246,5446391,4132272,29165470,1751350924
+2017,Sanita' e assistenza sociale,Tempo indeterminato,612157,29732281,24733271,169571536,11461456552
+2017,Servizi di informazione e comunicazione,Stagionale,7940,72246,67984,295369,37842580
+2017,Servizi di informazione e comunicazione,Tempo determinato,80288,1401900,1225674,6946575,634471940
+2017,Servizi di informazione e comunicazione,Tempo indeterminato,426846,21095466,19781817,123289721,14697871035
+2017,Trasporto e magazzinaggio,Stagionale,9183,258621,230329,1314263,108596672
+2017,Trasporto e magazzinaggio,Tempo determinato,215806,6921522,6079398,35438410,2732969754
+2017,Trasporto e magazzinaggio,Tempo indeterminato,858651,42134952,39925975,242005668,23407548948
+2018,Altre attivita' di servizi,Stagionale,9417,218749,177269,1081198,65140847
+2018,Altre attivita' di servizi,Tempo determinato,102328,3097122,2247032,15742985,819817216
+2018,Altre attivita' di servizi,Tempo indeterminato,372621,17396183,14257826,97530043,6770989822
+2018,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,47747,872212,677383,3955306,258915967
+2018,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,89703,1876208,1456689,9120129,865707072
+2018,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,101530,4471978,3766273,25320841,2107764308
+2018,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,278369,7060224,6036943,34037589,2322992142
+2018,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,616740,16115438,11372253,73040357,3443199828
+2018,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,814713,35694753,26137176,195069073,10869163445
+2018,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,458,10476,9146,53301,3551660
+2018,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,6970,104116,80025,530221,27406669
+2018,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,34823,1745534,1485707,10180985,584155550
+2018,Attivita' finanziarie e assicurative,Stagionale,68,1600,1455,8239,697950
+2018,Attivita' finanziarie e assicurative,Tempo determinato,14055,513077,456302,2878392,298106842
+2018,Attivita' finanziarie e assicurative,Tempo indeterminato,499691,25310464,24270507,149828982,24498208091
+2018,Attivita' immobiliari,Stagionale,1806,44057,34635,204339,13795602
+2018,Attivita' immobiliari,Tempo determinato,7342,225488,159875,1196862,69797458
+2018,Attivita' immobiliari,Tempo indeterminato,41213,1947631,1572748,11304731,1036355147
+2018,Attivita' manifatturiere,Stagionale,36330,814458,734971,3917484,295222352
+2018,Attivita' manifatturiere,Tempo determinato,413306,14113173,12624445,75359443,5422872886
+2018,Attivita' manifatturiere,Tempo indeterminato,3387016,167771328,159710865,974437216,103062476385
+2018,"Attivita' professionali, scientifiche e tecniche",Stagionale,3531,70760,55616,350648,20182935
+2018,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,78504,2187568,1804909,11109595,774789802
+2018,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,410887,19801717,17203839,115207164,10742481480
+2018,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,19291,481113,399959,2367288,156777705
+2018,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,420731,13224234,9934266,69492879,4094239129
+2018,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,1926949,92962412,79659369,537133076,45732535071
+2018,Costruzioni,Stagionale,724,16068,15084,78224,5264444
+2018,Costruzioni,Tempo determinato,235312,6288759,5894091,31437164,2373249261
+2018,Costruzioni,Tempo indeterminato,701702,31484218,29971562,173166069,14887177060
+2018,Estrazione di minerali da cave e miniere,Stagionale,83,1992,1862,9970,813958
+2018,Estrazione di minerali da cave e miniere,Tempo determinato,2843,102740,97625,553018,51158995
+2018,Estrazione di minerali da cave e miniere,Tempo indeterminato,38122,1908888,1876384,11119503,1817741783
+2018,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,572,12927,11014,67417,4290760
+2018,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,20835,715502,630563,3897788,270505042
+2018,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,149656,7484153,7216980,44002462,4566207384
+2018,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,5,149,142,826,44806
+2018,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,1742,66322,60813,370823,34246599
+2018,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,79370,4009041,3956409,23793362,3769548466
+2018,Istruzione,Stagionale,2692,62860,36239,305420,14300232
+2018,Istruzione,Tempo determinato,364200,12070069,11149547,66590586,4772828860
+2018,Istruzione,Tempo indeterminato,146210,6952383,5702986,39713052,2664681756
+2018,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,28154,610051,494104,2877859,174375282
+2018,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,848730,24945352,20396246,127160674,7824136612
+2018,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,901498,43265457,34869666,246884329,16669178070
+2018,Sanita' e assistenza sociale,Stagionale,1049,19440,12984,96137,4498052
+2018,Sanita' e assistenza sociale,Tempo determinato,172067,5756754,4343787,30806868,1808846824
+2018,Sanita' e assistenza sociale,Tempo indeterminato,631962,30676542,25561732,175117741,11895734802
+2018,Servizi di informazione e comunicazione,Stagionale,10019,85512,80269,347692,44919554
+2018,Servizi di informazione e comunicazione,Tempo determinato,87990,1515099,1320749,7491498,690234185
+2018,Servizi di informazione e comunicazione,Tempo indeterminato,440234,21669230,20350863,126880479,15343985223
+2018,Trasporto e magazzinaggio,Stagionale,11057,321794,275531,1633533,128561049
+2018,Trasporto e magazzinaggio,Tempo determinato,230062,7529844,6637700,38869504,3007141463
+2018,Trasporto e magazzinaggio,Tempo indeterminato,871061,42732960,40526199,245602631,24210445196
+2019,Altre attivita' di servizi,Stagionale,11590,259486,206502,1284842,75983766
+2019,Altre attivita' di servizi,Tempo determinato,94908,2738780,1968152,13733057,716636039
+2019,Altre attivita' di servizi,Tempo indeterminato,385533,18096330,14775885,101548376,7030576618
+2019,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,56149,1024880,792136,4657869,309738240
+2019,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,83968,1715799,1340938,8266347,825836642
+2019,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,103723,4629392,3905758,26269938,2184267714
+2019,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,317875,7991311,6780778,38720500,2634177097
+2019,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,602034,15257740,10895797,67912820,3218985699
+2019,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,863902,38211459,27816896,209119658,11693818397
+2019,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,514,11757,10202,60189,3964553
+2019,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,6442,90060,70894,457745,24495783
+2019,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,34287,1718387,1463246,10035742,580207179
+2019,Attivita' finanziarie e assicurative,Stagionale,156,3095,2569,14858,1305102
+2019,Attivita' finanziarie e assicurative,Tempo determinato,12452,422778,374430,2346378,256108809
+2019,Attivita' finanziarie e assicurative,Tempo indeterminato,497943,25266900,24225564,149571089,24717303786
+2019,Attivita' immobiliari,Stagionale,1762,43936,34214,208434,13952079
+2019,Attivita' immobiliari,Tempo determinato,7029,206381,147242,1080261,63989664
+2019,Attivita' immobiliari,Tempo indeterminato,43313,2054772,1658006,11939223,1116029045
+2019,Attivita' manifatturiere,Stagionale,40058,920924,822895,4523089,340844681
+2019,Attivita' manifatturiere,Tempo determinato,350995,11306400,10052861,59591431,4275930294
+2019,Attivita' manifatturiere,Tempo indeterminato,3476239,172136771,163819922,998690159,106802222429
+2019,"Attivita' professionali, scientifiche e tecniche",Stagionale,4867,98454,79766,491317,28851573
+2019,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,75489,1986975,1642350,9884050,679663208
+2019,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,423293,20514430,17904010,119446029,11398017081
+2019,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,23392,573746,467910,2862380,188820642
+2019,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,388193,11430390,8498224,59222714,3448951964
+2019,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,1983479,95866736,81998454,554548860,47666258550
+2019,Costruzioni,Stagionale,861,20579,19153,99623,6647792
+2019,Costruzioni,Tempo determinato,225967,5986673,5611638,29796014,2256222185
+2019,Costruzioni,Tempo indeterminato,728854,33086277,31509656,182863761,15849251160
+2019,Estrazione di minerali da cave e miniere,Stagionale,113,2775,2622,14006,1136153
+2019,Estrazione di minerali da cave e miniere,Tempo determinato,2576,93275,89060,503162,48672565
+2019,Estrazione di minerali da cave e miniere,Tempo indeterminato,38818,1940071,1908718,11339428,1894066956
+2019,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,1007,24886,21212,130866,8534133
+2019,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,19547,647132,570117,3519006,247167519
+2019,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,157077,7849740,7572831,46137408,4800169691
+2019,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,17,370,349,2043,133149
+2019,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,1681,59977,54579,334359,31838254
+2019,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,79406,4010553,3958148,23796148,3818199378
+2019,Istruzione,Stagionale,3523,80281,47414,396602,18904776
+2019,Istruzione,Tempo determinato,400509,13253317,12367439,73927080,5083657807
+2019,Istruzione,Tempo indeterminato,151435,7236010,5925063,41391275,2802520699
+2019,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,41639,889136,712164,4244875,260087229
+2019,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,758174,20952435,16960858,106247916,6456383445
+2019,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,964095,46555676,37919486,266347873,18321340359
+2019,Sanita' e assistenza sociale,Stagionale,2148,42832,26710,212020,9592770
+2019,Sanita' e assistenza sociale,Tempo determinato,159541,5092813,3811770,27033390,1583181273
+2019,Sanita' e assistenza sociale,Tempo indeterminato,662473,32133819,26756415,183605412,12539667374
+2019,Servizi di informazione e comunicazione,Stagionale,13095,148373,140629,603289,90008239
+2019,Servizi di informazione e comunicazione,Tempo determinato,80707,1326524,1159066,6483291,605886775
+2019,Servizi di informazione e comunicazione,Tempo indeterminato,471287,22687998,21339197,132684271,16143947098
+2019,Trasporto e magazzinaggio,Stagionale,15375,470801,383765,2421194,177523205
+2019,Trasporto e magazzinaggio,Tempo determinato,224481,7010286,6163212,35924703,2803261346
+2019,Trasporto e magazzinaggio,Tempo indeterminato,903062,44115490,41820342,253763235,24904290152
+2020,Altre attivita' di servizi,Stagionale,9581,166613,125061,765614,43667888
+2020,Altre attivita' di servizi,Tempo determinato,82828,2235489,1548288,10625028,561406780
+2020,Altre attivita' di servizi,Tempo indeterminato,376896,16964926,13468588,87048718,6194437794
+2020,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,53387,819676,602767,3616897,229945630
+2020,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,58800,1077950,854897,5183810,672426086
+2020,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,98775,3782834,3160328,19436740,1706295704
+2020,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,294502,5447829,4392241,24518923,1619858019
+2020,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,448026,8708051,5702976,35081272,1537059225
+2020,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,805404,29422308,19871707,135817690,7477470568
+2020,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,562,11405,9730,55531,3628880
+2020,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,5892,81003,63244,407583,21752807
+2020,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,33625,1676295,1425546,9748325,574819927
+2020,Attivita' finanziarie e assicurative,Stagionale,333,5929,4981,27474,2726420
+2020,Attivita' finanziarie e assicurative,Tempo determinato,10908,366617,326710,2019046,233112427
+2020,Attivita' finanziarie e assicurative,Tempo indeterminato,494584,24877223,23815328,146408584,24678502829
+2020,Attivita' immobiliari,Stagionale,1444,28673,21987,129566,8407745
+2020,Attivita' immobiliari,Tempo determinato,6207,161197,112576,810107,46782221
+2020,Attivita' immobiliari,Tempo indeterminato,44219,1952820,1550669,10727324,1036166184
+2020,Attivita' manifatturiere,Stagionale,39246,866346,769327,4139759,316629596
+2020,Attivita' manifatturiere,Tempo determinato,308642,9153438,7972024,45414493,3220114861
+2020,Attivita' manifatturiere,Tempo indeterminato,3451257,167832783,159158297,915830300,99116210352
+2020,"Attivita' professionali, scientifiche e tecniche",Stagionale,3461,67252,51052,323495,20005398
+2020,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,61465,1660770,1360060,8218264,567951930
+2020,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,427374,20068444,17402858,112132825,10968920393
+2020,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,21874,466867,370051,2230766,143688414
+2020,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,342532,9370571,6664622,46337896,2597630846
+2020,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,1978368,92564403,78160562,504961836,43470516507
+2020,Costruzioni,Stagionale,1053,21843,19835,101891,6985416
+2020,Costruzioni,Tempo determinato,229472,5734916,5342527,27069270,2051086752
+2020,Costruzioni,Tempo indeterminato,743416,33091238,31430397,170632017,15005870095
+2020,Estrazione di minerali da cave e miniere,Stagionale,124,3061,2930,15203,1273918
+2020,Estrazione di minerali da cave e miniere,Tempo determinato,2224,78593,74298,408094,38567818
+2020,Estrazione di minerali da cave e miniere,Tempo indeterminato,38503,1910266,1878487,10885786,1810259475
+2020,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,1230,29224,26330,151040,10391238
+2020,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,17907,573761,498486,3051946,211757379
+2020,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,161209,8034091,7750262,46574404,4827363751
+2020,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,13,249,238,1382,97409
+2020,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,1529,49980,43707,267007,24308901
+2020,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,78495,3962353,3906982,23376721,3722234689
+2020,Istruzione,Stagionale,2918,56761,29952,262099,11236533
+2020,Istruzione,Tempo determinato,539982,17547255,16453212,93908901,6573263278
+2020,Istruzione,Tempo indeterminato,148862,6514120,5227668,34355739,2395946133
+2020,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,32515,597258,473471,2756267,169568301
+2020,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,711796,18454805,14712202,92136954,5567794241
+2020,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,973738,45071909,36450748,248942758,17213088419
+2020,Sanita' e assistenza sociale,Stagionale,2777,60973,32867,285745,11951707
+2020,Sanita' e assistenza sociale,Tempo determinato,166739,4944710,3700928,25530006,1558512140
+2020,Sanita' e assistenza sociale,Tempo indeterminato,673125,31548006,25902270,173602237,12092646918
+2020,Servizi di informazione e comunicazione,Stagionale,19988,189562,178652,768433,116511391
+2020,Servizi di informazione e comunicazione,Tempo determinato,61077,1059805,917583,5131617,474088524
+2020,Servizi di informazione e comunicazione,Tempo indeterminato,484316,22847036,21515903,131025418,16232517043
+2020,Trasporto e magazzinaggio,Stagionale,11397,247977,197173,1189202,85742934
+2020,Trasporto e magazzinaggio,Tempo determinato,212880,6129164,5327511,30382660,2406086717
+2020,Trasporto e magazzinaggio,Tempo indeterminato,907639,43632634,41225903,240677795,23633704273
+2021,Altre attivita' di servizi,Stagionale,11055,210391,163173,1018362,59362977
+2021,Altre attivita' di servizi,Tempo determinato,86452,2496437,1792195,12409798,667422258
+2021,Altre attivita' di servizi,Tempo indeterminato,370281,17029497,13781482,92248560,6580520133
+2021,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,61633,1019965,757976,4678133,291995576
+2021,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,64199,1316253,1068019,6492239,803077617
+2021,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,98841,3896654,3320356,20750307,1837848585
+2021,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,342521,6956668,5749682,33265599,2220281186
+2021,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,499004,11103864,7734040,48210200,2257834520
+2021,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,779341,30558636,21480284,150510197,8526052658
+2021,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,632,13459,11594,67724,4511604
+2021,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,5718,81173,63644,413136,22331737
+2021,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,32712,1635320,1394391,9554834,576160908
+2021,Attivita' finanziarie e assicurative,Stagionale,350,8503,7441,43632,5211355
+2021,Attivita' finanziarie e assicurative,Tempo determinato,11910,418496,373348,2333500,259522675
+2021,Attivita' finanziarie e assicurative,Tempo indeterminato,491923,24796597,23766269,146746624,25096632158
+2021,Attivita' immobiliari,Stagionale,1613,34182,25703,160111,9985791
+2021,Attivita' immobiliari,Tempo determinato,6519,188914,134305,986406,56335382
+2021,Attivita' immobiliari,Tempo indeterminato,46669,2139812,1730668,12274581,1170007607
+2021,Attivita' manifatturiere,Stagionale,40079,927648,826765,4577513,351463334
+2021,Attivita' manifatturiere,Tempo determinato,352547,11439735,10168350,59757606,4300365154
+2021,Attivita' manifatturiere,Tempo indeterminato,3462790,170483567,162495349,978072377,107066590001
+2021,"Attivita' professionali, scientifiche e tecniche",Stagionale,4321,85255,65072,411082,25230551
+2021,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,70741,2024558,1661522,10312203,697613570
+2021,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,451279,21431933,18849292,123668290,12362477437
+2021,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,25234,565527,450578,2801091,180642550
+2021,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,379485,11254918,8253039,57890525,3307784450
+2021,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,1991954,95154211,81269258,540405306,47052591488
+2021,Costruzioni,Stagionale,995,23320,20922,112871,7720451
+2021,Costruzioni,Tempo determinato,280423,7736199,7227229,38314803,2915246553
+2021,Costruzioni,Tempo indeterminato,815275,37383565,35687797,205685164,18218565824
+2021,Estrazione di minerali da cave e miniere,Stagionale,104,2822,2665,14716,1213892
+2021,Estrazione di minerali da cave e miniere,Tempo determinato,2329,83525,78610,443791,39948561
+2021,Estrazione di minerali da cave e miniere,Tempo indeterminato,37798,1892827,1863441,11050381,1841017702
+2021,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,1342,32096,28393,167773,11079397
+2021,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,19518,657909,577206,3559755,247060541
+2021,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,166203,8306088,8030734,48673781,5112436980
+2021,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,14,421,410,2292,175893
+2021,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,1861,64408,58561,354636,31930448
+2021,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,79783,4032071,3977047,23797394,3857095620
+2021,Istruzione,Stagionale,3226,66427,38132,328566,14501146
+2021,Istruzione,Tempo determinato,606531,21655099,20573876,118172629,8451775813
+2021,Istruzione,Tempo indeterminato,147900,7002478,5812167,39574333,2779602898
+2021,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,38146,755831,610287,3612670,226241730
+2021,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,805517,22806242,18602330,115975369,7284084684
+2021,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,964821,45880498,37808737,259512234,18353776680
+2021,Sanita' e assistenza sociale,Stagionale,3269,75503,44169,376554,16453262
+2021,Sanita' e assistenza sociale,Tempo determinato,178934,5774950,4330822,30706321,1855879097
+2021,Sanita' e assistenza sociale,Tempo indeterminato,678190,32460012,27159649,184422973,13176482135
+2021,Servizi di informazione e comunicazione,Stagionale,29140,264135,252412,1075761,181189347
+2021,Servizi di informazione e comunicazione,Tempo determinato,75746,1311531,1155952,6400670,643008004
+2021,Servizi di informazione e comunicazione,Tempo indeterminato,488225,23792674,22524115,138844484,17670063758
+2021,Trasporto e magazzinaggio,Stagionale,13732,338465,265342,1680585,114971596
+2021,Trasporto e magazzinaggio,Tempo determinato,223874,7060288,6190183,36018399,2838250456
+2021,Trasporto e magazzinaggio,Tempo indeterminato,921978,44798938,42386770,253583246,25203132354
+2022,Altre attivita' di servizi,Stagionale,13342,286150,224316,1390356,82681002
+2022,Altre attivita' di servizi,Tempo determinato,94839,2832771,2060733,14226208,774527183
+2022,Altre attivita' di servizi,Tempo indeterminato,373348,17636402,14449198,99181643,7078758331
+2022,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,70818,1296948,988845,5891870,386272356
+2022,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,79504,1775602,1442841,8664162,964693329
+2022,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,102459,4686485,4037796,26624964,2359237944
+2022,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,391409,9836823,8314159,47481933,3299393019
+2022,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,592580,15327304,11109458,68482155,3381478802
+2022,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,818808,36650964,27305617,200247934,11899233328
+2022,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,627,14203,12410,72158,4852222
+2022,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,5745,85502,67399,427676,23466370
+2022,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,31967,1596073,1365070,9327429,565135178
+2022,Attivita' finanziarie e assicurative,Stagionale,64,1476,1312,6967,603092
+2022,Attivita' finanziarie e assicurative,Tempo determinato,11994,421501,375254,2344237,261695733
+2022,Attivita' finanziarie e assicurative,Tempo indeterminato,477954,24071352,23081882,142778533,25119916970
+2022,Attivita' immobiliari,Stagionale,1794,42779,30576,201366,12117550
+2022,Attivita' immobiliari,Tempo determinato,7294,222199,160030,1158990,66060157
+2022,Attivita' immobiliari,Tempo indeterminato,49097,2343425,1915804,13618270,1310602988
+2022,Attivita' manifatturiere,Stagionale,40266,1001734,893294,4917959,379176603
+2022,Attivita' manifatturiere,Tempo determinato,371050,12536572,11228546,65909291,4772077021
+2022,Attivita' manifatturiere,Tempo indeterminato,3523637,175093574,167359657,1016320211,113157200155
+2022,"Attivita' professionali, scientifiche e tecniche",Stagionale,4205,96323,73549,469068,28854964
+2022,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,81266,2360746,1953658,11975613,808867999
+2022,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,485638,23469888,20857642,136748341,14175029801
+2022,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,28565,704014,566808,3521270,231207164
+2022,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,411407,12606128,9384026,65192273,3777383734
+2022,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,2033927,99123992,85378889,573395085,50546285500
+2022,Costruzioni,Stagionale,1186,29320,26774,144558,10071361
+2022,Costruzioni,Tempo determinato,305311,9044486,8501850,45025126,3479889514
+2022,Costruzioni,Tempo indeterminato,903372,42390465,40621473,235757721,21238613986
+2022,Estrazione di minerali da cave e miniere,Stagionale,136,3929,3784,20687,1856884
+2022,Estrazione di minerali da cave e miniere,Tempo determinato,2036,75315,71727,396707,37577060
+2022,Estrazione di minerali da cave e miniere,Tempo indeterminato,36156,1816697,1789520,10643326,1840047022
+2022,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,1579,42695,36714,225138,14809326
+2022,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,19664,684484,606573,3702523,259176917
+2022,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,172770,8658036,8382083,50818696,5396057017
+2022,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,9,267,245,1413,108952
+2022,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,2030,70262,62252,383851,34582869
+2022,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,81406,4108681,4055402,24383877,3993410935
+2022,Istruzione,Stagionale,3918,87949,54797,432426,21982243
+2022,Istruzione,Tempo determinato,612793,22143485,21078815,120149270,8957922931
+2022,Istruzione,Tempo indeterminato,152230,7326136,6100076,42013291,2962692350
+2022,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,46139,1060519,868379,5077287,323848567
+2022,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,830088,24200641,19826520,122823698,7716513463
+2022,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,999857,48566615,40692729,278343056,20308474566
+2022,Sanita' e assistenza sociale,Stagionale,4654,122041,69087,598642,26257275
+2022,Sanita' e assistenza sociale,Tempo determinato,187131,6178009,4615115,32704195,1960842982
+2022,Sanita' e assistenza sociale,Tempo indeterminato,700882,33722940,28373359,192577854,13832403559
+2022,Servizi di informazione e comunicazione,Stagionale,25003,282256,267949,1152153,202247445
+2022,Servizi di informazione e comunicazione,Tempo determinato,82030,1486426,1308463,7250472,759106945
+2022,Servizi di informazione e comunicazione,Tempo indeterminato,515215,25286667,23995947,148128145,19042247713
+2022,Trasporto e magazzinaggio,Stagionale,17184,518851,416112,2643071,198760962
+2022,Trasporto e magazzinaggio,Tempo determinato,227763,7422468,6539330,38163488,3037849788
+2022,Trasporto e magazzinaggio,Tempo indeterminato,950016,46686337,44437724,268680621,27103005752
+2023,Altre attivita' di servizi,Stagionale,14209,306178,240471,1487933,90041893
+2023,Altre attivita' di servizi,Tempo determinato,99224,2936155,2114912,14683482,809684295
+2023,Altre attivita' di servizi,Tempo indeterminato,384343,18279576,15019658,102867321,7547388220
+2023,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,74223,1356849,1047543,6177511,415831139
+2023,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,86026,1947695,1578109,9483926,1073251378
+2023,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,106911,4947948,4277401,28248372,2555742005
+2023,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,404767,10411694,8880688,50812003,3605260821
+2023,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,652326,17314074,12611033,77884309,3919587257
+2023,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,863004,39247142,29609913,217198162,13250392772
+2023,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,617,14311,12176,72651,4901421
+2023,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,5548,86454,68364,437490,24568402
+2023,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,31208,1566072,1342100,9180993,563523714
+2023,Attivita' finanziarie e assicurative,Stagionale,57,1308,1043,6637,522542
+2023,Attivita' finanziarie e assicurative,Tempo determinato,11858,425706,382139,2374402,273207943
+2023,Attivita' finanziarie e assicurative,Tempo indeterminato,470270,23756711,22794107,140879287,25825723444
+2023,Attivita' immobiliari,Stagionale,1915,48098,35243,227224,14559373
+2023,Attivita' immobiliari,Tempo determinato,8059,247035,182104,1298404,77075869
+2023,Attivita' immobiliari,Tempo indeterminato,51599,2477680,2037671,14434354,1434041092
+2023,Attivita' manifatturiere,Stagionale,38985,975002,872687,4794309,380445266
+2023,Attivita' manifatturiere,Tempo determinato,365225,12233946,10919671,64258777,4785295185
+2023,Attivita' manifatturiere,Tempo indeterminato,3586783,178714214,171023448,1037850340,119349840615
+2023,"Attivita' professionali, scientifiche e tecniche",Stagionale,4679,106983,82519,518402,31620589
+2023,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,83874,2399225,2007091,12099760,853683340
+2023,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,512197,24878067,22238450,145253273,15641001290
+2023,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,29460,736755,597005,3714687,251388537
+2023,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,433122,13362754,9923887,69156924,4082970991
+2023,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,2078616,101679949,87821137,589564599,53809709607
+2023,Costruzioni,Stagionale,1154,28201,25872,139600,9808416
+2023,Costruzioni,Tempo determinato,320933,9277405,8746610,46137854,3670323287
+2023,Costruzioni,Tempo indeterminato,949312,44615634,42804022,248273916,23212277125
+2023,Estrazione di minerali da cave e miniere,Stagionale,124,3695,3605,19702,2194267
+2023,Estrazione di minerali da cave e miniere,Tempo determinato,2305,84916,81118,447647,44156057
+2023,Estrazione di minerali da cave e miniere,Tempo indeterminato,35129,1764623,1737821,10335167,1834015692
+2023,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,1626,40233,34235,210539,14001846
+2023,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,20386,707135,633058,3818502,277642988
+2023,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,177556,8908026,8626595,52262642,5623385484
+2023,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,30,856,735,4493,302289
+2023,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,2038,72876,64182,401211,35857640
+2023,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,83394,4228614,4175707,25077271,4184771039
+2023,Istruzione,Stagionale,4588,102203,61614,499894,25779201
+2023,Istruzione,Tempo determinato,585917,21724303,20545681,119658741,9048778578
+2023,Istruzione,Tempo indeterminato,155835,7550291,6293874,43372744,3145428967
+2023,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,45001,1051266,863218,5070234,330422351
+2023,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,797681,23139761,18821716,117135188,7494945061
+2023,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,1021971,49907347,41999882,286912127,21751506269
+2023,Sanita' e assistenza sociale,Stagionale,5019,135018,74602,670951,28562441
+2023,Sanita' e assistenza sociale,Tempo determinato,190381,6250322,4581210,33042839,1952691891
+2023,Sanita' e assistenza sociale,Tempo indeterminato,720382,34992596,29528989,200244172,14596087004
+2023,Servizi di informazione e comunicazione,Stagionale,22688,242342,231972,980050,178484422
+2023,Servizi di informazione e comunicazione,Tempo determinato,86797,1512055,1329748,7363042,785942326
+2023,Servizi di informazione e comunicazione,Tempo indeterminato,534979,26414160,25110882,154605612,20402608573
+2023,Trasporto e magazzinaggio,Stagionale,17693,542796,439292,2783912,212759266
+2023,Trasporto e magazzinaggio,Tempo determinato,233392,7562916,6669667,38948156,3168565793
+2023,Trasporto e magazzinaggio,Tempo indeterminato,973030,48019016,45855360,277356367,28889569270
+2024,Altre attivita' di servizi,Stagionale,14663,312786,246561,1549015,94710155
+2024,Altre attivita' di servizi,Tempo determinato,102560,3028132,2151359,15114093,854546678
+2024,Altre attivita' di servizi,Tempo indeterminato,389270,18586601,15261002,104832003,7927996020
+2024,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Stagionale,75027,1366167,1054657,6207168,423241487
+2024,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo determinato,83928,1824299,1498171,8813380,1087042134
+2024,"Attivita' artistiche, sportive, di intrattenimento e divertimento",Tempo indeterminato,110987,5118113,4410409,29194732,2708258754
+2024,Attivita' dei servizi di alloggio e di ristorazione,Stagionale,416727,10871850,9301927,53205690,3877901944
+2024,Attivita' dei servizi di alloggio e di ristorazione,Tempo determinato,697654,18693338,13600950,84136825,4318666703
+2024,Attivita' dei servizi di alloggio e di ristorazione,Tempo indeterminato,905738,41628394,31609424,231332846,14494648448
+2024,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Stagionale,592,14162,12262,72703,5138388
+2024,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo determinato,5422,78988,63097,402685,23260421
+2024,"Attivita' di famiglie e convivenze come datori di lavoro per personale domestico, produzione di beni e servizi indifferenziati per uso proprio da parte di famiglie e convivenze",Tempo indeterminato,30438,1529406,1311970,8973396,560275551
+2024,Attivita' finanziarie e assicurative,Stagionale,88,2152,1810,11006,834088
+2024,Attivita' finanziarie e assicurative,Tempo determinato,12043,431643,386769,2407138,277807837
+2024,Attivita' finanziarie e assicurative,Tempo indeterminato,470726,23813575,22872056,141217194,26968294494
+2024,Attivita' immobiliari,Stagionale,1914,49679,37338,240992,16038665
+2024,Attivita' immobiliari,Tempo determinato,8513,259613,188046,1363773,81069468
+2024,Attivita' immobiliari,Tempo indeterminato,53458,2578991,2129864,15042550,1547165075
+2024,Attivita' manifatturiere,Stagionale,39419,969258,863289,4829576,396313626
+2024,Attivita' manifatturiere,Tempo determinato,354608,11688021,10372414,61211131,4758347631
+2024,Attivita' manifatturiere,Tempo indeterminato,3609369,180072300,172466686,1041727904,124903576370
+2024,"Attivita' professionali, scientifiche e tecniche",Stagionale,5365,114952,87231,556490,33941722
+2024,"Attivita' professionali, scientifiche e tecniche",Tempo determinato,90220,2618310,2184487,13333079,976859727
+2024,"Attivita' professionali, scientifiche e tecniche",Tempo indeterminato,533421,26068948,23408601,152417269,17139017363
+2024,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Stagionale,29932,751193,608712,3818450,267255200
+2024,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo determinato,457643,13979026,10344226,72419556,4393425583
+2024,"Commercio all'ingrosso e al dettaglio, riparazione di autoveicoli e motocicli",Tempo indeterminato,2120616,104114425,90115353,604534997,56833391911
+2024,Costruzioni,Stagionale,1034,24697,22296,122659,8805883
+2024,Costruzioni,Tempo determinato,332070,9519286,8984753,47439129,3892881541
+2024,Costruzioni,Tempo indeterminato,976491,46095401,44257012,257327524,25048464371
+2024,Estrazione di minerali da cave e miniere,Stagionale,121,4184,4064,22810,2754200
+2024,Estrazione di minerali da cave e miniere,Tempo determinato,2195,79309,75624,419629,42534433
+2024,Estrazione di minerali da cave e miniere,Tempo indeterminato,35899,1811257,1785061,10618619,1923925793
+2024,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Stagionale,1789,45946,39616,243868,16551190
+2024,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo determinato,20523,702581,629422,3804319,286130487
+2024,"Fornitura di acqua, reti fognarie, attivita' di gestione dei rifiuti e risanamento",Tempo indeterminato,183379,9219531,8945579,54098113,5976056130
+2024,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Stagionale,38,1148,990,6135,387608
+2024,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo determinato,2361,82824,72250,454772,42252259
+2024,"Fornitura di energia elettrica, gas, vapore e aria condizionata",Tempo indeterminato,85731,4334222,4277453,25636583,4365169225
+2024,Istruzione,Stagionale,4655,103132,64742,512228,28304068
+2024,Istruzione,Tempo determinato,575778,20430819,19277014,113973975,8785141224
+2024,Istruzione,Tempo indeterminato,160145,7798313,6566379,44945594,3369886666
+2024,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Stagionale,47674,1122460,926639,5455549,370452386
+2024,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo determinato,793602,22611836,18314145,114716590,7577519978
+2024,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",Tempo indeterminato,1054314,51655278,43613382,297175399,23300363194
+2024,Sanita' e assistenza sociale,Stagionale,6231,170623,94076,848914,37307704
+2024,Sanita' e assistenza sociale,Tempo determinato,194356,6387428,4657655,33780997,2043072663
+2024,Sanita' e assistenza sociale,Tempo indeterminato,743713,36295087,30770976,208142609,15597182497
+2024,Servizi di informazione e comunicazione,Stagionale,20617,204577,195734,822398,143819645
+2024,Servizi di informazione e comunicazione,Tempo determinato,73161,1351481,1179730,6653558,686071353
+2024,Servizi di informazione e comunicazione,Tempo indeterminato,543064,26977987,25770574,158390365,21604289623
+2024,Trasporto e magazzinaggio,Stagionale,19424,598886,482597,3074252,242681731
+2024,Trasporto e magazzinaggio,Tempo determinato,240385,7754391,6849718,40105566,3388636702
+2024,Trasporto e magazzinaggio,Tempo indeterminato,991911,49042030,46911589,283463779,30414708045
