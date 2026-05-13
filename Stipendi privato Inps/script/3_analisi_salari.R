@@ -30,8 +30,10 @@ suppressPackageStartupMessages({
   library(purrr)
 })
 
-PROJ <- "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
-OUT  <- file.path(PROJ, "output")
+PROJ      <- "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
+DATI_PULI <- file.path(PROJ, "output", "dati_puliti")
+DATI_IST  <- file.path(PROJ, "dati", "istat")
+OUT       <- file.path(PROJ, "output", "aggregati")
 dir.create(OUT, showWarnings = FALSE, recursive = TRUE)
 
 ANNO_BASE <- 2014L
@@ -40,7 +42,7 @@ ANNO_T    <- 2024L
 # -----------------------------------------------------------------------------
 # 1. Indice prezzi e deflattore a prezzi 2024
 # -----------------------------------------------------------------------------
-cpi <- read_csv(file.path(PROJ, "indice_prezzi_istat.csv"),
+cpi <- read_csv(file.path(DATI_IST, "indice_prezzi_consumo.csv"),
                 show_col_types = FALSE) %>%
   select(anno, indice) %>%
   filter(anno >= 2014, anno <= 2024)
@@ -54,13 +56,13 @@ cat(sprintf("Inflazione cumulata 2014-2024: %+.1f%%\n",
 # -----------------------------------------------------------------------------
 # 2. Lettura dataset puliti
 # -----------------------------------------------------------------------------
-d_eta_sesso  <- read_csv(file.path(PROJ, "lavoratori_eta_sesso_2014_2024.csv"),
+d_eta_sesso  <- read_csv(file.path(DATI_PULI, "lavoratori_eta_sesso_2014_2024.csv"),
                          show_col_types = FALSE)
-d_ateco      <- read_csv(file.path(PROJ, "lavoratori_attivita_economica_ateco_2014_2024.csv"),
+d_ateco      <- read_csv(file.path(DATI_PULI, "lavoratori_attivita_economica_ateco_2014_2024.csv"),
                          show_col_types = FALSE)
-d_tempo_parz <- read_csv(file.path(PROJ, "lavoratori_tempo_parziale_sesso_2014_2024.csv"),
+d_tempo_parz <- read_csv(file.path(DATI_PULI, "lavoratori_tempo_parziale_sesso_2014_2024.csv"),
                          show_col_types = FALSE)
-d_eta_tipol  <- read_csv(file.path(PROJ, "lavoratori_eta_tipologia_contrattuale_2014_2024.csv"),
+d_eta_tipol  <- read_csv(file.path(DATI_PULI, "lavoratori_eta_tipologia_contrattuale_2014_2024.csv"),
                          show_col_types = FALSE)
 
 # Alias colonne misure (lunghissime nei file)

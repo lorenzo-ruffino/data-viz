@@ -19,7 +19,9 @@ showtext_auto()
 showtext_opts(dpi = 300)
 
 PROJ <- "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
-OUT  <- file.path(PROJ, "output")
+AGG  <- file.path(PROJ, "output", "aggregati")
+OUT  <- file.path(PROJ, "output", "grafici")
+dir.create(OUT, showWarnings = FALSE, recursive = TRUE)
 
 CAP_INPS  <- "Elaborazione di Lorenzo Ruffino su dati Inps"
 CAP_ISTAT <- "Elaborazione di Lorenzo Ruffino su dati Istat"
@@ -76,7 +78,7 @@ round_50 <- function(x) round(x / 50) * 50
 # =============================================================================
 # 1. Stipendio reale 2014-2024
 # =============================================================================
-d1 <- read_csv(file.path(OUT, "headline.csv"), show_col_types = FALSE) %>%
+d1 <- read_csv(file.path(AGG, "headline.csv"), show_col_types = FALSE) %>%
   filter(vista == "complessivo") %>%
   arrange(anno)
 
@@ -113,7 +115,7 @@ ggsave(file.path(OUT, "01_stipendio_reale_2014_2024.png"),
 # =============================================================================
 # 2. Stipendio per fascia di eta' decennale, base 100 nel 2014
 # =============================================================================
-d2 <- read_csv(file.path(OUT, "eta_decennale.csv"), show_col_types = FALSE) %>%
+d2 <- read_csv(file.path(AGG, "eta_decennale.csv"), show_col_types = FALSE) %>%
   filter(vista == "complessivo") %>%
   filter(eta_decennale != "<20") %>%
   group_by(eta_decennale) %>%
@@ -162,7 +164,7 @@ ggsave(file.path(OUT, "02_stipendio_per_eta.png"),
 # =============================================================================
 # 3 e 4. Settori: stipendio e occupati base 100 nel 2014
 # =============================================================================
-d_set <- read_csv(file.path(OUT, "settore_macro.csv"), show_col_types = FALSE) %>%
+d_set <- read_csv(file.path(AGG, "settore_macro.csv"), show_col_types = FALSE) %>%
   filter(vista == "complessivo") %>%
   mutate(settore = case_when(
     macro_settore == "Manifattura"                              ~ "Manifattura",
@@ -269,7 +271,7 @@ ggsave(file.path(OUT, "04_occupati_per_settore.png"),
 # =============================================================================
 # 5. Valore aggiunto per occupato per branca, scatter vs crescita occupati
 # =============================================================================
-d5 <- read_csv(file.path(OUT, "produttivita_branche_istat.csv"),
+d5 <- read_csv(file.path(AGG, "produttivita_branche_istat.csv"),
                show_col_types = FALSE) %>%
   # Escludo solo: L (immobiliari, anomalia VA), O (PA, non privato),
   # __TOT__ (totale economia, riga di servizio).

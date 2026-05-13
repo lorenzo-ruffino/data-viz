@@ -22,8 +22,8 @@ from pathlib import Path
 import pandas as pd
 
 PROJ = Path("/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps")
-SRC  = PROJ / "dati" / "Settore - Contratto"
-OUT  = PROJ / "lavoratori_settore_tipologia_2014_2024.csv"
+SRC  = PROJ / "dati" / "inps" / "settore_contratto"
+OUT  = PROJ / "output" / "dati_puliti" / "lavoratori_settore_tipologia_2014_2024.csv"
 
 
 # -----------------------------------------------------------------------------
@@ -163,11 +163,9 @@ def parse_inps_table(path: Path, expected_dims: list[str]) -> pd.DataFrame:
 ATECO = "Attività economica ATECO 2007"
 TIPOL = "Tipologia contrattuale"
 
-base_2014 = SRC / "Anni 2014-2018 (classificazione dell'attività economica ISTAT ATECO 2007)"
-
-det_2014, _   = parse_inps_table(Path(str(base_2014) + "(3).csv"), [ATECO])
-indet_2014, _ = parse_inps_table(Path(str(base_2014) + "(4).csv"), [ATECO])
-tot_2014, _   = parse_inps_table(Path(str(base_2014) + "(5).csv"), [ATECO])
+det_2014, _   = parse_inps_table(SRC / "2014-2018 tempo determinato.csv",   [ATECO])
+indet_2014, _ = parse_inps_table(SRC / "2014-2018 tempo indeterminato.csv", [ATECO])
+tot_2014, _   = parse_inps_table(SRC / "2014-2018 totale.csv",              [ATECO])
 
 det_2014[TIPOL]   = "Tempo determinato"
 indet_2014[TIPOL] = "Tempo indeterminato"
@@ -202,18 +200,12 @@ df_2014 = pd.concat(
 # -----------------------------------------------------------------------------
 # 2. 2019-2023: un solo file con tutte le tipologie
 # -----------------------------------------------------------------------------
-df_2019, _ = parse_inps_table(
-    SRC / "Anni 2019-2023 (classificazione dell'attività economica ISTAT ATECO 2007).csv",
-    [ATECO, TIPOL],
-)
+df_2019, _ = parse_inps_table(SRC / "2019-2023.csv", [ATECO, TIPOL])
 
 # -----------------------------------------------------------------------------
 # 3. 2024
 # -----------------------------------------------------------------------------
-df_2024, _ = parse_inps_table(
-    SRC / "Anno 2024 (classificazione dell'attività economica ISTAT ATECO 2007).csv",
-    [ATECO, TIPOL],
-)
+df_2024, _ = parse_inps_table(SRC / "2024.csv", [ATECO, TIPOL])
 
 # -----------------------------------------------------------------------------
 # 4. Concatenazione finale
@@ -228,6 +220,7 @@ df = df[ordered]
 # Snake case headers
 df.columns = [snake_case(c) for c in df.columns]
 
+OUT.parent.mkdir(parents=True, exist_ok=True)
 df.to_csv(OUT, index=False, encoding="utf-8")
 
 print(f"Scritto {OUT}: {len(df)} righe")

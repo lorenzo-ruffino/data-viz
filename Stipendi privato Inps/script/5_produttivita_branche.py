@@ -24,15 +24,11 @@ import csv
 import os
 
 PROJ = "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
-SRC_VA = os.path.join(
-    PROJ,
-    "Produzione e valore aggiunto per branca di attività (IT1,92_1225_DF_DCCN_ANA1_1,1.0).csv",
-)
-SRC_OCC = os.path.join(
-    PROJ,
-    "Occupati, unità di lavoro, posizioni lavorative e ore lavorate (IT1,92_507_DF_DCCN_OCCNSEC2010_1,1.0).csv",
-)
-OUT = os.path.join(PROJ, "output", "produttivita_branche_istat.csv")
+SRC_VA  = os.path.join(PROJ, "dati", "istat", "valore_aggiunto_branche_conti_nazionali.csv")
+SRC_OCC = os.path.join(PROJ, "dati", "istat", "occupati_branche_conti_nazionali.csv")
+OUT_DIR = os.path.join(PROJ, "output", "aggregati")
+OUT = os.path.join(OUT_DIR, "produttivita_branche_istat.csv")
+os.makedirs(OUT_DIR, exist_ok=True)
 
 LABELS = {
     "A": "Agricoltura, silvicoltura e pesca",

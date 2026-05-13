@@ -17,21 +17,24 @@ suppressPackageStartupMessages({
   library(readr)
 })
 
-PROJ <- "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
-OUT  <- file.path(PROJ, "output")
+PROJ      <- "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
+DATI_PULI <- file.path(PROJ, "output", "dati_puliti")
+DATI_IST  <- file.path(PROJ, "dati", "istat")
+OUT       <- file.path(PROJ, "output", "aggregati")
+dir.create(OUT, showWarnings = FALSE, recursive = TRUE)
 
 ANNO_BASE <- 2014L
 ANNO_T    <- 2024L
 
 # CPI per deflattore a prezzi 2024
-cpi <- read_csv(file.path(PROJ, "indice_prezzi_istat.csv"),
+cpi <- read_csv(file.path(DATI_IST, "indice_prezzi_consumo.csv"),
                 show_col_types = FALSE) %>%
   select(anno, indice) %>%
   filter(anno >= 2014, anno <= 2024) %>%
   mutate(deflattore_2024 = max(indice[anno == 2024]) / indice)
 
 # Dataset bidimensionale
-d <- read_csv(file.path(PROJ, "lavoratori_settore_tipologia_2014_2024.csv"),
+d <- read_csv(file.path(DATI_PULI, "lavoratori_settore_tipologia_2014_2024.csv"),
               show_col_types = FALSE) %>%
   rename(
     settore   = attivita_economica_ateco_2007,

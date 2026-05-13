@@ -13,33 +13,30 @@ import unicodedata
 
 import pandas as pd
 
-DATI_DIR = "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps/dati"
-OUT_DIR = "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
+PROJ = "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
+DATI_DIR = os.path.join(PROJ, "dati", "inps")
+OUT_DIR = os.path.join(PROJ, "output", "dati_puliti")
 
-YEAR_FILES = [
-    "Anni 2014-2018 (classificazione dell'attività economica ISTAT ATECO 2007)",
-    "Anni 2019-2023 (classificazione dell'attività economica ISTAT ATECO 2007)",
-    "Anno 2024 (classificazione dell'attività economica ISTAT ATECO 2007)",
-]
+YEAR_FILES = ["Anni 2014-2018", "Anni 2019-2023", "Anno 2024"]
 
 GROUPS = [
     {
-        "suffix": "",
+        "subfolder": "eta_sesso",
         "out_name": "lavoratori_eta_sesso_2014_2024.csv",
         "dim_cols": ["Anno", "Classe di età", "Sesso"],
     },
     {
-        "suffix": "(1)",
+        "subfolder": "attivita_economica",
         "out_name": "lavoratori_attivita_economica_ateco_2014_2024.csv",
         "dim_cols": ["Anno", "Attività economica ATECO 2007"],
     },
     {
-        "suffix": "(2)",
+        "subfolder": "tempo_parziale",
         "out_name": "lavoratori_tempo_parziale_sesso_2014_2024.csv",
         "dim_cols": ["Anno", "Presenza tempo parziale nell'anno", "Sesso"],
     },
     {
-        "suffix": "(3)",
+        "subfolder": "eta_tipologia",
         "out_name": "lavoratori_eta_tipologia_contrattuale_2014_2024.csv",
         "dim_cols": ["Anno", "Classe di età", "Tipologia contrattuale"],
     },
@@ -196,10 +193,11 @@ def process_file(path: str, expected_dim_cols: list[str]) -> pd.DataFrame:
 
 
 def main() -> None:
+    os.makedirs(OUT_DIR, exist_ok=True)
     for group in GROUPS:
         frames = []
         for year_file in YEAR_FILES:
-            path = os.path.join(DATI_DIR, f"{year_file}{group['suffix']}.csv")
+            path = os.path.join(DATI_DIR, group["subfolder"], f"{year_file}.csv")
             frames.append(process_file(path, group["dim_cols"]))
 
         combined = pd.concat(frames, ignore_index=True)

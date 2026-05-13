@@ -20,9 +20,11 @@ del decennio.
 import csv
 import os
 
-PROJ = "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
-SRC  = os.path.join(PROJ, "Commercio e servizi (Ateco 3 cifre) e classe di addetti (IT1,161_267_DF_DCSP_SBSNAZ_5,1.0).csv")
-OUT  = os.path.join(PROJ, "output", "produttivita_settori_2023.csv")
+PROJ    = "/Users/lorenzoruffino/Documents/Progetti/data-viz/Stipendi privato Inps"
+SRC     = os.path.join(PROJ, "dati", "istat", "commercio_servizi_sbs.csv")
+OUT_DIR = os.path.join(PROJ, "output", "aggregati")
+OUT     = os.path.join(OUT_DIR, "produttivita_settori_2023.csv")
+os.makedirs(OUT_DIR, exist_ok=True)
 
 # Mapping sezione ATECO -> nome breve coerente con la nostra classificazione macro
 ATECO_LABEL = {
