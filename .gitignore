@@ -36,3 +36,11 @@ Elezioni Italia/2025_11_23_Veneto_Regionali/Regionali_AltreRegioni_candidDiLista
 
 # Geometrie NUTS scaricate localmente (rigenerabili da YouTrend/Utilities/)
 */input/NUTS_RG_*.geojson
+
+# Progetti locali non pubblicati
+Referendum 2 giugno 1946/
+Salario Minimo Italia/
+Referendum_Giustizia_2026/
+
+# Worktree Claude
+.claude/worktrees/
