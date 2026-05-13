@@ -1,0 +1,7 @@
+﻿Il file contiene  i dati geografici (in formato shapefile) riguardanti i Compartimenti relativamente al suo anno di riferimento. I dati sono disponibili nella proiezione geografica WGS84 UTM Zona 32N. 
+
+I dati contenuti nel file sono i seguenti:
+
+1. COD_COMP: codice del Compartimento. 
+
+2. DEN_CIRC: denominazione del Compartimento. 

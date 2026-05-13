@@ -1,0 +1,9 @@
+﻿Il file contiene  i dati geografici (in formato shapefile) riguardanti i Circondari relativamente al suo anno di riferimento. I dati sono disponibili nella proiezione geografica WGS84 UTM Zona 32N. 
+
+I dati contenuti nel file sono i seguenti:
+
+1. COD_CIRC: codice del Circondario. 
+
+2. DEN_CIRC: denominazione del Circondario. 
+
+3. DESC_CIRC: descrizione della tipologia dell'Ente che può assumenre le modalità di circondario e distretto.
