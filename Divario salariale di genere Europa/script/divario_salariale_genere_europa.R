@@ -1,13 +1,10 @@
 # Divario salariale di genere non corretto in Europa, ultimo anno disponibile.
 # Eseguito da `cd script && Rscript divario_salariale_genere_europa.R`.
 #
-# Conversione di YouTrend/2023_12_04_GenderPayGap: la cartella originale
-# mostrava in realtà il divario *occupazionale* di genere (gap nel tasso di
-# occupazione tra uomini e donne) e usava una mappa continua bianco→rosso.
-# Qui rifatta sul vero pay gap (Eurostat sdg_05_20, % tra retribuzione
-# oraria lorda media di uomini e donne, NACE Rev. 2 sezioni B-S escluso O),
-# binned con 7 classi discrete a larghezza costante e scale_fill_manual,
-# etichetta del valore su ogni paese.
+# Pay gap (Eurostat sdg_05_20, % tra retribuzione oraria lorda media di uomini
+# e donne, NACE Rev. 2 sezioni B-S escluso O), mappa binned con 7 classi
+# discrete a larghezza costante e scale_fill_manual, etichetta del valore su
+# ogni paese.
 
 source("/Users/lorenzoruffino/Documents/Progetti/data-viz/utilities/R/mappe.R")
 suppressPackageStartupMessages({

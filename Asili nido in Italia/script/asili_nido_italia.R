@@ -2,9 +2,8 @@
 # ogni 100 bambini tra 0 e 2 anni, per regione italiana.
 # Eseguito da `cd script && Rscript asili_nido_italia.R`.
 #
-# Conversione di YouTrend/2023_11_27_Nidi: la mappa originale era continua
-# (gradient bianco→blu). Qui rifatta binned con 7 classi discrete a larghezza
-# costante e scale_fill_manual, etichetta del valore su ogni regione.
+# Mappa binned con 7 classi discrete a larghezza costante e scale_fill_manual,
+# etichetta del valore su ogni regione.
 # Fonte: Istat, report "Asili nido e altri servizi socio-educativi per la
 # prima infanzia", tavola 1.9 (totale servizi educativi e posti disponibili
 # al 31.12.2023, colonna "posti per 100 bambini 0-2 anni", totale pubblico +

@@ -1,9 +1,7 @@
 # Ore di lavoro lunghe (>= 49 ore settimanali) in Europa, ultimo anno disponibile.
 # Eseguito da `cd script && Rscript ore_di_lavoro_europa.R`.
 #
-# Conversione di YouTrend/2023_05_29_OreLavoro: la mappa originale era
-# continua (viridis magma); qui rifatta binned con scale_fill_stepsn,
-# fonte aggiornata da CSV statico 2022 a Eurostat live 2025.
+# Mappa binned con scale_fill_stepsn. Fonte: Eurostat live 2025.
 
 library(eurostat)
 library(tidyverse)

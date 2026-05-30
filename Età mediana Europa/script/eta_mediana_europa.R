@@ -1,9 +1,7 @@
 # Età mediana della popolazione in Europa, ultimo anno disponibile.
 # Eseguito da `cd script && Rscript eta_mediana_europa.R`.
 #
-# Conversione di YouTrend/2022_02_27_EtàMediaUE: la mappa originale era
-# continua (viridis "rocket"); qui rifatta binned con scale_fill_stepsn,
-# fonte aggiornata a Eurostat live.
+# Mappa binned con scale_fill_stepsn. Fonte: Eurostat live.
 
 library(eurostat)
 library(tidyverse)

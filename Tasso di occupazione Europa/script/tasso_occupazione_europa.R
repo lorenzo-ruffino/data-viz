@@ -1,10 +1,8 @@
 # Tasso di occupazione 20-64 anni in Europa, ultimo anno disponibile.
 # Eseguito da `cd script && Rscript tasso_occupazione_europa.R`.
 #
-# Conversione di YouTrend/2023_05_15_TassoOccupazione: la mappa originale
-# era continua (viridis mako); qui rifatta binned con bin discreti e
-# scale_fill_manual, etichetta del valore su ogni paese. Fonte aggiornata
-# da Eurostat 2022 a 2025.
+# Mappa binned con bin discreti e scale_fill_manual, etichetta del valore su
+# ogni paese. Fonte: Eurostat 2025.
 
 source("/Users/lorenzoruffino/Documents/Progetti/data-viz/utilities/R/mappe.R")
 suppressPackageStartupMessages({

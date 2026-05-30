@@ -1,10 +1,8 @@
 # Quota di persone 25-34 anni con istruzione terziaria in Europa, ultimo anno.
 # Eseguito da `cd script && Rscript quota_laureati_europa.R`.
 #
-# Conversione di YouTrend/2022_02_20_Laureati: la mappa originale era
-# continua (viridis mako); qui rifatta binned con classi discrete a
-# larghezza costante e scale_fill_manual, etichetta del valore su ogni
-# paese. Fonte aggiornata da xlsx 2021 a Eurostat edat_lfse_03 2025.
+# Mappa binned con classi discrete a larghezza costante e scale_fill_manual,
+# etichetta del valore su ogni paese. Fonte: Eurostat edat_lfse_03 2025.
 
 source("/Users/lorenzoruffino/Documents/Progetti/data-viz/utilities/R/mappe.R")
 suppressPackageStartupMessages({
