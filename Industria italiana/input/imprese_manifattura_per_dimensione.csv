@@ -1,0 +1,481 @@
+variabile,classe_dimensionale,classe_codice,anno,valore
+imprese,"Totale",TOTAL,2008,459728
+imprese,"Totale",TOTAL,2009,439112
+imprese,"Totale",TOTAL,2010,426778
+imprese,"Totale",TOTAL,2011,425481
+imprese,"Totale",TOTAL,2012,417306
+imprese,"Totale",TOTAL,2013,407344
+imprese,"Totale",TOTAL,2014,396422
+imprese,"Totale",TOTAL,2015,389317
+imprese,"Totale",TOTAL,2016,387866
+imprese,"Totale",TOTAL,2017,383585
+imprese,"Totale",TOTAL,2018,377730
+imprese,"Totale",TOTAL,2019,365968
+imprese,"Totale",TOTAL,2020,360929
+imprese,"Totale",TOTAL,2021,359238
+imprese,"Totale",TOTAL,2022,358488
+imprese,"Totale",TOTAL,2023,352446
+imprese,"250+ addetti",W_GE250,2008,1396
+imprese,"250+ addetti",W_GE250,2009,1347
+imprese,"250+ addetti",W_GE250,2010,1308
+imprese,"250+ addetti",W_GE250,2011,1269
+imprese,"250+ addetti",W_GE250,2012,1247
+imprese,"250+ addetti",W_GE250,2013,1219
+imprese,"250+ addetti",W_GE250,2014,1197
+imprese,"250+ addetti",W_GE250,2015,1212
+imprese,"250+ addetti",W_GE250,2016,1236
+imprese,"250+ addetti",W_GE250,2017,1335
+imprese,"250+ addetti",W_GE250,2018,1387
+imprese,"250+ addetti",W_GE250,2019,1431
+imprese,"250+ addetti",W_GE250,2020,1435
+imprese,"250+ addetti",W_GE250,2021,1478
+imprese,"250+ addetti",W_GE250,2022,1517
+imprese,"250+ addetti",W_GE250,2023,1578
+imprese,"0-9 addetti",W0_9,2008,373932
+imprese,"0-9 addetti",W0_9,2009,359772
+imprese,"0-9 addetti",W0_9,2010,350731
+imprese,"0-9 addetti",W0_9,2011,351042
+imprese,"0-9 addetti",W0_9,2012,345292
+imprese,"0-9 addetti",W0_9,2013,338015
+imprese,"0-9 addetti",W0_9,2014,328486
+imprese,"0-9 addetti",W0_9,2015,321837
+imprese,"0-9 addetti",W0_9,2016,319021
+imprese,"0-9 addetti",W0_9,2017,316056
+imprese,"0-9 addetti",W0_9,2018,309598
+imprese,"0-9 addetti",W0_9,2019,298055
+imprese,"0-9 addetti",W0_9,2020,295514
+imprese,"0-9 addetti",W0_9,2021,292182
+imprese,"0-9 addetti",W0_9,2022,290794
+imprese,"0-9 addetti",W0_9,2023,284161
+imprese,"10-19 addetti",W10_19,2008,50396
+imprese,"10-19 addetti",W10_19,2009,46414
+imprese,"10-19 addetti",W10_19,2010,44759
+imprese,"10-19 addetti",W10_19,2011,43472
+imprese,"10-19 addetti",W10_19,2012,41803
+imprese,"10-19 addetti",W10_19,2013,40214
+imprese,"10-19 addetti",W10_19,2014,39402
+imprese,"10-19 addetti",W10_19,2015,39159
+imprese,"10-19 addetti",W10_19,2016,39924
+imprese,"10-19 addetti",W10_19,2017,38920
+imprese,"10-19 addetti",W10_19,2018,39030
+imprese,"10-19 addetti",W10_19,2019,38385
+imprese,"10-19 addetti",W10_19,2020,36672
+imprese,"10-19 addetti",W10_19,2021,37599
+imprese,"10-19 addetti",W10_19,2022,37413
+imprese,"10-19 addetti",W10_19,2023,37408
+imprese,"20-49 addetti",W20_49,2008,24251
+imprese,"20-49 addetti",W20_49,2009,22273
+imprese,"20-49 addetti",W20_49,2010,21159
+imprese,"20-49 addetti",W20_49,2011,20840
+imprese,"20-49 addetti",W20_49,2012,20329
+imprese,"20-49 addetti",W20_49,2013,19394
+imprese,"20-49 addetti",W20_49,2014,18988
+imprese,"20-49 addetti",W20_49,2015,18771
+imprese,"20-49 addetti",W20_49,2016,19194
+imprese,"20-49 addetti",W20_49,2017,18895
+imprese,"20-49 addetti",W20_49,2018,19132
+imprese,"20-49 addetti",W20_49,2019,19332
+imprese,"20-49 addetti",W20_49,2020,18624
+imprese,"20-49 addetti",W20_49,2021,19145
+imprese,"20-49 addetti",W20_49,2022,19522
+imprese,"20-49 addetti",W20_49,2023,19783
+imprese,"50-249 addetti",W50_249,2008,9753
+imprese,"50-249 addetti",W50_249,2009,9306
+imprese,"50-249 addetti",W50_249,2010,8821
+imprese,"50-249 addetti",W50_249,2011,8858
+imprese,"50-249 addetti",W50_249,2012,8635
+imprese,"50-249 addetti",W50_249,2013,8502
+imprese,"50-249 addetti",W50_249,2014,8349
+imprese,"50-249 addetti",W50_249,2015,8338
+imprese,"50-249 addetti",W50_249,2016,8491
+imprese,"50-249 addetti",W50_249,2017,8379
+imprese,"50-249 addetti",W50_249,2018,8583
+imprese,"50-249 addetti",W50_249,2019,8765
+imprese,"50-249 addetti",W50_249,2020,8684
+imprese,"50-249 addetti",W50_249,2021,8834
+imprese,"50-249 addetti",W50_249,2022,9242
+imprese,"50-249 addetti",W50_249,2023,9516
+fatturato_mgl_eur,"Totale",TOTAL,2008,978130059
+fatturato_mgl_eur,"Totale",TOTAL,2009,783449475
+fatturato_mgl_eur,"Totale",TOTAL,2010,871108518
+fatturato_mgl_eur,"Totale",TOTAL,2011,921022424
+fatturato_mgl_eur,"Totale",TOTAL,2012,906168386
+fatturato_mgl_eur,"Totale",TOTAL,2013,872479039
+fatturato_mgl_eur,"Totale",TOTAL,2014,867514532
+fatturato_mgl_eur,"Totale",TOTAL,2015,884825019
+fatturato_mgl_eur,"Totale",TOTAL,2016,889271711
+fatturato_mgl_eur,"Totale",TOTAL,2017,965030974
+fatturato_mgl_eur,"Totale",TOTAL,2018,997489251
+fatturato_mgl_eur,"Totale",TOTAL,2019,996809801
+fatturato_mgl_eur,"Totale",TOTAL,2020,872917984
+fatturato_mgl_eur,"Totale",TOTAL,2021,1072475075
+fatturato_mgl_eur,"Totale",TOTAL,2022,1253780153
+fatturato_mgl_eur,"Totale",TOTAL,2023,1248591652
+fatturato_mgl_eur,"250+ addetti",W_GE250,2008,382608490
+fatturato_mgl_eur,"250+ addetti",W_GE250,2009,299050620
+fatturato_mgl_eur,"250+ addetti",W_GE250,2010,338771763
+fatturato_mgl_eur,"250+ addetti",W_GE250,2011,366005749
+fatturato_mgl_eur,"250+ addetti",W_GE250,2012,377487274
+fatturato_mgl_eur,"250+ addetti",W_GE250,2013,348216567
+fatturato_mgl_eur,"250+ addetti",W_GE250,2014,331119056
+fatturato_mgl_eur,"250+ addetti",W_GE250,2015,350576726
+fatturato_mgl_eur,"250+ addetti",W_GE250,2016,354112507
+fatturato_mgl_eur,"250+ addetti",W_GE250,2017,437909225
+fatturato_mgl_eur,"250+ addetti",W_GE250,2018,460017397
+fatturato_mgl_eur,"250+ addetti",W_GE250,2019,461001353
+fatturato_mgl_eur,"250+ addetti",W_GE250,2020,389564904
+fatturato_mgl_eur,"250+ addetti",W_GE250,2021,486899935
+fatturato_mgl_eur,"250+ addetti",W_GE250,2022,578329994
+fatturato_mgl_eur,"250+ addetti",W_GE250,2023,582882510
+fatturato_mgl_eur,"0-9 addetti",W0_9,2008,97066887
+fatturato_mgl_eur,"0-9 addetti",W0_9,2009,84848593
+fatturato_mgl_eur,"0-9 addetti",W0_9,2010,93432883
+fatturato_mgl_eur,"0-9 addetti",W0_9,2011,89343206
+fatturato_mgl_eur,"0-9 addetti",W0_9,2012,86018746
+fatturato_mgl_eur,"0-9 addetti",W0_9,2013,83096075
+fatturato_mgl_eur,"0-9 addetti",W0_9,2014,82654163
+fatturato_mgl_eur,"0-9 addetti",W0_9,2015,82768711
+fatturato_mgl_eur,"0-9 addetti",W0_9,2016,81242964
+fatturato_mgl_eur,"0-9 addetti",W0_9,2017,78500620
+fatturato_mgl_eur,"0-9 addetti",W0_9,2018,78981901
+fatturato_mgl_eur,"0-9 addetti",W0_9,2019,76375856
+fatturato_mgl_eur,"0-9 addetti",W0_9,2020,68586575
+fatturato_mgl_eur,"0-9 addetti",W0_9,2021,80534408
+fatturato_mgl_eur,"0-9 addetti",W0_9,2022,90720023
+fatturato_mgl_eur,"0-9 addetti",W0_9,2023,88713670
+fatturato_mgl_eur,"10-19 addetti",W10_19,2008,99944685
+fatturato_mgl_eur,"10-19 addetti",W10_19,2009,79749913
+fatturato_mgl_eur,"10-19 addetti",W10_19,2010,89295874
+fatturato_mgl_eur,"10-19 addetti",W10_19,2011,86566096
+fatturato_mgl_eur,"10-19 addetti",W10_19,2012,83183809
+fatturato_mgl_eur,"10-19 addetti",W10_19,2013,82955116
+fatturato_mgl_eur,"10-19 addetti",W10_19,2014,83750803
+fatturato_mgl_eur,"10-19 addetti",W10_19,2015,85412188
+fatturato_mgl_eur,"10-19 addetti",W10_19,2016,84704467
+fatturato_mgl_eur,"10-19 addetti",W10_19,2017,81301831
+fatturato_mgl_eur,"10-19 addetti",W10_19,2018,82646447
+fatturato_mgl_eur,"10-19 addetti",W10_19,2019,79165120
+fatturato_mgl_eur,"10-19 addetti",W10_19,2020,69903076
+fatturato_mgl_eur,"10-19 addetti",W10_19,2021,85203284
+fatturato_mgl_eur,"10-19 addetti",W10_19,2022,95024809
+fatturato_mgl_eur,"10-19 addetti",W10_19,2023,92496447
+fatturato_mgl_eur,"20-49 addetti",W20_49,2008,137609577
+fatturato_mgl_eur,"20-49 addetti",W20_49,2009,112557374
+fatturato_mgl_eur,"20-49 addetti",W20_49,2010,122264653
+fatturato_mgl_eur,"20-49 addetti",W20_49,2011,136162333
+fatturato_mgl_eur,"20-49 addetti",W20_49,2012,126518174
+fatturato_mgl_eur,"20-49 addetti",W20_49,2013,123922126
+fatturato_mgl_eur,"20-49 addetti",W20_49,2014,123550504
+fatturato_mgl_eur,"20-49 addetti",W20_49,2015,124418499
+fatturato_mgl_eur,"20-49 addetti",W20_49,2016,124919960
+fatturato_mgl_eur,"20-49 addetti",W20_49,2017,122338119
+fatturato_mgl_eur,"20-49 addetti",W20_49,2018,123347918
+fatturato_mgl_eur,"20-49 addetti",W20_49,2019,122472624
+fatturato_mgl_eur,"20-49 addetti",W20_49,2020,108671754
+fatturato_mgl_eur,"20-49 addetti",W20_49,2021,134168788
+fatturato_mgl_eur,"20-49 addetti",W20_49,2022,153076795
+fatturato_mgl_eur,"20-49 addetti",W20_49,2023,149897326
+fatturato_mgl_eur,"50-249 addetti",W50_249,2008,260900420
+fatturato_mgl_eur,"50-249 addetti",W50_249,2009,207242975
+fatturato_mgl_eur,"50-249 addetti",W50_249,2010,227343345
+fatturato_mgl_eur,"50-249 addetti",W50_249,2011,242945040
+fatturato_mgl_eur,"50-249 addetti",W50_249,2012,232960383
+fatturato_mgl_eur,"50-249 addetti",W50_249,2013,234289155
+fatturato_mgl_eur,"50-249 addetti",W50_249,2014,246440006
+fatturato_mgl_eur,"50-249 addetti",W50_249,2015,241648895
+fatturato_mgl_eur,"50-249 addetti",W50_249,2016,244291813
+fatturato_mgl_eur,"50-249 addetti",W50_249,2017,244981179
+fatturato_mgl_eur,"50-249 addetti",W50_249,2018,252495588
+fatturato_mgl_eur,"50-249 addetti",W50_249,2019,257794848
+fatturato_mgl_eur,"50-249 addetti",W50_249,2020,236191675
+fatturato_mgl_eur,"50-249 addetti",W50_249,2021,285668660
+fatturato_mgl_eur,"50-249 addetti",W50_249,2022,336628532
+fatturato_mgl_eur,"50-249 addetti",W50_249,2023,334601699
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2008,211744728
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2009,180256798
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2010,205589283
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2011,208093465
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2012,199296508
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2013,198678887
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2014,204053663
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2015,212949485
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2016,224994740
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2017,241413856
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2018,246941284
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2019,250193214
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2020,224696485
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2021,274271993
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2022,306775311
+valore_aggiunto_mgl_eur,"Totale",TOTAL,2023,320748640
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2008,69041723
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2009,58092463
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2010,71615137
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2011,72059615
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2012,69088030
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2013,66336214
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2014,68041850
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2015,72200671
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2016,78039484
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2017,95851734
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2018,97295003
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2019,99509107
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2020,89600462
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2021,111965446
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2022,129458500
+valore_aggiunto_mgl_eur,"250+ addetti",W_GE250,2023,134118563
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2008,27535630
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2009,23953244
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2010,24914725
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2011,24297343
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2012,24499115
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2013,24023292
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2014,24290030
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2015,24587852
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2016,25461552
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2017,24562833
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2018,25306036
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2019,25084330
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2020,21555134
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2021,25926340
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2022,27979345
+valore_aggiunto_mgl_eur,"0-9 addetti",W0_9,2023,28754219
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2008,25297836
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2009,21881154
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2010,23081623
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2011,23231218
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2012,22709790
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2013,22868170
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2014,23467528
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2015,24309189
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2016,25264803
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2017,24674012
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2018,25032211
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2019,24683832
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2020,21136323
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2021,25942893
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2022,27676163
+valore_aggiunto_mgl_eur,"10-19 addetti",W10_19,2023,28818081
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2008,33665567
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2009,28567025
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2010,30793656
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2011,30883329
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2012,30043899
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2013,30328840
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2014,31739390
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2015,32543436
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2016,34207572
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2017,33709554
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2018,34659018
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2019,34951806
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2020,30891780
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2021,37626270
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2022,40858092
+valore_aggiunto_mgl_eur,"20-49 addetti",W20_49,2023,42744816
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2008,56203972
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2009,47762912
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2010,55184142
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2011,57621960
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2012,52955674
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2013,55122371
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2014,56514865
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2015,59308337
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2016,62021329
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2017,62615723
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2018,64649016
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2019,65964139
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2020,61512786
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2021,72811044
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2022,80803211
+valore_aggiunto_mgl_eur,"50-249 addetti",W50_249,2023,86312961
+costi_personale_mgl_eur,"Totale",TOTAL,2008,137925889
+costi_personale_mgl_eur,"Totale",TOTAL,2009,128421040
+costi_personale_mgl_eur,"Totale",TOTAL,2010,130148793
+costi_personale_mgl_eur,"Totale",TOTAL,2011,133051668
+costi_personale_mgl_eur,"Totale",TOTAL,2012,130843078
+costi_personale_mgl_eur,"Totale",TOTAL,2013,129655137
+costi_personale_mgl_eur,"Totale",TOTAL,2014,130492411
+costi_personale_mgl_eur,"Totale",TOTAL,2015,132363150
+costi_personale_mgl_eur,"Totale",TOTAL,2016,135864088
+costi_personale_mgl_eur,"Totale",TOTAL,2017,143779535
+costi_personale_mgl_eur,"Totale",TOTAL,2018,147723294
+costi_personale_mgl_eur,"Totale",TOTAL,2019,151871729
+costi_personale_mgl_eur,"Totale",TOTAL,2020,139545163
+costi_personale_mgl_eur,"Totale",TOTAL,2021,154825625
+costi_personale_mgl_eur,"Totale",TOTAL,2022,162993871
+costi_personale_mgl_eur,"Totale",TOTAL,2023,170303954
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2008,46864387
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2009,43099336
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2010,44625642
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2011,45598651
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2012,45390872
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2013,44625704
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2014,45150442
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2015,46022457
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2016,47792524
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2017,57309269
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2018,59150215
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2019,61319116
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2020,57797843
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2021,63671387
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2022,65684219
+costi_personale_mgl_eur,"250+ addetti",W_GE250,2023,70649334
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2008,12967067
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2009,14086479
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2010,12898293
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2011,12632571
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2012,12830445
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2013,12536642
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2014,12404965
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2015,12467557
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2016,12361196
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2017,12084160
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2018,12102628
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2019,12132302
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2020,10667768
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2021,11706613
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2022,12629066
+costi_personale_mgl_eur,"0-9 addetti",W0_9,2023,12410484
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2008,17004475
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2009,15603814
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2010,15879149
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2011,16000791
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2012,15466994
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2013,15334182
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2014,15340065
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2015,15526253
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2016,15806621
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2017,15385304
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2018,15677373
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2019,15646955
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2020,13702855
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2021,15407831
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2022,16211590
+costi_personale_mgl_eur,"10-19 addetti",W10_19,2023,16288005
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2008,23416062
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2009,21005112
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2010,21479559
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2011,21916907
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2012,21211405
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2013,20990877
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2014,21100497
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2015,21274043
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2016,21797675
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2017,21376395
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2018,21864860
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2019,22324090
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2020,19874025
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2021,22408603
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2022,23780837
+costi_personale_mgl_eur,"20-49 addetti",W20_49,2023,24260035
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2008,37673898
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2009,34626299
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2010,35266150
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2011,36902748
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2012,35943362
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2013,36167732
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2014,36496442
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2015,37072840
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2016,38106072
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2017,37624407
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2018,38928218
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2019,40449266
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2020,37502672
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2021,41631191
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2022,44688159
+costi_personale_mgl_eur,"50-249 addetti",W50_249,2023,46696096
+addetti,"Totale",TOTAL,2008,4407247
+addetti,"Totale",TOTAL,2009,4168732
+addetti,"Totale",TOTAL,2010,4003067
+addetti,"Totale",TOTAL,2011,3932845
+addetti,"Totale",TOTAL,2012,3846840
+addetti,"Totale",TOTAL,2013,3733694
+addetti,"Totale",TOTAL,2014,3654887
+addetti,"Totale",TOTAL,2015,3619207
+addetti,"Totale",TOTAL,2016,3662318
+addetti,"Totale",TOTAL,2017,3744271
+addetti,"Totale",TOTAL,2018,3781269
+addetti,"Totale",TOTAL,2019,3808549
+addetti,"Totale",TOTAL,2020,3745463
+addetti,"Totale",TOTAL,2021,3793380
+addetti,"Totale",TOTAL,2022,3850934
+addetti,"Totale",TOTAL,2023,3917564
+addetti,"250+ addetti",W_GE250,2008,1003292
+addetti,"250+ addetti",W_GE250,2009,960598
+addetti,"250+ addetti",W_GE250,2010,932282
+addetti,"250+ addetti",W_GE250,2011,911224
+addetti,"250+ addetti",W_GE250,2012,896841
+addetti,"250+ addetti",W_GE250,2013,871876
+addetti,"250+ addetti",W_GE250,2014,858470
+addetti,"250+ addetti",W_GE250,2015,851205
+addetti,"250+ addetti",W_GE250,2016,862294
+addetti,"250+ addetti",W_GE250,2017,1001462
+addetti,"250+ addetti",W_GE250,2018,1028432
+addetti,"250+ addetti",W_GE250,2019,1055295
+addetti,"250+ addetti",W_GE250,2020,1054130
+addetti,"250+ addetti",W_GE250,2021,1066165
+addetti,"250+ addetti",W_GE250,2022,1088201
+addetti,"250+ addetti",W_GE250,2023,1135303
+addetti,"0-9 addetti",W0_9,2008,1054970
+addetti,"0-9 addetti",W0_9,2009,1016169
+addetti,"0-9 addetti",W0_9,2010,984314
+addetti,"0-9 addetti",W0_9,2011,960471
+addetti,"0-9 addetti",W0_9,2012,945162
+addetti,"0-9 addetti",W0_9,2013,915454
+addetti,"0-9 addetti",W0_9,2014,885493
+addetti,"0-9 addetti",W0_9,2015,873172
+addetti,"0-9 addetti",W0_9,2016,864569
+addetti,"0-9 addetti",W0_9,2017,843782
+addetti,"0-9 addetti",W0_9,2018,824480
+addetti,"0-9 addetti",W0_9,2019,806563
+addetti,"0-9 addetti",W0_9,2020,791999
+addetti,"0-9 addetti",W0_9,2021,785038
+addetti,"0-9 addetti",W0_9,2022,770894
+addetti,"0-9 addetti",W0_9,2023,753561
+addetti,"10-19 addetti",W10_19,2008,676926
+addetti,"10-19 addetti",W10_19,2009,620682
+addetti,"10-19 addetti",W10_19,2010,597125
+addetti,"10-19 addetti",W10_19,2011,579525
+addetti,"10-19 addetti",W10_19,2012,558353
+addetti,"10-19 addetti",W10_19,2013,538275
+addetti,"10-19 addetti",W10_19,2014,527206
+addetti,"10-19 addetti",W10_19,2015,524786
+addetti,"10-19 addetti",W10_19,2016,535375
+addetti,"10-19 addetti",W10_19,2017,521728
+addetti,"10-19 addetti",W10_19,2018,523253
+addetti,"10-19 addetti",W10_19,2019,515392
+addetti,"10-19 addetti",W10_19,2020,490243
+addetti,"10-19 addetti",W10_19,2021,504438
+addetti,"10-19 addetti",W10_19,2022,502306
+addetti,"10-19 addetti",W10_19,2023,502831
+addetti,"20-49 addetti",W20_49,2008,727936
+addetti,"20-49 addetti",W20_49,2009,669238
+addetti,"20-49 addetti",W20_49,2010,635498
+addetti,"20-49 addetti",W20_49,2011,625994
+addetti,"20-49 addetti",W20_49,2012,610413
+addetti,"20-49 addetti",W20_49,2013,584239
+addetti,"20-49 addetti",W20_49,2014,571503
+addetti,"20-49 addetti",W20_49,2015,564540
+addetti,"20-49 addetti",W20_49,2016,577903
+addetti,"20-49 addetti",W20_49,2017,567690
+addetti,"20-49 addetti",W20_49,2018,574263
+addetti,"20-49 addetti",W20_49,2019,580235
+addetti,"20-49 addetti",W20_49,2020,560799
+addetti,"20-49 addetti",W20_49,2021,576105
+addetti,"20-49 addetti",W20_49,2022,587010
+addetti,"20-49 addetti",W20_49,2023,596275
+addetti,"50-249 addetti",W50_249,2008,944123
+addetti,"50-249 addetti",W50_249,2009,902045
+addetti,"50-249 addetti",W50_249,2010,853848
+addetti,"50-249 addetti",W50_249,2011,855631
+addetti,"50-249 addetti",W50_249,2012,836071
+addetti,"50-249 addetti",W50_249,2013,823850
+addetti,"50-249 addetti",W50_249,2014,812215
+addetti,"50-249 addetti",W50_249,2015,805504
+addetti,"50-249 addetti",W50_249,2016,822177
+addetti,"50-249 addetti",W50_249,2017,809609
+addetti,"50-249 addetti",W50_249,2018,830841
+addetti,"50-249 addetti",W50_249,2019,851064
+addetti,"50-249 addetti",W50_249,2020,848292
+addetti,"50-249 addetti",W50_249,2021,861634
+addetti,"50-249 addetti",W50_249,2022,902523
+addetti,"50-249 addetti",W50_249,2023,929594

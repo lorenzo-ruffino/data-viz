@@ -1,0 +1,94 @@
+Deflatore HICP Italia: anni 1996-2025 | 2000=74.2 2008=90.4 2015=100 2024=122.3
+Inflazione cumulata 2000->2024: +65% | 2008->2023: +35% circa
+
+======================================================================
+A. EXPORT MANIFATTURIERO: NOMINALE vs REALE (euro costanti 2024)
+======================================================================
+  anno      nominale    reale (€2024)
+  2000        253 mld          417 mld
+  2007        348 mld          488 mld
+  2013        374 mld          459 mld
+  2019        461 mld          547 mld
+  2024        592 mld          592 mld
+Crescita export manifatturiero 2000->2024:
+  nominale: +134%   |   REALE (al netto inflazione): +42%
+
+Crescita REALE per settore, 2000->2024 (export, euro costanti 2024):
+  settore                              nominale     reale
+  Farmaceutica                           +605%     +328%
+  Alimentari bevande tabacco             +359%     +178%
+  Coke e raffinazione petrolio           +217%      +92%
+  Metallurgia e prodotti in metallo      +192%      +77%
+  Chimica                                +147%      +50%
+  Macchinari                             +125%      +37%
+  Altri prodotti manifatturieri          +102%      +23%
+  Mezzi di trasporto                      +99%      +21%
+  Apparecchiature elettriche              +99%      +20%
+  Legno carta stampa                      +77%       +7%
+  Gomma plastica minerali non met.        +72%       +4%
+  Tessile abbigliamento pelle             +57%       -5%
+  Elettronica e ottica                    +52%       -8%
+
+======================================================================
+B. EXPORT MANIFATTURIERO PER DESTINAZIONE (Coeweb)
+======================================================================
+Export manifatturiero per area (mld € correnti e quota sul totale):
+  Unione Europea (27)    2000:  155.0 (61.3%)  2024:  323.3 (54.6%)  cresc.reale +27%
+  Extra-UE               2000:   97.8 (38.7%)  2024:  269.1 (45.4%)  cresc.reale +67%
+  Germania               2000:   37.8 (15.0%)  2024:   66.8 (11.3%)  cresc.reale +7%
+  Francia                2000:   32.2 (12.7%)  2024:   59.4 (10.0%)  cresc.reale +12%
+  Stati Uniti            2000:   26.3 (10.4%)  2024:   64.4 (10.9%)  cresc.reale +48%
+  Spagna                 2000:   16.0 ( 6.3%)  2024:   33.0 ( 5.6%)  cresc.reale +25%
+  Regno Unito            2000:   17.6 ( 6.9%)  2024:   26.8 ( 4.5%)  cresc.reale -7%
+  Svizzera               2000:    8.3 ( 3.3%)  2024:   29.2 ( 4.9%)  cresc.reale +115%
+  Cina                   2000:    2.3 ( 0.9%)  2024:   14.7 ( 2.5%)  cresc.reale +280%
+
+Quota UE sul totale export: 2000 61.3% -> 2024 54.6%  (Extra-UE: 38.7% -> 45.4%)
+
+======================================================================
+C. STRUTTURA D'IMPRESA: VALORE AGGIUNTO REALE per classe dimensionale
+======================================================================
+Valore aggiunto per addetto (migliaia di euro COSTANTI 2024):
+  classe              2008 nom  2008 reale  2023 reale  var.reale
+  micro 0-9              26.1       35.3       38.6      +9.3%
+  piccole 10-19          37.4       50.6       58.0     +14.7%
+  piccole 20-49          46.2       62.6       72.5     +15.9%
+  medie 50-249           59.5       80.5       93.9     +16.6%
+  grandi 250+            68.8       93.1      119.5     +28.4%
+  TOTALE                 48.0       65.0       82.8     +27.4%
+
+Valore aggiunto per impresa (migliaia di euro COSTANTI 2024):
+  classe              2008 reale  2023 reale  var.reale
+  micro 0-9                 100        102      +2.7%
+  piccole 10-19             679        779     +14.8%
+  piccole 20-49           1,878      2,186     +16.4%
+  medie 50-249            7,796      9,175     +17.7%
+  grandi 250+            66,909     85,977     +28.5%
+  TOTALE                    623        921     +47.7%
+
+Valore aggiunto manifatturiero totale: 2008 reale 286 mld -> 2023 reale 324 mld (+13.3%)
+
+======================================================================
+D. DEMOGRAFIA D'IMPRESA: NASCITE, CESSAZIONI, SELEZIONE (Eurostat)
+======================================================================
+Manifattura (C) - imprese attive, nate (iscritte), cessate:
+    anno    attive     nate   cessate    saldo  tasso nat.  tasso mort.
+    2008   466,251   24,071    28,636   -4,565        5.2%         6.1%
+    2009   444,564   19,777    22,937   -3,160        4.4%         5.2%
+    2010   432,566   20,322    23,558   -3,236        4.7%         5.4%
+    2011   432,731   19,756    25,097   -5,341        4.6%         5.8%
+    2012   424,642   19,719    25,610   -5,891        4.6%         6.0%
+    2013   414,947   19,417    25,440   -6,023        4.7%         6.1%
+    2014   403,494   18,742    22,675   -3,933        4.6%         5.6%
+    2015   397,033   19,479    22,474   -2,995        4.9%         5.7%
+    2016   394,517   19,918    20,332     -414        5.0%         5.2%
+    2017   388,888   18,471    18,199     +272        4.7%         4.7%
+    2018   384,350   17,637    16,990     +647        4.6%         4.4%
+    2019   372,571   17,553    23,266   -5,713        4.7%         6.2%
+    2020   367,358   14,160    22,450   -8,290        3.9%         6.1%
+  TOTALE 2008-2020: nate 249,022  cessate 297,664  saldo -48,642
+
+Nel periodo coperto le cessazioni hanno superato le nascite negli anni:
+   2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2019, 2020
+
+FINE.
