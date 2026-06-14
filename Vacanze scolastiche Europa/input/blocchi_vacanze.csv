@@ -1,0 +1,318 @@
+paese,start_off,end_off
+Albania,0,9
+Albania,88,90
+Albania,98,100
+Albania,115,124
+Albania,203,205
+Albania,213,213
+Albania,222,222
+Albania,243,243
+Albania,248,248
+Albania,283,365
+Austria,0,9
+Austria,55,62
+Austria,75,75
+Austria,98,100
+Austria,113,128
+Austria,157,163
+Austria,204,213
+Austria,243,243
+Austria,251,251
+Austria,262,262
+Austria,272,272
+Austria,302,302
+Austria,308,365
+Belgio (fiamminga),59,65
+Belgio (fiamminga),115,128
+Belgio (fiamminga),164,170
+Belgio (fiamminga),213,226
+Belgio (fiamminga),243,243
+Belgio (fiamminga),251,254
+Belgio (fiamminga),262,262
+Belgio (fiamminga),304,365
+Belgio (francese),26,26
+Belgio (francese),52,65
+Belgio (francese),115,128
+Belgio (francese),165,165
+Belgio (francese),178,191
+Belgio (francese),213,213
+Belgio (francese),241,254
+Belgio (francese),262,262
+Belgio (francese),309,360
+Belgio (tedesca),59,65
+Belgio (tedesca),75,75
+Belgio (tedesca),115,128
+Belgio (tedesca),164,170
+Belgio (tedesca),213,226
+Belgio (tedesca),243,243
+Belgio (tedesca),251,251
+Belgio (tedesca),262,262
+Belgio (tedesca),304,365
+Bulgaria,0,13
+Bulgaria,61,65
+Bulgaria,115,123
+Bulgaria,157,157
+Bulgaria,213,215
+Bulgaria,304,365
+Cechia,0,2
+Cechia,27,27
+Cechia,55,58
+Cechia,77,79
+Cechia,113,123
+Cechia,154,156
+Cechia,157,163
+Cechia,209,213
+Cechia,243,243
+Cechia,250,250
+Cechia,304,365
+Cipro,0,5
+Cipro,115,128
+Cipro,151,151
+Cipro,199,199
+Cipro,206,206
+Cipro,213,213
+Cipro,241,254
+Cipro,284,284
+Cipro,297,297
+Cipro,304,365
+Croazia,0,2
+Croazia,59,61
+Croazia,115,128
+Croazia,171,177
+Croazia,209,219
+Croazia,243,243
+Croazia,272,272
+Croazia,297,365
+Danimarca,43,51
+Danimarca,110,121
+Danimarca,162,170
+Danimarca,204,213
+Danimarca,251,254
+Danimarca,260,262
+Danimarca,278,278
+Danimarca,302,348
+Estonia,52,58
+Estonia,111,128
+Estonia,178,184
+Estonia,210,210
+Estonia,234,240
+Estonia,243,243
+Estonia,286,365
+Finlandia,45,51
+Finlandia,96,96
+Finlandia,112,125
+Finlandia,171,177
+Finlandia,210,212
+Finlandia,243,243
+Finlandia,251,251
+Finlandia,276,342
+Francia,0,2
+Francia,52,65
+Francia,71,72
+Francia,115,128
+Francia,164,177
+Francia,213,213
+Francia,220,233
+Francia,250,254
+Francia,262,262
+Francia,309,365
+Germania,32,32
+Germania,38,44
+Germania,111,124
+Germania,153,159
+Germania,199,212
+Germania,251,251
+Germania,259,259
+Germania,293,338
+Grecia,0,9
+Grecia,115,128
+Grecia,199,199
+Grecia,206,206
+Grecia,241,254
+Grecia,290,365
+Irlanda,57,65
+Irlanda,113,128
+Irlanda,164,167
+Irlanda,204,219
+Irlanda,276,365
+Islanda,40,42
+Islanda,113,125
+Islanda,176,178
+Islanda,206,214
+Islanda,237,237
+Islanda,243,243
+Islanda,251,251
+Islanda,262,262
+Islanda,267,356
+Italia,0,11
+Italia,57,57
+Italia,98,100
+Italia,113,126
+Italia,162,163
+Italia,209,214
+Italia,237,237
+Italia,243,243
+Italia,279,365
+Lettonia,52,58
+Lettonia,80,80
+Lettonia,115,128
+Lettonia,192,198
+Lettonia,210,213
+Lettonia,243,243
+Lettonia,248,248
+Lettonia,274,365
+Liechtenstein,38,51
+Liechtenstein,115,128
+Liechtenstein,164,170
+Liechtenstein,209,226
+Liechtenstein,311,350
+Lituania,59,65
+Lituania,115,128
+Lituania,168,170
+Lituania,171,177
+Lituania,192,192
+Lituania,213,219
+Lituania,243,243
+Lituania,297,297
+Lituania,300,365
+Lussemburgo,0,13
+Lussemburgo,59,65
+Lussemburgo,115,128
+Lussemburgo,164,171
+Lussemburgo,213,226
+Lussemburgo,243,243
+Lussemburgo,251,251
+Lussemburgo,262,262
+Lussemburgo,269,275
+Lussemburgo,319,365
+Macedonia del Nord,7,9
+Macedonia del Nord,40,40
+Macedonia del Nord,52,52
+Macedonia del Nord,98,100
+Macedonia del Nord,122,142
+Macedonia del Nord,222,222
+Macedonia del Nord,241,248
+Macedonia del Nord,266,268
+Macedonia del Nord,291,365
+Malta,0,25
+Malta,61,65
+Malta,98,100
+Malta,103,103
+Malta,115,128
+Malta,164,166
+Malta,200,200
+Malta,208,219
+Malta,243,243
+Malta,273,275
+Malta,280,282
+Malta,302,365
+Montenegro,0,2
+Montenegro,62,65
+Montenegro,73,73
+Montenegro,122,142
+Montenegro,243,244
+Montenegro,263,264
+Montenegro,290,365
+Norvegia,31,37
+Norvegia,111,121
+Norvegia,171,177
+Norvegia,206,212
+Norvegia,243,243
+Norvegia,251,254
+Norvegia,259,261
+Norvegia,262,262
+Norvegia,295,349
+Paesi Bassi,45,51
+Paesi Bassi,115,128
+Paesi Bassi,164,170
+Paesi Bassi,241,247
+Paesi Bassi,311,365
+Polonia,0,2
+Polonia,61,61
+Polonia,115,122
+Polonia,136,149
+Polonia,209,214
+Polonia,243,243
+Polonia,245,247
+Polonia,272,272
+Polonia,297,365
+Portogallo,0,10
+Portogallo,34,34
+Portogallo,61,61
+Portogallo,91,93
+Portogallo,98,100
+Portogallo,108,123
+Portogallo,164,166
+Portogallo,206,219
+Portogallo,237,237
+Portogallo,243,243
+Portogallo,272,272
+Portogallo,283,283
+Portogallo,288,334
+Portogallo,327,365
+Romania,0,9
+Romania,34,34
+Romania,59,65
+Romania,90,93
+Romania,115,128
+Romania,145,145
+Romania,164,170
+Romania,241,249
+Romania,297,365
+Serbia,68,70
+Serbia,115,126
+Serbia,167,168
+Serbia,209,215
+Serbia,241,246
+Serbia,266,365
+Slovacchia,14,16
+Slovacchia,59,60
+Slovacchia,61,61
+Slovacchia,77,79
+Slovacchia,115,128
+Slovacchia,171,177
+Slovacchia,209,214
+Slovacchia,243,243
+Slovacchia,250,250
+Slovacchia,304,365
+Slovenia,59,65
+Slovenia,115,123
+Slovenia,160,160
+Slovenia,171,177
+Slovenia,213,213
+Slovenia,241,247
+Slovenia,298,365
+Spagna,0,9
+Spagna,41,41
+Spagna,61,61
+Spagna,96,96
+Spagna,111,125
+Spagna,199,204
+Spagna,242,242
+Spagna,292,365
+Svezia,52,58
+Svezia,109,125
+Svezia,164,170
+Svezia,206,210
+Svezia,243,243
+Svezia,251,251
+Svezia,279,345
+Svizzera,24,30
+Svizzera,111,119
+Svizzera,150,156
+Svizzera,206,215
+Svizzera,290,317
+Svizzera,315,345
+Turchia,0,9
+Turchia,74,76
+Turchia,144,153
+Turchia,221,223
+Turchia,290,365
+Ungheria,52,52
+Ungheria,59,65
+Ungheria,112,128
+Ungheria,196,198
+Ungheria,209,219
+Ungheria,243,243
+Ungheria,262,262
+Ungheria,296,365
