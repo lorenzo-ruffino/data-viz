@@ -1,0 +1,201 @@
+iso,paese,uomini,donne,media
+ASM,American Samoa,71.6,82.2,76.9
+TON,Tonga,65.2,82.8,74
+COK,Cook Islands,71.8,75.2,73.5
+NRU,Nauru,72.7,73.2,73
+TKL,Tokelau,68.1,75.8,71.9
+NIU,Niue,64.4,71.5,67.9
+TUV,Tuvalu,58.8,74,66.4
+WSM,Samoa,53.4,78.1,65.7
+PYF,French Polynesia,48.5,51.9,50.2
+FSM,Federated States of Micronesia,40.7,58.7,49.7
+BHS,Bahamas,39.9,57.8,48.8
+KNA,Saint Kitts and Nevis,38.1,56.6,47.3
+KIR,Kiribati,38.3,54.7,46.5
+QAT,Qatar,39.3,51.7,45.5
+EGY,Egypt,31.8,59,45.4
+BLZ,Belize,34.3,54.7,44.5
+MHL,Marshall Islands,33.3,53.8,43.6
+PRI,Puerto Rico,36.8,49.1,43
+SAU,Saudi Arabia,37.3,48.5,42.9
+KWT,Kuwait,37.2,48.4,42.8
+PLW,Palau,37.1,47.1,42.1
+USA,United States of America,40.3,43.1,41.7
+CHL,Chile,35.1,47.2,41.2
+IRQ,Iraq,32.3,49,40.6
+FJI,Fiji,29.8,50.3,40.1
+BRB,Barbados,28.7,51.1,39.9
+PAN,Panama,31.3,46.2,38.8
+PSE,Palestine,29.2,47.4,38.3
+ARG,Argentina,37.1,39.4,38.3
+MEX,Mexico,33.5,42.6,38
+BRN,Brunei Darussalam,33.6,41.7,37.7
+BHR,Bahrain,31.6,43,37.3
+JOR,Jordan,30.2,43.5,36.9
+GEO,Georgia,35.2,37.7,36.5
+SYC,Seychelles,25.6,46.3,36
+VCT,Saint Vincent and the Grenadines,20.2,51.4,35.8
+JAM,Jamaica,20,51.6,35.8
+URY,Uruguay,32.8,38.8,35.8
+NIC,Nicaragua,29.7,41.8,35.7
+PRY,Paraguay,30.2,41.2,35.7
+LCA,Saint Lucia,21.7,48.9,35.3
+BMU,Bermuda,25.2,44.6,34.9
+ATG,Antigua and Barbuda,25.1,44.7,34.9
+LBY,Libya,26.1,43.4,34.7
+NZL,New Zealand,33,36.3,34.7
+ARE,United Arab Emirates,28.2,39.8,34
+SYR,Syrian Arab Republic,25.9,41.6,33.7
+CRI,Costa Rica,26.3,40.7,33.5
+OMN,Oman,26.2,40.8,33.5
+ROU,Romania,35.7,31.2,33.5
+DMA,Dominica,19.3,47.5,33.4
+HND,Honduras,24.7,40.6,32.7
+GRD,Grenada,19.9,45,32.5
+HUN,Hungary,35.7,28.9,32.3
+UZB,Uzbekistan,29.4,35.2,32.3
+SLV,El Salvador,24.5,40,32.2
+ZAF,South Africa,15.1,49.1,32.1
+HRV,Croatia,35.3,28.1,31.7
+TTO,Trinidad and Tobago,25.5,37.9,31.7
+DOM,Dominican Republic,25,38.4,31.7
+SUR,Suriname,21,42.3,31.6
+LBN,Lebanon,30.2,32.8,31.5
+AUS,Australia,32.3,30.5,31.4
+MLT,Malta,33.8,28.3,31
+BRA,Brazil,26.8,34.9,30.9
+BOL,Bolivia,24.2,37.2,30.7
+GUY,Guyana,19.2,41.4,30.3
+PER,Peru,25.7,34.3,30
+SWZ,Eswatini,15.6,44.1,29.9
+ECU,Ecuador,24.6,35.1,29.9
+TUR,Turkiye,22.8,36.8,29.8
+PNG,Papua New Guinea,25.3,32.6,29
+IRL,Ireland,29.8,27.8,28.8
+GRL,Greenland,25.1,32.5,28.8
+GTM,Guatemala,24.1,33.4,28.8
+AZE,Azerbaijan,21.7,34.9,28.3
+GRC,Greece,28.6,27.9,28.3
+GBR,United Kingdom,26.7,29.6,28.2
+MKD,North Macedonia,28.5,27,27.7
+CZE,Czechia,31.7,22.8,27.3
+SVK,Slovakia,31,22.8,26.9
+TUN,Tunisia,19.3,34.2,26.8
+CAN,Canada,28.2,24.9,26.5
+MNG,Mongolia,23.6,28,25.8
+COL,Colombia,19.4,31.8,25.6
+IRN,Iran,19.3,31.6,25.5
+ARM,Armenia,20.8,29.9,25.4
+PAK,Pakistan,21.6,29,25.3
+ALB,Albania,24.2,25.9,25
+FIN,Finland,24.2,25.3,24.7
+DZA,Algeria,16,32.9,24.5
+MRT,Mauritania,9.4,38.7,24
+MYS,Malaysia,18.4,29.5,23.9
+GAB,Gabon,12.2,35.4,23.8
+CUB,Cuba,20.4,27.2,23.8
+TJK,Tajikistan,18.5,28.9,23.7
+VEN,Venezuela,20.9,26.3,23.6
+VUT,Vanuatu,18.1,28.8,23.5
+UKR,Ukraine,20.2,26.5,23.4
+MDA,Moldova,21.7,24.1,22.9
+ISR,Israel,22.9,22.9,22.9
+LVA,Latvia,23.6,22.1,22.9
+TKM,Turkmenistan,20.4,25.3,22.8
+KGZ,Kyrgyzstan,18.8,26.7,22.7
+SLB,Solomon Islands,16.9,28.6,22.7
+ISL,Iceland,24,21.5,22.7
+SRB,Serbia,26.4,18.9,22.7
+POL,Poland,26.6,18.4,22.5
+MAR,Morocco,13.6,31.1,22.4
+CYP,Cyprus,23.8,20.5,22.1
+LSO,Lesotho,6.5,37.5,22
+LTU,Lithuania,23.6,20.3,22
+KAZ,Kazakhstan,21.4,22.2,21.8
+BIH,Bosnia and Herzegovina,22.6,20.8,21.7
+MUS,Mauritius,16.1,26.9,21.5
+BEL,Belgium,20.3,22.3,21.3
+DEU,Germany,22.9,19.6,21.2
+BLR,Belarus,19.6,22.7,21.2
+BGR,Bulgaria,24.2,17.9,21.1
+AFG,Afghanistan,15.1,27,21
+EST,Estonia,21,20.8,20.9
+GNQ,Equatorial Guinea,8.8,33,20.9
+NOR,Norway,21.5,19.6,20.6
+BWA,Botswana,9,31.6,20.3
+SVN,Slovenia,26.8,13.7,20.2
+MDV,Maldives,13.7,26.1,19.9
+LUX,Luxembourg,21.2,18,19.6
+NAM,Namibia,11.2,26.1,18.7
+PRT,Portugal,17.6,19.8,18.7
+STP,Sao Tome and Principe,10.7,26.4,18.6
+LBR,Liberia,13.7,22.8,18.3
+SDN,Sudan,12.5,23.9,18.2
+RUS,Russian Federation,17.3,18.8,18.1
+SWE,Sweden,19,16.8,17.9
+MNE,Montenegro,20.4,15.3,17.8
+AND,Andorra,19.4,15.7,17.6
+CPV,Cabo Verde,9.2,25.9,17.5
+COM,Comoros,8.4,26.3,17.3
+SGP,Singapore,18.3,15.7,17
+AUT,Austria,20.1,13.6,16.9
+CMR,Cameroon,10,23.3,16.6
+THA,Thailand,12.8,19.9,16.4
+ESP,Spain,18.1,13.4,15.8
+SOM,Somalia,6.2,24.2,15.2
+NLD,Netherlands,14.7,15.5,15.1
+GHA,Ghana,5,24.9,14.9
+DNK,Denmark,15.8,13.4,14.6
+ITA,Italy,15,13.8,14.4
+ZWE,Zimbabwe,6.3,22.2,14.3
+NGA,Nigeria,8.8,19.7,14.3
+MLI,Mali,9.4,18.3,13.8
+BTN,Bhutan,10.2,17.5,13.8
+YEM,Yemen,10.6,16.9,13.8
+TGO,Togo,6.4,20.5,13.5
+CIV,Cote d'Ivoire,8.5,18.4,13.4
+GNB,Guinea Bissau,8.1,17.8,13
+AGO,Angola,7.1,18.8,13
+GMB,Gambia,5.6,19.8,12.7
+BEN,Benin,7.7,17.5,12.6
+COG,Congo,6.5,18.7,12.6
+PRK,North Korea,9.3,15.1,12.2
+TWN,Taiwan,14.7,9.7,12.2
+IDN,Indonesia,7.1,17.1,12.1
+SEN,Senegal,4.9,19.2,12.1
+DJI,Djibouti,6.5,17.4,11.9
+ZMB,Zambia,5.8,17.7,11.8
+TZA,Tanzania,6.6,16.8,11.7
+KEN,Kenya,5.8,17.4,11.6
+CHE,Switzerland,13.9,9.3,11.6
+FRA,France,11.1,11.9,11.5
+HTI,Haiti,5.7,17.2,11.5
+LKA,Sri Lanka,7.3,15.4,11.3
+GIN,Guinea,6.5,15.1,10.8
+CAF,Central African Republic,6.9,14.6,10.8
+MOZ,Mozambique,5.9,15,10.5
+PHL,Philippines,7.7,12,9.8
+UGA,Uganda,4.7,14.6,9.6
+LAO,Lao PDR,6.8,12.1,9.5
+CHN,China,10.1,8.6,9.4
+SSD,South Sudan,5.5,12.6,9
+MMR,Myanmar,6,10.8,8.4
+SLE,Sierra Leone,3.1,13.7,8.4
+IND,India,5.9,10.8,8.3
+KOR,South Korea,10.4,6.1,8.2
+MWI,Malawi,3.4,12.6,8
+NPL,Nepal,5.3,10.7,8
+BFA,Burkina Faso,4.6,11.1,7.9
+TCD,Chad,8,7.5,7.7
+NER,Niger,5,9.1,7.1
+COD,DR Congo,4.3,9.5,6.9
+JPN,Japan,8.2,3.8,6
+BGD,Bangladesh,2.8,8.9,5.8
+RWA,Rwanda,2.1,9.1,5.6
+BDI,Burundi,6.4,4.5,5.4
+KHM,Cambodia,3.7,6.4,5
+MDG,Madagascar,4.9,4.5,4.7
+ERI,Eritrea,2.8,6.1,4.4
+TLS,Timor-Leste,1.8,5.7,3.7
+ETH,Ethiopia,1.4,4.6,3
+VNM,Viet Nam,2.3,2.5,2.4
