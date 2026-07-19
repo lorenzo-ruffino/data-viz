@@ -1,0 +1,7 @@
+eta,fascia,perc_qualsiasi_grezzo,perc_frequente_grezzo,perc_qualsiasi_std,perc_frequente_std,cells_used,w_observed,diff_qualsiasi_pp,diff_frequente_pp
+1,<20,0.8,0.3,1.2,0.4,10,1,0.4,0.1
+2,20-29,5.8,2.2,6.6,2.7,10,1,0.8,0.5
+3,30-39,9.2,3.3,9.3,3.4,10,1,0.1,0.1
+4,40-49,8.8,2.8,8.8,2.9,10,1,0,0.1
+5,50-59,8,2.4,8.1,2.4,10,1,0.1,0
+6,60+,8.5,2.9,7.7,2.5,10,1,-0.8,-0.4
