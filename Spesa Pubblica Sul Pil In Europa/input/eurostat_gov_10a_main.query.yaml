@@ -1,0 +1,22 @@
+provider: eurostat
+provider_url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1
+agency_id: ESTAT
+dataset: GOV_10A_MAIN
+description: Government revenue, expenditure and main aggregates
+filters:
+  freq:
+    value: A
+    description: ''
+  unit:
+    value: PC_GDP
+    description: ''
+  sector:
+    value: S13
+    description: ''
+  na_item:
+    value: TE
+    description: ''
+start_period: '2015'
+end_period: '2025'
+last_n: null
+first_n: null
