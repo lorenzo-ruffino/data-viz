@@ -1,0 +1,22 @@
+NUTS_ID,regione,quota_condizionamento
+ITG1,Sicilia,73.1
+ITH3,Veneto,71.1
+ITH5,Emilia-Romagna,67.6
+ITG2,Sardegna,66.4
+ITF4,Puglia,63.6
+ITH4,Friuli-Venezia Giulia,60.6
+ITF3,Campania,58
+ITI4,Lazio,57.1
+ITC4,Lombardia,55.6
+ITF6,Calabria,55
+ITI3,Marche,46.9
+ITI1,Toscana,46
+ITI2,Umbria,44.4
+ITF1,Abruzzo,40.9
+ITC3,Liguria,39.1
+ITC1,Piemonte,34.8
+ITF5,Basilicata,33.2
+ITF2,Molise,30.7
+ITH1,Provincia Autonoma di Bolzano/Bozen,21.2
+ITH2,Provincia Autonoma di Trento,19
+ITC2,Valle d’Aosta/Vallée d’Aoste,11.8
