@@ -1,1 +1,0 @@
-In Italia il 6,9% degli occupati lavora 49 ore o più alla settimana nel 2025, poco sopra la media dell'Unione Europea (6,2%). Tra i tre grandi paesi, Francia 9,4%, Spagna 6%, Germania 4,9%. Più diffuso in Grecia (11,6%), più raro in Bulgaria (0,3%).
