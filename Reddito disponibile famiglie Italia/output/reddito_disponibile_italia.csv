@@ -1,0 +1,20 @@
+ord,categoria,valore,tipo
+1,"Salario netto
+per lavoratore
+dipendente",-1207.387610683413,contrib
+2,"Più lavoratori
+dipendenti
+pro capite",1466.7985962348848,contrib
+3,"Reddito netto
+per lavoratore
+NON dipendente",-687.0242219340815,contrib
+4,"Meno lavoratori
+NON dipendenti
+pro capite",-360.8625464959747,contrib
+5,"Reddito da capitale
+pro capite",-1794.0354690385966,contrib
+6,"Prestazioni sociali
+e trasferimenti
+pro capite",1534.6114814954344,contrib
+7,"Reddito disponibile
+reale pro capite*",-1068.0948452256125,totale
