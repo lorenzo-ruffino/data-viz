@@ -1,0 +1,61 @@
+edizione,settore_codice,settore_nome,anno,provvisorio,tasso_natalita,tasso_mortalita
+2004-2009,B,Estrazione di minerali da cave e miniere,2008,False,4.38288920056101,6.626928471248247
+2004-2009,B,Estrazione di minerali da cave e miniere,2009,True,3.6608863198458574,5.973025048169557
+2004-2009,10-12,"Industrie alimentari, delle bevande e del tabacco",2008,False,5.342975611348722,5.791896568611446
+2004-2009,10-12,"Industrie alimentari, delle bevande e del tabacco",2009,True,4.7719082509265425,5.706136530546019
+2004-2009,13-15,Industrie tessili e dell'abbigliamento; Confezioni di articoli in pelle e pelliccia; Fabbricazione di articoli in pelle e simili,2008,False,6.671674222711054,9.508544142500739
+2004-2009,13-15,Industrie tessili e dell'abbigliamento; Confezioni di articoli in pelle e pelliccia; Fabbricazione di articoli in pelle e simili,2009,True,5.554355184881091,9.112253863993201
+2004-2009,16-18,Industria del legno...e sughero; Fabbricazione di carta...; Stampa e riproduzione di supporti registrati,2008,False,3.4053908898660668,6.846027323688363
+2004-2009,16-18,Industria del legno...e sughero; Fabbricazione di carta...; Stampa e riproduzione di supporti registrati,2009,True,3.0003737120281886,6.570213371772285
+2004-2009,19,Fabbricazione di Coke e prodotti derivati dalla raffinazione del petrolio,2008,False,4.857142857142857,4.0
+2004-2009,19,Fabbricazione di Coke e prodotti derivati dalla raffinazione del petrolio,2009,True,0.0,4.037267080745342
+2004-2009,20,Fabbricazione di prodotti chimici,2008,False,4.028386558129827,4.988520141932791
+2004-2009,20,Fabbricazione di prodotti chimici,2009,True,3.8751345532831003,5.059203444564048
+2004-2009,21,Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2008,False,4.270462633451958,4.448398576512456
+2004-2009,21,Fabbricazione di prodotti farmaceutici di base e di preparati farmaceutici,2009,True,5.293005671077505,4.3478260869565215
+2004-2009,22-23,Fabbricazione di articoli in gomma…di altri prodotti della lavorazione di minerali non metalliferi,2008,False,3.7349885305626773,5.991094319255161
+2004-2009,22-23,Fabbricazione di articoli in gomma…di altri prodotti della lavorazione di minerali non metalliferi,2009,True,3.053843339243998,5.882518506009175
+2004-2009,24-25,Metallurgia; Fabbricazione di prodotti in metallo,2008,False,5.136361563369362,5.630045149815296
+2004-2009,24-25,Metallurgia; Fabbricazione di prodotti in metallo,2009,True,4.235528408883924,5.6550618693154915
+2004-2009,26,Fabbricazione di computer…apparecchi di misurazione e di orologi,2008,False,3.9867109634551494,6.673407482305358
+2004-2009,26,Fabbricazione di computer…apparecchi di misurazione e di orologi,2009,True,3.910614525139665,6.533209186840471
+2004-2009,27,Fabbricazione di apparecchiature elettriche ed apparecchiature per uso domestico non elettriche,2008,False,4.511598212385614,6.363055969355182
+2004-2009,27,Fabbricazione di apparecchiature elettriche ed apparecchiature per uso domestico non elettriche,2009,True,3.27569541402642,6.196971324240146
+2004-2009,28,Fabbricazione di macchinari ed apparecchiature n.c.a.,2008,False,3.4442979564930782,4.519611074489123
+2004-2009,28,Fabbricazione di macchinari ed apparecchiature n.c.a.,2009,True,3.1185799983564797,4.651162790697675
+2004-2009,29-30,Fabbricazione di autoveicoli…e di altri mezzi di trasporto,2008,False,6.870367022238293,7.503163984812873
+2004-2009,29-30,Fabbricazione di autoveicoli…e di altri mezzi di trasporto,2009,True,6.307977736549166,7.588126159554731
+2004-2009,31-33,Fabbricazione di mobili; altre industrie manifatturiere; Riparazione…di macchine e apparecchiature,2008,False,6.106060445330816,6.246088238726171
+2004-2009,31-33,Fabbricazione di mobili; altre industrie manifatturiere; Riparazione…di macchine e apparecchiature,2009,True,5.466582184447988,6.339443728287705
+2004-2009,35,"Fornitura di energia elettrica, gas, vapore e aria condizionata",2008,False,15.5,6.941081517352704
+2004-2009,35,"Fornitura di energia elettrica, gas, vapore e aria condizionata",2009,True,17.3,6.559031281533804
+2004-2009,E,"Fornitura di acqua; reti fognarie, attività di gestione dei rifiuti e risanamento",2008,False,5.759670183096883,5.177640354068146
+2004-2009,E,"Fornitura di acqua; reti fognarie, attività di gestione dei rifiuti e risanamento",2009,True,4.964206079098697,5.445370261706373
+2004-2009,F,Costruzioni,2008,False,8.674921995367045,9.352643003321887
+2004-2009,F,Costruzioni,2009,True,10.012698262467564,9.184235225453312
+2004-2009,G,Commercio all'ingrosso e al dettaglio; Riparazione di autoveicoli e motocicli,2008,False,5.960932220194327,7.844473491455188
+2004-2009,G,Commercio all'ingrosso e al dettaglio; Riparazione di autoveicoli e motocicli,2009,True,5.73843860431377,7.783852312279136
+2004-2009,H,Trasporto e magazzinaggio,2008,False,6.961251510899315,8.16024563402198
+2004-2009,H,Trasporto e magazzinaggio,2009,True,5.399304804350021,7.983211457747393
+2004-2009,I,Attività dei servizi di alloggio e di ristorazione,2008,False,7.712867634729535,7.00828330929944
+2004-2009,I,Attività dei servizi di alloggio e di ristorazione,2009,True,7.124360172997115,6.787379013001689
+2004-2009,58-60,"Attività editoriali, di produzione cinematografica…di registrazioni musicali e sonore, di programmazione e trasmissione",2008,False,8.000251382604324,9.364002011060835
+2004-2009,58-60,"Attività editoriali, di produzione cinematografica…di registrazioni musicali e sonore, di programmazione e trasmissione",2009,True,7.773040341095442,9.025910134470317
+2004-2009,61,Telecomunicazioni,2008,False,20.553064275037368,17.91230692575984
+2004-2009,61,Telecomunicazioni,2009,True,17.621371692781917,18.314924222964297
+2004-2009,62-63,"Produzione di software, consulenza informatica…Attività dei servizi d'informazione e altri servizi informatici",2008,False,7.5341978615964535,9.114293165169151
+2004-2009,62-63,"Produzione di software, consulenza informatica…Attività dei servizi d'informazione e altri servizi informatici",2009,True,8.04690707953914,8.972005507113355
+2004-2009,K,Attività finanziarie e assicurative,2008,False,15.325294447560292,8.79518686585428
+2004-2009,K,Attività finanziarie e assicurative,2009,True,15.186858888721089,8.926476225880275
+2004-2009,L,Attività immobiliari,2008,False,6.634265119380054,6.098480090440899
+2004-2009,L,Attività immobiliari,2009,True,5.855793082304412,6.8340812174252346
+2004-2009,69-71,Attività legali e contabilità; Attività di direzione aziendale e di consulenza gestionale; Attività degli studi di architettura e d'ingegneria; collaudi ed analisi cliniche,2008,False,6.052716673287817,5.814355269357625
+2004-2009,69-71,Attività legali e contabilità; Attività di direzione aziendale e di consulenza gestionale; Attività degli studi di architettura e d'ingegneria; collaudi ed analisi cliniche,2009,True,6.382194165019617,5.446325850320068
+2004-2009,72,Ricerca scientifica e sviluppo,2008,False,7.666894508999772,12.804739120528593
+2004-2009,72,Ricerca scientifica e sviluppo,2009,True,11.510707635009311,11.650372439478584
+2004-2009,73-75,"Pubblicità e ricerche di mercato; Altre attività professionali, scientifiche e tecniche; Servizi veterinari",2008,False,9.677032587020722,10.227301411010426
+2004-2009,73-75,"Pubblicità e ricerche di mercato; Altre attività professionali, scientifiche e tecniche; Servizi veterinari",2009,True,11.302402187762205,9.537897386494297
+2004-2009,N,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",2008,False,10.077217571864253,10.073973136071638
+2004-2009,N,"Noleggio, agenzie di viaggio, servizi di supporto alle imprese",2009,True,12.413281126819783,10.35436484995007
+2004-2009,,Totale,2008,False,7.0577043129689,7.769268582768893
+2004-2009,,Totale,2009,True,7.224288761450451,7.6571448009252405

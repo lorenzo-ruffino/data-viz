@@ -1,0 +1,67 @@
+{
+  "problemi": [],
+  "overlap": [
+    "macrosettori Costruzioni 2009 tasso_mortalita: 9.1842 (vecchia) vs 11.0773 (nuova), diff 1.8931 pp",
+    "regioni Molise 2014 tasso_mortalita: 8.7000 (vecchia) vs 9.7000 (nuova), diff 1.0000 pp",
+    "regioni Sardegna 2009 tasso_mortalita: 8.0130 (vecchia) vs 9.0000 (nuova), diff 0.9870 pp",
+    "regioni Calabria 2009 tasso_mortalita: 9.2859 (vecchia) vs 10.2000 (nuova), diff 0.9141 pp",
+    "macrosettori Industria in senso stretto 2019 tasso_mortalita: 5.3912 (vecchia) vs 6.1000 (nuova), diff 0.7088 pp",
+    "Conteggio nazionale 2009: nate 288834 (vecchia) vs 288834 (nuova) diff 0; cessate 306140 (vecchia) vs 314880 (nuova) diff 8740",
+    "Conteggio nazionale 2014: nate 274489 (vecchia) vs 274489 (nuova) diff 0; cessate 329585 (vecchia) vs 334071 (nuova) diff 4486",
+    "Conteggio nazionale 2019: nate 277286 (vecchia) vs 277286 (nuova) diff 0; cessate 296917 (vecchia) vs 296665 (nuova) diff -252"
+  ],
+  "file": [
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/demografia_macrosettori.csv",
+      "righe": 120
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/demografia_macrosettori_serie.csv",
+      "righe": 105
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/demografia_regioni.csv",
+      "righe": 624
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/demografia_regioni_serie.csv",
+      "righe": 546
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/settori_nace_2008_2014.csv",
+      "righe": 240
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/settori_tecnologia_2014_2024.csv",
+      "righe": 156
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/settori_tecnologia_serie.csv",
+      "righe": 143
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/sopravvivenza_coorti.csv",
+      "righe": 300
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/addetti_coorti.csv",
+      "righe": 20
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/classi_dipendenti_2009_2014.csv",
+      "righe": 30
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/dimensione_media_2004_2009.csv",
+      "righe": 60
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/stock_settori_2009.csv",
+      "righe": 30
+    },
+    {
+      "path": "/Users/lorenzoruffino/Documents/Progetti/data-viz/Demografia imprese/input/serie_nazionale_2004_2024.csv",
+      "righe": 21
+    }
+  ]
+}
