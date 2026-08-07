@@ -4,6 +4,7 @@
 .RData
 .Ruserdata
 /Relazione tra affluenza e reddito
+Lavoro da remoto/input/
 Temperature Estate 2025 Italia/Dati/Old/ERA5L_T2m_Mean_Italy_06_1950_1954.nc
 Temperature Estate 2025 Italia/Dati/Old/ERA5L_T2m_Mean_Italy_06_1955_1959.nc
 Temperature Estate 2025 Italia/Dati/Old/ERA5L_T2m_Mean_Italy_06_1960_1964.nc
@@ -34,7 +35,7 @@ Densità Popolazione Italia/GrigliaPop2021_Ind_ITA.json
 Elezioni Italia/2025_11_23_Veneto_Regionali/Regionali_AltreRegioni_candidDiLista.txt
 Elezioni Italia/2025_11_23_Veneto_Regionali/Regionali_AltreRegioni_candidDiLista.txt
 
-# Geometrie NUTS scaricate localmente (rigenerabili da YouTrend/Utilities/)
+# Geometrie NUTS scaricate localmente (rigenerabili dagli script)
 */input/NUTS_RG_*.geojson
 
 # Progetti locali non pubblicati
@@ -43,3 +44,14 @@ Salario Minimo Italia/
 
 # Worktree Claude
 .claude/worktrees/
+.kagi.toml
+
+# Credenziali Copernicus CDS
+.env
+
+# Dati raw Copernicus, rigenerabili con gli script di download
+Temperature Copernicus/input/nc/
+Temperature Copernicus/output/griglia_mensile.csv.gz
+
+# Note e appunti markdown
+*.md
