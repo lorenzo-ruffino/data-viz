@@ -1,0 +1,15 @@
+field,campo,base_migliaia,n_obs,sovra_migliaia,tasso_sovra
+001,Programmi generici,6,56,5,72.4
+014,Servizi,152,1111,46,30.2
+003,Arte e design,290,2008,86,29.7
+005,Scienze sociali e comunicazione,835,5855,248,29.6
+006,Economico,776,5227,227,29.2
+004,Letterario-umanistico-linguistico,666,4990,177,26.6
+012,Agrario-forestale-veterinario,131,1054,34,25.7
+007,Giuridico,569,4094,125,22
+008,Scientifico,432,3201,73,16.9
+002,Insegnamento,305,2266,48,15.6
+009,Informatica/ICT,122,793,18,15
+010,Ingegneria industriale/informazione,587,3638,76,12.9
+011,Architettura/Ing. civile,379,2787,39,10.4
+013,Medico-sanitario-farmaceutico,949,7128,72,7.6

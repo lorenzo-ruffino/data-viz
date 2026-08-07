@@ -1,0 +1,43 @@
+field,campo,macro,tasso_sovra,base_migliaia,n_obs
+001,Programmi generici,Centro,53.2,1,10
+001,Programmi generici,Mezzogiorno,66.7,1,10
+001,Programmi generici,Nord,79.9,4,36
+002,Insegnamento,Centro,16.4,58,403
+002,Insegnamento,Mezzogiorno,13.8,89,661
+002,Insegnamento,Nord,16.3,158,1202
+003,Arte e design,Centro,27.2,77,499
+003,Arte e design,Mezzogiorno,24.6,56,456
+003,Arte e design,Nord,32.7,157,1053
+004,Letterario-umanistico-linguistico,Centro,29.5,166,1184
+004,Letterario-umanistico-linguistico,Mezzogiorno,20.8,177,1408
+004,Letterario-umanistico-linguistico,Nord,28.3,322,2398
+005,Scienze sociali e comunicazione,Centro,30.9,231,1473
+005,Scienze sociali e comunicazione,Mezzogiorno,33.4,203,1532
+005,Scienze sociali e comunicazione,Nord,27,402,2850
+006,Economico,Centro,32.4,171,1163
+006,Economico,Mezzogiorno,29.6,176,1283
+006,Economico,Nord,27.8,429,2781
+007,Giuridico,Centro,26,142,990
+007,Giuridico,Mezzogiorno,18.8,193,1477
+007,Giuridico,Nord,22.2,234,1627
+008,Scientifico,Centro,17.1,108,742
+008,Scientifico,Mezzogiorno,17,112,882
+008,Scientifico,Nord,16.7,212,1577
+009,Informatica/ICT,Centro,18.3,27,182
+009,Informatica/ICT,Mezzogiorno,21.1,23,176
+009,Informatica/ICT,Nord,11.8,72,435
+010,Ingegneria industriale/informazione,Centro,11.5,120,768
+010,Ingegneria industriale/informazione,Mezzogiorno,13.9,121,803
+010,Ingegneria industriale/informazione,Nord,13,346,2067
+011,Architettura/Ing. civile,Centro,10.8,80,532
+011,Architettura/Ing. civile,Mezzogiorno,8.4,105,828
+011,Architettura/Ing. civile,Nord,11.3,195,1427
+012,Agrario-forestale-veterinario,Centro,18.7,28,226
+012,Agrario-forestale-veterinario,Mezzogiorno,25.2,32,315
+012,Agrario-forestale-veterinario,Nord,28.8,70,513
+013,Medico-sanitario-farmaceutico,Centro,8.1,228,1617
+013,Medico-sanitario-farmaceutico,Mezzogiorno,7.9,278,2160
+013,Medico-sanitario-farmaceutico,Nord,7.2,443,3351
+014,Servizi,Centro,25.8,32,221
+014,Servizi,Mezzogiorno,30.8,50,368
+014,Servizi,Nord,31.7,70,522
