@@ -1,0 +1,1015 @@
+freq,geo,geo_label,unit,unit_label,TIME_PERIOD,values
+A,AT,Austria,NR,Number,1953,194916
+A,AT,Austria,NR,Number,1954,201701
+A,AT,Austria,NR,Number,1955,214451
+A,AT,Austria,NR,Number,1956,215330
+A,AT,Austria,NR,Number,1957,225660
+A,AT,Austria,NR,Number,1958,231635
+A,AT,Austria,NR,Number,1959,238987
+A,AT,Austria,NR,Number,1960,241798
+A,AT,Austria,NR,Number,1961,228043
+A,AT,Austria,NR,Number,1962,229958
+A,AT,Austria,NR,Number,1963,235211
+A,AT,Austria,NR,Number,1964,237855
+A,AT,Austria,NR,Number,1965,244475
+A,AT,Austria,NR,Number,1966,253012
+A,AT,Austria,NR,Number,1967,266848
+A,AT,Austria,NR,Number,1968,277770
+A,AT,Austria,NR,Number,1969,282948
+A,AT,Austria,NR,Number,1970,285507
+A,AT,Austria,NR,Number,1971,216559
+A,AT,Austria,NR,Number,1972,294200
+A,AT,Austria,NR,Number,1973,291709
+A,AT,Austria,NR,Number,1974,306253
+A,AT,Austria,NR,Number,1975,295780
+A,AT,Austria,NR,Number,1976,305501
+A,AT,Austria,NR,Number,1977,303567
+A,AT,Austria,NR,Number,1978,313233
+A,AT,Austria,NR,Number,1979,330132
+A,AT,Austria,NR,Number,1980,347013
+A,AT,Austria,NR,Number,1981,381841
+A,AT,Austria,NR,Number,1982,389870
+A,AT,Austria,NR,Number,1983,387789
+A,AT,Austria,NR,Number,1984,391602
+A,AT,Austria,NR,Number,1985,426724
+A,AT,Austria,NR,Number,1986,398960
+A,AT,Austria,NR,Number,1987,391291
+A,AT,Austria,NR,Number,1988,400621
+A,AT,Austria,NR,Number,1989,423025
+A,AT,Austria,NR,Number,1990,457623
+A,AT,Austria,NR,Number,1991,468832
+A,AT,Austria,NR,Number,1992,502440
+A,AT,Austria,NR,Number,1993,493786
+A,AT,Austria,NR,Number,1994,504568
+A,AT,Austria,NR,Number,1995,486433
+A,AT,Austria,NR,Number,1996,485450
+A,AT,Austria,NR,Number,1997,481549
+A,AT,Austria,NR,Number,1998,479859
+A,AT,Austria,NR,Number,1999,493246
+A,AT,Austria,NR,Number,2000,560306
+A,BE,Belgium,NR,Number,2000,1002660
+A,BG,Bulgaria,NR,Number,1995,196346
+A,BG,Bulgaria,NR,Number,1996,184975
+A,BG,Bulgaria,NR,Number,1997,228219
+A,BG,Bulgaria,NR,Number,1998,159317
+A,BG,Bulgaria,NR,Number,1999,145035
+A,BG,Bulgaria,NR,Number,2000,148915
+A,CH,Switzerland,NR,Number,1982,335374
+A,CH,Switzerland,NR,Number,1983,339110
+A,CH,Switzerland,NR,Number,1984,330492
+A,CH,Switzerland,NR,Number,1985,333618
+A,CH,Switzerland,NR,Number,1986,331476
+A,CH,Switzerland,NR,Number,1987,334057
+A,CH,Switzerland,NR,Number,1988,329667
+A,CH,Switzerland,NR,Number,1989,331989
+A,CH,Switzerland,NR,Number,1990,354265
+A,CH,Switzerland,NR,Number,1991,382661
+A,CH,Switzerland,NR,Number,1992,374237
+A,CH,Switzerland,NR,Number,1993,371740
+A,CH,Switzerland,NR,Number,1994,358028
+A,CH,Switzerland,NR,Number,1995,346634
+A,CH,Switzerland,NR,Number,1996,356018
+A,CH,Switzerland,NR,Number,1997,382769
+A,CH,Switzerland,NR,Number,1998,378045
+A,CH,Switzerland,NR,Number,1999,355255
+A,CH,Switzerland,NR,Number,2000,317335
+A,CY,Cyprus,NR,Number,1972,1622
+A,CY,Cyprus,NR,Number,1973,1699
+A,CY,Cyprus,NR,Number,1974,2826
+A,CY,Cyprus,NR,Number,1975,2874
+A,CY,Cyprus,NR,Number,1976,2072
+A,CY,Cyprus,NR,Number,1977,2013
+A,CY,Cyprus,NR,Number,1978,1886
+A,CY,Cyprus,NR,Number,1979,2116
+A,CY,Cyprus,NR,Number,1980,2232
+A,CY,Cyprus,NR,Number,1981,2190
+A,CY,Cyprus,NR,Number,1982,2415
+A,CY,Cyprus,NR,Number,1983,2782
+A,CY,Cyprus,NR,Number,1984,3103
+A,CY,Cyprus,NR,Number,1985,3562
+A,CY,Cyprus,NR,Number,1986,3581
+A,CY,Cyprus,NR,Number,1987,3633
+A,CY,Cyprus,NR,Number,1988,3580
+A,CY,Cyprus,NR,Number,1989,3675
+A,CY,Cyprus,NR,Number,1990,3684
+A,CY,Cyprus,NR,Number,1991,3624
+A,CY,Cyprus,NR,Number,1992,3808
+A,CY,Cyprus,NR,Number,1993,4300
+A,CY,Cyprus,NR,Number,1994,4304
+A,CY,Cyprus,NR,Number,1995,4033
+A,CY,Cyprus,NR,Number,1996,4529
+A,CY,Cyprus,NR,Number,1997,3910
+A,CY,Cyprus,NR,Number,1998,4316
+A,CY,Cyprus,NR,Number,1999,4212
+A,CY,Cyprus,NR,Number,2000,4340
+A,CZ,Czechia,NR,Number,1971,185218
+A,CZ,Czechia,NR,Number,1972,183226
+A,CZ,Czechia,NR,Number,1973,178712
+A,CZ,Czechia,NR,Number,1974,181299
+A,CZ,Czechia,NR,Number,1975,184701
+A,CZ,Czechia,NR,Number,1976,172995
+A,CZ,Czechia,NR,Number,1977,167262
+A,CZ,Czechia,NR,Number,1978,166549
+A,CZ,Czechia,NR,Number,1979,160250
+A,CZ,Czechia,NR,Number,1980,166487
+A,CZ,Czechia,NR,Number,1981,177381
+A,CZ,Czechia,NR,Number,1982,201479
+A,CZ,Czechia,NR,Number,1983,199237
+A,CZ,Czechia,NR,Number,1984,207836
+A,CZ,Czechia,NR,Number,1985,202880
+A,CZ,Czechia,NR,Number,1986,203759
+A,CZ,Czechia,NR,Number,1987,197517
+A,CZ,Czechia,NR,Number,1988,194473
+A,CZ,Czechia,NR,Number,1989,189152
+A,CZ,Czechia,NR,Number,1990,216852
+A,CZ,Czechia,NR,Number,1991,282998
+A,CZ,Czechia,NR,Number,1992,345205
+A,CZ,Czechia,NR,Number,1993,398505
+A,CZ,Czechia,NR,Number,1994,372427
+A,CZ,Czechia,NR,Number,1995,375630
+A,CZ,Czechia,NR,Number,1996,394267
+A,CZ,Czechia,NR,Number,1997,403654
+A,CZ,Czechia,NR,Number,1998,425930
+A,CZ,Czechia,NR,Number,1999,426626
+A,CZ,Czechia,NR,Number,2000,391469
+A,DE,Germany,NR,Number,1950,1327455
+A,DE,Germany,NR,Number,1951,1543122
+A,DE,Germany,NR,Number,1952,1516819
+A,DE,Germany,NR,Number,1953,1491120
+A,DE,Germany,NR,Number,1954,1504647
+A,DE,Germany,NR,Number,1955,1575310
+A,DE,Germany,NR,Number,1956,1630675
+A,DE,Germany,NR,Number,1957,1685698
+A,DE,Germany,NR,Number,1958,1726565
+A,DE,Germany,NR,Number,1959,1951290
+A,DE,Germany,NR,Number,1960,2034239
+A,DE,Germany,NR,Number,1961,2120419
+A,DE,Germany,NR,Number,1962,2106469
+A,DE,Germany,NR,Number,1963,1678840
+A,DE,Germany,NR,Number,1964,1747580
+A,DE,Germany,NR,Number,1965,1789319
+A,DE,Germany,NR,Number,1966,1917445
+A,DE,Germany,NR,Number,1967,2074322
+A,DE,Germany,NR,Number,1968,2158510
+A,DE,Germany,NR,Number,1969,2217966
+A,DE,Germany,NR,Number,1970,2413586
+A,DE,Germany,NR,Number,1971,2441413
+A,DE,Germany,NR,Number,1972,2572530
+A,DE,Germany,NR,Number,1973,2559974
+A,DE,Germany,NR,Number,1974,2741728
+A,DE,Germany,NR,Number,1975,2919390
+A,DE,Germany,NR,Number,1976,3063271
+A,DE,Germany,NR,Number,1977,3287642
+A,DE,Germany,NR,Number,1978,3380516
+A,DE,Germany,NR,Number,1979,3533802
+A,DE,Germany,NR,Number,1980,3815774
+A,DE,Germany,NR,Number,1981,4071873
+A,DE,Germany,NR,Number,1982,4291975
+A,DE,Germany,NR,Number,1983,4345107
+A,DE,Germany,NR,Number,1984,4132783
+A,DE,Germany,NR,Number,1985,4215451
+A,DE,Germany,NR,Number,1986,4367124
+A,DE,Germany,NR,Number,1987,4444108
+A,DE,Germany,NR,Number,1988,4356726
+A,DE,Germany,NR,Number,1989,4358573
+A,DE,Germany,NR,Number,1990,4455333
+A,DE,Germany,NR,Number,1991,5302796
+A,DE,Germany,NR,Number,1992,6291519
+A,DE,Germany,NR,Number,1993,6750613
+A,DE,Germany,NR,Number,1994,6537748
+A,DE,Germany,NR,Number,1995,6668717
+A,DE,Germany,NR,Number,1996,6647598
+A,DE,Germany,NR,Number,1997,6586165
+A,DE,Germany,NR,Number,1998,6456996
+A,DE,Germany,NR,Number,1999,6302316
+A,DE,Germany,NR,Number,2000,6264723
+A,DK,Denmark,NR,Number,1950,109117
+A,DK,Denmark,NR,Number,1951,122645
+A,DK,Denmark,NR,Number,1952,120329
+A,DK,Denmark,NR,Number,1953,120168
+A,DK,Denmark,NR,Number,1954,111220
+A,DK,Denmark,NR,Number,1955,115928
+A,DK,Denmark,NR,Number,1956,114066
+A,DK,Denmark,NR,Number,1957,117091
+A,DK,Denmark,NR,Number,1958,115550
+A,DK,Denmark,NR,Number,1959,119125
+A,DK,Denmark,NR,Number,1960,126367
+A,DK,Denmark,NR,Number,1961,131520
+A,DK,Denmark,NR,Number,1962,135681
+A,DK,Denmark,NR,Number,1963,143191
+A,DK,Denmark,NR,Number,1964,150187
+A,DK,Denmark,NR,Number,1965,155238
+A,DK,Denmark,NR,Number,1966,152548
+A,DK,Denmark,NR,Number,1967,170831
+A,DK,Denmark,NR,Number,1968,194326
+A,DK,Denmark,NR,Number,1969,209745
+A,DK,Denmark,NR,Number,1970,260072
+A,DK,Denmark,NR,Number,1971,298590
+A,DK,Denmark,NR,Number,1972,301142
+A,DK,Denmark,NR,Number,1973,311324
+A,DK,Denmark,NR,Number,1974,325725
+A,DK,Denmark,NR,Number,1975,290450
+A,DK,Denmark,NR,Number,1976,276731
+A,DK,Denmark,NR,Number,1977,307416
+A,DK,Denmark,NR,Number,1978,340069
+A,DK,Denmark,NR,Number,1979,355054
+A,DK,Denmark,NR,Number,1980,406346
+A,DK,Denmark,NR,Number,1981,405746
+A,DK,Denmark,NR,Number,1982,413033
+A,DK,Denmark,NR,Number,1983,414985
+A,DK,Denmark,NR,Number,1984,419337
+A,DK,Denmark,NR,Number,1985,477259
+A,DK,Denmark,NR,Number,1986,512853
+A,DK,Denmark,NR,Number,1987,524323
+A,DK,Denmark,NR,Number,1988,536880
+A,DK,Denmark,NR,Number,1989,536564
+A,DK,Denmark,NR,Number,1990,527421
+A,DK,Denmark,NR,Number,1991,519775
+A,DK,Denmark,NR,Number,1992,536821
+A,DK,Denmark,NR,Number,1993,546894
+A,DK,Denmark,NR,Number,1994,546926
+A,DK,Denmark,NR,Number,1995,538963
+A,DK,Denmark,NR,Number,1996,528488
+A,DK,Denmark,NR,Number,1997,531102
+A,DK,Denmark,NR,Number,1998,499167
+A,DK,Denmark,NR,Number,1999,494191
+A,DK,Denmark,NR,Number,2000,504231
+A,EE,Estonia,NR,Number,1950,5225
+A,EE,Estonia,NR,Number,1951,5773
+A,EE,Estonia,NR,Number,1952,4905
+A,EE,Estonia,NR,Number,1953,5181
+A,EE,Estonia,NR,Number,1954,3804
+A,EE,Estonia,NR,Number,1955,3860
+A,EE,Estonia,NR,Number,1956,5177
+A,EE,Estonia,NR,Number,1957,5252
+A,EE,Estonia,NR,Number,1958,6278
+A,EE,Estonia,NR,Number,1959,4658
+A,EE,Estonia,NR,Number,1960,5049
+A,EE,Estonia,NR,Number,1961,6083
+A,EE,Estonia,NR,Number,1962,5985
+A,EE,Estonia,NR,Number,1963,5649
+A,EE,Estonia,NR,Number,1964,5164
+A,EE,Estonia,NR,Number,1965,5122
+A,EE,Estonia,NR,Number,1966,5686
+A,EE,Estonia,NR,Number,1967,5465
+A,EE,Estonia,NR,Number,1968,6147
+A,EE,Estonia,NR,Number,1969,5959
+A,EE,Estonia,NR,Number,1970,6099
+A,EE,Estonia,NR,Number,1971,5909
+A,EE,Estonia,NR,Number,1972,5787
+A,EE,Estonia,NR,Number,1973,5934
+A,EE,Estonia,NR,Number,1974,6034
+A,EE,Estonia,NR,Number,1975,7759
+A,EE,Estonia,NR,Number,1976,7006
+A,EE,Estonia,NR,Number,1977,6796
+A,EE,Estonia,NR,Number,1978,6771
+A,EE,Estonia,NR,Number,1979,8546
+A,EE,Estonia,NR,Number,1980,11125
+A,EE,Estonia,NR,Number,1981,9314
+A,EE,Estonia,NR,Number,1982,9311
+A,EE,Estonia,NR,Number,1983,15244
+A,EE,Estonia,NR,Number,1984,15437
+A,EE,Estonia,NR,Number,1985,14828
+A,EE,Estonia,NR,Number,1986,12500
+A,EE,Estonia,NR,Number,1987,11465
+A,EE,Estonia,NR,Number,1988,12167
+A,EE,Estonia,NR,Number,1989,19141
+A,EE,Estonia,NR,Number,1990,23807
+A,EE,Estonia,NR,Number,1991,31748
+A,EE,Estonia,NR,Number,1992,41254
+A,EE,Estonia,NR,Number,1993,37163
+A,EE,Estonia,NR,Number,1994,35739
+A,EE,Estonia,NR,Number,1995,39570
+A,EE,Estonia,NR,Number,1996,35411
+A,EE,Estonia,NR,Number,1997,40972
+A,EE,Estonia,NR,Number,1998,45721
+A,EE,Estonia,NR,Number,1999,51539
+A,EE,Estonia,NR,Number,2000,57799
+A,EL,Greece,NR,Number,1970,179331
+A,EL,Greece,NR,Number,1971,287197
+A,EL,Greece,NR,Number,1972,230296
+A,EL,Greece,NR,Number,1973,196119
+A,EL,Greece,NR,Number,1974,199520
+A,EL,Greece,NR,Number,1975,184865
+A,EL,Greece,NR,Number,1976,248941
+A,EL,Greece,NR,Number,1977,254567
+A,EL,Greece,NR,Number,1978,261111
+A,EL,Greece,NR,Number,1979,294056
+A,EL,Greece,NR,Number,1980,295353
+A,EL,Greece,NR,Number,1981,309267
+A,EL,Greece,NR,Number,1982,335170
+A,EL,Greece,NR,Number,1983,393506
+A,EL,Greece,NR,Number,1984,352488
+A,EL,Greece,NR,Number,1985,291355
+A,EL,Greece,NR,Number,1986,294300
+A,EL,Greece,NR,Number,1987,303182
+A,EL,Greece,NR,Number,1988,311179
+A,EL,Greece,NR,Number,1989,287177
+A,EL,Greece,NR,Number,1990,330803
+A,EL,Greece,NR,Number,1991,358998
+A,EL,Greece,NR,Number,1992,379652
+A,EL,Greece,NR,Number,1993,358503
+A,EL,Greece,NR,Number,1994,303311
+A,EL,Greece,NR,Number,1995,329110
+A,EL,Greece,NR,Number,1996,349476
+A,EL,Greece,NR,Number,1997,377749
+A,EL,Greece,NR,Number,1998,385681
+A,EL,Greece,NR,Number,1999,373680
+A,EL,Greece,NR,Number,2000,369137
+A,ES,Spain,NR,Number,1980,408947
+A,ES,Spain,NR,Number,1981,429492
+A,ES,Spain,NR,Number,1982,447510
+A,ES,Spain,NR,Number,1983,589450
+A,ES,Spain,NR,Number,1984,729382
+A,ES,Spain,NR,Number,1985,776529
+A,ES,Spain,NR,Number,1986,879822
+A,ES,Spain,NR,Number,1987,1487500
+A,ES,Spain,NR,Number,1988,1506664
+A,ES,Spain,NR,Number,1989,1566619
+A,ES,Spain,NR,Number,1990,1553833
+A,ES,Spain,NR,Number,1991,1530026
+A,ES,Spain,NR,Number,1992,1481117
+A,ES,Spain,NR,Number,1993,1544975
+A,ES,Spain,NR,Number,1994,1604190
+A,ES,Spain,NR,Number,1995,1659026
+A,ES,Spain,NR,Number,1996,1770019
+A,ES,Spain,NR,Number,1997,1823330
+A,ES,Spain,NR,Number,1998,1865572
+A,ES,Spain,NR,Number,1999,1895983
+A,ES,Spain,NR,Number,2000,1852858
+A,FI,Finland,NR,Number,1950,51273
+A,FI,Finland,NR,Number,1951,51952
+A,FI,Finland,NR,Number,1952,50811
+A,FI,Finland,NR,Number,1953,54125
+A,FI,Finland,NR,Number,1954,52520
+A,FI,Finland,NR,Number,1955,48240
+A,FI,Finland,NR,Number,1956,51491
+A,FI,Finland,NR,Number,1957,58009
+A,FI,Finland,NR,Number,1958,61081
+A,FI,Finland,NR,Number,1959,63685
+A,FI,Finland,NR,Number,1960,65201
+A,FI,Finland,NR,Number,1961,67162
+A,FI,Finland,NR,Number,1962,70194
+A,FI,Finland,NR,Number,1963,75245
+A,FI,Finland,NR,Number,1964,81520
+A,FI,Finland,NR,Number,1965,81427
+A,FI,Finland,NR,Number,1966,79945
+A,FI,Finland,NR,Number,1967,91538
+A,FI,Finland,NR,Number,1968,102097
+A,FI,Finland,NR,Number,1969,111022
+A,FI,Finland,NR,Number,1970,122849
+A,FI,Finland,NR,Number,1971,138465
+A,FI,Finland,NR,Number,1972,155122
+A,FI,Finland,NR,Number,1973,168966
+A,FI,Finland,NR,Number,1974,177615
+A,FI,Finland,NR,Number,1975,191704
+A,FI,Finland,NR,Number,1976,177669
+A,FI,Finland,NR,Number,1977,185209
+A,FI,Finland,NR,Number,1978,183425
+A,FI,Finland,NR,Number,1979,192979
+A,FI,Finland,NR,Number,1980,267746
+A,FI,Finland,NR,Number,1981,288435
+A,FI,Finland,NR,Number,1982,315576
+A,FI,Finland,NR,Number,1983,318034
+A,FI,Finland,NR,Number,1984,334495
+A,FI,Finland,NR,Number,1985,357775
+A,FI,Finland,NR,Number,1986,377998
+A,FI,Finland,NR,Number,1987,389040
+A,FI,Finland,NR,Number,1988,398841
+A,FI,Finland,NR,Number,1989,458684
+A,FI,Finland,NR,Number,1990,505295
+A,FI,Finland,NR,Number,1991,446129
+A,FI,Finland,NR,Number,1992,447785
+A,FI,Finland,NR,Number,1993,433783
+A,FI,Finland,NR,Number,1994,426371
+A,FI,Finland,NR,Number,1995,422246
+A,FI,Finland,NR,Number,1996,416181
+A,FI,Finland,NR,Number,1997,412188
+A,FI,Finland,NR,Number,1998,423794
+A,FI,Finland,NR,Number,1999,436552
+A,FI,Finland,NR,Number,2000,453056
+A,FR,France,NR,Number,1999,3567864
+A,FR,France,NR,Number,2000,3771849
+A,FX,Metropolitan France,NR,Number,1950,574289
+A,FX,Metropolitan France,NR,Number,1951,528027
+A,FX,Metropolitan France,NR,Number,1952,545678
+A,FX,Metropolitan France,NR,Number,1953,547611
+A,FX,Metropolitan France,NR,Number,1954,524579
+A,FX,Metropolitan France,NR,Number,1955,516764
+A,FX,Metropolitan France,NR,Number,1956,558046
+A,FX,Metropolitan France,NR,Number,1957,667674
+A,FX,Metropolitan France,NR,Number,1958,603967
+A,FX,Metropolitan France,NR,Number,1959,644758
+A,FX,Metropolitan France,NR,Number,1960,687766
+A,FX,Metropolitan France,NR,Number,1961,708780
+A,FX,Metropolitan France,NR,Number,1962,733866
+A,FX,Metropolitan France,NR,Number,1963,567681
+A,FX,Metropolitan France,NR,Number,1964,611521
+A,FX,Metropolitan France,NR,Number,1965,660441
+A,FX,Metropolitan France,NR,Number,1966,735084
+A,FX,Metropolitan France,NR,Number,1967,839024
+A,FX,Metropolitan France,NR,Number,1968,937642
+A,FX,Metropolitan France,NR,Number,1969,1021215
+A,FX,Metropolitan France,NR,Number,1970,1135621
+A,FX,Metropolitan France,NR,Number,1971,1289378
+A,FX,Metropolitan France,NR,Number,1972,1675507
+A,FX,Metropolitan France,NR,Number,1973,1763372
+A,FX,Metropolitan France,NR,Number,1974,1827373
+A,FX,Metropolitan France,NR,Number,1975,1912327
+A,FX,Metropolitan France,NR,Number,1976,1823953
+A,FX,Metropolitan France,NR,Number,1977,2097919
+A,FX,Metropolitan France,NR,Number,1978,2147832
+A,FX,Metropolitan France,NR,Number,1979,2330566
+A,FX,Metropolitan France,NR,Number,1980,2627508
+A,FX,Metropolitan France,NR,Number,1981,2890020
+A,FX,Metropolitan France,NR,Number,1982,3413682
+A,FX,Metropolitan France,NR,Number,1983,3563975
+A,FX,Metropolitan France,NR,Number,1984,3681453
+A,FX,Metropolitan France,NR,Number,1985,3579194
+A,FX,Metropolitan France,NR,Number,1986,3292189
+A,FX,Metropolitan France,NR,Number,1987,3170970
+A,FX,Metropolitan France,NR,Number,1988,3132694
+A,FX,Metropolitan France,NR,Number,1989,3266442
+A,FX,Metropolitan France,NR,Number,1990,3492712
+A,FX,Metropolitan France,NR,Number,1991,3744112
+A,FX,Metropolitan France,NR,Number,1992,3830996
+A,FX,Metropolitan France,NR,Number,1993,3881894
+A,FX,Metropolitan France,NR,Number,1994,3919008
+A,FX,Metropolitan France,NR,Number,1995,3665320
+A,FX,Metropolitan France,NR,Number,1996,3559617
+A,FX,Metropolitan France,NR,Number,1997,3493442
+A,FX,Metropolitan France,NR,Number,1998,3565525
+A,FX,Metropolitan France,NR,Number,1999,3567864
+A,FX,Metropolitan France,NR,Number,2000,3771849
+A,HR,Croatia,NR,Number,1991,64294
+A,HR,Croatia,NR,Number,1992,91712
+A,HR,Croatia,NR,Number,1993,77280
+A,HR,Croatia,NR,Number,1994,64051
+A,HR,Croatia,NR,Number,1995,63015
+A,HR,Croatia,NR,Number,1996,58364
+A,HR,Croatia,NR,Number,1997,55085
+A,HR,Croatia,NR,Number,1998,56015
+A,HR,Croatia,NR,Number,1999,58190
+A,HR,Croatia,NR,Number,2000,68378
+A,HU,Hungary,NR,Number,1964,109255
+A,HU,Hungary,NR,Number,1965,121961
+A,HU,Hungary,NR,Number,1966,121020
+A,HU,Hungary,NR,Number,1967,119872
+A,HU,Hungary,NR,Number,1968,118254
+A,HU,Hungary,NR,Number,1969,110622
+A,HU,Hungary,NR,Number,1970,122289
+A,HU,Hungary,NR,Number,1971,123147
+A,HU,Hungary,NR,Number,1972,125999
+A,HU,Hungary,NR,Number,1973,125388
+A,HU,Hungary,NR,Number,1974,111825
+A,HU,Hungary,NR,Number,1975,120889
+A,HU,Hungary,NR,Number,1976,129424
+A,HU,Hungary,NR,Number,1977,123623
+A,HU,Hungary,NR,Number,1978,126907
+A,HU,Hungary,NR,Number,1979,125267
+A,HU,Hungary,NR,Number,1980,130470
+A,HU,Hungary,NR,Number,1981,134914
+A,HU,Hungary,NR,Number,1982,139795
+A,HU,Hungary,NR,Number,1983,151505
+A,HU,Hungary,NR,Number,1984,157036
+A,HU,Hungary,NR,Number,1985,165816
+A,HU,Hungary,NR,Number,1986,182867
+A,HU,Hungary,NR,Number,1987,188397
+A,HU,Hungary,NR,Number,1988,185344
+A,HU,Hungary,NR,Number,1989,225393
+A,HU,Hungary,NR,Number,1990,341061
+A,HU,Hungary,NR,Number,1991,440370
+A,HU,Hungary,NR,Number,1992,447215
+A,HU,Hungary,NR,Number,1993,400935
+A,HU,Hungary,NR,Number,1994,389451
+A,HU,Hungary,NR,Number,1995,502036
+A,HU,Hungary,NR,Number,1996,466050
+A,HU,Hungary,NR,Number,1997,514403
+A,HU,Hungary,NR,Number,1998,600621
+A,HU,Hungary,NR,Number,1999,505716
+A,HU,Hungary,NR,Number,2000,450673
+A,IE,Ireland,NR,Number,1950,12231
+A,IE,Ireland,NR,Number,1951,14127
+A,IE,Ireland,NR,Number,1952,14720
+A,IE,Ireland,NR,Number,1953,15602
+A,IE,Ireland,NR,Number,1954,11917
+A,IE,Ireland,NR,Number,1955,11531
+A,IE,Ireland,NR,Number,1956,12782
+A,IE,Ireland,NR,Number,1957,14037
+A,IE,Ireland,NR,Number,1958,16567
+A,IE,Ireland,NR,Number,1959,17865
+A,IE,Ireland,NR,Number,1960,15375
+A,IE,Ireland,NR,Number,1961,14818
+A,IE,Ireland,NR,Number,1962,15307
+A,IE,Ireland,NR,Number,1963,16203
+A,IE,Ireland,NR,Number,1964,17700
+A,IE,Ireland,NR,Number,1965,16736
+A,IE,Ireland,NR,Number,1966,19029
+A,IE,Ireland,NR,Number,1967,20558
+A,IE,Ireland,NR,Number,1968,23104
+A,IE,Ireland,NR,Number,1969,25972
+A,IE,Ireland,NR,Number,1970,30756
+A,IE,Ireland,NR,Number,1971,37781
+A,IE,Ireland,NR,Number,1972,39237
+A,IE,Ireland,NR,Number,1973,38022
+A,IE,Ireland,NR,Number,1974,40096
+A,IE,Ireland,NR,Number,1975,48387
+A,IE,Ireland,NR,Number,1976,54382
+A,IE,Ireland,NR,Number,1977,62946
+A,IE,Ireland,NR,Number,1978,62000
+A,IE,Ireland,NR,Number,1979,64057
+A,IE,Ireland,NR,Number,1980,72782
+A,IE,Ireland,NR,Number,1981,89400
+A,IE,Ireland,NR,Number,1982,97626
+A,IE,Ireland,NR,Number,1983,102387
+A,IE,Ireland,NR,Number,1984,99727
+A,IE,Ireland,NR,Number,1985,91285
+A,IE,Ireland,NR,Number,1986,86574
+A,IE,Ireland,NR,Number,1987,85358
+A,IE,Ireland,NR,Number,1988,89544
+A,IE,Ireland,NR,Number,1989,86792
+A,IE,Ireland,NR,Number,1990,87658
+A,IE,Ireland,NR,Number,1991,94406
+A,IE,Ireland,NR,Number,1992,95391
+A,IE,Ireland,NR,Number,1993,98979
+A,IE,Ireland,NR,Number,1994,101036
+A,IE,Ireland,NR,Number,1995,102484
+A,IE,Ireland,NR,Number,1996,100785
+A,IE,Ireland,NR,Number,1997,90875
+A,IE,Ireland,NR,Number,1998,85627
+A,IE,Ireland,NR,Number,1999,81274
+A,IE,Ireland,NR,Number,2000,73276
+A,IS,Iceland,NR,Number,2000,18584
+A,IT,Italy,NR,Number,1956,344943
+A,IT,Italy,NR,Number,1957,352594
+A,IT,Italy,NR,Number,1958,346718
+A,IT,Italy,NR,Number,1959,313960
+A,IT,Italy,NR,Number,1960,332662
+A,IT,Italy,NR,Number,1961,379246
+A,IT,Italy,NR,Number,1962,416140
+A,IT,Italy,NR,Number,1963,429339
+A,IT,Italy,NR,Number,1964,445432
+A,IT,Italy,NR,Number,1965,452754
+A,IT,Italy,NR,Number,1966,484447
+A,IT,Italy,NR,Number,1967,513233
+A,IT,Italy,NR,Number,1968,541457
+A,IT,Italy,NR,Number,1969,482317
+A,IT,Italy,NR,Number,1970,547839
+A,IT,Italy,NR,Number,1971,626644
+A,IT,Italy,NR,Number,1972,685947
+A,IT,Italy,NR,Number,1973,715420
+A,IT,Italy,NR,Number,1974,754011
+A,IT,Italy,NR,Number,1975,770569
+A,IT,Italy,NR,Number,1976,767427
+A,IT,Italy,NR,Number,1977,914240
+A,IT,Italy,NR,Number,1978,1075990
+A,IT,Italy,NR,Number,1979,1103536
+A,IT,Italy,NR,Number,1980,1139201
+A,IT,Italy,NR,Number,1981,1180421
+A,IT,Italy,NR,Number,1982,1123655
+A,IT,Italy,NR,Number,1983,1207242
+A,IT,Italy,NR,Number,1984,1273694
+A,IT,Italy,NR,Number,1985,1364010
+A,IT,Italy,NR,Number,1986,1403214
+A,IT,Italy,NR,Number,1987,1867035
+A,IT,Italy,NR,Number,1988,1894327
+A,IT,Italy,NR,Number,1989,2053522
+A,IT,Italy,NR,Number,1990,2501640
+A,IT,Italy,NR,Number,1991,2647735
+A,IT,Italy,NR,Number,1992,2390539
+A,IT,Italy,NR,Number,1993,2259903
+A,IT,Italy,NR,Number,1994,2173448
+A,IT,Italy,NR,Number,1995,2267488
+A,IT,Italy,NR,Number,1996,2422991
+A,IT,Italy,NR,Number,1997,2440754
+A,IT,Italy,NR,Number,1998,2425748
+A,IT,Italy,NR,Number,1999,2373966
+A,IT,Italy,NR,Number,2000,2205782
+A,LI,Liechtenstein,NR,Number,1996,1002
+A,LI,Liechtenstein,NR,Number,1997,869
+A,LI,Liechtenstein,NR,Number,1998,858
+A,LI,Liechtenstein,NR,Number,1999,795
+A,LI,Liechtenstein,NR,Number,2000,898
+A,LT,Lithuania,NR,Number,1961,11708
+A,LT,Lithuania,NR,Number,1962,11961
+A,LT,Lithuania,NR,Number,1963,9560
+A,LT,Lithuania,NR,Number,1964,8766
+A,LT,Lithuania,NR,Number,1965,8189
+A,LT,Lithuania,NR,Number,1970,11240
+A,LT,Lithuania,NR,Number,1971,11135
+A,LT,Lithuania,NR,Number,1972,11123
+A,LT,Lithuania,NR,Number,1973,11061
+A,LT,Lithuania,NR,Number,1974,11591
+A,LT,Lithuania,NR,Number,1975,12066
+A,LT,Lithuania,NR,Number,1976,12391
+A,LT,Lithuania,NR,Number,1977,12783
+A,LT,Lithuania,NR,Number,1978,12734
+A,LT,Lithuania,NR,Number,1979,13512
+A,LT,Lithuania,NR,Number,1980,14161
+A,LT,Lithuania,NR,Number,1981,14148
+A,LT,Lithuania,NR,Number,1982,15108
+A,LT,Lithuania,NR,Number,1983,19806
+A,LT,Lithuania,NR,Number,1984,20696
+A,LT,Lithuania,NR,Number,1985,21363
+A,LT,Lithuania,NR,Number,1986,20628
+A,LT,Lithuania,NR,Number,1987,20037
+A,LT,Lithuania,NR,Number,1988,21337
+A,LT,Lithuania,NR,Number,1989,31238
+A,LT,Lithuania,NR,Number,1990,37056
+A,LT,Lithuania,NR,Number,1991,44984
+A,LT,Lithuania,NR,Number,1992,56615
+A,LT,Lithuania,NR,Number,1993,60378
+A,LT,Lithuania,NR,Number,1994,58364
+A,LT,Lithuania,NR,Number,1995,60819
+A,LT,Lithuania,NR,Number,1996,68053
+A,LT,Lithuania,NR,Number,1997,75816
+A,LT,Lithuania,NR,Number,1998,78149
+A,LT,Lithuania,NR,Number,1999,77108
+A,LT,Lithuania,NR,Number,2000,82370
+A,LU,Luxembourg,NR,Number,1988,22306
+A,LU,Luxembourg,NR,Number,1989,23689
+A,LU,Luxembourg,NR,Number,1990,24699
+A,LU,Luxembourg,NR,Number,1991,25046
+A,LU,Luxembourg,NR,Number,1992,26746
+A,LU,Luxembourg,NR,Number,1993,28338
+A,LU,Luxembourg,NR,Number,1994,29166
+A,LU,Luxembourg,NR,Number,1995,28380
+A,LU,Luxembourg,NR,Number,1996,27566
+A,LU,Luxembourg,NR,Number,1997,24355
+A,LU,Luxembourg,NR,Number,1998,27155
+A,LU,Luxembourg,NR,Number,1999,26957
+A,LU,Luxembourg,NR,Number,2000,22816
+A,LV,Latvia,NR,Number,1995,39141
+A,LV,Latvia,NR,Number,1996,38205
+A,LV,Latvia,NR,Number,1997,36865
+A,LV,Latvia,NR,Number,1998,36674
+A,LV,Latvia,NR,Number,1999,43969
+A,LV,Latvia,NR,Number,2000,50199
+A,MK,North Macedonia,NR,Number,2000,19814
+A,MT,Malta,NR,Number,1998,14793
+A,MT,Malta,NR,Number,1999,16031
+A,MT,Malta,NR,Number,2000,17016
+A,NL,Netherlands,NR,Number,1950,96500
+A,NL,Netherlands,NR,Number,1951,116900
+A,NL,Netherlands,NR,Number,1952,113000
+A,NL,Netherlands,NR,Number,1953,107200
+A,NL,Netherlands,NR,Number,1954,102700
+A,NL,Netherlands,NR,Number,1955,103300
+A,NL,Netherlands,NR,Number,1956,105900
+A,NL,Netherlands,NR,Number,1957,118500
+A,NL,Netherlands,NR,Number,1958,124600
+A,NL,Netherlands,NR,Number,1959,125400
+A,NL,Netherlands,NR,Number,1960,131800
+A,NL,Netherlands,NR,Number,1961,135700
+A,NL,Netherlands,NR,Number,1962,145700
+A,NL,Netherlands,NR,Number,1963,148400
+A,NL,Netherlands,NR,Number,1964,161900
+A,NL,Netherlands,NR,Number,1965,162900
+A,NL,Netherlands,NR,Number,1966,184400
+A,NL,Netherlands,NR,Number,1967,196700
+A,NL,Netherlands,NR,Number,1968,216700
+A,NL,Netherlands,NR,Number,1969,239800
+A,NL,Netherlands,NR,Number,1970,265700
+A,NL,Netherlands,NR,Number,1971,307700
+A,NL,Netherlands,NR,Number,1972,348200
+A,NL,Netherlands,NR,Number,1973,388000
+A,NL,Netherlands,NR,Number,1974,425500
+A,NL,Netherlands,NR,Number,1975,453200
+A,NL,Netherlands,NR,Number,1976,525600
+A,NL,Netherlands,NR,Number,1977,550700
+A,NL,Netherlands,NR,Number,1978,570000
+A,NL,Netherlands,NR,Number,1979,622400
+A,NL,Netherlands,NR,Number,1980,705700
+A,NL,Netherlands,NR,Number,1981,812100
+A,NL,Netherlands,NR,Number,1982,922900
+A,NL,Netherlands,NR,Number,1983,986300
+A,NL,Netherlands,NR,Number,1984,1083400
+A,NL,Netherlands,NR,Number,1985,1093700
+A,NL,Netherlands,NR,Number,1986,1097100
+A,NL,Netherlands,NR,Number,1987,1129500
+A,NL,Netherlands,NR,Number,1988,1146200
+A,NL,Netherlands,NR,Number,1989,1159600
+A,NL,Netherlands,NR,Number,1990,1150200
+A,NL,Netherlands,NR,Number,1991,1181800
+A,NL,Netherlands,NR,Number,1992,1268500
+A,NL,Netherlands,NR,Number,1993,1272500
+A,NL,Netherlands,NR,Number,1994,1313600
+A,NL,Netherlands,NR,Number,1995,1226700
+A,NL,Netherlands,NR,Number,1996,1186512
+A,NL,Netherlands,NR,Number,1997,1219935
+A,NL,Netherlands,NR,Number,1998,1234900
+A,NL,Netherlands,NR,Number,1999,1303446
+A,NL,Netherlands,NR,Number,2000,1328909
+A,NO,Norway,NR,Number,1957,33481
+A,NO,Norway,NR,Number,1958,36403
+A,NO,Norway,NR,Number,1959,38514
+A,NO,Norway,NR,Number,1960,38584
+A,NO,Norway,NR,Number,1961,43071
+A,NO,Norway,NR,Number,1962,42840
+A,NO,Norway,NR,Number,1963,45988
+A,NO,Norway,NR,Number,1964,47057
+A,NO,Norway,NR,Number,1965,47532
+A,NO,Norway,NR,Number,1966,48509
+A,NO,Norway,NR,Number,1967,51258
+A,NO,Norway,NR,Number,1968,51747
+A,NO,Norway,NR,Number,1969,60060
+A,NO,Norway,NR,Number,1970,64868
+A,NO,Norway,NR,Number,1971,73482
+A,NO,Norway,NR,Number,1972,79727
+A,NO,Norway,NR,Number,1973,86725
+A,NO,Norway,NR,Number,1974,91208
+A,NO,Norway,NR,Number,1975,96754
+A,NO,Norway,NR,Number,1976,90262
+A,NO,Norway,NR,Number,1977,90101
+A,NO,Norway,NR,Number,1978,103031
+A,NO,Norway,NR,Number,1979,107683
+A,NO,Norway,NR,Number,1980,121565
+A,NO,Norway,NR,Number,1981,131317
+A,NO,Norway,NR,Number,1982,148276
+A,NO,Norway,NR,Number,1983,159598
+A,NO,Norway,NR,Number,1984,151622
+A,NO,Norway,NR,Number,1985,164067
+A,NO,Norway,NR,Number,1986,164890
+A,NO,Norway,NR,Number,1987,198877
+A,NO,Norway,NR,Number,1988,220338
+A,NO,Norway,NR,Number,1989,237319
+A,NO,Norway,NR,Number,1990,235256
+A,NO,Norway,NR,Number,1991,223122
+A,NO,Norway,NR,Number,1992,234904
+A,NO,Norway,NR,Number,1993,230180
+A,NO,Norway,NR,Number,1994,234941
+A,NO,Norway,NR,Number,1995,267925
+A,NO,Norway,NR,Number,1996,271205
+A,NO,Norway,NR,Number,1997,284695
+A,NO,Norway,NR,Number,1998,293799
+A,NO,Norway,NR,Number,1999,291924
+A,NO,Norway,NR,Number,2000,306526
+A,PL,Poland,NR,Number,1950,203376
+A,PL,Poland,NR,Number,1951,323505
+A,PL,Poland,NR,Number,1952,351467
+A,PL,Poland,NR,Number,1953,341658
+A,PL,Poland,NR,Number,1954,313555
+A,PL,Poland,NR,Number,1955,339840
+A,PL,Poland,NR,Number,1956,369002
+A,PL,Poland,NR,Number,1957,405145
+A,PL,Poland,NR,Number,1958,424446
+A,PL,Poland,NR,Number,1959,429470
+A,PL,Poland,NR,Number,1960,429991
+A,PL,Poland,NR,Number,1961,405288
+A,PL,Poland,NR,Number,1962,423924
+A,PL,Poland,NR,Number,1963,516159
+A,PL,Poland,NR,Number,1964,469371
+A,PL,Poland,NR,Number,1965,491556
+A,PL,Poland,NR,Number,1966,525541
+A,PL,Poland,NR,Number,1967,498013
+A,PL,Poland,NR,Number,1968,468602
+A,PL,Poland,NR,Number,1969,497971
+A,PL,Poland,NR,Number,1970,424217
+A,PL,Poland,NR,Number,1971,475411
+A,PL,Poland,NR,Number,1972,379086
+A,PL,Poland,NR,Number,1973,355125
+A,PL,Poland,NR,Number,1974,339542
+A,PL,Poland,NR,Number,1975,340440
+A,PL,Poland,NR,Number,1976,324181
+A,PL,Poland,NR,Number,1977,344506
+A,PL,Poland,NR,Number,1978,355492
+A,PL,Poland,NR,Number,1979,337302
+A,PL,Poland,NR,Number,1980,337935
+A,PL,Poland,NR,Number,1981,379762
+A,PL,Poland,NR,Number,1982,436206
+A,PL,Poland,NR,Number,1983,466205
+A,PL,Poland,NR,Number,1984,538930
+A,PL,Poland,NR,Number,1985,544361
+A,PL,Poland,NR,Number,1986,507913
+A,PL,Poland,NR,Number,1987,508533
+A,PL,Poland,NR,Number,1988,475273
+A,PL,Poland,NR,Number,1989,547589
+A,PL,Poland,NR,Number,1990,883346
+A,PL,Poland,NR,Number,1991,866095
+A,PL,Poland,NR,Number,1992,881076
+A,PL,Poland,NR,Number,1993,852507
+A,PL,Poland,NR,Number,1994,906157
+A,PL,Poland,NR,Number,1995,974941
+A,PL,Poland,NR,Number,1996,897751
+A,PL,Poland,NR,Number,1997,992373
+A,PL,Poland,NR,Number,1998,1073042
+A,PL,Poland,NR,Number,1999,1121545
+A,PL,Poland,NR,Number,2000,1266910
+A,PT,Portugal,NR,Number,1993,307333
+A,PT,Portugal,NR,Number,1994,332228
+A,PT,Portugal,NR,Number,1995,326829
+A,PT,Portugal,NR,Number,1996,322255
+A,PT,Portugal,NR,Number,1997,321644
+A,PT,Portugal,NR,Number,1998,341122
+A,PT,Portugal,NR,Number,1999,362589
+A,PT,Portugal,NR,Number,2000,363294
+A,RO,Romania,NR,Number,1990,97828
+A,RO,Romania,NR,Number,1991,139290
+A,RO,Romania,NR,Number,1992,144750
+A,RO,Romania,NR,Number,1993,219487
+A,RO,Romania,NR,Number,1994,237004
+A,RO,Romania,NR,Number,1995,297046
+A,RO,Romania,NR,Number,1996,321651
+A,RO,Romania,NR,Number,1997,361061
+A,RO,Romania,NR,Number,1998,399105
+A,RO,Romania,NR,Number,1999,363690
+A,RO,Romania,NR,Number,2000,353745
+A,RS,Serbia,NR,Number,2000,106020
+A,SE,Sweden,NR,Number,1980,926277
+A,SE,Sweden,NR,Number,1981,935825
+A,SE,Sweden,NR,Number,1982,983758
+A,SE,Sweden,NR,Number,1983,959127
+A,SE,Sweden,NR,Number,1984,983175
+A,SE,Sweden,NR,Number,1985,1018349
+A,SE,Sweden,NR,Number,1986,1095357
+A,SE,Sweden,NR,Number,1987,1092417
+A,SE,Sweden,NR,Number,1988,1086211
+A,SE,Sweden,NR,Number,1989,1144800
+A,SE,Sweden,NR,Number,1990,1218820
+A,SE,Sweden,NR,Number,1991,1199101
+A,SE,Sweden,NR,Number,1992,1195154
+A,SE,Sweden,NR,Number,1993,1191251
+A,SE,Sweden,NR,Number,1994,1112505
+A,SE,Sweden,NR,Number,1995,1145945
+A,SE,Sweden,NR,Number,1996,1175339
+A,SE,Sweden,NR,Number,1997,1196065
+A,SE,Sweden,NR,Number,1998,1181056
+A,SE,Sweden,NR,Number,1999,1194171
+A,SE,Sweden,NR,Number,2000,1214968
+A,SI,Slovenia,NR,Number,1960,18578
+A,SI,Slovenia,NR,Number,1961,18093
+A,SI,Slovenia,NR,Number,1962,22850
+A,SI,Slovenia,NR,Number,1963,23141
+A,SI,Slovenia,NR,Number,1964,22481
+A,SI,Slovenia,NR,Number,1965,25913
+A,SI,Slovenia,NR,Number,1966,26042
+A,SI,Slovenia,NR,Number,1967,25369
+A,SI,Slovenia,NR,Number,1968,24116
+A,SI,Slovenia,NR,Number,1969,23878
+A,SI,Slovenia,NR,Number,1970,23974
+A,SI,Slovenia,NR,Number,1971,26887
+A,SI,Slovenia,NR,Number,1972,27751
+A,SI,Slovenia,NR,Number,1973,28876
+A,SI,Slovenia,NR,Number,1974,29196
+A,SI,Slovenia,NR,Number,1975,29820
+A,SI,Slovenia,NR,Number,1976,29890
+A,SI,Slovenia,NR,Number,1977,30303
+A,SI,Slovenia,NR,Number,1978,27307
+A,SI,Slovenia,NR,Number,1979,27455
+A,SI,Slovenia,NR,Number,1980,28998
+A,SI,Slovenia,NR,Number,1981,32375
+A,SI,Slovenia,NR,Number,1982,43557
+A,SI,Slovenia,NR,Number,1983,51054
+A,SI,Slovenia,NR,Number,1984,45014
+A,SI,Slovenia,NR,Number,1985,42776
+A,SI,Slovenia,NR,Number,1986,38118
+A,SI,Slovenia,NR,Number,1987,35421
+A,SI,Slovenia,NR,Number,1988,38735
+A,SI,Slovenia,NR,Number,1989,39967
+A,SI,Slovenia,NR,Number,1990,38353
+A,SI,Slovenia,NR,Number,1991,42250
+A,SI,Slovenia,NR,Number,1992,54085
+A,SI,Slovenia,NR,Number,1993,44278
+A,SI,Slovenia,NR,Number,1994,43635
+A,SI,Slovenia,NR,Number,1995,38178
+A,SI,Slovenia,NR,Number,1996,36587
+A,SI,Slovenia,NR,Number,1997,37173
+A,SI,Slovenia,NR,Number,1998,55259
+A,SI,Slovenia,NR,Number,1999,61693
+A,SI,Slovenia,NR,Number,2000,67618
+A,SK,Slovakia,NR,Number,1990,89872
+A,SK,Slovakia,NR,Number,1991,88157
+A,SK,Slovakia,NR,Number,1992,105060
+A,SK,Slovakia,NR,Number,1993,146125
+A,SK,Slovakia,NR,Number,1994,137713
+A,SK,Slovakia,NR,Number,1995,114579
+A,SK,Slovakia,NR,Number,1996,99402
+A,SK,Slovakia,NR,Number,1997,92395
+A,SK,Slovakia,NR,Number,1998,93895
+A,SK,Slovakia,NR,Number,1999,94016
+A,SK,Slovakia,NR,Number,2000,88817
+A,TR,Türkiye,NR,Number,1989,26095
+A,TR,Türkiye,NR,Number,1990,27305
+A,TR,Türkiye,NR,Number,1991,25908
+A,TR,Türkiye,NR,Number,1992,25765
+A,TR,Türkiye,NR,Number,1993,30482
+A,TR,Türkiye,NR,Number,1994,36593
+A,TR,Türkiye,NR,Number,1995,279001
+A,TR,Türkiye,NR,Number,1996,344395
+A,TR,Türkiye,NR,Number,1997,356677
+A,TR,Türkiye,NR,Number,1998,357311
+A,TR,Türkiye,NR,Number,1999,338606
+A,TR,Türkiye,NR,Number,2000,337079
+A,UKC-L,England and Wales,NR,Number,1950,479400
+A,UKC-L,England and Wales,NR,Number,1951,524506
+A,UKC-L,England and Wales,NR,Number,1952,513559
+A,UKC-L,England and Wales,NR,Number,1953,472989
+A,UKC-L,England and Wales,NR,Number,1954,434327
+A,UKC-L,England and Wales,NR,Number,1955,438085
+A,UKC-L,England and Wales,NR,Number,1956,479710
+A,UKC-L,England and Wales,NR,Number,1957,545562
+A,UKC-L,England and Wales,NR,Number,1958,626509
+A,UKC-L,England and Wales,NR,Number,1959,675626
+A,UKC-L,England and Wales,NR,Number,1960,743713
+A,UKC-L,England and Wales,NR,Number,1961,806900
+A,UKC-L,England and Wales,NR,Number,1962,896424
+A,UKC-L,England and Wales,NR,Number,1963,978076
+A,UKC-L,England and Wales,NR,Number,1964,1067963
+A,UKC-L,England and Wales,NR,Number,1965,1133332
+A,UKC-L,England and Wales,NR,Number,1966,1199859
+A,UKC-L,England and Wales,NR,Number,1967,1207354
+A,UKC-L,England and Wales,NR,Number,1968,1289090
+A,UKC-L,England and Wales,NR,Number,1969,1488638
+A,UKC-L,England and Wales,NR,Number,1970,1555995
+A,UKC-L,England and Wales,NR,Number,1971,1646081
+A,UKC-L,England and Wales,NR,Number,1972,1690219
+A,UKC-L,England and Wales,NR,Number,1973,1657669
+A,UKC-L,England and Wales,NR,Number,1974,1963360
+A,UKC-L,England and Wales,NR,Number,1975,2105631
+A,UKC-L,England and Wales,NR,Number,1976,2135713
+A,UKC-L,England and Wales,NR,Number,1977,2463020
+A,UKC-L,England and Wales,NR,Number,1978,2395757
+A,UKC-L,England and Wales,NR,Number,1979,2376666
+A,UKC-L,England and Wales,NR,Number,1980,2688235
+A,UKC-L,England and Wales,NR,Number,1981,2963760
+A,UKC-L,England and Wales,NR,Number,1982,3262422
+A,UKC-L,England and Wales,NR,Number,1983,3247032
+A,UKC-L,England and Wales,NR,Number,1984,3499060
+A,UKC-L,England and Wales,NR,Number,1985,3611837
+A,UKC-L,England and Wales,NR,Number,1986,3847410
+A,UKC-L,England and Wales,NR,Number,1987,3892201
+A,UKC-L,England and Wales,NR,Number,1988,3715767
+A,UKC-L,England and Wales,NR,Number,1989,3870748
+A,UKC-L,England and Wales,NR,Number,1990,4543611
+A,UKC-L,England and Wales,NR,Number,1991,5276173
+A,UKC-L,England and Wales,NR,Number,1992,5591717
+A,UKC-L,England and Wales,NR,Number,1993,5526255
+A,UKC-L,England and Wales,NR,Number,1994,5146383
+A,UKC-L,England and Wales,NR,Number,1995,5100241
+A,UKC-L,England and Wales,NR,Number,1996,5036552
+A,UKC-L,England and Wales,NR,Number,1997,4600324
+A,UKC-L,England and Wales,NR,Number,1998,5105764
+A,UKC-L,England and Wales,NR,Number,1999,5298044
+A,UKC-L,England and Wales,NR,Number,2000,5167312
+A,UKM,Scotland (NUTS 2021),NR,Number,1970,167223
+A,UKM,Scotland (NUTS 2021),NR,Number,1971,210966
+A,UKM,Scotland (NUTS 2021),NR,Number,1972,212529
+A,UKM,Scotland (NUTS 2021),NR,Number,1973,207778
+A,UKM,Scotland (NUTS 2021),NR,Number,1974,233555
+A,UKM,Scotland (NUTS 2021),NR,Number,1975,281485
+A,UKM,Scotland (NUTS 2021),NR,Number,1976,317877
+A,UKM,Scotland (NUTS 2021),NR,Number,1977,363382
+A,UKM,Scotland (NUTS 2021),NR,Number,1978,334957
+A,UKM,Scotland (NUTS 2021),NR,Number,1979,346680
+A,UKM,Scotland (NUTS 2021),NR,Number,1980,364587
+A,UKM,Scotland (NUTS 2021),NR,Number,1981,408204
+A,UKM,Scotland (NUTS 2021),NR,Number,1982,435081
+A,UKM,Scotland (NUTS 2021),NR,Number,1983,445495
+A,UKM,Scotland (NUTS 2021),NR,Number,1984,471643
+A,UKM,Scotland (NUTS 2021),NR,Number,1985,457899
+A,UKM,Scotland (NUTS 2021),NR,Number,1986,458605
+A,UKM,Scotland (NUTS 2021),NR,Number,1987,472947
+A,UKM,Scotland (NUTS 2021),NR,Number,1988,457921
+A,UKM,Scotland (NUTS 2021),NR,Number,1989,478208
+A,UKM,Scotland (NUTS 2021),NR,Number,1990,518522
+A,UKM,Scotland (NUTS 2021),NR,Number,1991,572921
+A,UKM,Scotland (NUTS 2021),NR,Number,1992,564890
+A,UKM,Scotland (NUTS 2021),NR,Number,1993,517247
+A,UKM,Scotland (NUTS 2021),NR,Number,1994,500110
+A,UKM,Scotland (NUTS 2021),NR,Number,1995,475697
+A,UKM,Scotland (NUTS 2021),NR,Number,1996,451956
+A,UKM,Scotland (NUTS 2021),NR,Number,1997,420642
+A,UKM,Scotland (NUTS 2021),NR,Number,1998,431551
+A,UKM,Scotland (NUTS 2021),NR,Number,1999,435703
+A,UKM,Scotland (NUTS 2021),NR,Number,2000,423172
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1970,24810
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1971,30828
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1972,35884
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1973,32057
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1974,33314
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1975,37239
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1976,39779
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1977,45335
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1978,45335
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1979,54262
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1980,56316
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1981,62496
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1982,62020
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1983,63984
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1984,66779
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1985,64584
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1986,68255
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1987,63860
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1988,55890
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1989,55147
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1990,57198
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1991,63492
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1992,67532
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1993,66228
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1994,67886
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1995,68808
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1996,68549
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1997,62222
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1998,109053
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,1999,119111
+A,UKN,Northern Ireland (UK) (NUTS 2021),NR,Number,2000,119912

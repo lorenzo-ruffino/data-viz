@@ -1,0 +1,272 @@
+anno,indicatore,valore,fonte_file
+2012,associazione_di_tipo_mafioso,68,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,associazione_di_tipo_mafioso,75,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,associazione_di_tipo_mafioso,89,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,associazione_di_tipo_mafioso,72,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,associazione_di_tipo_mafioso,93,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,associazione_di_tipo_mafioso,117,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,associazione_di_tipo_mafioso,98,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,associazione_di_tipo_mafioso,101,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,associazione_di_tipo_mafioso,95,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,associazione_per_delinquere,943,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,associazione_per_delinquere,792,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,associazione_per_delinquere,986,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,associazione_per_delinquere,611,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,associazione_per_delinquere,518,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,associazione_per_delinquere,611,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,associazione_per_delinquere,348,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,associazione_per_delinquere,293,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,associazione_per_delinquere,409,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,attentati,522,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,attentati,462,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,attentati,386,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,attentati,291,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,attentati,275,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,attentati,210,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,attentati,197,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,attentati,179,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,attentati,236,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2017,atti_sessuali_con_minorenne,483,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,atti_sessuali_con_minorenne,495,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,corruzione_di_minorenne,171,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,corruzione_di_minorenne,151,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,estorsioni,6478,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,estorsioni,6884,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,estorsioni,8222,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,estorsioni,8496,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,estorsioni,9954,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2019,estorsioni,8997,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2020,estorsioni,8722,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2021,estorsioni,10051,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,estorsioni,12057,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,estorsioni,11438,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,estorsioni,12076,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,furti,1520623,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,furti,1554777,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,furti,1573213,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,furti,1265678,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti,1192592,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2020,furti,721680,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2021,furti,811578,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,furti,963032,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,furti,1021116,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,furti,1054599,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2017,furti_auto_in_sosta,162195,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_auto_in_sosta,152249,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,furti_automezzi_pesanti,1236,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,furti_automezzi_pesanti,1242,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,furti_automezzi_pesanti,1031,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,furti_automezzi_pesanti,737,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_automezzi_pesanti,691,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,furti_autovetture,126627,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,furti_autovetture,122924,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,furti_autovetture,119957,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,furti_autovetture,103045,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_autovetture,103457,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,furti_ciclomotori,13434,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_ciclomotori,10830,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,furti_ciclomotori_e_motocicli,68726,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,furti_ciclomotori_e_motocicli,59320,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,furti_ciclomotori_e_motocicli,55473,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2012,furti_esercizi_commerciali,98581,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,furti_esercizi_commerciali,104393,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,furti_esercizi_commerciali,106457,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,furti_esercizi_commerciali,89883,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_esercizi_commerciali,84766,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,furti_in_abitazione,237355,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,furti_in_abitazione,251422,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,furti_in_abitazione,255886,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,furti_in_abitazione,195824,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_in_abitazione,191374,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,furti_motociclo,28542,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_motociclo,26154,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,furti_opere_arte,411,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_opere_arte,330,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,furti_uffici_pubblici,34,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furti_uffici_pubblici,10,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,furto_con_destrezza,148641,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,furto_con_destrezza,166116,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,furto_con_destrezza,179605,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,furto_con_destrezza,159338,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furto_con_destrezza,152128,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,furto_con_strappo,20010,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,furto_con_strappo,20016,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,furto_con_strappo,19109,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,furto_con_strappo,16056,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,furto_con_strappo,14807,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,incendi,13170,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,incendi,7388,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,incendi,6855,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2019,incendi,6533,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2020,incendi,6303,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2021,incendi,6997,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,incendi,7002,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,incendi,5687,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,incendi,5437,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2017,ingiurie,2064,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,ingiurie,0,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,ingiurie,0,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,ingiurie,0,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,ingiurie,0,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,ingiurie,0,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,lesioni_dolose,69527,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,lesioni_dolose,66317,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,lesioni_dolose,66178,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,lesioni_dolose,64814,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,lesioni_dolose,65382,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,lesioni_dolose,58794,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,lesioni_dolose,61958,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,lesioni_dolose,62776,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,lesioni_dolose,66962,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2017,minacce,75648,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,minacce,74970,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,minacce,70807,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,minacce,69335,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,minacce,68223,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,minacce,71757,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,omicidi_colposi,1716,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,omicidi_colposi,1597,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,omicidi_colposi,1633,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,omicidi_colposi,1706,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,omicidi_colposi,1733,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,omicidi_colposi,1778,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,omicidi_colposi,1795,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,omicidi_colposi,1610,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,omicidi_colposi,1698,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,omicidi_colposi_incidente_lavoro,58,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,omicidi_colposi_incidente_lavoro,74,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,omicidi_colposi_incidente_lavoro,63,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,omicidi_colposi_incidente_lavoro,66,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,omicidi_colposi_incidente_lavoro,57,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,omicidi_colposi_incidente_stradale,1211,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,omicidi_colposi_incidente_stradale,1049,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,omicidi_colposi_incidente_stradale,1087,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,omicidi_colposi_incidente_stradale,1163,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,omicidi_colposi_incidente_stradale,1094,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,omicidi_volontari_consumati,528,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,omicidi_volontari_consumati,868,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,omicidi_volontari_consumati,475,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,omicidi_volontari_consumati,368,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,omicidi_volontari_consumati,331,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2019,omicidi_volontari_consumati,318,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2020,omicidi_volontari_consumati,289,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2021,omicidi_volontari_consumati,304,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,omicidi_volontari_consumati,331,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,omicidi_volontari_consumati,341,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,omicidi_volontari_consumati,326,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2017,omicidio_preterintenzionale,25,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,omicidio_preterintenzionale,36,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,percosse,14142,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,percosse,13944,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,percosse,15127,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,percosse,16142,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,percosse,16645,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,percosse,18080,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,rapine,42631,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,rapine,43754,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,rapine,39236,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,rapine,30564,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,rapine,28441,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2019,rapine,24276,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2020,rapine,20000,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2021,rapine,22093,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,rapine,25642,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,rapine,28067,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,rapine,28709,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2017,rapine_automezzi_pesanti,33,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,rapine_automezzi_pesanti,31,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,rapine_esercizi_commerciali,4517,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,rapine_esercizi_commerciali,4197,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,rapine_in_abitazione,2301,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,rapine_in_abitazione,2104,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,rapine_in_banca,396,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,rapine_in_banca,276,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,rapine_pubblica_via,16910,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,rapine_pubblica_via,16042,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,rapine_uffici_postali,256,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,rapine_uffici_postali,246,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,ricettazione,25080,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,ricettazione,25275,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,ricettazione,24935,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,ricettazione,20022,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,ricettazione,18182,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,riciclaggio_impiego_denaro,1685,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,riciclaggio_impiego_denaro,1891,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,riciclaggio_impiego_denaro,1604,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,riciclaggio_impiego_denaro,1888,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,riciclaggio_impiego_denaro,1872,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,sequestri_di_persona,1474,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,sequestri_di_persona,1353,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,sequestri_di_persona,1278,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,sequestri_di_persona,1039,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,sequestri_di_persona,960,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,sequestri_di_persona,765,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,sequestri_di_persona,762,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,sequestri_di_persona,803,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,sequestri_di_persona,705,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2017,sequestri_di_persona_motivi_sessuali,111,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,sequestri_di_persona_motivi_sessuali,105,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2017,sequestri_di_persona_scopo_estorsivo,198,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,sequestri_di_persona_scopo_estorsivo,185,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2012,sfruttamento_prostituzione_minorile,1931,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,sfruttamento_prostituzione_minorile,1883,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,sfruttamento_prostituzione_minorile,1816,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,strage,17,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,strage,20,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,strage,29,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,strage,12,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,strage,11,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,strage,17,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,stupefacenti,33852,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,stupefacenti,33578,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,stupefacenti,33246,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2021,stupefacenti,31159,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,stupefacenti,30326,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,stupefacenti,31656,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,stupefacenti,33166,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,tentati_omicidi,1327,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,tentati_omicidi,1222,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,tentati_omicidi,1250,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,tentati_omicidi,1098,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,tentati_omicidi,1050,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,tentati_omicidi,928,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,tentati_omicidi,1018,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,tentati_omicidi,1033,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,tentati_omicidi,1143,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,totale_delitti_denunciati,2818834,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,totale_delitti_denunciati,2892155,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,totale_delitti_denunciati,2812936,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,totale_delitti_denunciati,2429795,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,totale_delitti_denunciati,2371806,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2019,totale_delitti_denunciati,2301912,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2020,totale_delitti_denunciati,1900624,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2021,totale_delitti_denunciati,2104114,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,totale_delitti_denunciati,2255777,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,totale_delitti_denunciati,2341574,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,totale_delitti_denunciati,2399347,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,truffe_e_frodi_informatiche,116767,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,truffe_e_frodi_informatiche,140614,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,truffe_e_frodi_informatiche,133261,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2019,truffe_e_frodi_informatiche,212106,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2020,truffe_e_frodi_informatiche,248218,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2012,usura,405,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,usura,460,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,usura,405,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,usura,307,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,usura,189,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2019,usura,707,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2020,usura,241,UCS Ministero Interno - Nota metodologica INT00062 ed 2021 (narrazione testuale confronto 2019-2020)
+2012,violenze_sessuali,4689,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,violenze_sessuali,4488,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,violenze_sessuali,4257,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,violenze_sessuali,4634,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,violenze_sessuali,4887,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2021,violenze_sessuali,5274,UCS Ministero Interno INT 00062 - dati 2021 (Excel 'Italia')
+2022,violenze_sessuali,6293,UCS Ministero Interno INT 00062 - dati 2022 (Excel 'Italia')
+2023,violenze_sessuali,6231,UCS Ministero Interno INT 00062 - dati 2023 (Excel 'Italia')
+2024,violenze_sessuali,6831,UCS Ministero Interno INT 00062 - dati 2024 (Excel 'Italia')
+2012,violenze_sessuali_minori14,509,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2013,violenze_sessuali_minori14,444,"UCS Ministero Interno - report PDF 'Delittuosita ed 2014' (confronto 2012-2013), tabella nazionale"
+2014,violenze_sessuali_minori14,403,"UCS Ministero Interno - report PDF 'Delittuosita ed 2015' (confronto 2013-2014), tabella nazionale"
+2017,violenze_sessuali_minori14,469,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
+2018,violenze_sessuali_minori14,397,"UCS Ministero Interno - report PDF INT00062 ed 2019 (confronto 2017-2018), tabella nazionale"
