@@ -53,5 +53,10 @@ Salario Minimo Italia/
 Temperature Copernicus/input/nc/
 Temperature Copernicus/output/griglia_mensile.csv.gz
 
-# Note e appunti markdown
+# Note e appunti markdown (eccetto i readme)
 *.md
+!README.md
+!readme.md
+
+# PDF (report, paper, fonti scaricate)
+*.pdf

@@ -10,7 +10,12 @@
 #   - bbox_europa          : bbox EPSG:3035 stretto a est (no RU/UA/BY/TR)
 #   - load_geo_europa()    : sf con i paesi Europa, EPSG:3035, cached in data/
 #   - load_geo_italia_regioni() : sf con le regioni Italia, cached in data/
-#   - theme_map()          : tema minimal per mappe choropleth
+#   - theme_map()          : tema minimal per mappe choropleth (titolo semibold)
+#
+# theme_map() imposta il titolo su "Source Sans Pro SemiBold": lo script che lo
+# usa deve registrare quella famiglia con
+#   font_add_google("Source Sans 3", "Source Sans Pro SemiBold", regular.wt = 600)
+# altrimenti showtext ripiega sul regular.
 #
 # I file .rds sono generati una tantum da utilities/script/prepara_geometrie.R.
 
@@ -114,7 +119,8 @@ theme_map <- function(...) {
       legend.text = element_text(size = 10, color = "#1C1C1C", hjust = 0),
       plot.margin = unit(c(0.4, 0.4, 0.4, 0.4), "cm"),
       plot.title.position = "plot",
-      plot.title = element_text(size = 14, color = "#1C1C1C", hjust = 0,
+      plot.title = element_text(family = "Source Sans Pro SemiBold",
+                                size = 14, color = "#1C1C1C", hjust = 0,
                                 margin = margin(b = 0.1, unit = "cm")),
       plot.subtitle = element_text(size = 9, color = "#1C1C1C", hjust = 0,
                                    lineheight = 1.35,
