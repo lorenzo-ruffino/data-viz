@@ -133,14 +133,22 @@ p <- ggplot() +
   guides(fill = guide_legend(
     reverse = TRUE,
     keyheight = unit(0.5, "cm"), keywidth = unit(0.45, "cm"),
-    label.theme = element_text(family = "Source Sans Pro", size = 9,
+    label.theme = element_text(family = "Source Sans Pro", size = 11,
                                color = "#1C1C1C", hjust = 0))) +
   coord_sf(xlim = bbox_europa[c("xmin", "xmax")],
            ylim = bbox_europa[c("ymin", "ymax")],
            crs = 3035, expand = FALSE) +
   theme_map() +
   theme(legend.position = c(0.98, 0.80),
-        legend.justification = c(1, 1)) +
+        legend.justification = c(1, 1),
+        legend.text = element_text(size = 11, color = "#1C1C1C", hjust = 0),
+        plot.title = element_text(size = 17.5, color = "#1C1C1C", hjust = 0,
+                                  margin = margin(b = 0.1, unit = "cm")),
+        plot.subtitle = element_text(size = 11, color = "#1C1C1C", hjust = 0,
+                                     lineheight = 1.35,
+                                     margin = margin(b = 0.25, t = 0.1, unit = "cm")),
+        plot.caption = element_text(size = 11, color = "#1C1C1C", hjust = 1,
+                                    margin = margin(t = 0.4, unit = "cm"))) +
   labs(
     title = "Dove giugno 2026 è stato più caldo del normale",
     subtitle = paste0("Differenza in gradi tra ", sotto_periodo,

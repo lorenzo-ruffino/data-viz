@@ -1,7 +1,6 @@
-# Serie storica di giugno in Italia (1961-2026): temperatura media e media
-# delle massime e delle minime giornaliere per ogni anno, 2026 in rosso.
-# Per confrontare il 2026 (incompleto) tutti gli anni usano la stessa finestra
-# di giorni disponibile (es. 1-26).
+# Serie storica di luglio in Italia (1961-2026): temperatura media e media
+# delle massime e delle minime giornaliere per ogni anno, 2026 in evidenza.
+# Gemello di 09_grafico_giugno_anni.R.
 
 library(tidyverse)
 library(showtext)
@@ -19,31 +18,24 @@ COL_ARANCIO <- "#E07700"
 COL_BLU     <- "#0478EA"
 colori_serie <- c(massime = COL_ARANCIO, media = COL_ROSSO, minime = COL_BLU)
 
-serie <- read_csv("output/serie_giornaliera_italia.csv", show_col_types = FALSE) |>
-  mutate(anno = lubridate::year(data), mese = lubridate::month(data),
-         giorno = lubridate::mday(data)) |>
-  filter(mese == 6)
-
-fin <- max(serie$giorno[serie$anno == 2026])
-
-annuale <- serie |>
-  filter(giorno <= fin) |>
+annuale <- read_csv("output/serie_giornaliera_italia.csv", show_col_types = FALSE) |>
+  mutate(anno = lubridate::year(data), mese = lubridate::month(data)) |>
+  filter(mese == 7) |>
   group_by(anno) |>
   summarise(media   = mean(t_area_mean),
             massime = mean(t_area_max),
             minime  = mean(t_area_min), .groups = "drop")
 
 classifica <- annuale |> arrange(desc(media))
-cat("Giugno più caldi (media, giorni 1-", fin, "):\n", sep = "")
-print(head(classifica, 5))
+cat("Luglio più caldi:\n"); print(head(classifica, 5))
 
 posto <- which(classifica$anno == 2026)
 ordinali <- c("", "il secondo", "il terzo", "il quarto", "il quinto",
               "il sesto", "il settimo", "l'ottavo", "il nono", "il decimo")
 titolo <- if (posto == 1) {
-  "Giugno 2026 è il più caldo da quando abbiamo i dati"
+  "Luglio 2026 è il più caldo da quando abbiamo i dati"
 } else {
-  paste0("Giugno 2026 è ", ordinali[posto], " più caldo dal 1961")
+  paste0("Luglio 2026 è ", ordinali[posto], " più caldo dal 1961")
 }
 
 lunga <- annuale |>
@@ -105,21 +97,16 @@ p <- ggplot(lunga, aes(anno, t, group = serie)) +
   scale_color_manual(values = colori_serie, guide = "none") +
   scale_x_continuous(limits = c(1961, 2041), breaks = seq(1970, 2020, 10),
                      expand = c(0.01, 0.01)) +
-  scale_y_continuous(breaks = seq(10, 28, 2),
+  scale_y_continuous(breaks = seq(12, 32, 2),
                      labels = function(x) paste0(x, "°"),
-                     expand = c(0.02, 0.02)) +
+                     expand = expansion(mult = c(0.02, 0.07))) +
   theme_linechart() +
   labs(
     title = titolo,
-    subtitle = if (fin >= 30) {
-      "Temperatura media di giugno, medie di massime e minime e tendenze lineari, Italia, 1961-2026"
-    } else {
-      paste0("Temperatura media di giugno, medie di massime e minime (giorni 1-", fin,
-             " per tutti gli anni), Italia, 1961-2026")
-    },
+    subtitle = "Temperatura media di luglio, medie di massime e minime e tendenze lineari, Italia, 1961-2026",
     caption = "Elaborazione di Lorenzo Ruffino su dati Copernicus ERA5-Land"
   )
 
-ggsave("output/grafico_giugno_annuale.png", p,
+ggsave("output/grafico_luglio_annuale.png", p,
        width = 8, height = 6.5, units = "in", dpi = 300, bg = "white")
-cat("Salvato output/grafico_giugno_annuale.png\n")
+cat("Salvato output/grafico_luglio_annuale.png\n")

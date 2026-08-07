@@ -19,9 +19,9 @@ COL_GRIGIO <- "#9A9A9A"
 serie <- read_csv("output/serie_giornaliera_italia.csv", show_col_types = FALSE) |>
   mutate(anno = lubridate::year(data), mese = lubridate::month(data),
          giorno = lubridate::mday(data)) |>
-  filter(mese %in% c(5, 6))
+  filter(mese %in% c(5, 6, 7))
 
-fin <- max(serie$giorno[serie$anno == 2026 & serie$mese == 6])
+ultimo_2026 <- max(serie$data[serie$anno == 2026])
 
 giorni <- serie |>
   group_by(mese, giorno) |>
@@ -52,7 +52,7 @@ theme_linechart <- function(...) {
       text = element_text(family = "Source Sans Pro"),
       legend.position = "none",
       axis.line = element_line(linewidth = 0.3),
-      axis.text = element_text(size = 9, color = "#1C1C1C", hjust = 0.5),
+      axis.text = element_text(size = 11, color = "#1C1C1C", hjust = 0.5),
       axis.ticks = element_blank(),
       axis.title = element_blank(),
       panel.background = element_blank(),
@@ -61,45 +61,48 @@ theme_linechart <- function(...) {
       plot.background = element_blank(),
       plot.margin = unit(c(0.4, 0.4, 0.4, 0.4), "cm"),
       plot.title.position = "plot",
-      plot.title = element_text(size = 14, color = "#1C1C1C", hjust = 0,
+      plot.title = element_text(size = 17.5, color = "#1C1C1C", hjust = 0,
                                 margin = margin(b = 0.1, unit = "cm")),
-      plot.subtitle = element_text(size = 9, color = "#1C1C1C", hjust = 0,
+      plot.subtitle = element_text(size = 11, color = "#1C1C1C", hjust = 0,
                                    lineheight = 1.35,
                                    margin = margin(b = 0.25, t = 0.1, unit = "cm")),
-      plot.caption = element_text(size = 9, color = "#1C1C1C", hjust = 1,
+      plot.caption = element_text(size = 11, color = "#1C1C1C", hjust = 1,
                                   margin = margin(t = 0.5, unit = "cm")),
       ...
     )
 }
 
 p <- ggplot(giorni, aes(x, t, color = serie)) +
-  geom_vline(xintercept = as.numeric(as.Date("2026-06-01")),
+  geom_vline(xintercept = as.numeric(as.Date(c("2026-06-01", "2026-07-01"))),
              colour = "#9A9A9A", linewidth = 0.4, linetype = "dashed") +
   geom_line(aes(linewidth = serie == "2026")) +
   geom_text_repel(data = etichette,
                   aes(label = nome), hjust = 0, nudge_x = 2.5,
-                  direction = "y", size = 3.3, fontface = "bold",
+                  direction = "y", size = 4.1, fontface = "bold",
                   family = "Source Sans Pro", segment.colour = NA,
                   min.segment.length = 0, box.padding = 0.15, seed = 1) +
   scale_color_manual(values = colori) +
   scale_linewidth_manual(values = c(`TRUE` = 1.0, `FALSE` = 0.65)) +
-  scale_x_date(limits = c(as.Date("2026-05-01"), as.Date("2026-07-14")),
+  scale_x_date(limits = c(as.Date("2026-05-01"), as.Date("2026-08-16")),
                breaks = as.Date(c("2026-05-01", "2026-05-15", "2026-06-01",
-                                  "2026-06-15", "2026-06-30")),
-               labels = c("1 maggio", "15 maggio", "1 giugno", "15 giugno", "30 giugno"),
+                                  "2026-06-15", "2026-07-01", "2026-07-15",
+                                  "2026-07-31")),
+               labels = c("1 maggio", "15 maggio", "1 giugno", "15 giugno",
+                          "1 luglio", "15 luglio", "31 luglio"),
                expand = c(0.01, 0.01)) +
   scale_y_continuous(breaks = seq(10, 28, 2),
                      labels = function(x) paste0(x, "°"),
                      expand = c(0.02, 0.02)) +
   theme_linechart() +
   labs(
-    title = "A fine giugno il 2026 ha superato anche il 2003",
+    title = "Dal 20 maggio 65 giorni di fila sopra la media",
     subtitle = paste0("Temperatura media giornaliera in Italia: ",
-                      if (fin >= 30) "2026" else paste0("2026 (fino al ", fin, " giugno)"),
-                      ", 2003 e medie 1961-1990 e 1991-2020, maggio e giugno"),
+                      if (format(ultimo_2026, "%m-%d") >= "07-31") "2026"
+                      else paste0("2026 (fino al ", as.integer(format(ultimo_2026, "%d")), " luglio)"),
+                      ", 2003 e medie 1961-1990 e 1991-2020, da maggio a luglio"),
     caption = "Elaborazione di Lorenzo Ruffino su dati Copernicus ERA5-Land"
   )
 
-ggsave("output/grafico_giornaliero_maggio_giugno.png", p,
+ggsave("output/grafico_giornaliero_maggio_luglio.png", p,
        width = 8, height = 6.5, units = "in", dpi = 300, bg = "white")
-cat("Salvato output/grafico_giornaliero_maggio_giugno.png\n")
+cat("Salvato output/grafico_giornaliero_maggio_luglio.png\n")

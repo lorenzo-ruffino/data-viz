@@ -1,14 +1,8 @@
-# Mappa dell'Italia a quadrati con l'aumento della temperatura media di
-# giugno 2026 rispetto alla media di giugno 1991-2020.
-#
-# I dati ERA5-Land (0,1°) vengono aggregati su blocchi di 0,25° (media pesata
-# per la superficie italiana delle celle) e i quadrati vengono RITAGLIATI sul
-# perimetro dell'Italia, così nessun blocco esce dai confini. I blocchi senza
-# dato (specchi d'acqua per la maschera ERA5-Land: laguna di Venezia, Garda,
-# valli di Comacchio...) vengono riempiti con la media dei blocchi confinanti.
-# Confini regionali marcati, confini provinciali sottili e chiari.
-# Finché giugno 2026 è incompleto, il confronto usa la stessa finestra di
-# giorni (es. 1-26) anche per la baseline.
+# Mappa dell'Italia a blocchi di 0,25° con l'anomalia della temperatura media
+# di LUGLIO 2026 rispetto alla media di luglio 1991-2020. Stessa impostazione
+# della mappa di giugno (06): blocchi ritagliati sulla sagoma, buchi riempiti
+# dai vicini, confini regionali marcati, province sottili, capoluoghi.
+# I bin (larghezza costante 0,5°) si adattano alla distribuzione di luglio.
 
 library(tidyverse)
 library(sf)
@@ -21,23 +15,13 @@ showtext_auto()
 showtext_opts(dpi = 300)
 
 PASSO <- 0.25
+MESE  <- 7
 
 griglia <- read_csv("output/griglia_mensile.csv.gz", show_col_types = FALSE)
 celle   <- read_csv("input/geo/celle_griglia.csv", show_col_types = FALSE)
 
-# con giugno 2026 completo la finestra coincide col mese intero
-serie <- read_csv("output/serie_giornaliera_italia.csv", show_col_types = FALSE)
-fin <- max(as.integer(format(serie$data[format(serie$data, "%Y-%m") == "2026-06"], "%d")))
-sotto_periodo <- if (fin >= 30) {
-  "la temperatura media di giugno 2026 e la media di giugno"
-} else {
-  sprintf("la temperatura media dei primi %d giorni di giugno 2026 e la media\ndegli stessi giorni nel", fin)
-}
-
-# ---- Anomalia per cella 0,1° e aggregazione a 0,25° -------------------------
-
 dati_celle <- griglia |>
-  filter(stat == "mean", mese == 6, finestra == "finestra_giu2026") |>
+  filter(stat == "mean", mese == MESE, finestra == "mese_intero") |>
   group_by(ilon, ilat, lon, lat) |>
   summarise(
     baseline = mean(valore[anno %in% 1991:2020]),
@@ -53,8 +37,6 @@ blocchi <- dati_celle |>
          by = round(lat / PASSO) * PASSO) |>
   group_by(bx, by) |>
   summarise(anomalia = weighted.mean(anomalia, area_kmq), .groups = "drop")
-
-# ---- Geometrie: blocchi ritagliati sull'Italia ------------------------------
 
 regioni  <- read_sf("input/geo/Reg01012025_g_WGS84.json") |> st_make_valid()
 province <- readRDS("input/geo/geo_province_2025.rds") |> st_transform(4326)
@@ -98,20 +80,14 @@ tutti_sf <- st_sf(tutti_blocchi,
                   geometry = st_sfc(map2(tutti_blocchi$bx, tutti_blocchi$by, quadrato),
                                     crs = 4326))
 
-suppressWarnings({
-  dominio <- st_intersection(tutti_sf, italia)
-})
-dominio <- dominio[as.numeric(st_area(dominio)) > 0, ]
+suppressWarnings(mappa_dati <- st_intersection(tutti_sf, italia))
+mappa_dati <- mappa_dati[as.numeric(st_area(mappa_dati)) > 0, ] |>
+  left_join(blocchi, by = c("bx", "by"))
 
-mappa_dati <- dominio |> left_join(blocchi, by = c("bx", "by"))
-
-# blocchi dentro l'Italia ma senza dato (acqua per ERA5-Land): media dei vicini
 buchi <- which(is.na(mappa_dati$anomalia))
 if (length(buchi) > 0) {
-  cat("Blocchi senza dato riempiti dai vicini:", length(buchi), "\n")
-  valori <- blocchi
   for (i in buchi) {
-    vic <- valori |>
+    vic <- blocchi |>
       filter(abs(bx - mappa_dati$bx[i]) <= PASSO + 1e-6,
              abs(by - mappa_dati$by[i]) <= PASSO + 1e-6)
     mappa_dati$anomalia[i] <- mean(vic$anomalia)
@@ -122,31 +98,28 @@ if (length(buchi) > 0) {
 cat("Blocchi in mappa:", nrow(mappa_dati), "\n")
 print(round(quantile(mappa_dati$anomalia, c(0, 0.02, 0.1, 0.5, 0.9, 0.98, 1)), 2))
 
-# ---- Bin discreti (larghezza costante 0,5 °C) -------------------------------
+# ---- Bin a scala automatica (larghezza 0,5°, estremi aperti) ----------------
 
-bin_levels <- c("meno di 2", "da 2 a 2,5", "da 2,5 a 3", "da 3 a 3,5",
-                "da 3,5 a 4", "da 4 a 4,5", "4,5 e oltre")
-bin_colours <- c(
-  "meno di 2"   = "#FCE4E7",
-  "da 2 a 2,5"  = "#F8C0C7",
-  "da 2,5 a 3"  = "#F49BA5",
-  "da 3 a 3,5"  = "#F12938",
-  "da 3,5 a 4"  = "#C21E2B",
-  "da 4 a 4,5"  = "#8E1622",
-  "4,5 e oltre" = "#5A1018"
+itlab <- function(x) ifelse(x %% 1 == 0, as.character(as.integer(x)),
+                            formatC(x, format = "f", digits = 1, decimal.mark = ","))
+
+negativi <- min(mappa_dati$anomalia) < 0
+lo <- if (negativi) 0 else floor(quantile(mappa_dati$anomalia, 0.03) * 2) / 2
+hi <- ceiling(quantile(mappa_dati$anomalia, 0.97) * 2) / 2
+soglie <- seq(lo, hi, by = 0.5)
+
+bin_levels <- c(
+  if (negativi) "sotto 0" else paste0("meno di ", itlab(lo)),
+  paste0("da ", itlab(head(soglie, -1)), " a ", itlab(tail(soglie, -1))),
+  paste0(itlab(hi), " e oltre")
 )
+n_rossi <- length(bin_levels) - if (negativi) 1 else 0
+rossi <- colorRampPalette(c("#FCE4E7", "#F49BA5", "#F12938", "#A02530", "#4A0A10"))(n_rossi)
+bin_colours <- setNames(c(if (negativi) "#A1C6EE", rossi), bin_levels)
 
-mappa_dati <- mappa_dati |>
-  mutate(bin = factor(case_when(
-    anomalia < 2   ~ "meno di 2",
-    anomalia < 2.5 ~ "da 2 a 2,5",
-    anomalia < 3   ~ "da 2,5 a 3",
-    anomalia < 3.5 ~ "da 3 a 3,5",
-    anomalia < 4   ~ "da 3,5 a 4",
-    anomalia < 4.5 ~ "da 4 a 4,5",
-    TRUE           ~ "4,5 e oltre"
-  ), levels = bin_levels))
-
+mappa_dati$bin <- cut(mappa_dati$anomalia,
+                      breaks = c(-Inf, soglie, Inf),
+                      labels = bin_levels, right = FALSE)
 print(table(mappa_dati$bin))
 
 # ---- Mappa ------------------------------------------------------------------
@@ -177,6 +150,8 @@ theme_mappa <- theme_minimal() +
                                 margin = margin(t = 0.4, unit = "cm"))
   )
 
+titolo <- "Il luglio più caldo da quando abbiamo i dati"
+
 p <- ggplot() +
   geom_sf(data = mappa_dati, aes(fill = bin), color = NA) +
   geom_sf(data = province, fill = NA, color = "#C9C9C9", linewidth = 0.14) +
@@ -193,12 +168,11 @@ p <- ggplot() +
   coord_sf(expand = FALSE) +
   theme_mappa +
   labs(
-    title = "Giugno 2026 è stato ovunque più caldo della media",
-    subtitle = paste0("Differenza in gradi tra ", sotto_periodo,
-                      " 1991-2020, blocchi di 0,25°, Italia;\ni cerchi indicano i capoluoghi di regione"),
+    title = titolo,
+    subtitle = "Differenza in gradi tra la temperatura media di luglio 2026 e la media di luglio 1991-2020,\nblocchi di 0,25°, Italia; i cerchi indicano i capoluoghi di regione",
     caption = "Elaborazione di Lorenzo Ruffino su dati Copernicus ERA5-Land"
   )
 
-ggsave("output/mappa_giugno_2026_italia.png", p,
+ggsave("output/mappa_luglio_2026_italia.png", p,
        width = 8, height = 9.3, units = "in", dpi = 300, bg = "white")
-cat("Salvata output/mappa_giugno_2026_italia.png\n")
+cat("Salvata output/mappa_luglio_2026_italia.png\n")
