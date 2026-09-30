@@ -1,0 +1,323 @@
+territorio,tipo_spesa,voce,impegni_euro
+ITALIA,corrente,Istruzione prescolastica,1299975361.44
+ITALIA,corrente,Altri ordini di istruzione non universitaria,1259980297.99
+ITALIA,corrente,Istruzione universitaria,17472272.4
+ITALIA,corrente,Istruzione tecnica superiore,11952218.8
+ITALIA,corrente,Servizi ausiliari all'istruzione,2597553340.99
+ITALIA,corrente,Diritto allo studio,274810204.55
+ITALIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,5461743696.17
+PIEMONTE,corrente,Istruzione prescolastica,83633544.11
+PIEMONTE,corrente,Altri ordini di istruzione non universitaria,103194085.11
+PIEMONTE,corrente,Istruzione universitaria,2341497.07
+PIEMONTE,corrente,Istruzione tecnica superiore,412793.18
+PIEMONTE,corrente,Servizi ausiliari all'istruzione,216871224.63
+PIEMONTE,corrente,Diritto allo studio,7411858.45
+PIEMONTE,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,413865002.55
+VALLE D'AOSTA-Vallée d'Aoste,corrente,Istruzione prescolastica,2267060.14
+VALLE D'AOSTA-Vallée d'Aoste,corrente,Altri ordini di istruzione non universitaria,6444727.48
+VALLE D'AOSTA-Vallée d'Aoste,corrente,Istruzione universitaria,17016.46
+VALLE D'AOSTA-Vallée d'Aoste,corrente,Istruzione tecnica superiore,0
+VALLE D'AOSTA-Vallée d'Aoste,corrente,Servizi ausiliari all'istruzione,10237262.28
+VALLE D'AOSTA-Vallée d'Aoste,corrente,Diritto allo studio,8804.76
+VALLE D'AOSTA-Vallée d'Aoste,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,18974871.12
+LIGURIA,corrente,Istruzione prescolastica,35582977.53
+LIGURIA,corrente,Altri ordini di istruzione non universitaria,28260932.8
+LIGURIA,corrente,Istruzione universitaria,799245.95
+LIGURIA,corrente,Istruzione tecnica superiore,118430.05
+LIGURIA,corrente,Servizi ausiliari all'istruzione,74149568
+LIGURIA,corrente,Diritto allo studio,3398981.12
+LIGURIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,142310135.45
+LOMBARDIA,corrente,Istruzione prescolastica,314694503.78
+LOMBARDIA,corrente,Altri ordini di istruzione non universitaria,303351429.28
+LOMBARDIA,corrente,Istruzione universitaria,2197485.79
+LOMBARDIA,corrente,Istruzione tecnica superiore,1224282.64
+LOMBARDIA,corrente,Servizi ausiliari all'istruzione,475214400.16
+LOMBARDIA,corrente,Diritto allo studio,58365702.77
+LOMBARDIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,1155047804.42
+TRENTINO-ALTO ADIGE-SÜDTIROL,corrente,Istruzione prescolastica,58446668.01
+TRENTINO-ALTO ADIGE-SÜDTIROL,corrente,Altri ordini di istruzione non universitaria,45506920.98
+TRENTINO-ALTO ADIGE-SÜDTIROL,corrente,Istruzione universitaria,343473.96
+TRENTINO-ALTO ADIGE-SÜDTIROL,corrente,Istruzione tecnica superiore,440
+TRENTINO-ALTO ADIGE-SÜDTIROL,corrente,Servizi ausiliari all'istruzione,26085769.39
+TRENTINO-ALTO ADIGE-SÜDTIROL,corrente,Diritto allo studio,213834
+TRENTINO-ALTO ADIGE-SÜDTIROL,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,130597106.34
+BOLZANO-BOZEN,corrente,Istruzione prescolastica,40723669.42
+BOLZANO-BOZEN,corrente,Altri ordini di istruzione non universitaria,25186164.56
+BOLZANO-BOZEN,corrente,Istruzione universitaria,3000
+BOLZANO-BOZEN,corrente,Istruzione tecnica superiore,0
+BOLZANO-BOZEN,corrente,Servizi ausiliari all'istruzione,21839784.46
+BOLZANO-BOZEN,corrente,Diritto allo studio,22825
+BOLZANO-BOZEN,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,87775443.44
+TRENTO,corrente,Istruzione prescolastica,17722998.59
+TRENTO,corrente,Altri ordini di istruzione non universitaria,20320756.42
+TRENTO,corrente,Istruzione universitaria,340473.96
+TRENTO,corrente,Istruzione tecnica superiore,440
+TRENTO,corrente,Servizi ausiliari all'istruzione,4245984.93
+TRENTO,corrente,Diritto allo studio,191009
+TRENTO,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,42821662.9
+VENETO,corrente,Istruzione prescolastica,115435577.55
+VENETO,corrente,Altri ordini di istruzione non universitaria,138623679.89
+VENETO,corrente,Istruzione universitaria,542100.98
+VENETO,corrente,Istruzione tecnica superiore,794045.24
+VENETO,corrente,Servizi ausiliari all'istruzione,138638609.91
+VENETO,corrente,Diritto allo studio,15471402.85
+VENETO,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,409505416.42
+FRIULI-VENEZIA GIULIA,corrente,Istruzione prescolastica,32254882.69
+FRIULI-VENEZIA GIULIA,corrente,Altri ordini di istruzione non universitaria,33644791.38
+FRIULI-VENEZIA GIULIA,corrente,Istruzione universitaria,351606.98
+FRIULI-VENEZIA GIULIA,corrente,Istruzione tecnica superiore,175379.78
+FRIULI-VENEZIA GIULIA,corrente,Servizi ausiliari all'istruzione,75166085.58
+FRIULI-VENEZIA GIULIA,corrente,Diritto allo studio,4073047.86
+FRIULI-VENEZIA GIULIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,145665794.27
+EMILIA-ROMAGNA,corrente,Istruzione prescolastica,172259851.06
+EMILIA-ROMAGNA,corrente,Altri ordini di istruzione non universitaria,101514680.1
+EMILIA-ROMAGNA,corrente,Istruzione universitaria,4784977.32
+EMILIA-ROMAGNA,corrente,Istruzione tecnica superiore,349073.95
+EMILIA-ROMAGNA,corrente,Servizi ausiliari all'istruzione,326067552.19
+EMILIA-ROMAGNA,corrente,Diritto allo studio,17283035.59
+EMILIA-ROMAGNA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,622259170.21
+TOSCANA,corrente,Istruzione prescolastica,63228381.75
+TOSCANA,corrente,Altri ordini di istruzione non universitaria,74898931.37
+TOSCANA,corrente,Istruzione universitaria,1258535.05
+TOSCANA,corrente,Istruzione tecnica superiore,225153.21
+TOSCANA,corrente,Servizi ausiliari all'istruzione,245220038.92
+TOSCANA,corrente,Diritto allo studio,16664143.19
+TOSCANA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,401495183.49
+UMBRIA,corrente,Istruzione prescolastica,13426982.9
+UMBRIA,corrente,Altri ordini di istruzione non universitaria,12673753.95
+UMBRIA,corrente,Istruzione universitaria,547492.78
+UMBRIA,corrente,Istruzione tecnica superiore,79824.79
+UMBRIA,corrente,Servizi ausiliari all'istruzione,37465203.91
+UMBRIA,corrente,Diritto allo studio,3112541.8
+UMBRIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,67305800.13
+MARCHE,corrente,Istruzione prescolastica,20435722.62
+MARCHE,corrente,Altri ordini di istruzione non universitaria,30383688.93
+MARCHE,corrente,Istruzione universitaria,1852635.22
+MARCHE,corrente,Istruzione tecnica superiore,138939
+MARCHE,corrente,Servizi ausiliari all'istruzione,78307434.5
+MARCHE,corrente,Diritto allo studio,4281594.79
+MARCHE,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,135400015.06
+LAZIO,corrente,Istruzione prescolastica,238644719.67
+LAZIO,corrente,Altri ordini di istruzione non universitaria,94277526.04
+LAZIO,corrente,Istruzione universitaria,28004.11
+LAZIO,corrente,Istruzione tecnica superiore,833038.34
+LAZIO,corrente,Servizi ausiliari all'istruzione,409388710.3
+LAZIO,corrente,Diritto allo studio,15765094.72
+LAZIO,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,758937093.18
+ABRUZZO,corrente,Istruzione prescolastica,10039235.66
+ABRUZZO,corrente,Altri ordini di istruzione non universitaria,20937847.98
+ABRUZZO,corrente,Istruzione universitaria,648401
+ABRUZZO,corrente,Istruzione tecnica superiore,36232.71
+ABRUZZO,corrente,Servizi ausiliari all'istruzione,39207193.46
+ABRUZZO,corrente,Diritto allo studio,22027694.81
+ABRUZZO,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,92896605.62
+MOLISE,corrente,Istruzione prescolastica,4339718.97
+MOLISE,corrente,Altri ordini di istruzione non universitaria,4870019.95
+MOLISE,corrente,Istruzione universitaria,1797
+MOLISE,corrente,Istruzione tecnica superiore,157442
+MOLISE,corrente,Servizi ausiliari all'istruzione,8927085.88
+MOLISE,corrente,Diritto allo studio,957271.99
+MOLISE,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,19253335.79
+CAMPANIA,corrente,Istruzione prescolastica,41529125.31
+CAMPANIA,corrente,Altri ordini di istruzione non universitaria,91377382.24
+CAMPANIA,corrente,Istruzione universitaria,68972.06
+CAMPANIA,corrente,Istruzione tecnica superiore,1048285.31
+CAMPANIA,corrente,Servizi ausiliari all'istruzione,116805100
+CAMPANIA,corrente,Diritto allo studio,31800505.92
+CAMPANIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,282629370.84
+PUGLIA,corrente,Istruzione prescolastica,30149361.9
+PUGLIA,corrente,Altri ordini di istruzione non universitaria,51818125.84
+PUGLIA,corrente,Istruzione universitaria,238609
+PUGLIA,corrente,Istruzione tecnica superiore,2023537.99
+PUGLIA,corrente,Servizi ausiliari all'istruzione,94985533.75
+PUGLIA,corrente,Diritto allo studio,16750791.95
+PUGLIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,195965960.43
+BASILICATA,corrente,Istruzione prescolastica,3411447.01
+BASILICATA,corrente,Altri ordini di istruzione non universitaria,9529975.93
+BASILICATA,corrente,Istruzione universitaria,7049
+BASILICATA,corrente,Istruzione tecnica superiore,246022.01
+BASILICATA,corrente,Servizi ausiliari all'istruzione,17193815.92
+BASILICATA,corrente,Diritto allo studio,8684947.83
+BASILICATA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,39073257.7
+CALABRIA,corrente,Istruzione prescolastica,10152726.06
+CALABRIA,corrente,Altri ordini di istruzione non universitaria,22897466.61
+CALABRIA,corrente,Istruzione universitaria,27900
+CALABRIA,corrente,Istruzione tecnica superiore,3342686.8
+CALABRIA,corrente,Servizi ausiliari all'istruzione,39947002.66
+CALABRIA,corrente,Diritto allo studio,13070163.63
+CALABRIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,89437945.76
+SICILIA,corrente,Istruzione prescolastica,35278634.89
+SICILIA,corrente,Altri ordini di istruzione non universitaria,59542455.4
+SICILIA,corrente,Istruzione universitaria,1297575.02
+SICILIA,corrente,Istruzione tecnica superiore,634142.87
+SICILIA,corrente,Servizi ausiliari all'istruzione,105467475.93
+SICILIA,corrente,Diritto allo studio,21970169.61
+SICILIA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,224190453.72
+SARDEGNA,corrente,Istruzione prescolastica,14764239.83
+SARDEGNA,corrente,Altri ordini di istruzione non universitaria,26231876.73
+SARDEGNA,corrente,Istruzione universitaria,117897.65
+SARDEGNA,corrente,Istruzione tecnica superiore,112468.93
+SARDEGNA,corrente,Servizi ausiliari all'istruzione,62208273.62
+SARDEGNA,corrente,Diritto allo studio,13498616.91
+SARDEGNA,corrente,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,116933373.67
+ITALIA,investimenti,Istruzione prescolastica,670734515.86
+ITALIA,investimenti,Altri ordini di istruzione non universitaria,2025109593.44
+ITALIA,investimenti,Istruzione universitaria,1956703.34
+ITALIA,investimenti,Istruzione tecnica superiore,10975318.77
+ITALIA,investimenti,Servizi ausiliari all'istruzione,104003777.37
+ITALIA,investimenti,Diritto allo studio,41205270.58
+ITALIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,2853985179.36
+PIEMONTE,investimenti,Istruzione prescolastica,40225643.45
+PIEMONTE,investimenti,Altri ordini di istruzione non universitaria,158182348.26
+PIEMONTE,investimenti,Istruzione universitaria,0
+PIEMONTE,investimenti,Istruzione tecnica superiore,1584145.03
+PIEMONTE,investimenti,Servizi ausiliari all'istruzione,8277636.29
+PIEMONTE,investimenti,Diritto allo studio,1232104.02
+PIEMONTE,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,209501877.05
+VALLE D'AOSTA-Vallée d'Aoste,investimenti,Istruzione prescolastica,1374831.17
+VALLE D'AOSTA-Vallée d'Aoste,investimenti,Altri ordini di istruzione non universitaria,11861792.58
+VALLE D'AOSTA-Vallée d'Aoste,investimenti,Istruzione universitaria,50710.16
+VALLE D'AOSTA-Vallée d'Aoste,investimenti,Istruzione tecnica superiore,0
+VALLE D'AOSTA-Vallée d'Aoste,investimenti,Servizi ausiliari all'istruzione,679197.21
+VALLE D'AOSTA-Vallée d'Aoste,investimenti,Diritto allo studio,11003.34
+VALLE D'AOSTA-Vallée d'Aoste,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,13977534.46
+LIGURIA,investimenti,Istruzione prescolastica,12016729.06
+LIGURIA,investimenti,Altri ordini di istruzione non universitaria,35876412.23
+LIGURIA,investimenti,Istruzione universitaria,0
+LIGURIA,investimenti,Istruzione tecnica superiore,36401
+LIGURIA,investimenti,Servizi ausiliari all'istruzione,3963356.01
+LIGURIA,investimenti,Diritto allo studio,1586788.01
+LIGURIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,53479686.31
+LOMBARDIA,investimenti,Istruzione prescolastica,85803716.5
+LOMBARDIA,investimenti,Altri ordini di istruzione non universitaria,317886994.89
+LOMBARDIA,investimenti,Istruzione universitaria,140187.24
+LOMBARDIA,investimenti,Istruzione tecnica superiore,1793953.75
+LOMBARDIA,investimenti,Servizi ausiliari all'istruzione,21765231.47
+LOMBARDIA,investimenti,Diritto allo studio,890257.06
+LOMBARDIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,428280340.91
+TRENTINO-ALTO ADIGE-SÜDTIROL,investimenti,Istruzione prescolastica,34649709.12
+TRENTINO-ALTO ADIGE-SÜDTIROL,investimenti,Altri ordini di istruzione non universitaria,103203240.88
+TRENTINO-ALTO ADIGE-SÜDTIROL,investimenti,Istruzione universitaria,14439
+TRENTINO-ALTO ADIGE-SÜDTIROL,investimenti,Istruzione tecnica superiore,12587
+TRENTINO-ALTO ADIGE-SÜDTIROL,investimenti,Servizi ausiliari all'istruzione,1872348.87
+TRENTINO-ALTO ADIGE-SÜDTIROL,investimenti,Diritto allo studio,252269
+TRENTINO-ALTO ADIGE-SÜDTIROL,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,140004593.87
+BOLZANO-BOZEN,investimenti,Istruzione prescolastica,29241255.13
+BOLZANO-BOZEN,investimenti,Altri ordini di istruzione non universitaria,76489538.4
+BOLZANO-BOZEN,investimenti,Istruzione universitaria,0
+BOLZANO-BOZEN,investimenti,Istruzione tecnica superiore,0
+BOLZANO-BOZEN,investimenti,Servizi ausiliari all'istruzione,1684829.87
+BOLZANO-BOZEN,investimenti,Diritto allo studio,45
+BOLZANO-BOZEN,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,107415668.4
+TRENTO,investimenti,Istruzione prescolastica,5408453.99
+TRENTO,investimenti,Altri ordini di istruzione non universitaria,26713702.48
+TRENTO,investimenti,Istruzione universitaria,14439
+TRENTO,investimenti,Istruzione tecnica superiore,12587
+TRENTO,investimenti,Servizi ausiliari all'istruzione,187519
+TRENTO,investimenti,Diritto allo studio,252224
+TRENTO,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,32588925.47
+VENETO,investimenti,Istruzione prescolastica,48156000.14
+VENETO,investimenti,Altri ordini di istruzione non universitaria,200664417.85
+VENETO,investimenti,Istruzione universitaria,0
+VENETO,investimenti,Istruzione tecnica superiore,0
+VENETO,investimenti,Servizi ausiliari all'istruzione,5476273.14
+VENETO,investimenti,Diritto allo studio,6305383.19
+VENETO,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,260602074.32
+FRIULI-VENEZIA GIULIA,investimenti,Istruzione prescolastica,16734840.97
+FRIULI-VENEZIA GIULIA,investimenti,Altri ordini di istruzione non universitaria,78992592.08
+FRIULI-VENEZIA GIULIA,investimenti,Istruzione universitaria,0
+FRIULI-VENEZIA GIULIA,investimenti,Istruzione tecnica superiore,22294
+FRIULI-VENEZIA GIULIA,investimenti,Servizi ausiliari all'istruzione,2802865.04
+FRIULI-VENEZIA GIULIA,investimenti,Diritto allo studio,27636
+FRIULI-VENEZIA GIULIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,98580228.09
+EMILIA-ROMAGNA,investimenti,Istruzione prescolastica,37877304.92
+EMILIA-ROMAGNA,investimenti,Altri ordini di istruzione non universitaria,144840345.7
+EMILIA-ROMAGNA,investimenti,Istruzione universitaria,637335.91
+EMILIA-ROMAGNA,investimenti,Istruzione tecnica superiore,15032.25
+EMILIA-ROMAGNA,investimenti,Servizi ausiliari all'istruzione,6678963.44
+EMILIA-ROMAGNA,investimenti,Diritto allo studio,584667.64
+EMILIA-ROMAGNA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,190633649.86
+TOSCANA,investimenti,Istruzione prescolastica,36998321.3
+TOSCANA,investimenti,Altri ordini di istruzione non universitaria,110878586.6
+TOSCANA,investimenti,Istruzione universitaria,0
+TOSCANA,investimenti,Istruzione tecnica superiore,34426.34
+TOSCANA,investimenti,Servizi ausiliari all'istruzione,5552283.33
+TOSCANA,investimenti,Diritto allo studio,1009380.95
+TOSCANA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,154472998.52
+UMBRIA,investimenti,Istruzione prescolastica,6951012.59
+UMBRIA,investimenti,Altri ordini di istruzione non universitaria,32852780.97
+UMBRIA,investimenti,Istruzione universitaria,13.01
+UMBRIA,investimenti,Istruzione tecnica superiore,0
+UMBRIA,investimenti,Servizi ausiliari all'istruzione,1202848.65
+UMBRIA,investimenti,Diritto allo studio,936136.13
+UMBRIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,41942791.35
+MARCHE,investimenti,Istruzione prescolastica,23700275.73
+MARCHE,investimenti,Altri ordini di istruzione non universitaria,56239288.53
+MARCHE,investimenti,Istruzione universitaria,20219
+MARCHE,investimenti,Istruzione tecnica superiore,118452
+MARCHE,investimenti,Servizi ausiliari all'istruzione,3760497.98
+MARCHE,investimenti,Diritto allo studio,2523267.93
+MARCHE,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,86362001.17
+LAZIO,investimenti,Istruzione prescolastica,42002617.7
+LAZIO,investimenti,Altri ordini di istruzione non universitaria,138101434.02
+LAZIO,investimenti,Istruzione universitaria,0
+LAZIO,investimenti,Istruzione tecnica superiore,0
+LAZIO,investimenti,Servizi ausiliari all'istruzione,6082789.36
+LAZIO,investimenti,Diritto allo studio,3584644.19
+LAZIO,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,189771485.27
+ABRUZZO,investimenti,Istruzione prescolastica,41346865.06
+ABRUZZO,investimenti,Altri ordini di istruzione non universitaria,82039998.8
+ABRUZZO,investimenti,Istruzione universitaria,57158
+ABRUZZO,investimenti,Istruzione tecnica superiore,0
+ABRUZZO,investimenti,Servizi ausiliari all'istruzione,3531287.68
+ABRUZZO,investimenti,Diritto allo studio,1144782.44
+ABRUZZO,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,128120091.98
+MOLISE,investimenti,Istruzione prescolastica,13315223.99
+MOLISE,investimenti,Altri ordini di istruzione non universitaria,10590406.72
+MOLISE,investimenti,Istruzione universitaria,0
+MOLISE,investimenti,Istruzione tecnica superiore,1691863.62
+MOLISE,investimenti,Servizi ausiliari all'istruzione,1321592.97
+MOLISE,investimenti,Diritto allo studio,572326.98
+MOLISE,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,27491414.28
+CAMPANIA,investimenti,Istruzione prescolastica,65395579.36
+CAMPANIA,investimenti,Altri ordini di istruzione non universitaria,160214925.81
+CAMPANIA,investimenti,Istruzione universitaria,0
+CAMPANIA,investimenti,Istruzione tecnica superiore,83828
+CAMPANIA,investimenti,Servizi ausiliari all'istruzione,7458895.58
+CAMPANIA,investimenti,Diritto allo studio,5978920.7
+CAMPANIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,239132149.45
+PUGLIA,investimenti,Istruzione prescolastica,58680462.76
+PUGLIA,investimenti,Altri ordini di istruzione non universitaria,118648374.38
+PUGLIA,investimenti,Istruzione universitaria,0
+PUGLIA,investimenti,Istruzione tecnica superiore,0
+PUGLIA,investimenti,Servizi ausiliari all'istruzione,3042704
+PUGLIA,investimenti,Diritto allo studio,768011
+PUGLIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,181139552.14
+BASILICATA,investimenti,Istruzione prescolastica,13491848.01
+BASILICATA,investimenti,Altri ordini di istruzione non universitaria,24718497.89
+BASILICATA,investimenti,Istruzione universitaria,0
+BASILICATA,investimenti,Istruzione tecnica superiore,80487
+BASILICATA,investimenti,Servizi ausiliari all'istruzione,1661941.01
+BASILICATA,investimenti,Diritto allo studio,263366.99
+BASILICATA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,40216140.9
+CALABRIA,investimenti,Istruzione prescolastica,43977339.22
+CALABRIA,investimenti,Altri ordini di istruzione non universitaria,88370386.37
+CALABRIA,investimenti,Istruzione universitaria,12681
+CALABRIA,investimenti,Istruzione tecnica superiore,0
+CALABRIA,investimenti,Servizi ausiliari all'istruzione,9232407.15
+CALABRIA,investimenti,Diritto allo studio,7532700.63
+CALABRIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,149125514.37
+SICILIA,investimenti,Istruzione prescolastica,27619358.45
+SICILIA,investimenti,Altri ordini di istruzione non universitaria,104894805.61
+SICILIA,investimenti,Istruzione universitaria,0
+SICILIA,investimenti,Istruzione tecnica superiore,5494262.03
+SICILIA,investimenti,Servizi ausiliari all'istruzione,5735469.64
+SICILIA,investimenti,Diritto allo studio,2980739.28
+SICILIA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,146724635.01
+SARDEGNA,investimenti,Istruzione prescolastica,20416836.36
+SARDEGNA,investimenti,Altri ordini di istruzione non universitaria,46051963.27
+SARDEGNA,investimenti,Istruzione universitaria,1023960.02
+SARDEGNA,investimenti,Istruzione tecnica superiore,7586.75
+SARDEGNA,investimenti,Servizi ausiliari all'istruzione,3905188.55
+SARDEGNA,investimenti,Diritto allo studio,3020885.1
+SARDEGNA,investimenti,TOTALE MISSIONE 4 - Istruzione e diritto allo studio,74426420.05

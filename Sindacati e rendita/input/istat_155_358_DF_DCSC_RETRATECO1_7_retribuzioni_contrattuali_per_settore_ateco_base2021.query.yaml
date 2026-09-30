@@ -1,0 +1,19 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 155_358_DF_DCSC_RETRATECO1_7
+description: Retribuzione oraria e per dipendente (base 2021)
+filters:
+  FREQ:
+    value: A
+    description: ''
+  REF_AREA:
+    value: IT
+    description: ''
+  ADJUSTMENT:
+    value: N
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

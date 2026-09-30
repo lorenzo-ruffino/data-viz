@@ -1,0 +1,1059 @@
+indicator,indicator_name,geoUnit,year,value
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2008,30566.8125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2010,33071.9921875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2011,32697.15625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2012,31965.9609375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2013,32076.05859375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2014,32672.1640625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2015,32892.73046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2016,33602.125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2017,34696.0859375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2018,36063.015625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2019,38129.0703125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2020,39961.95703125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2021,42119.22265625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",DEU,2022,40990.39453125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2000,19613.037109375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2001,20311.04296875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2002,20764.3515625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2003,21485.23046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2004,22295.240234375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2005,22825.0546875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2006,23909.82421875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2007,24862.203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2008,26616.517578125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2009,27670.724609375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2010,27622.560546875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2011,26679.658203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2012,24739.458984375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2013,24050.916015625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2014,24307.609375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2015,25439.78125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2016,26122.541015625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2017,26757.79296875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2018,27179.470703125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2019,27578.44140625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2020,28200.9921875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2021,29356.43359375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ESP,2022,29062.791015625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",FRA,2017,43483.609375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",FRA,2018,44365.8046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",FRA,2019,45652.5703125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",FRA,2020,44937.47265625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",FRA,2021,45881.25
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",FRA,2022,46920.57421875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2000,26782.42578125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2001,28835.7890625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2002,31458.369140625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2003,35946.08203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2004,37607.64453125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2005,40519.2890625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2006,46753.59765625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2007,49296.484375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2008,51969.2421875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2009,52683.23046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2010,54695.00390625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2011,55910.13671875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2013,55097.8671875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2014,55194.80078125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2015,62832.640625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2016,63078.3515625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2017,63558.375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2018,63568.55859375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2019,64860.41015625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2020,67313.1953125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",GBR,2021,65107.3203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2000,34788.40234375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2001,35834.29296875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2002,36706.7109375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2003,37417.84375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2004,36864.0546875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2005,34197.60546875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2006,37854.9375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2007,34893.046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2008,37153.80078125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2009,36172.1015625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2010,34912.09765625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2011,33011.4921875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2012,30562.509765625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2013,31189.42578125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2014,30685.41015625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2015,31677.490234375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2016,28788.240234375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2017,31506.5546875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2018,30955.876953125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2019,33051.96875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2020,35336.94921875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2021,36676.71875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",ITA,2022,36754.79296875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",NLD,2015,13964.1611328125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",NLD,2016,13869.3203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",NLD,2017,14080.9169921875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",NLD,2018,14491.033203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",NLD,2019,14707.3359375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",NLD,2020,15145.6240234375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",NLD,2021,16092.6826171875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",NLD,2022,17373.060546875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2002,14203.1728515625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2003,14385.28515625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2004,14341.6396484375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2005,14762.9580078125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2006,15798.388671875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2007,15682.703125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2008,16268.3759765625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2009,16535.962890625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2010,17413.158203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2011,17237.31640625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2012,17377.21484375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2013,17990.052734375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2014,19152.55078125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2015,19039.2890625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2016,19485.7265625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2017,20029.84375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2018,21384.201171875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2019,19292.8515625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2020,16504.90625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2021,17175.8046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",POL,2022,16522.392578125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2000,6365.4287109375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2001,6788.9521484375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2002,6888.66455078125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2003,6722.69580078125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2004,6727.20751953125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2005,6682.37548828125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2006,6467.98876953125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2007,6148.25048828125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2008,6079.65673828125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2009,6540.0732421875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2010,6454.05126953125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2011,6163.12451171875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2012,5895.181640625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2013,6461.07421875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2014,6373.33740234375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2015,5997.39794921875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2017,6591.6787109375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2018,6429.47216796875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2019,6493.1376953125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2020,6252.16357421875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2021,6497.9560546875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",PRT,2022,6387.8515625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2000,8544.376953125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2001,8329.248046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2002,9115.5595703125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2003,8990.533203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2004,8980.8232421875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2005,8789.3720703125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2006,8541.00390625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2007,8608.830078125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2008,8645.935546875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2009,8607.6123046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2010,8883.501953125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2011,8935.873046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2012,9534.3486328125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2013,9909.833984375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2014,10295.2392578125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2015,10820.6005859375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2016,11658.3720703125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2017,12303.0615234375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2018,12739.150390625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2019,13083.4248046875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2020,13153.908203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2021,13151.9658203125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",SWE,2022,13119.208984375
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",USA,2015,329938.40625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",USA,2016,342296.125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",USA,2017,352775.1875
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",USA,2018,360758.65625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",USA,2019,366838.90625
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",USA,2020,372338.125
+X.PPPCONST.1.FSGOV,"Government expenditure on primary education, constant PPP$ (millions)",USA,2021,382364.78125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2008,103747.03125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2010,111103.5625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2011,110524.828125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2012,107545.3125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2013,106634
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2014,107113.7109375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2015,106380.6171875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2016,107224.5703125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2017,109228.0078125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2018,111289.96875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2019,114613.7890625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2020,119098.0703125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2021,117650.8984375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",DEU,2022,115978.5625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2000,33220.6875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2001,32553.859375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2002,33288.890625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2003,33631.05078125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2004,34099.82421875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2005,34936.578125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2006,36462.91015625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2007,37296.42578125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2008,39481.35546875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2009,41008.39453125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2010,39978.296875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2011,38847.19921875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2012,35805.52734375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2013,33981.7734375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2014,33920.84375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2015,35142.81640625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2016,36190.49609375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2017,36927.015625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2018,37411.37109375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2019,39070.6640625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2020,40561.875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2021,43417.83203125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ESP,2022,43417.2890625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",FRA,2017,88159.046875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",FRA,2018,88436.4921875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",FRA,2019,88867.890625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",FRA,2020,86681.8359375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",FRA,2021,88554.109375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",FRA,2022,88637.734375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2000,52817.66015625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2001,55799.421875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2002,62770.65625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2003,68110.3125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2004,68732.2421875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2005,69492.7265625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2006,68774.5234375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2007,72562
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2008,77421.90625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2009,82817.109375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2010,87821.5078125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2011,75530.140625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2013,74241.84375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2014,78514.5390625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2015,80157.3984375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2016,73831.125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2017,73629.5390625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2018,68452.9296875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2019,71243.65625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2020,75770.4453125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",GBR,2021,75128.7109375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2000,62104.45703125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2001,72491.0078125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2002,65529.03515625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2003,68628.3203125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2004,65743.9453125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2005,64696.51171875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2006,69853.1015625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2007,62699.8984375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2008,65664.1328125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2009,61934.7265625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2010,60011.52734375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2011,56700.87890625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2012,54771.265625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2013,54590.39453125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2014,53143.203125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2015,54220.03515625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2018,66232.8203125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2019,58770.55078125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2020,55796.68359375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2021,57452.92578125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",ITA,2022,58293.16796875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",NLD,2015,25562.896484375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",NLD,2016,26463.048828125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",NLD,2017,25698.087890625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",NLD,2018,26923.40625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",NLD,2019,26122.31640625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",NLD,2020,25954.796875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",NLD,2021,27905.16796875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",NLD,2022,27534.509765625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2002,15982.3525390625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2003,16223.4326171875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2004,16549.650390625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2005,17457.72265625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2006,18561.96484375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2007,18273.482421875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2008,19095.19140625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2009,19655.287109375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2010,19920.88671875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2011,19445.15234375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2012,19362.146484375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2013,19426.11328125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2014,19158.07421875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2015,19012.763671875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2016,19243.142578125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2017,18925.404296875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2018,19926.392578125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2019,23843.02734375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2020,27223.47265625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2021,27664.439453125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",POL,2022,27711.4375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2000,9133.6748046875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2001,9508.517578125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2002,9377.453125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2003,9066.8232421875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2004,8858.8984375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2005,8888.0615234375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2006,8663.7744140625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2007,8710.4921875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2008,8879.169921875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2009,10864.2060546875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2010,10532.1064453125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2011,9732.5380859375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2012,9212.400390625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2013,9559.1015625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2014,9016.96484375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2015,8822.8974609375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2017,9951.7412109375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2018,9417.5546875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2019,9887.1181640625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2020,9281.708984375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2021,9570.9384765625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",PRT,2022,10008.287109375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2000,11561.2158203125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2001,11500.7958984375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2002,11870.9716796875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2003,11884.5302734375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2004,12435.271484375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2005,12801.484375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2006,13240.0830078125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2007,13353.3818359375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2008,13304.822265625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2009,13151.685546875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2010,13017.0791015625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2011,13047.619140625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2012,12500.6259765625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2013,12351.1201171875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2014,12419.177734375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2015,12565.859375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2016,13247.357421875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2017,13806.6640625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2018,14527.392578125
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2019,14646.8759765625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2020,14942.8271484375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2021,15154.4677734375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",SWE,2022,14930.7724609375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",USA,2015,366550.34375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",USA,2016,376776.4375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",USA,2017,391207.34375
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",USA,2018,398713.875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",USA,2019,409453.625
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",USA,2020,420122.1875
+X.PPPCONST.2T3.FSGOV,"Government expenditure on secondary education, constant PPP$ (millions)",USA,2021,428593.125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2008,55447.921875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2010,61927.265625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2011,64765.77734375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2012,64547.2109375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2013,64231.40234375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2014,65796.453125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2015,65841.765625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2016,67425.28125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2017,68464.0078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2018,70578.4453125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2019,72020.5078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2020,75251.5546875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2021,75585.328125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",DEU,2022,75096.25
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2000,16547.384765625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2001,17753.783203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2002,18370.837890625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2003,19398.04296875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2004,19645.025390625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2005,19806.232421875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2006,20697.177734375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2007,22365.248046875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2008,24196.79296875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2009,24964.599609375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2010,25339.419921875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2011,24547.650390625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2012,21828.142578125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2013,20659.455078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2014,20764.583984375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2015,21348.951171875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2016,21132.408203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2017,22079.552734375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2018,22364.3671875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2019,23174.560546875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2020,23616.33203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2021,25536.26953125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ESP,2022,26998.228515625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",FRA,2017,46093.09765625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",FRA,2018,46946.78515625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",FRA,2019,47318.87109375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",FRA,2020,46070.77734375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",FRA,2021,47368.0234375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",FRA,2022,47493.66015625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2000,19010.634765625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2001,19890.87890625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2002,27476.330078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2003,27880.55859375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2004,27694.6328125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2005,34130.4921875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2006,31917.0390625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2007,27967.283203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2008,25855.84375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2009,24326.84765625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2010,29798.533203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2011,40148.38671875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2013,44314.66796875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2014,46434.86328125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2015,44576.9921875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2016,49983.6484375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2017,53213.765625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2018,54243.40234375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2019,55004.5703125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2020,58455.23828125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",GBR,2021,55999.84765625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2000,24927.3359375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2001,24343.296875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2002,26301.884765625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2003,23948.2109375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2004,24171.939453125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2005,23984.46875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2006,25661.501953125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2007,24590.189453125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2008,26984.73046875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2009,26246.59375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2010,26226.787109375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2011,25840.263671875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2012,24551.52734375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2013,25012.349609375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2014,24541.8046875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2015,23593.251953125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2016,22982.859375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2017,24080.10546875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2018,25033.826171875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2019,25231.05859375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2020,25890.5078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2021,27287.0078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",ITA,2022,29423.15625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",NLD,2015,18825.796875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",NLD,2016,20865.70703125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",NLD,2017,19456.591796875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",NLD,2018,21384.779296875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",NLD,2019,20624.375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",NLD,2020,20547.33984375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",NLD,2021,22696.3203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",NLD,2022,22237.595703125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2000,5458.73828125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2001,6395.9296875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2002,8196.517578125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2003,8249.9736328125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2004,9660.5556640625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2005,10376.85546875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2006,8889.8857421875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2007,9233.2294921875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2008,10764.736328125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2009,11197.4013671875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2010,12778.9033203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2011,12810.314453125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2012,13336.6591796875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2013,14519.5712890625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2014,14693.298828125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2015,15605.125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2016,14040.224609375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2017,14974.716796875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2018,15535.6875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2019,16928.615234375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2020,17210.994140625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2021,17431.3828125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",POL,2022,16317.82421875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2000,3854.05029296875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2001,4120.3974609375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2002,3831.771728515625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2003,3991.62939453125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2004,3546.51953125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2005,3952.1591796875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2006,4082.469970703125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2007,4997.48388671875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2008,4079.407470703125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2009,4486.1083984375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2010,4822.74267578125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2011,4385.9462890625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2013,3697.150390625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2014,3801.314697265625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2015,3790.314697265625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2017,3579.08837890625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2018,3577.887939453125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2019,3708.883056640625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2020,3767.4267578125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2021,3884.491455078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",PRT,2022,3925.408203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2000,8326.5966796875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2001,8543.5537109375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2002,9223.4443359375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2003,9420.46484375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2004,9499.955078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2005,9214.6298828125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2006,9192.5458984375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2007,9080.6689453125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2008,9487.97265625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2009,10044.30078125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2010,10615.5888671875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2011,10710.1240234375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2012,10964.2646484375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2013,11257.1767578125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2014,11420.9794921875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2015,11548.1181640625
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2016,11649.0537109375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2017,11676.783203125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2018,11847.1748046875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2019,12036.3701171875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2020,12484.986328125
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2021,12884.2373046875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",SWE,2022,12339.9326171875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",USA,2015,292975.46875
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",USA,2016,267551.9375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",USA,2017,328342.75
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",USA,2018,294057.34375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",USA,2019,321381.75
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",USA,2020,438077.375
+X.PPPCONST.5T8.FSGOV,"Government expenditure on tertiary education, constant PPP$ (millions)",USA,2021,405812.59375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2008,223580.15625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2010,245598.078125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2011,249246.53125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2012,247644.140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2013,248991.265625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2014,253695.125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2015,254454.40625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2016,260382.875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2017,268301.875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2018,277299.25
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2019,288269.84375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2020,303323.78125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2021,305980.3125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",DEU,2022,302764.28125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2000,75942.4609375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2001,77851.015625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2002,80425.015625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2003,83545.1328125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2004,85807.8515625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2005,88557.2421875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2006,93008.3671875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2007,97817.875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2008,104839.0625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2009,109353.4140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2010,108134.4140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2011,104840.984375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2012,96250.25
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2013,92077.4765625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2014,92327.0625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2015,95486.8125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2016,96981.15625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2017,99437.0703125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2018,101137.2890625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2019,104414.7578125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2020,107344.046875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2021,113620.3984375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ESP,2022,114936.296875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",FRA,2017,204886.84375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",FRA,2018,206756.84375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",FRA,2019,208653.515625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",FRA,2020,203649.90625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",FRA,2021,208384.125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",FRA,2022,210069.109375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2000,108381.046875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2001,115392.2578125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2002,133135.140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2003,141090.421875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2004,143544.78125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2005,153105.5
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2006,158779.890625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2007,160860.59375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2008,164589.34375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2009,169292.40625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2010,181757.203125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2011,181691.25
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2013,184963.53125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2014,190883.640625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2015,195335.15625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2016,195127.5
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2017,199779.078125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2018,195750.796875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2019,200667.40625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2020,210834.296875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",GBR,2021,205378.59375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2000,134743.140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2001,148822.46875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2002,142173.1875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2003,145856.65625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2004,142887.765625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2005,139130.75
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2006,151082.671875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2007,139101.890625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2008,147252.390625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2009,143659.484375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2010,139771.703125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2011,133506.46875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2012,127454.59375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2013,127838.9140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2014,125304.78125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2015,126851.1328125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2016,120223.7734375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2017,129590.1015625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2018,137615.765625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2019,132911.140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2020,131209.8125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2021,134942.46875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",ITA,2022,137940.59375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2000,45301.83203125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2001,47427.3359375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2002,48554.8359375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2003,50945.70703125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2004,52192.875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2005,53756.5859375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2006,54897.10546875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2007,55205.13671875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2008,57984.79296875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2009,60199.32421875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2010,61794.6953125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2011,62424.46484375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2012,61254.74609375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2013,62574.08984375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2014,62630.58203125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2015,62490.33984375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2016,65357.57421875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2017,63410.41796875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2018,67134.03125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2019,65923.140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2020,66324.4453125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2021,71623.15625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",NLD,2022,72447.8828125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2000,37741.89453125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2001,40754.05859375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2002,42132.49609375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2003,43098.23828125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2004,45502.7265625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2005,47685.83203125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2006,48564.18359375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2007,48573.2734375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2008,52398.42578125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2009,53267.68359375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2010,56110.90234375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2011,56128.3125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2012,57024.9921875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2013,59371.54296875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2014,60968.140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2015,61721.5546875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2016,61464.43359375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2017,63447.48046875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2018,67667.734375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2019,71815.3984375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2020,72991.078125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2021,75107.15625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",POL,2022,73813.8046875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2000,21259.29296875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2001,22399.77734375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2002,22240.83203125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2003,22129.443359375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2004,21522.41796875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2005,21809.21484375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2006,21437.271484375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2007,22036.369140625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2008,21094.3125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2009,24208.931640625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2010,23929.330078125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2011,22265.654296875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2012,20634.681640625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2013,21767.013671875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2014,21323.505859375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2015,20707.2421875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2017,22413.4296875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2018,21479.087890625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2019,21824.130859375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2020,21057.67578125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2021,21813.921875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",PRT,2022,22253.3046875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2000,30631.31640625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2001,30478.94921875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2002,32567.87890625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2003,32633.171875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2004,33377.8984375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2005,33498.61328125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2006,34298.671875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2007,34371.24609375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2008,35132.28125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2009,35753.78125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2010,36577.796875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2011,36834.6640625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2012,43369.46484375
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2013,44279.97265625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2014,45193.8203125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2015,46353.13671875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2016,48363.15625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2017,49236.8828125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2018,50566.3125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2019,51618.55078125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2020,52499.40625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2021,53161.51171875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",SWE,2022,51928.47265625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",USA,2015,1062732.625
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",USA,2016,1061342.25
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",USA,2017,1150616.5
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",USA,2018,1133075.125
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",USA,2019,1181568.875
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",USA,2020,1319152.75
+X.PPPCONST.FSGOV,"Government expenditure on education, constant PPP$ (millions)",USA,2021,1296613.75
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2008,4.47337007522583
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2010,4.995250225067139
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2011,4.885839939117432
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2012,4.831530094146729
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2013,4.839119911193848
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2014,4.825829982757568
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2015,4.761579990386963
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2016,4.763219833374023
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2017,4.77830982208252
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2018,4.88401985168457
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2019,5.027579784393311
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2020,5.51600980758667
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2021,5.367340087890625
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,2022,5.239160060882568
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2000,4.16786003112793
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2001,4.111470222473145
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2002,4.133510112762451
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2003,4.17126989364624
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2004,4.154850006103516
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2005,4.140900135040283
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2006,4.179999828338623
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2007,4.246150016784668
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2008,4.516300201416016
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2009,4.895209789276123
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2010,4.836060047149658
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2011,4.718979835510254
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2012,4.46012020111084
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2013,4.328529834747314
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2014,4.27524995803833
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2015,4.249030113220215
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2016,4.193270206451416
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2017,4.178460121154785
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2018,4.150450229644775
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2019,4.202559947967529
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2020,4.851180076599121
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2021,4.813169956207275
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,2022,4.585539817810059
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),FRA,2017,5.464829921722412
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),FRA,2018,5.42540979385376
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),FRA,2019,5.366380214691162
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),FRA,2020,5.65871000289917
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),FRA,2021,5.417439937591553
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),FRA,2022,5.324349880218506
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2000,4.018209934234619
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2001,4.100150108337402
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2002,4.611909866333008
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2003,4.801290035247803
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2004,4.735559940338135
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2005,4.929759979248047
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2006,4.976480007171631
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2007,4.924449920654297
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2008,4.909729957580566
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2009,5.062630176544189
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2010,5.698689937591553
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2011,5.572199821472168
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2013,5.525290012359619
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2014,5.601349830627441
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2015,5.554530143737793
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2016,5.42795991897583
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2017,5.452549934387207
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2018,5.204380035400391
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2019,5.261169910430908
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2020,5.43936014175415
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,2021,5.906819820404053
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2000,4.279960155487061
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2001,4.634160041809082
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2002,4.415209770202637
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2003,4.526549816131592
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2004,4.370029926300049
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2005,4.222929954528809
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2006,4.504640102386475
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2007,4.087639808654785
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2008,4.371880054473877
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2009,4.504149913787842
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2010,4.316269874572754
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2011,4.094319820404053
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2012,4.034810066223145
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2013,4.121920108795166
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2014,4.04026985168457
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2015,4.054220199584961
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2016,3.795490026473999
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2017,4.02662992477417
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2018,4.240940093994141
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2019,4.07843017578125
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2020,4.418039798736572
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2021,4.171189785003662
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,2022,4.067759990692139
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2000,4.583250045776367
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2001,4.689330101013184
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2002,4.789040088653564
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2003,5.019949913024902
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2004,5.041190147399902
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2005,5.088719844818115
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2006,5.019139766693115
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2007,4.858540058135986
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2008,4.997379779815674
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2009,5.385610103607178
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2010,5.456349849700928
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2011,5.41595983505249
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2012,5.366940021514893
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2013,5.484179973602295
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2014,5.402050018310547
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2015,5.278029918670654
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2016,5.389520168304443
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2017,5.087470054626465
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2018,5.267230033874512
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2019,5.0559401512146
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2020,5.291399955749512
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2021,5.376619815826416
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,2022,5.179180145263672
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2000,4.962810039520264
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2001,5.293580055236816
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2002,5.370520114898682
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2003,5.306640148162842
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2004,5.331299781799316
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2005,5.410659790039063
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2006,5.18848991394043
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2007,4.860869884490967
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2008,5.023449897766113
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2009,4.976659774780273
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2010,5.081260204315186
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2011,4.829010009765625
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2012,4.833119869232178
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2013,4.997799873352051
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2014,4.93858003616333
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2015,4.787489891052246
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2016,4.627260208129883
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2017,4.54246997833252
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2018,4.559850215911865
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2019,4.62736988067627
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2020,4.800819873809814
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2021,4.61998987197876
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),POL,2022,4.313729763031006
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2000,5.163869857788086
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2001,5.337130069732666
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2002,5.258729934692383
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2003,5.281529903411865
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2004,5.04640007019043
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2005,5.073939800262451
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2006,4.907690048217773
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2007,4.92149019241333
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2008,4.696080207824707
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2009,5.563159942626953
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2010,5.404990196228027
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2011,5.116889953613281
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2012,4.942269802093506
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2013,5.265289783477783
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2014,5.120059967041016
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2015,4.894259929656982
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2017,5.02685022354126
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2018,4.679399967193604
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2019,4.627520084381104
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2020,4.86407995223999
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2021,4.773419857025146
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,2022,4.551609992980957
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2000,6.738359928131104
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2001,6.614820003509521
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2002,6.91077995300293
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2003,6.796780109405518
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2004,6.672999858856201
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2005,6.515160083770752
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2006,6.372779846191406
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2007,6.186739921569824
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2008,6.38263988494873
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2009,6.784259796142578
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2010,6.56318998336792
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2011,6.406559944152832
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2012,7.574560165405273
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2013,7.646580219268799
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2014,7.629240036010742
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2015,7.494420051574707
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2016,7.639910221099854
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2017,7.638490200042725
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2018,7.698259830474854
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2019,7.663070201873779
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2020,7.953330039978027
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2021,7.602240085601807
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,2022,7.319099903106689
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),USA,2015,4.93064022064209
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),USA,2016,4.783279895782471
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),USA,2017,5.09296989440918
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),USA,2018,4.895020008087158
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),USA,2019,4.957469940185547
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),USA,2020,5.395309925079346
+XGDP.FSGOV,Government expenditure on education as a percentage of GDP (%),USA,2021,5.420380115509033
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2008,10.07110977172852
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2010,10.38199043273926
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2011,10.79154968261719
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2012,10.71685981750488
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2013,10.71767997741699
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2014,10.84512996673584
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2015,10.69878005981445
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2016,10.65153980255127
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2017,10.72179985046387
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2018,10.92897033691406
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2019,11.03421974182129
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2020,10.78824996948242
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2021,10.57594966888428
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),DEU,2022,10.68212032318115
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2000,10.65303039550781
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2001,10.70273971557617
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2002,10.70096969604492
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2003,10.87534999847412
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2004,10.71127033233643
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2005,10.76976013183594
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2006,10.88782978057861
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2007,10.83693981170654
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2008,10.92607975006104
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2009,10.62497997283936
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2010,10.54881000518799
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2011,10.27163028717041
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2012,9.05819034576416
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2013,9.376729965209961
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2014,9.488670349121094
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2015,9.72698974609375
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2016,9.951040267944336
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2017,10.17955017089844
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2018,9.995770454406738
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2019,10.00430965423584
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2020,9.432290077209473
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2021,9.724980354309082
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ESP,2022,9.87539005279541
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),FRA,2017,9.476829528808594
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),FRA,2018,9.624759674072266
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),FRA,2019,9.696269989013672
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),FRA,2020,9.171839714050293
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),FRA,2021,9.110549926757812
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),FRA,2022,9.117480278015137
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2000,11.85175037384033
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2001,12.08215045928955
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2002,13.30615997314453
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2003,13.3586597442627
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2004,12.72544002532959
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2005,12.96028995513916
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2006,12.94647979736328
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2007,12.81916999816895
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2008,12.7018404006958
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2009,12.36063957214355
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2010,12.76912021636963
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2011,12.4644603729248
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2013,12.68640995025635
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2014,13.38755035400391
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2015,13.48701000213623
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2016,13.42720985412598
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2017,13.7579402923584
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2018,13.29176044464111
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2019,13.53487014770508
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2020,14.03225994110107
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),GBR,2021,11.81680011749268
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2000,9.230279922485352
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2001,9.832320213317871
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2002,9.496430397033691
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2003,9.637439727783203
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2004,9.364350318908691
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2005,8.974749565124512
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2006,9.471480369567871
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2007,8.7716703414917
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2008,9.155610084533691
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2009,8.822580337524414
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2010,8.667400360107422
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2011,8.351200103759766
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2012,7.99275016784668
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2013,8.097970008850098
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2014,7.966609954833984
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2015,8.069100379943848
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2016,7.749090194702148
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2017,8.254170417785645
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2018,8.776639938354492
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2019,8.422369956970215
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2020,7.780439853668213
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2021,7.443339824676514
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),ITA,2022,7.405159950256348
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2000,10.60684967041016
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2001,10.63936042785645
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2002,10.69431972503662
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2003,10.97206020355225
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2004,11.28462028503418
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2005,11.71969985961914
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2006,11.41699981689453
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2007,11.22879028320313
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2008,11.29115009307861
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2009,11.12102031707764
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2010,11.16580963134766
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2011,11.3361701965332
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2012,11.26502990722656
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2013,11.535400390625
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2014,11.55782032012939
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2015,11.66370964050293
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2016,12.27208042144775
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2017,11.8980598449707
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2018,12.41011047363281
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2019,12.00983047485352
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2020,11.06680965423584
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2021,11.71522045135498
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),NLD,2022,11.97062015533447
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2000,11.58057022094727
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2001,11.86565971374512
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2002,11.92059993743896
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2003,11.67521953582764
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2004,12.32353019714355
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2005,12.26529026031494
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2006,12.70998001098633
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2007,11.34832954406738
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2008,11.41024971008301
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2009,11.08304977416992
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2010,11.0465202331543
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2011,10.94567966461182
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2012,11.1955099105835
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2013,11.56643962860107
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2014,11.57050037384033
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2015,11.53715038299561
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2016,11.27159976959229
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2017,11.04395961761475
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2018,11.11061954498291
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2019,11.17117023468018
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2020,10.05722999572754
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2021,10.60408973693848
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),POL,2022,9.974410057067871
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2000,12.05484962463379
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2001,12.09663009643555
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2002,11.90095996856689
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2003,11.63733959197998
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2004,10.95652008056641
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2005,10.85196971893311
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2006,10.87008953094482
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2007,11.0479097366333
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2008,10.32433986663818
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2009,11.06927967071533
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2010,10.41672992706299
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2011,10.22797012329102
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2012,10.12045955657959
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2013,10.53960037231445
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2014,9.911219596862793
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2015,10.150710105896
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2017,11.05156993865967
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2018,10.81169986724854
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2019,10.89321994781494
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2020,9.901789665222168
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2021,10.08261966705322
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),PRT,2022,10.37423992156982
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2000,12.89867973327637
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2001,12.78553009033203
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2002,13.1183500289917
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2003,12.83382987976074
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2004,12.91322994232178
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2005,12.73132991790771
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2006,12.71201992034912
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2007,12.76568031311035
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2008,12.92362976074219
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2009,13.12812042236328
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2010,13.19379043579102
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2011,13.04813003540039
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2012,15.07507991790771
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2013,14.88731956481934
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2014,15.04500961303711
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2015,15.18671035766602
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2016,15.46417045593262
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2017,15.53695011138916
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2018,15.51504993438721
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2019,15.74522972106934
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2020,15.31173992156982
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2021,15.54915046691895
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),SWE,2022,15.27604961395264
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),USA,2015,13.54664993286133
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),USA,2016,13.17061042785645
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),USA,2017,13.8754997253418
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),USA,2018,13.14741039276123
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),USA,2019,13.27268981933594
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),USA,2020,12.1569995880127
+XGOVEXP.IMF,Expenditure on education as a percentage of total government expenditure (%) (UIS calculation),USA,2021,11.29265975952148

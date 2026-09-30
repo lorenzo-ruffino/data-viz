@@ -1,0 +1,16 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 149_319_DF_DCSC_RETRCONTR1T_4
+description: Tensione contrattuale - indicatori (base 2021)
+filters:
+  REF_AREA:
+    value: IT
+    description: ''
+  ADJUSTMENT:
+    value: N
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

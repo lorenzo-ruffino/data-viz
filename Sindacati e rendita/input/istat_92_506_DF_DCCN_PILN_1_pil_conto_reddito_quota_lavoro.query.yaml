@@ -1,0 +1,25 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 92_506_DF_DCCN_PILN_1
+description: Prodotto interno lordo e principali componenti
+filters:
+  FREQ:
+    value: A
+    description: ''
+  REF_AREA:
+    value: IT
+    description: ''
+  VALUATION:
+    value: V
+    description: ''
+  ADJUSTMENT:
+    value: N
+    description: ''
+  EDITION:
+    value: 2026M3
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

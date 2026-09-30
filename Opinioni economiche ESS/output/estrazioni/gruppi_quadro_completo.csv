@@ -1,0 +1,571 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:altro_inattivo,contrario (1-2),40.9,pct_contrario,228
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:altro_inattivo,favorevole (3-4),59.1,pct_favorevoli,228
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:disoccupati,contrario (1-2),41.6,pct_contrario,222
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:disoccupati,favorevole (3-4),58.4,pct_favorevoli,222
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:occupati,contrario (1-2),42.7,pct_contrario,1116
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:occupati,favorevole (3-4),57.3,pct_favorevoli,1116
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:pensionati,contrario (1-2),41.5,pct_contrario,483
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:pensionati,favorevole (3-4),58.5,pct_favorevoli,483
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:studenti,contrario (1-2),32.9,pct_contrario,215
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,condizione:studenti,favorevole (3-4),67.1,pct_favorevoli,215
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,decile:alto,contrario (1-2),47.7,pct_contrario,225
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,decile:alto,favorevole (3-4),52.3,pct_favorevoli,225
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,decile:basso,contrario (1-2),43.6,pct_contrario,505
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,decile:basso,favorevole (3-4),56.4,pct_favorevoli,505
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,decile:medio,contrario (1-2),47.5,pct_contrario,632
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,decile:medio,favorevole (3-4),52.5,pct_favorevoli,632
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,eta:15-34,contrario (1-2),35.1,pct_contrario,603
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,eta:15-34,favorevole (3-4),64.9,pct_favorevoli,603
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,eta:35-54,contrario (1-2),42.2,pct_contrario,808
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,eta:35-54,favorevole (3-4),57.8,pct_favorevoli,808
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,eta:55+,contrario (1-2),43.9,pct_contrario,859
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,eta:55+,favorevole (3-4),56.1,pct_favorevoli,859
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,genere:donne,contrario (1-2),41,pct_contrario,1139
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,genere:donne,favorevole (3-4),59,pct_favorevoli,1139
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,genere:uomini,contrario (1-2),41.3,pct_contrario,1140
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,genere:uomini,favorevole (3-4),58.7,pct_favorevoli,1140
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,ideologia:centro,contrario (1-2),44.5,pct_contrario,713
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,ideologia:centro,favorevole (3-4),55.5,pct_favorevoli,713
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,ideologia:destra,contrario (1-2),47.9,pct_contrario,447
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,ideologia:destra,favorevole (3-4),52.1,pct_favorevoli,447
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,ideologia:sinistra,contrario (1-2),44.5,pct_contrario,392
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,ideologia:sinistra,favorevole (3-4),55.5,pct_favorevoli,392
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,istruzione:alta,contrario (1-2),43.5,pct_contrario,309
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,istruzione:alta,favorevole (3-4),56.5,pct_favorevoli,309
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,istruzione:bassa,contrario (1-2),40.5,pct_contrario,987
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,istruzione:bassa,favorevole (3-4),59.5,pct_favorevoli,987
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,istruzione:media,contrario (1-2),41.2,pct_contrario,968
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,istruzione:media,favorevole (3-4),58.8,pct_favorevoli,968
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,reddito_percepito:adeguata,contrario (1-2),38.8,pct_contrario,1065
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,reddito_percepito:adeguata,favorevole (3-4),61.2,pct_favorevoli,1065
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,reddito_percepito:comoda,contrario (1-2),47.4,pct_contrario,518
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,reddito_percepito:comoda,favorevole (3-4),52.6,pct_favorevoli,518
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,reddito_percepito:difficolta,contrario (1-2),40.1,pct_contrario,487
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,reddito_percepito:difficolta,favorevole (3-4),59.9,pct_favorevoli,487
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,reddito_percepito:grande_difficolta,contrario (1-2),42.1,pct_contrario,164
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,reddito_percepito:grande_difficolta,favorevole (3-4),57.9,pct_favorevoli,164
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,settore:autonomi,contrario (1-2),49.6,pct_contrario,222
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,settore:autonomi,favorevole (3-4),50.4,pct_favorevoli,222
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,settore:privato,contrario (1-2),42.6,pct_contrario,1149
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,settore:privato,favorevole (3-4),57.4,pct_favorevoli,1149
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,settore:pubblico,contrario (1-2),43.8,pct_contrario,315
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,settore:pubblico,favorevole (3-4),56.2,pct_favorevoli,315
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,sindacato:ex_iscritto,contrario (1-2),41.6,pct_contrario,184
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,sindacato:ex_iscritto,favorevole (3-4),58.4,pct_favorevoli,184
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,sindacato:iscritto,contrario (1-2),54.8,pct_contrario,166
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,sindacato:iscritto,favorevole (3-4),45.2,pct_favorevoli,166
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,sindacato:mai_iscritto,contrario (1-2),40.2,pct_contrario,1902
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,sindacato:mai_iscritto,favorevole (3-4),59.8,pct_favorevoli,1902
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,tutti,contrario (1-2),41.1,pct_contrario,2279
+sociodemo-politica,basinc,Favorevole a un reddito di base universale,8,2016,IT,tutti,favorevole (3-4),58.9,pct_favorevoli,2279
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:altro_inattivo,d'accordo (1-2),86.2,pct_accordo,413
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:altro_inattivo,in disaccordo (4-5),2.3,pct_contrario,413
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:altro_inattivo,né d'accordo né in disaccordo (3),11.5,pct_neutro,413
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:disoccupati,d'accordo (1-2),77.8,pct_accordo,187
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:disoccupati,in disaccordo (4-5),12.5,pct_contrario,187
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:disoccupati,né d'accordo né in disaccordo (3),9.7,pct_neutro,187
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:occupati,d'accordo (1-2),81.6,pct_accordo,1333
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:occupati,in disaccordo (4-5),5.4,pct_contrario,1333
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:occupati,né d'accordo né in disaccordo (3),13,pct_neutro,1333
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:pensionati,d'accordo (1-2),77.8,pct_accordo,629
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:pensionati,in disaccordo (4-5),6.1,pct_contrario,629
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:pensionati,né d'accordo né in disaccordo (3),16,pct_neutro,629
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:studenti,d'accordo (1-2),77.7,pct_accordo,245
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:studenti,in disaccordo (4-5),6,pct_contrario,245
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:studenti,né d'accordo né in disaccordo (3),16.3,pct_neutro,245
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:alto,d'accordo (1-2),85.2,pct_accordo,376
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:alto,in disaccordo (4-5),5.4,pct_contrario,376
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:alto,né d'accordo né in disaccordo (3),9.4,pct_neutro,376
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:basso,d'accordo (1-2),83,pct_accordo,552
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:basso,in disaccordo (4-5),4.4,pct_contrario,552
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:basso,né d'accordo né in disaccordo (3),12.5,pct_neutro,552
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:medio,d'accordo (1-2),77.8,pct_accordo,927
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:medio,in disaccordo (4-5),8.5,pct_contrario,927
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile:medio,né d'accordo né in disaccordo (3),13.7,pct_neutro,927
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:15-34,d'accordo (1-2),82.5,pct_accordo,616
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:15-34,in disaccordo (4-5),4.1,pct_contrario,616
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:15-34,né d'accordo né in disaccordo (3),13.4,pct_neutro,616
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:35-54,d'accordo (1-2),82.7,pct_accordo,854
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:35-54,in disaccordo (4-5),5.1,pct_contrario,854
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:35-54,né d'accordo né in disaccordo (3),12.2,pct_neutro,854
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:55+,d'accordo (1-2),79.5,pct_accordo,1325
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:55+,in disaccordo (4-5),5.7,pct_contrario,1325
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:55+,né d'accordo né in disaccordo (3),14.8,pct_neutro,1325
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:donne,d'accordo (1-2),82,pct_accordo,1510
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:donne,in disaccordo (4-5),5.5,pct_contrario,1510
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:donne,né d'accordo né in disaccordo (3),12.5,pct_neutro,1510
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:uomini,d'accordo (1-2),79.3,pct_accordo,1315
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:uomini,in disaccordo (4-5),5.7,pct_contrario,1315
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:uomini,né d'accordo né in disaccordo (3),15.1,pct_neutro,1315
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:centro,d'accordo (1-2),79.3,pct_accordo,1038
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:centro,in disaccordo (4-5),5.6,pct_contrario,1038
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:centro,né d'accordo né in disaccordo (3),15.1,pct_neutro,1038
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:destra,d'accordo (1-2),70,pct_accordo,614
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:destra,in disaccordo (4-5),11.1,pct_contrario,614
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:destra,né d'accordo né in disaccordo (3),18.9,pct_neutro,614
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:sinistra,d'accordo (1-2),90,pct_accordo,488
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:sinistra,in disaccordo (4-5),2.2,pct_contrario,488
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,ideologia:sinistra,né d'accordo né in disaccordo (3),7.8,pct_neutro,488
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:alta,d'accordo (1-2),82,pct_accordo,507
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:alta,in disaccordo (4-5),4.6,pct_contrario,507
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:alta,né d'accordo né in disaccordo (3),13.4,pct_neutro,507
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:bassa,d'accordo (1-2),79.6,pct_accordo,1179
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:bassa,in disaccordo (4-5),5.1,pct_contrario,1179
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:bassa,né d'accordo né in disaccordo (3),15.3,pct_neutro,1179
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:media,d'accordo (1-2),81.5,pct_accordo,1116
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:media,in disaccordo (4-5),6.8,pct_contrario,1116
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:media,né d'accordo né in disaccordo (3),11.7,pct_neutro,1116
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:adeguata,d'accordo (1-2),80.8,pct_accordo,1342
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:adeguata,in disaccordo (4-5),4.9,pct_contrario,1342
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:adeguata,né d'accordo né in disaccordo (3),14.3,pct_neutro,1342
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:comoda,d'accordo (1-2),81.2,pct_accordo,835
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:comoda,in disaccordo (4-5),5.1,pct_contrario,835
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:comoda,né d'accordo né in disaccordo (3),13.7,pct_neutro,835
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:difficolta,d'accordo (1-2),83.2,pct_accordo,459
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:difficolta,in disaccordo (4-5),3.5,pct_contrario,459
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:difficolta,né d'accordo né in disaccordo (3),13.4,pct_neutro,459
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:grande_difficolta,d'accordo (1-2),56.9,pct_accordo,86
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:grande_difficolta,in disaccordo (4-5),32.3,pct_contrario,86
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:grande_difficolta,né d'accordo né in disaccordo (3),10.8,pct_neutro,86
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:autonomi,d'accordo (1-2),82.4,pct_accordo,253
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:autonomi,in disaccordo (4-5),5,pct_contrario,253
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:autonomi,né d'accordo né in disaccordo (3),12.6,pct_neutro,253
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:privato,d'accordo (1-2),81.9,pct_accordo,1387
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:privato,in disaccordo (4-5),4.9,pct_contrario,1387
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:privato,né d'accordo né in disaccordo (3),13.3,pct_neutro,1387
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:pubblico,d'accordo (1-2),78.1,pct_accordo,379
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:pubblico,in disaccordo (4-5),6.7,pct_contrario,379
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:pubblico,né d'accordo né in disaccordo (3),15.2,pct_neutro,379
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:ex_iscritto,d'accordo (1-2),77.9,pct_accordo,230
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:ex_iscritto,in disaccordo (4-5),6.3,pct_contrario,230
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:ex_iscritto,né d'accordo né in disaccordo (3),15.8,pct_neutro,230
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:iscritto,d'accordo (1-2),82.5,pct_accordo,232
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:iscritto,in disaccordo (4-5),2.2,pct_contrario,232
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:iscritto,né d'accordo né in disaccordo (3),15.3,pct_neutro,232
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:mai_iscritto,d'accordo (1-2),81,pct_accordo,2347
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:mai_iscritto,in disaccordo (4-5),5.8,pct_contrario,2347
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:mai_iscritto,né d'accordo né in disaccordo (3),13.2,pct_neutro,2347
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,tutti,d'accordo (1-2),80.7,pct_accordo,2825
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,tutti,in disaccordo (4-5),5.6,pct_contrario,2825
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,tutti,né d'accordo né in disaccordo (3),13.7,pct_neutro,2825
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:altro_inattivo,media (0-10),7.98,media,259
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:altro_inattivo,punteggio alto (7-10),78.3,pct_7_10,259
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:disoccupati,media (0-10),8.4,media,251
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:disoccupati,punteggio alto (7-10),82.1,pct_7_10,251
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:occupati,media (0-10),7.49,media,1218
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:occupati,punteggio alto (7-10),69,pct_7_10,1218
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:pensionati,media (0-10),7.67,media,575
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:pensionati,punteggio alto (7-10),70.1,pct_7_10,575
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:studenti,media (0-10),7.61,media,254
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,condizione:studenti,punteggio alto (7-10),76.2,pct_7_10,254
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,decile:alto,media (0-10),7.27,media,237
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,decile:alto,punteggio alto (7-10),67.3,pct_7_10,237
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,decile:basso,media (0-10),7.86,media,557
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,decile:basso,punteggio alto (7-10),74.8,pct_7_10,557
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,decile:medio,media (0-10),7.52,media,691
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,decile:medio,punteggio alto (7-10),71,pct_7_10,691
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,eta:15-34,media (0-10),7.73,media,678
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,eta:15-34,punteggio alto (7-10),73.9,pct_7_10,678
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,eta:35-54,media (0-10),7.61,media,900
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,eta:35-54,punteggio alto (7-10),70.6,pct_7_10,900
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,eta:55+,media (0-10),7.73,media,986
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,eta:55+,punteggio alto (7-10),72.6,pct_7_10,986
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,genere:donne,media (0-10),7.8,media,1319
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,genere:donne,punteggio alto (7-10),74.5,pct_7_10,1319
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,genere:uomini,media (0-10),7.56,media,1258
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,genere:uomini,punteggio alto (7-10),69.7,pct_7_10,1258
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,ideologia:centro,media (0-10),7.43,media,782
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,ideologia:centro,punteggio alto (7-10),69,pct_7_10,782
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,ideologia:destra,media (0-10),7.51,media,480
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,ideologia:destra,punteggio alto (7-10),68.8,pct_7_10,480
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,ideologia:sinistra,media (0-10),7.87,media,426
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,ideologia:sinistra,punteggio alto (7-10),76.7,pct_7_10,426
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,istruzione:alta,media (0-10),7.36,media,333
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,istruzione:alta,punteggio alto (7-10),68.2,pct_7_10,333
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,istruzione:bassa,media (0-10),7.89,media,1151
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,istruzione:bassa,punteggio alto (7-10),75.8,pct_7_10,1151
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,istruzione:media,media (0-10),7.55,media,1069
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,istruzione:media,punteggio alto (7-10),69.1,pct_7_10,1069
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,reddito_percepito:adeguata,media (0-10),7.67,media,1197
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,reddito_percepito:adeguata,punteggio alto (7-10),73.4,pct_7_10,1197
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,reddito_percepito:comoda,media (0-10),7.41,media,581
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,reddito_percepito:comoda,punteggio alto (7-10),68.3,pct_7_10,581
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,reddito_percepito:difficolta,media (0-10),7.81,media,551
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,reddito_percepito:difficolta,punteggio alto (7-10),70.5,pct_7_10,551
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,reddito_percepito:grande_difficolta,media (0-10),8.35,media,185
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,reddito_percepito:grande_difficolta,punteggio alto (7-10),83.7,pct_7_10,185
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,settore:autonomi,media (0-10),7.42,media,253
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,settore:autonomi,punteggio alto (7-10),65.6,pct_7_10,253
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,settore:privato,media (0-10),7.66,media,1255
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,settore:privato,punteggio alto (7-10),72.9,pct_7_10,1255
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,settore:pubblico,media (0-10),7.48,media,352
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,settore:pubblico,punteggio alto (7-10),67.9,pct_7_10,352
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,sindacato:ex_iscritto,media (0-10),7.64,media,199
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,sindacato:ex_iscritto,punteggio alto (7-10),72.4,pct_7_10,199
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,sindacato:iscritto,media (0-10),7.37,media,176
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,sindacato:iscritto,punteggio alto (7-10),64.2,pct_7_10,176
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,sindacato:mai_iscritto,media (0-10),7.71,media,2169
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,sindacato:mai_iscritto,punteggio alto (7-10),72.8,pct_7_10,2169
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,tutti,media (0-10),7.69,media,2577
+sociodemo-politica,gvslvue,Responsabilità del governo per lo standard di vita dei disoccupati,8,2016,IT,tutti,punteggio alto (7-10),72.2,pct_7_10,2577
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:altro_inattivo,d'accordo (1-2),28.8,pct_accordo,242
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:altro_inattivo,in disaccordo (4-5),44.7,pct_contrario,242
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:altro_inattivo,né d'accordo né in disaccordo (3),26.5,pct_neutro,242
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:disoccupati,d'accordo (1-2),26.1,pct_accordo,237
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:disoccupati,in disaccordo (4-5),49.6,pct_contrario,237
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:disoccupati,né d'accordo né in disaccordo (3),24.3,pct_neutro,237
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:occupati,d'accordo (1-2),27.5,pct_accordo,1161
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:occupati,in disaccordo (4-5),45.2,pct_contrario,1161
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:occupati,né d'accordo né in disaccordo (3),27.3,pct_neutro,1161
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:pensionati,d'accordo (1-2),32.6,pct_accordo,528
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:pensionati,in disaccordo (4-5),40.9,pct_contrario,528
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:pensionati,né d'accordo né in disaccordo (3),26.5,pct_neutro,528
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:studenti,d'accordo (1-2),22.2,pct_accordo,220
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:studenti,in disaccordo (4-5),49,pct_contrario,220
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,condizione:studenti,né d'accordo né in disaccordo (3),28.9,pct_neutro,220
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:alto,d'accordo (1-2),25.9,pct_accordo,224
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:alto,in disaccordo (4-5),47.1,pct_contrario,224
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:alto,né d'accordo né in disaccordo (3),27,pct_neutro,224
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:basso,d'accordo (1-2),29.3,pct_accordo,520
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:basso,in disaccordo (4-5),49.8,pct_contrario,520
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:basso,né d'accordo né in disaccordo (3),20.9,pct_neutro,520
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:medio,d'accordo (1-2),32,pct_accordo,665
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:medio,in disaccordo (4-5),43.3,pct_contrario,665
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,decile:medio,né d'accordo né in disaccordo (3),24.7,pct_neutro,665
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:15-34,d'accordo (1-2),23.9,pct_accordo,619
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:15-34,in disaccordo (4-5),48.5,pct_contrario,619
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:15-34,né d'accordo né in disaccordo (3),27.6,pct_neutro,619
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:35-54,d'accordo (1-2),29.3,pct_accordo,854
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:35-54,in disaccordo (4-5),44.2,pct_contrario,854
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:35-54,né d'accordo né in disaccordo (3),26.6,pct_neutro,854
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:55+,d'accordo (1-2),30.1,pct_accordo,919
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:55+,in disaccordo (4-5),43.3,pct_contrario,919
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,eta:55+,né d'accordo né in disaccordo (3),26.6,pct_neutro,919
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,genere:donne,d'accordo (1-2),28.1,pct_accordo,1220
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,genere:donne,in disaccordo (4-5),45.9,pct_contrario,1220
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,genere:donne,né d'accordo né in disaccordo (3),26,pct_neutro,1220
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,genere:uomini,d'accordo (1-2),28.5,pct_accordo,1183
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,genere:uomini,in disaccordo (4-5),43.7,pct_contrario,1183
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,genere:uomini,né d'accordo né in disaccordo (3),27.8,pct_neutro,1183
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:centro,d'accordo (1-2),31.2,pct_accordo,741
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:centro,in disaccordo (4-5),40.1,pct_contrario,741
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:centro,né d'accordo né in disaccordo (3),28.7,pct_neutro,741
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:destra,d'accordo (1-2),33.2,pct_accordo,464
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:destra,in disaccordo (4-5),43.8,pct_contrario,464
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:destra,né d'accordo né in disaccordo (3),23,pct_neutro,464
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:sinistra,d'accordo (1-2),23.4,pct_accordo,401
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:sinistra,in disaccordo (4-5),52.6,pct_contrario,401
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,ideologia:sinistra,né d'accordo né in disaccordo (3),24.1,pct_neutro,401
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:alta,d'accordo (1-2),27.5,pct_accordo,319
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:alta,in disaccordo (4-5),47.8,pct_contrario,319
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:alta,né d'accordo né in disaccordo (3),24.7,pct_neutro,319
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:bassa,d'accordo (1-2),28.7,pct_accordo,1048
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:bassa,in disaccordo (4-5),44.7,pct_contrario,1048
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:bassa,né d'accordo né in disaccordo (3),26.6,pct_neutro,1048
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:media,d'accordo (1-2),27.9,pct_accordo,1017
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:media,in disaccordo (4-5),44.5,pct_contrario,1017
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,istruzione:media,né d'accordo né in disaccordo (3),27.7,pct_neutro,1017
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:adeguata,d'accordo (1-2),27.9,pct_accordo,1109
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:adeguata,in disaccordo (4-5),45.2,pct_contrario,1109
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:adeguata,né d'accordo né in disaccordo (3),27,pct_neutro,1109
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:comoda,d'accordo (1-2),26.3,pct_accordo,555
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:comoda,in disaccordo (4-5),43.9,pct_contrario,555
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:comoda,né d'accordo né in disaccordo (3),29.8,pct_neutro,555
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:difficolta,d'accordo (1-2),31.4,pct_accordo,508
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:difficolta,in disaccordo (4-5),45.4,pct_contrario,508
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:difficolta,né d'accordo né in disaccordo (3),23.3,pct_neutro,508
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:grande_difficolta,d'accordo (1-2),27,pct_accordo,175
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:grande_difficolta,in disaccordo (4-5),49.7,pct_contrario,175
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,reddito_percepito:grande_difficolta,né d'accordo né in disaccordo (3),23.3,pct_neutro,175
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:autonomi,d'accordo (1-2),30,pct_accordo,239
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:autonomi,in disaccordo (4-5),42.1,pct_contrario,239
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:autonomi,né d'accordo né in disaccordo (3),27.9,pct_neutro,239
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:privato,d'accordo (1-2),27.8,pct_accordo,1177
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:privato,in disaccordo (4-5),45.9,pct_contrario,1177
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:privato,né d'accordo né in disaccordo (3),26.3,pct_neutro,1177
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:pubblico,d'accordo (1-2),29,pct_accordo,345
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:pubblico,in disaccordo (4-5),46.8,pct_contrario,345
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,settore:pubblico,né d'accordo né in disaccordo (3),24.2,pct_neutro,345
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:ex_iscritto,d'accordo (1-2),29,pct_accordo,188
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:ex_iscritto,in disaccordo (4-5),42.3,pct_contrario,188
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:ex_iscritto,né d'accordo né in disaccordo (3),28.7,pct_neutro,188
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:iscritto,d'accordo (1-2),27.8,pct_accordo,172
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:iscritto,in disaccordo (4-5),50.7,pct_contrario,172
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:iscritto,né d'accordo né in disaccordo (3),21.5,pct_neutro,172
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:mai_iscritto,d'accordo (1-2),28.3,pct_accordo,2013
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:mai_iscritto,in disaccordo (4-5),44.9,pct_contrario,2013
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,sindacato:mai_iscritto,né d'accordo né in disaccordo (3),26.8,pct_neutro,2013
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,tutti,d'accordo (1-2),28.3,pct_accordo,2403
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,tutti,in disaccordo (4-5),44.8,pct_contrario,2403
+sociodemo-politica,sblazy,I sussidi sociali rendono le persone pigre,8,2016,IT,tutti,né d'accordo né in disaccordo (3),26.9,pct_neutro,2403
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:altro_inattivo,d'accordo (1-2),81.7,pct_accordo,297
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:altro_inattivo,in disaccordo (4-5),4.7,pct_contrario,297
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:altro_inattivo,né d'accordo né in disaccordo (3),13.6,pct_neutro,297
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:disoccupati,d'accordo (1-2),85.1,pct_accordo,279
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:disoccupati,in disaccordo (4-5),4.5,pct_contrario,279
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:disoccupati,né d'accordo né in disaccordo (3),10.4,pct_neutro,279
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:occupati,d'accordo (1-2),71.3,pct_accordo,1168
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:occupati,in disaccordo (4-5),9.3,pct_contrario,1168
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:occupati,né d'accordo né in disaccordo (3),19.3,pct_neutro,1168
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:pensionati,d'accordo (1-2),77.2,pct_accordo,677
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:pensionati,in disaccordo (4-5),6.2,pct_contrario,677
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:pensionati,né d'accordo né in disaccordo (3),16.6,pct_neutro,677
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:studenti,d'accordo (1-2),77.2,pct_accordo,253
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:studenti,in disaccordo (4-5),8.9,pct_contrario,253
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,condizione:studenti,né d'accordo né in disaccordo (3),13.9,pct_neutro,253
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:alto,d'accordo (1-2),61.7,pct_accordo,225
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:alto,in disaccordo (4-5),17.2,pct_contrario,225
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:alto,né d'accordo né in disaccordo (3),21.1,pct_neutro,225
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:basso,d'accordo (1-2),84.5,pct_accordo,551
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:basso,in disaccordo (4-5),4.4,pct_contrario,551
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:basso,né d'accordo né in disaccordo (3),11.1,pct_neutro,551
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:medio,d'accordo (1-2),75.1,pct_accordo,731
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:medio,in disaccordo (4-5),8,pct_contrario,731
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,decile:medio,né d'accordo né in disaccordo (3),16.9,pct_neutro,731
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:15-34,d'accordo (1-2),76.5,pct_accordo,614
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:15-34,in disaccordo (4-5),8.3,pct_contrario,614
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:15-34,né d'accordo né in disaccordo (3),15.2,pct_neutro,614
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:35-54,d'accordo (1-2),75.1,pct_accordo,855
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:35-54,in disaccordo (4-5),8.2,pct_contrario,855
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:35-54,né d'accordo né in disaccordo (3),16.7,pct_neutro,855
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:55+,d'accordo (1-2),76.4,pct_accordo,1202
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:55+,in disaccordo (4-5),6.5,pct_contrario,1202
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,eta:55+,né d'accordo né in disaccordo (3),17.1,pct_neutro,1202
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,genere:donne,d'accordo (1-2),77.1,pct_accordo,1418
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,genere:donne,in disaccordo (4-5),5.8,pct_contrario,1418
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,genere:donne,né d'accordo né in disaccordo (3),17.1,pct_neutro,1418
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,genere:uomini,d'accordo (1-2),75.1,pct_accordo,1273
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,genere:uomini,in disaccordo (4-5),9.2,pct_contrario,1273
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,genere:uomini,né d'accordo né in disaccordo (3),15.7,pct_neutro,1273
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:centro,d'accordo (1-2),77.5,pct_accordo,930
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:centro,in disaccordo (4-5),6.7,pct_contrario,930
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:centro,né d'accordo né in disaccordo (3),15.9,pct_neutro,930
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:destra,d'accordo (1-2),69.6,pct_accordo,609
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:destra,in disaccordo (4-5),11.8,pct_contrario,609
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:destra,né d'accordo né in disaccordo (3),18.5,pct_neutro,609
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:sinistra,d'accordo (1-2),77.1,pct_accordo,441
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:sinistra,in disaccordo (4-5),8.9,pct_contrario,441
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,ideologia:sinistra,né d'accordo né in disaccordo (3),14,pct_neutro,441
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:alta,d'accordo (1-2),63.7,pct_accordo,467
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:alta,in disaccordo (4-5),15,pct_contrario,467
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:alta,né d'accordo né in disaccordo (3),21.4,pct_neutro,467
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:bassa,d'accordo (1-2),81.2,pct_accordo,1223
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:bassa,in disaccordo (4-5),4.6,pct_contrario,1223
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:bassa,né d'accordo né in disaccordo (3),14.2,pct_neutro,1223
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:media,d'accordo (1-2),74.7,pct_accordo,981
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:media,in disaccordo (4-5),8.1,pct_contrario,981
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,istruzione:media,né d'accordo né in disaccordo (3),17.2,pct_neutro,981
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:adeguata,d'accordo (1-2),76.6,pct_accordo,1295
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:adeguata,in disaccordo (4-5),6.4,pct_contrario,1295
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:adeguata,né d'accordo né in disaccordo (3),17,pct_neutro,1295
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:comoda,d'accordo (1-2),66.7,pct_accordo,630
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:comoda,in disaccordo (4-5),12.8,pct_contrario,630
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:comoda,né d'accordo né in disaccordo (3),20.5,pct_neutro,630
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:difficolta,d'accordo (1-2),80.9,pct_accordo,522
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:difficolta,in disaccordo (4-5),5.8,pct_contrario,522
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:difficolta,né d'accordo né in disaccordo (3),13.2,pct_neutro,522
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:grande_difficolta,d'accordo (1-2),88.1,pct_accordo,178
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:grande_difficolta,in disaccordo (4-5),3.1,pct_contrario,178
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,reddito_percepito:grande_difficolta,né d'accordo né in disaccordo (3),8.8,pct_neutro,178
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:autonomi,d'accordo (1-2),66.7,pct_accordo,317
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:autonomi,in disaccordo (4-5),8.9,pct_contrario,317
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:autonomi,né d'accordo né in disaccordo (3),24.5,pct_neutro,317
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:privato,d'accordo (1-2),75.7,pct_accordo,1259
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:privato,in disaccordo (4-5),8,pct_contrario,1259
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:privato,né d'accordo né in disaccordo (3),16.2,pct_neutro,1259
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:pubblico,d'accordo (1-2),74.1,pct_accordo,375
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:pubblico,in disaccordo (4-5),8.4,pct_contrario,375
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,settore:pubblico,né d'accordo né in disaccordo (3),17.6,pct_neutro,375
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:ex_iscritto,d'accordo (1-2),76.8,pct_accordo,286
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:ex_iscritto,in disaccordo (4-5),8.6,pct_contrario,286
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:ex_iscritto,né d'accordo né in disaccordo (3),14.6,pct_neutro,286
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:iscritto,d'accordo (1-2),71.6,pct_accordo,180
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:iscritto,in disaccordo (4-5),10.6,pct_contrario,180
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:iscritto,né d'accordo né in disaccordo (3),17.8,pct_neutro,180
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:mai_iscritto,d'accordo (1-2),76.6,pct_accordo,2201
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:mai_iscritto,in disaccordo (4-5),7.1,pct_contrario,2201
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,sindacato:mai_iscritto,né d'accordo né in disaccordo (3),16.3,pct_neutro,2201
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,tutti,d'accordo (1-2),76.1,pct_accordo,2691
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,tutti,in disaccordo (4-5),7.4,pct_contrario,2691
+sociodemo-politica,sofrdst,Una società è giusta se redditi e ricchezza sono distribuiti equamente,9,2018,IT,tutti,né d'accordo né in disaccordo (3),16.4,pct_neutro,2691
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:altro_inattivo,media (0-10),3.72,media,412
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:altro_inattivo,punteggio alto (7-10),8,pct_7_10,412
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:disoccupati,media (0-10),3.56,media,183
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:disoccupati,punteggio alto (7-10),10.4,pct_7_10,183
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:occupati,media (0-10),4.15,media,1339
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:occupati,punteggio alto (7-10),13.3,pct_7_10,1339
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:pensionati,media (0-10),3.85,media,631
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:pensionati,punteggio alto (7-10),10.7,pct_7_10,631
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:studenti,media (0-10),4.56,media,241
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,condizione:studenti,punteggio alto (7-10),17,pct_7_10,241
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,decile:alto,media (0-10),4.54,media,381
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,decile:alto,punteggio alto (7-10),19.9,pct_7_10,381
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,decile:basso,media (0-10),3.73,media,550
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,decile:basso,punteggio alto (7-10),5.7,pct_7_10,550
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,decile:medio,media (0-10),4.32,media,932
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,decile:medio,punteggio alto (7-10),15,pct_7_10,932
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,eta:15-34,media (0-10),4.28,media,609
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,eta:15-34,punteggio alto (7-10),14.4,pct_7_10,609
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,eta:35-54,media (0-10),4.07,media,858
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,eta:35-54,punteggio alto (7-10),12.2,pct_7_10,858
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,eta:55+,media (0-10),3.84,media,1328
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,eta:55+,punteggio alto (7-10),10.7,pct_7_10,1328
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,genere:donne,media (0-10),3.97,media,1501
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,genere:donne,punteggio alto (7-10),11.6,pct_7_10,1501
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,genere:uomini,media (0-10),4.03,media,1323
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,genere:uomini,punteggio alto (7-10),12.2,pct_7_10,1323
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,ideologia:centro,media (0-10),4.14,media,1041
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,ideologia:centro,punteggio alto (7-10),11,pct_7_10,1041
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,ideologia:destra,media (0-10),4.86,media,617
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,ideologia:destra,punteggio alto (7-10),23.9,pct_7_10,617
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,ideologia:sinistra,media (0-10),3.57,media,491
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,ideologia:sinistra,punteggio alto (7-10),7.8,pct_7_10,491
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,istruzione:alta,media (0-10),4.21,media,509
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,istruzione:alta,punteggio alto (7-10),14.4,pct_7_10,509
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,istruzione:bassa,media (0-10),3.82,media,1173
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,istruzione:bassa,punteggio alto (7-10),10.2,pct_7_10,1173
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,istruzione:media,media (0-10),4.17,media,1119
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,istruzione:media,punteggio alto (7-10),13.2,pct_7_10,1119
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,reddito_percepito:adeguata,media (0-10),3.91,media,1342
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,reddito_percepito:adeguata,punteggio alto (7-10),9.5,pct_7_10,1342
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,reddito_percepito:comoda,media (0-10),4.58,media,838
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,reddito_percepito:comoda,punteggio alto (7-10),19.1,pct_7_10,838
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,reddito_percepito:difficolta,media (0-10),3.34,media,458
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,reddito_percepito:difficolta,punteggio alto (7-10),5.7,pct_7_10,458
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,reddito_percepito:grande_difficolta,media (0-10),4.07,media,87
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,reddito_percepito:grande_difficolta,punteggio alto (7-10),16.8,pct_7_10,87
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,settore:autonomi,media (0-10),3.78,media,252
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,settore:autonomi,punteggio alto (7-10),13.4,pct_7_10,252
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,settore:privato,media (0-10),3.97,media,1394
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,settore:privato,punteggio alto (7-10),10.7,pct_7_10,1394
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,settore:pubblico,media (0-10),4.28,media,382
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,settore:pubblico,punteggio alto (7-10),15.6,pct_7_10,382
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,sindacato:ex_iscritto,media (0-10),3.78,media,229
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,sindacato:ex_iscritto,punteggio alto (7-10),9.1,pct_7_10,229
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,sindacato:iscritto,media (0-10),4.09,media,234
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,sindacato:iscritto,punteggio alto (7-10),12.7,pct_7_10,234
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,sindacato:mai_iscritto,media (0-10),4.02,media,2343
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,sindacato:mai_iscritto,punteggio alto (7-10),12.2,pct_7_10,2343
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,tutti,media (0-10),4,media,2824
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,tutti,punteggio alto (7-10),11.9,pct_7_10,2824
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:altro_inattivo,media (-4..+4),1.68,media,265
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:altro_inattivo,ingiustamente basso (-4..-1),14.6,pct_negativo,265
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:altro_inattivo,ingiustamente alto (1..4),75.4,pct_positivo,265
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:altro_inattivo,giusto (0),10,pct_zero,265
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:disoccupati,media (-4..+4),1.52,media,258
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:disoccupati,ingiustamente basso (-4..-1),14.2,pct_negativo,258
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:disoccupati,ingiustamente alto (1..4),69.1,pct_positivo,258
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:disoccupati,giusto (0),16.7,pct_zero,258
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:occupati,media (-4..+4),1.44,media,1067
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:occupati,ingiustamente basso (-4..-1),12.1,pct_negativo,1067
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:occupati,ingiustamente alto (1..4),67.9,pct_positivo,1067
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:occupati,giusto (0),20,pct_zero,1067
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:pensionati,media (-4..+4),1.75,media,591
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:pensionati,ingiustamente basso (-4..-1),8.8,pct_negativo,591
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:pensionati,ingiustamente alto (1..4),73.9,pct_positivo,591
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:pensionati,giusto (0),17.3,pct_zero,591
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:studenti,media (-4..+4),1.39,media,226
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:studenti,ingiustamente basso (-4..-1),12.6,pct_negativo,226
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:studenti,ingiustamente alto (1..4),67.3,pct_positivo,226
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,condizione:studenti,giusto (0),20.1,pct_zero,226
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:alto,media (-4..+4),1.09,media,209
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:alto,ingiustamente basso (-4..-1),11.9,pct_negativo,209
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:alto,ingiustamente alto (1..4),54.9,pct_positivo,209
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:alto,giusto (0),33.2,pct_zero,209
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:basso,media (-4..+4),1.87,media,504
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:basso,ingiustamente basso (-4..-1),10.5,pct_negativo,504
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:basso,ingiustamente alto (1..4),76.1,pct_positivo,504
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:basso,giusto (0),13.4,pct_zero,504
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:medio,media (-4..+4),1.35,media,698
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:medio,ingiustamente basso (-4..-1),10.3,pct_negativo,698
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:medio,ingiustamente alto (1..4),68.6,pct_positivo,698
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,decile:medio,giusto (0),21.1,pct_zero,698
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:15-34,media (-4..+4),1.54,media,555
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:15-34,ingiustamente basso (-4..-1),11.2,pct_negativo,555
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:15-34,ingiustamente alto (1..4),70.8,pct_positivo,555
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:15-34,giusto (0),18.1,pct_zero,555
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:35-54,media (-4..+4),1.41,media,781
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:35-54,ingiustamente basso (-4..-1),13.7,pct_negativo,781
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:35-54,ingiustamente alto (1..4),67.8,pct_positivo,781
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:35-54,giusto (0),18.5,pct_zero,781
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:55+,media (-4..+4),1.61,media,1072
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:55+,ingiustamente basso (-4..-1),11.5,pct_negativo,1072
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:55+,ingiustamente alto (1..4),71.2,pct_positivo,1072
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,eta:55+,giusto (0),17.3,pct_zero,1072
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,genere:donne,media (-4..+4),1.58,media,1265
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,genere:donne,ingiustamente basso (-4..-1),10.8,pct_negativo,1265
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,genere:donne,ingiustamente alto (1..4),70.3,pct_positivo,1265
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,genere:donne,giusto (0),19,pct_zero,1265
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,genere:uomini,media (-4..+4),1.47,media,1161
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,genere:uomini,ingiustamente basso (-4..-1),13.8,pct_negativo,1161
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,genere:uomini,ingiustamente alto (1..4),69.6,pct_positivo,1161
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,genere:uomini,giusto (0),16.6,pct_zero,1161
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:centro,media (-4..+4),1.57,media,852
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:centro,ingiustamente basso (-4..-1),11.8,pct_negativo,852
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:centro,ingiustamente alto (1..4),69.9,pct_positivo,852
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:centro,giusto (0),18.3,pct_zero,852
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:destra,media (-4..+4),1.53,media,565
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:destra,ingiustamente basso (-4..-1),10.2,pct_negativo,565
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:destra,ingiustamente alto (1..4),69,pct_positivo,565
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:destra,giusto (0),20.8,pct_zero,565
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:sinistra,media (-4..+4),1.31,media,411
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:sinistra,ingiustamente basso (-4..-1),12.2,pct_negativo,411
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:sinistra,ingiustamente alto (1..4),67.5,pct_positivo,411
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,ideologia:sinistra,giusto (0),20.3,pct_zero,411
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:alta,media (-4..+4),1.21,media,419
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:alta,ingiustamente basso (-4..-1),11.2,pct_negativo,419
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:alta,ingiustamente alto (1..4),58.2,pct_positivo,419
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:alta,giusto (0),30.7,pct_zero,419
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:bassa,media (-4..+4),1.72,media,1098
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:bassa,ingiustamente basso (-4..-1),12.4,pct_negativo,1098
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:bassa,ingiustamente alto (1..4),75,pct_positivo,1098
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:bassa,giusto (0),12.6,pct_zero,1098
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:media,media (-4..+4),1.44,media,890
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:media,ingiustamente basso (-4..-1),11.9,pct_negativo,890
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:media,ingiustamente alto (1..4),68.9,pct_positivo,890
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,istruzione:media,giusto (0),19.2,pct_zero,890
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:adeguata,media (-4..+4),1.6,media,1190
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:adeguata,ingiustamente basso (-4..-1),10.4,pct_negativo,1190
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:adeguata,ingiustamente alto (1..4),73.3,pct_positivo,1190
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:adeguata,giusto (0),16.4,pct_zero,1190
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:comoda,media (-4..+4),1.09,media,560
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:comoda,ingiustamente basso (-4..-1),11.7,pct_negativo,560
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:comoda,ingiustamente alto (1..4),58.2,pct_positivo,560
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:comoda,giusto (0),30.1,pct_zero,560
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:difficolta,media (-4..+4),1.68,media,474
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:difficolta,ingiustamente basso (-4..-1),15.8,pct_negativo,474
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:difficolta,ingiustamente alto (1..4),72.9,pct_positivo,474
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:difficolta,giusto (0),11.4,pct_zero,474
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:grande_difficolta,media (-4..+4),2.09,media,156
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:grande_difficolta,ingiustamente basso (-4..-1),12.7,pct_negativo,156
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:grande_difficolta,ingiustamente alto (1..4),76.6,pct_positivo,156
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,reddito_percepito:grande_difficolta,giusto (0),10.7,pct_zero,156
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:autonomi,media (-4..+4),1.42,media,278
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:autonomi,ingiustamente basso (-4..-1),11.9,pct_negativo,278
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:autonomi,ingiustamente alto (1..4),67.1,pct_positivo,278
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:autonomi,giusto (0),21.1,pct_zero,278
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:privato,media (-4..+4),1.58,media,1147
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:privato,ingiustamente basso (-4..-1),11.6,pct_negativo,1147
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:privato,ingiustamente alto (1..4),72.2,pct_positivo,1147
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:privato,giusto (0),16.2,pct_zero,1147
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:pubblico,media (-4..+4),1.32,media,346
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:pubblico,ingiustamente basso (-4..-1),11.8,pct_negativo,346
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:pubblico,ingiustamente alto (1..4),61.6,pct_positivo,346
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,settore:pubblico,giusto (0),26.6,pct_zero,346
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:ex_iscritto,media (-4..+4),1.43,media,260
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:ex_iscritto,ingiustamente basso (-4..-1),11.7,pct_negativo,260
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:ex_iscritto,ingiustamente alto (1..4),67.4,pct_positivo,260
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:ex_iscritto,giusto (0),20.8,pct_zero,260
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:iscritto,media (-4..+4),1.37,media,162
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:iscritto,ingiustamente basso (-4..-1),12.2,pct_negativo,162
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:iscritto,ingiustamente alto (1..4),68.8,pct_positivo,162
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:iscritto,giusto (0),19.1,pct_zero,162
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:mai_iscritto,media (-4..+4),1.57,media,1984
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:mai_iscritto,ingiustamente basso (-4..-1),12,pct_negativo,1984
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:mai_iscritto,ingiustamente alto (1..4),70.7,pct_positivo,1984
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,sindacato:mai_iscritto,giusto (0),17.3,pct_zero,1984
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,tutti,media (-4..+4),1.53,media,2426
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,tutti,ingiustamente basso (-4..-1),12.3,pct_negativo,2426
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,tutti,ingiustamente alto (1..4),69.9,pct_positivo,2426
+sociodemo-politica,topinfr,Equità del reddito del 10% di occupati più pagati,9,2018,IT,tutti,giusto (0),17.8,pct_zero,2426

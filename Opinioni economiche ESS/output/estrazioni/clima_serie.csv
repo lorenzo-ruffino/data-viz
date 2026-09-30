@@ -1,0 +1,304 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),1,2002,IT,tutti,,4.13,media,1152
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),1,2002,IT,tutti,,3.97,media,1157
+clima-economico,trstprl,Fiducia nel parlamento (0-10),1,2002,IT,tutti,,4.83,media,1155
+clima-economico,trstplt,Fiducia nei politici (0-10),1,2002,IT,tutti,,3.54,media,1191
+clima-economico,hincfel,Percezione del reddito familiare (1-4),1,2002,IT,tutti,difficolta,16.2,pct_difficolta,1194
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),1,2002,DE,tutti,,3.04,media,2890
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),1,2002,DE,tutti,,3.18,media,2855
+clima-economico,trstprl,Fiducia nel parlamento (0-10),1,2002,DE,tutti,,4.41,media,2865
+clima-economico,trstplt,Fiducia nei politici (0-10),1,2002,DE,tutti,,3.47,media,2905
+clima-economico,hincfel,Percezione del reddito familiare (1-4),1,2002,DE,tutti,difficolta,15.2,pct_difficolta,2895
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),1,2002,FR,tutti,,3.47,media,1483
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),1,2002,FR,tutti,,4.23,media,1485
+clima-economico,trstprl,Fiducia nel parlamento (0-10),1,2002,FR,tutti,,4.36,media,1475
+clima-economico,trstplt,Fiducia nei politici (0-10),1,2002,FR,tutti,,3.59,media,1498
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),1,2002,ES,tutti,,4.78,media,1660
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),1,2002,ES,tutti,,4.25,media,1646
+clima-economico,trstprl,Fiducia nel parlamento (0-10),1,2002,ES,tutti,,4.76,media,1581
+clima-economico,trstplt,Fiducia nei politici (0-10),1,2002,ES,tutti,,3.34,media,1638
+clima-economico,hincfel,Percezione del reddito familiare (1-4),1,2002,ES,tutti,difficolta,21.5,pct_difficolta,1694
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),1,2002,GB,tutti,,5.15,media,1985
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),1,2002,GB,tutti,,4.38,media,2033
+clima-economico,trstprl,Fiducia nel parlamento (0-10),1,2002,GB,tutti,,4.69,media,2027
+clima-economico,trstplt,Fiducia nei politici (0-10),1,2002,GB,tutti,,3.8,media,2033
+clima-economico,hincfel,Percezione del reddito familiare (1-4),1,2002,GB,tutti,difficolta,12,pct_difficolta,2036
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),1,2002,Europa-panel15,tutti,,4.05,media,28612
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),1,2002,Europa-panel14-noIE,tutti,,4,media,26413
+clima-economico,trstprl,Fiducia nel parlamento (0-10),1,2002,Europa-panel15,tutti,,4.56,media,28450
+clima-economico,trstplt,Fiducia nei politici (0-10),1,2002,Europa-panel15,tutti,,3.63,media,28869
+clima-economico,hincfel,Percezione del reddito familiare (1-4),1,2002,Europa-panel14-noFR,tutti,difficolta,20.1,pct_difficolta,27610
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),2,2004,DE,tutti,,3.48,media,2834
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),2,2004,DE,tutti,,3.45,media,2777
+clima-economico,trstprl,Fiducia nel parlamento (0-10),2,2004,DE,tutti,,4.17,media,2795
+clima-economico,trstplt,Fiducia nei politici (0-10),2,2004,DE,tutti,,3.23,media,2846
+clima-economico,hincfel,Percezione del reddito familiare (1-4),2,2004,DE,tutti,difficolta,19.4,pct_difficolta,2834
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),2,2004,FR,tutti,,3.81,media,1781
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),2,2004,FR,tutti,,4.25,media,1790
+clima-economico,trstprl,Fiducia nel parlamento (0-10),2,2004,FR,tutti,,4.23,media,1778
+clima-economico,trstplt,Fiducia nei politici (0-10),2,2004,FR,tutti,,3.49,media,1795
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),2,2004,ES,tutti,,5.21,media,1613
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),2,2004,ES,tutti,,5.1,media,1525
+clima-economico,trstprl,Fiducia nel parlamento (0-10),2,2004,ES,tutti,,5.04,media,1560
+clima-economico,trstplt,Fiducia nei politici (0-10),2,2004,ES,tutti,,3.63,media,1617
+clima-economico,hincfel,Percezione del reddito familiare (1-4),2,2004,ES,tutti,difficolta,19,pct_difficolta,1646
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),2,2004,GB,tutti,,5.35,media,1832
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),2,2004,GB,tutti,,4.36,media,1865
+clima-economico,trstprl,Fiducia nel parlamento (0-10),2,2004,GB,tutti,,4.32,media,1874
+clima-economico,trstplt,Fiducia nei politici (0-10),2,2004,GB,tutti,,3.6,media,1870
+clima-economico,hincfel,Percezione del reddito familiare (1-4),2,2004,GB,tutti,difficolta,17.6,pct_difficolta,1878
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),2,2004,Europa-panel15,tutti,,4.28,media,28136
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),2,2004,Europa-panel14-noIE,tutti,,3.99,media,25602
+clima-economico,trstprl,Fiducia nel parlamento (0-10),2,2004,Europa-panel15,tutti,,4.23,media,28014
+clima-economico,trstplt,Fiducia nei politici (0-10),2,2004,Europa-panel15,tutti,,3.38,media,28247
+clima-economico,hincfel,Percezione del reddito familiare (1-4),2,2004,Europa-panel14-noFR,tutti,difficolta,22,pct_difficolta,26695
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),3,2006,DE,tutti,,4.36,media,2871
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),3,2006,DE,tutti,,3.69,media,2814
+clima-economico,trstprl,Fiducia nel parlamento (0-10),3,2006,DE,tutti,,4.19,media,2840
+clima-economico,trstplt,Fiducia nei politici (0-10),3,2006,DE,tutti,,3.26,media,2873
+clima-economico,hincfel,Percezione del reddito familiare (1-4),3,2006,DE,tutti,difficolta,19.1,pct_difficolta,2882
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),3,2006,FR,tutti,,3.74,media,1970
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),3,2006,FR,tutti,,3.86,media,1968
+clima-economico,trstprl,Fiducia nel parlamento (0-10),3,2006,FR,tutti,,4.28,media,1943
+clima-economico,trstplt,Fiducia nei politici (0-10),3,2006,FR,tutti,,3.27,media,1974
+clima-economico,hincfel,Percezione del reddito familiare (1-4),3,2006,FR,tutti,difficolta,15.1,pct_difficolta,1984
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),3,2006,ES,tutti,,5.35,media,1821
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),3,2006,ES,tutti,,4.82,media,1772
+clima-economico,trstprl,Fiducia nel parlamento (0-10),3,2006,ES,tutti,,5.01,media,1781
+clima-economico,trstplt,Fiducia nei politici (0-10),3,2006,ES,tutti,,3.52,media,1833
+clima-economico,hincfel,Percezione del reddito familiare (1-4),3,2006,ES,tutti,difficolta,16.7,pct_difficolta,1859
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),3,2006,GB,tutti,,5.23,media,2309
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),3,2006,GB,tutti,,4.06,media,2353
+clima-economico,trstprl,Fiducia nel parlamento (0-10),3,2006,GB,tutti,,4.22,media,2349
+clima-economico,trstplt,Fiducia nei politici (0-10),3,2006,GB,tutti,,3.43,media,2348
+clima-economico,hincfel,Percezione del reddito familiare (1-4),3,2006,GB,tutti,difficolta,15.5,pct_difficolta,2385
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),3,2006,Europa-panel15,tutti,,4.73,media,28202
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),3,2006,Europa-panel14-noIE,tutti,,4.05,media,26152
+clima-economico,trstprl,Fiducia nel parlamento (0-10),3,2006,Europa-panel15,tutti,,4.31,media,28085
+clima-economico,trstplt,Fiducia nei politici (0-10),3,2006,Europa-panel15,tutti,,3.38,media,28421
+clima-economico,hincfel,Percezione del reddito familiare (1-4),3,2006,Europa-panel14-noFR,tutti,difficolta,20.2,pct_difficolta,26745
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),4,2008,DE,tutti,,4.17,media,2703
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),4,2008,DE,tutti,,4.2,media,2659
+clima-economico,trstprl,Fiducia nel parlamento (0-10),4,2008,DE,tutti,,4.6,media,2701
+clima-economico,trstplt,Fiducia nei politici (0-10),4,2008,DE,tutti,,3.52,media,2729
+clima-economico,hincfel,Percezione del reddito familiare (1-4),4,2008,DE,tutti,difficolta,15.7,pct_difficolta,2735
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),4,2008,FR,tutti,,3.02,media,2053
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),4,2008,FR,tutti,,3.88,media,2043
+clima-economico,trstprl,Fiducia nel parlamento (0-10),4,2008,FR,tutti,,4.47,media,2038
+clima-economico,trstplt,Fiducia nei politici (0-10),4,2008,FR,tutti,,3.51,media,2062
+clima-economico,hincfel,Percezione del reddito familiare (1-4),4,2008,FR,tutti,difficolta,15.2,pct_difficolta,2066
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),4,2008,ES,tutti,,3.6,media,2532
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),4,2008,ES,tutti,,4.06,media,2435
+clima-economico,trstprl,Fiducia nel parlamento (0-10),4,2008,ES,tutti,,5.02,media,2357
+clima-economico,trstplt,Fiducia nei politici (0-10),4,2008,ES,tutti,,3.34,media,2502
+clima-economico,hincfel,Percezione del reddito familiare (1-4),4,2008,ES,tutti,difficolta,20.7,pct_difficolta,2551
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),4,2008,GB,tutti,,3.15,media,2318
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),4,2008,GB,tutti,,3.64,media,2325
+clima-economico,trstprl,Fiducia nel parlamento (0-10),4,2008,GB,tutti,,4.37,media,2318
+clima-economico,trstplt,Fiducia nei politici (0-10),4,2008,GB,tutti,,3.58,media,2325
+clima-economico,hincfel,Percezione del reddito familiare (1-4),4,2008,GB,tutti,difficolta,18.1,pct_difficolta,2328
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),4,2008,Europa-panel15,tutti,,3.82,media,28726
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),4,2008,Europa-panel14-noIE,tutti,,4.03,media,26764
+clima-economico,trstprl,Fiducia nel parlamento (0-10),4,2008,Europa-panel15,tutti,,4.45,media,28401
+clima-economico,trstplt,Fiducia nei politici (0-10),4,2008,Europa-panel15,tutti,,3.47,media,28799
+clima-economico,hincfel,Percezione del reddito familiare (1-4),4,2008,Europa-panel14-noFR,tutti,difficolta,20.3,pct_difficolta,26977
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),5,2010,DE,tutti,,5.31,media,2973
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),5,2010,DE,tutti,,3.78,media,2927
+clima-economico,trstprl,Fiducia nel parlamento (0-10),5,2010,DE,tutti,,4.26,media,2966
+clima-economico,trstplt,Fiducia nei politici (0-10),5,2010,DE,tutti,,3.34,media,2992
+clima-economico,hincfel,Percezione del reddito familiare (1-4),5,2010,DE,tutti,difficolta,16.1,pct_difficolta,3008
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),5,2010,FR,tutti,,3.39,media,1717
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),5,2010,FR,tutti,,3.54,media,1718
+clima-economico,trstprl,Fiducia nel parlamento (0-10),5,2010,FR,tutti,,4.14,media,1706
+clima-economico,trstplt,Fiducia nei politici (0-10),5,2010,FR,tutti,,3.22,media,1720
+clima-economico,hincfel,Percezione del reddito familiare (1-4),5,2010,FR,tutti,difficolta,17,pct_difficolta,1725
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),5,2010,ES,tutti,,2.73,media,1871
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),5,2010,ES,tutti,,2.96,media,1855
+clima-economico,trstprl,Fiducia nel parlamento (0-10),5,2010,ES,tutti,,4.27,media,1821
+clima-economico,trstplt,Fiducia nei politici (0-10),5,2010,ES,tutti,,2.76,media,1865
+clima-economico,hincfel,Percezione del reddito familiare (1-4),5,2010,ES,tutti,difficolta,23.2,pct_difficolta,1877
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),5,2010,GB,tutti,,3.49,media,2359
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),5,2010,GB,tutti,,4.23,media,2299
+clima-economico,trstprl,Fiducia nel parlamento (0-10),5,2010,GB,tutti,,4.05,media,2344
+clima-economico,trstplt,Fiducia nei politici (0-10),5,2010,GB,tutti,,3.34,media,2365
+clima-economico,hincfel,Percezione del reddito familiare (1-4),5,2010,GB,tutti,difficolta,19.8,pct_difficolta,2390
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),5,2010,Europa-panel15,tutti,,4.2,media,27983
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),5,2010,Europa-panel14-noIE,tutti,,3.9,media,25143
+clima-economico,trstprl,Fiducia nel parlamento (0-10),5,2010,Europa-panel15,tutti,,4.25,media,27688
+clima-economico,trstplt,Fiducia nei politici (0-10),5,2010,Europa-panel15,tutti,,3.34,media,27981
+clima-economico,hincfel,Percezione del reddito familiare (1-4),5,2010,Europa-panel14-noFR,tutti,difficolta,21.1,pct_difficolta,26484
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),6,2012,IT,tutti,,2.62,media,939
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),6,2012,IT,tutti,,2.81,media,925
+clima-economico,trstprl,Fiducia nel parlamento (0-10),6,2012,IT,tutti,,3.05,media,951
+clima-economico,trstplt,Fiducia nei politici (0-10),6,2012,IT,tutti,,1.88,media,946
+clima-economico,hincfel,Percezione del reddito familiare (1-4),6,2012,IT,tutti,difficolta,29.4,pct_difficolta,927
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),6,2012,DE,tutti,,5.81,media,2919
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),6,2012,DE,tutti,,4.8,media,2869
+clima-economico,trstprl,Fiducia nel parlamento (0-10),6,2012,DE,tutti,,4.76,media,2916
+clima-economico,trstplt,Fiducia nei politici (0-10),6,2012,DE,tutti,,3.72,media,2940
+clima-economico,hincfel,Percezione del reddito familiare (1-4),6,2012,DE,tutti,difficolta,14.5,pct_difficolta,2943
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),6,2012,FR,tutti,,3.23,media,1951
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),6,2012,FR,tutti,,3.55,media,1941
+clima-economico,trstprl,Fiducia nel parlamento (0-10),6,2012,FR,tutti,,4.09,media,1942
+clima-economico,trstplt,Fiducia nei politici (0-10),6,2012,FR,tutti,,3.21,media,1956
+clima-economico,hincfel,Percezione del reddito familiare (1-4),6,2012,FR,tutti,difficolta,18.2,pct_difficolta,1965
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),6,2012,ES,tutti,,2.16,media,1880
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),6,2012,ES,tutti,,2.47,media,1857
+clima-economico,trstprl,Fiducia nel parlamento (0-10),6,2012,ES,tutti,,3.4,media,1802
+clima-economico,trstplt,Fiducia nei politici (0-10),6,2012,ES,tutti,,1.91,media,1868
+clima-economico,hincfel,Percezione del reddito familiare (1-4),6,2012,ES,tutti,difficolta,29.6,pct_difficolta,1866
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),6,2012,GB,tutti,,3.82,media,2228
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),6,2012,GB,tutti,,4.08,media,2218
+clima-economico,trstprl,Fiducia nel parlamento (0-10),6,2012,GB,tutti,,4.31,media,2219
+clima-economico,trstplt,Fiducia nei politici (0-10),6,2012,GB,tutti,,3.68,media,2222
+clima-economico,hincfel,Percezione del reddito familiare (1-4),6,2012,GB,tutti,difficolta,18.3,pct_difficolta,2270
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),6,2012,Europa-panel15,tutti,,4.22,media,29505
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),6,2012,Europa-panel14-noIE,tutti,,4.02,media,26664
+clima-economico,trstprl,Fiducia nel parlamento (0-10),6,2012,Europa-panel15,tutti,,4.24,media,29184
+clima-economico,trstplt,Fiducia nei politici (0-10),6,2012,Europa-panel15,tutti,,3.34,media,29472
+clima-economico,hincfel,Percezione del reddito familiare (1-4),6,2012,Europa-panel14-noFR,tutti,difficolta,22.2,pct_difficolta,27696
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),7,2014,DE,tutti,,6.19,media,2999
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),7,2014,DE,tutti,,5.04,media,2949
+clima-economico,trstprl,Fiducia nel parlamento (0-10),7,2014,DE,tutti,,5.03,media,3012
+clima-economico,trstplt,Fiducia nei politici (0-10),7,2014,DE,tutti,,3.88,media,3027
+clima-economico,hincfel,Percezione del reddito familiare (1-4),7,2014,DE,tutti,difficolta,11.2,pct_difficolta,3021
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),7,2014,FR,tutti,,2.96,media,1897
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),7,2014,FR,tutti,,2.94,media,1893
+clima-economico,trstprl,Fiducia nel parlamento (0-10),7,2014,FR,tutti,,3.98,media,1884
+clima-economico,trstplt,Fiducia nei politici (0-10),7,2014,FR,tutti,,2.78,media,1909
+clima-economico,hincfel,Percezione del reddito familiare (1-4),7,2014,FR,tutti,difficolta,19.5,pct_difficolta,1910
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),7,2014,ES,tutti,,2.88,media,1908
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),7,2014,ES,tutti,,2.73,media,1875
+clima-economico,trstprl,Fiducia nel parlamento (0-10),7,2014,ES,tutti,,3.67,media,1802
+clima-economico,trstplt,Fiducia nei politici (0-10),7,2014,ES,tutti,,2.23,media,1901
+clima-economico,hincfel,Percezione del reddito familiare (1-4),7,2014,ES,tutti,difficolta,25.1,pct_difficolta,1915
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),7,2014,GB,tutti,,4.76,media,2221
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),7,2014,GB,tutti,,4.3,media,2230
+clima-economico,trstprl,Fiducia nel parlamento (0-10),7,2014,GB,tutti,,4.38,media,2227
+clima-economico,trstplt,Fiducia nei politici (0-10),7,2014,GB,tutti,,3.5,media,2240
+clima-economico,hincfel,Percezione del reddito familiare (1-4),7,2014,GB,tutti,difficolta,17.3,pct_difficolta,2251
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),7,2014,Europa-panel15,tutti,,4.53,media,27457
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),7,2014,Europa-panel14-noIE,tutti,,3.97,media,24695
+clima-economico,trstprl,Fiducia nel parlamento (0-10),7,2014,Europa-panel15,tutti,,4.32,media,27257
+clima-economico,trstplt,Fiducia nei politici (0-10),7,2014,Europa-panel15,tutti,,3.27,media,27543
+clima-economico,hincfel,Percezione del reddito familiare (1-4),7,2014,Europa-panel14-noFR,tutti,difficolta,18.7,pct_difficolta,25737
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),8,2016,IT,tutti,,3.56,media,2535
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),8,2016,IT,tutti,,3.07,media,2511
+clima-economico,trstprl,Fiducia nel parlamento (0-10),8,2016,IT,tutti,,3.19,media,2565
+clima-economico,trstplt,Fiducia nei politici (0-10),8,2016,IT,tutti,,2.27,media,2573
+clima-economico,hincfel,Percezione del reddito familiare (1-4),8,2016,IT,tutti,difficolta,30.7,pct_difficolta,2559
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),8,2016,DE,tutti,,6.47,media,2817
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),8,2016,DE,tutti,,4.95,media,2792
+clima-economico,trstprl,Fiducia nel parlamento (0-10),8,2016,DE,tutti,,5.22,media,2811
+clima-economico,trstplt,Fiducia nei politici (0-10),8,2016,DE,tutti,,4.09,media,2832
+clima-economico,hincfel,Percezione del reddito familiare (1-4),8,2016,DE,tutti,difficolta,10.3,pct_difficolta,2829
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),8,2016,FR,tutti,,3.56,media,2044
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),8,2016,FR,tutti,,3.2,media,2039
+clima-economico,trstprl,Fiducia nel parlamento (0-10),8,2016,FR,tutti,,4.1,media,2043
+clima-economico,trstplt,Fiducia nei politici (0-10),8,2016,FR,tutti,,2.89,media,2059
+clima-economico,hincfel,Percezione del reddito familiare (1-4),8,2016,FR,tutti,difficolta,17.9,pct_difficolta,2059
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),8,2016,ES,tutti,,3.62,media,1929
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),8,2016,ES,tutti,,3.28,media,1900
+clima-economico,trstprl,Fiducia nel parlamento (0-10),8,2016,ES,tutti,,3.91,media,1854
+clima-economico,trstplt,Fiducia nei politici (0-10),8,2016,ES,tutti,,2.41,media,1924
+clima-economico,hincfel,Percezione del reddito familiare (1-4),8,2016,ES,tutti,difficolta,25.5,pct_difficolta,1940
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),8,2016,GB,tutti,,5.06,media,1931
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),8,2016,GB,tutti,,4.73,media,1926
+clima-economico,trstprl,Fiducia nel parlamento (0-10),8,2016,GB,tutti,,4.72,media,1939
+clima-economico,trstplt,Fiducia nei politici (0-10),8,2016,GB,tutti,,3.78,media,1938
+clima-economico,hincfel,Percezione del reddito familiare (1-4),8,2016,GB,tutti,difficolta,11.6,pct_difficolta,1944
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),8,2016,Europa-panel15,tutti,,5.03,media,26968
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),8,2016,Europa-panel14-noIE,tutti,,4.35,media,24150
+clima-economico,trstprl,Fiducia nel parlamento (0-10),8,2016,Europa-panel15,tutti,,4.6,media,26941
+clima-economico,trstplt,Fiducia nei politici (0-10),8,2016,Europa-panel15,tutti,,3.52,media,27154
+clima-economico,hincfel,Percezione del reddito familiare (1-4),8,2016,Europa-panel14-noFR,tutti,difficolta,15.4,pct_difficolta,25186
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),9,2018,IT,tutti,,4.07,media,2648
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),9,2018,IT,tutti,,4.53,media,2582
+clima-economico,trstprl,Fiducia nel parlamento (0-10),9,2018,IT,tutti,,4.24,media,2656
+clima-economico,trstplt,Fiducia nei politici (0-10),9,2018,IT,tutti,,3.02,media,2666
+clima-economico,hincfel,Percezione del reddito familiare (1-4),9,2018,IT,tutti,difficolta,28.4,pct_difficolta,2666
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),9,2018,DE,tutti,,6.65,media,2322
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),9,2018,DE,tutti,,4.27,media,2292
+clima-economico,trstprl,Fiducia nel parlamento (0-10),9,2018,DE,tutti,,4.95,media,2327
+clima-economico,trstplt,Fiducia nei politici (0-10),9,2018,DE,tutti,,3.9,media,2339
+clima-economico,hincfel,Percezione del reddito familiare (1-4),9,2018,DE,tutti,difficolta,11.8,pct_difficolta,2338
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),9,2018,FR,tutti,,3.72,media,1963
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),9,2018,FR,tutti,,3.53,media,1957
+clima-economico,trstprl,Fiducia nel parlamento (0-10),9,2018,FR,tutti,,4.08,media,1950
+clima-economico,trstplt,Fiducia nei politici (0-10),9,2018,FR,tutti,,3.49,media,1968
+clima-economico,hincfel,Percezione del reddito familiare (1-4),9,2018,FR,tutti,difficolta,22.7,pct_difficolta,1994
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),9,2018,ES,tutti,,4.18,media,1636
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),9,2018,ES,tutti,,3.26,media,1577
+clima-economico,trstprl,Fiducia nel parlamento (0-10),9,2018,ES,tutti,,4.08,media,1583
+clima-economico,trstplt,Fiducia nei politici (0-10),9,2018,ES,tutti,,2.57,media,1636
+clima-economico,hincfel,Percezione del reddito familiare (1-4),9,2018,ES,tutti,difficolta,22.3,pct_difficolta,1645
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),9,2018,GB,tutti,,4.78,media,2165
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),9,2018,GB,tutti,,3.81,media,2173
+clima-economico,trstprl,Fiducia nel parlamento (0-10),9,2018,GB,tutti,,4.34,media,2182
+clima-economico,trstplt,Fiducia nei politici (0-10),9,2018,GB,tutti,,3.54,media,2185
+clima-economico,hincfel,Percezione del reddito familiare (1-4),9,2018,GB,tutti,difficolta,13.5,pct_difficolta,2185
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),9,2018,Europa-panel15,tutti,,5.32,media,25160
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),9,2018,Europa-panel14-noIE,tutti,,4.17,media,22646
+clima-economico,trstprl,Fiducia nel parlamento (0-10),9,2018,Europa-panel15,tutti,,4.58,media,25057
+clima-economico,trstplt,Fiducia nei politici (0-10),9,2018,Europa-panel15,tutti,,3.65,media,25249
+clima-economico,hincfel,Percezione del reddito familiare (1-4),9,2018,Europa-panel14-noFR,tutti,difficolta,15.9,pct_difficolta,23339
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),10,2021,IT,tutti,,4.14,media,2588
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),10,2021,IT,tutti,,4.46,media,2574
+clima-economico,trstprl,Fiducia nel parlamento (0-10),10,2021,IT,tutti,,4.19,media,2611
+clima-economico,trstplt,Fiducia nei politici (0-10),10,2021,IT,tutti,,3.2,media,2611
+clima-economico,hincfel,Percezione del reddito familiare (1-4),10,2021,IT,tutti,difficolta,18.2,pct_difficolta,2557
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),10,2021,DE,tutti,,5.47,media,8564
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),10,2021,DE,tutti,,4.3,media,8493
+clima-economico,trstprl,Fiducia nel parlamento (0-10),10,2021,DE,tutti,,4.95,media,8559
+clima-economico,trstplt,Fiducia nei politici (0-10),10,2021,DE,tutti,,3.64,media,8583
+clima-economico,hincfel,Percezione del reddito familiare (1-4),10,2021,DE,tutti,difficolta,11.6,pct_difficolta,8202
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),10,2021,FR,tutti,,4.62,media,1908
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),10,2021,FR,tutti,,4.77,media,1924
+clima-economico,trstprl,Fiducia nel parlamento (0-10),10,2021,FR,tutti,,4.54,media,1915
+clima-economico,trstplt,Fiducia nei politici (0-10),10,2021,FR,tutti,,3.92,media,1951
+clima-economico,hincfel,Percezione del reddito familiare (1-4),10,2021,FR,tutti,difficolta,13.7,pct_difficolta,1971
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),10,2021,ES,tutti,,3.27,media,2260
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),10,2021,ES,tutti,,3.54,media,2247
+clima-economico,trstprl,Fiducia nel parlamento (0-10),10,2021,ES,tutti,,3.84,media,2244
+clima-economico,trstplt,Fiducia nei politici (0-10),10,2021,ES,tutti,,1.91,media,2255
+clima-economico,hincfel,Percezione del reddito familiare (1-4),10,2021,ES,tutti,difficolta,27.4,pct_difficolta,2132
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),10,2021,GB,tutti,,4.13,media,1136
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),10,2021,GB,tutti,,3.61,media,1146
+clima-economico,trstprl,Fiducia nel parlamento (0-10),10,2021,GB,tutti,,4.19,media,1141
+clima-economico,trstplt,Fiducia nei politici (0-10),10,2021,GB,tutti,,3.38,media,1146
+clima-economico,hincfel,Percezione del reddito familiare (1-4),10,2021,GB,tutti,difficolta,11.6,pct_difficolta,1143
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),10,2021,Europa-panel15,tutti,,4.72,media,31924
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),10,2021,Europa-panel14-noIE,tutti,,4.21,media,30104
+clima-economico,trstprl,Fiducia nel parlamento (0-10),10,2021,Europa-panel15,tutti,,4.51,media,31834
+clima-economico,trstplt,Fiducia nei politici (0-10),10,2021,Europa-panel15,tutti,,3.44,media,32040
+clima-economico,hincfel,Percezione del reddito familiare (1-4),10,2021,Europa-panel14-noFR,tutti,difficolta,16.6,pct_difficolta,29586
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,tutti,,4,media,2824
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),11,2023,IT,tutti,,4.13,media,2711
+clima-economico,trstprl,Fiducia nel parlamento (0-10),11,2023,IT,tutti,,4.3,media,2809
+clima-economico,trstplt,Fiducia nei politici (0-10),11,2023,IT,tutti,,3.29,media,2822
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,tutti,difficolta,21.3,pct_difficolta,2758
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,DE,tutti,,4.56,media,2404
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),11,2023,DE,tutti,,3.67,media,2373
+clima-economico,trstprl,Fiducia nel parlamento (0-10),11,2023,DE,tutti,,4.73,media,2402
+clima-economico,trstplt,Fiducia nei politici (0-10),11,2023,DE,tutti,,3.73,media,2401
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,DE,tutti,difficolta,9.8,pct_difficolta,2413
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,FR,tutti,,3.63,media,1721
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),11,2023,FR,tutti,,3.71,media,1720
+clima-economico,trstprl,Fiducia nel parlamento (0-10),11,2023,FR,tutti,,4.1,media,1727
+clima-economico,trstplt,Fiducia nei politici (0-10),11,2023,FR,tutti,,3.74,media,1753
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,FR,tutti,difficolta,14.4,pct_difficolta,1753
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,ES,tutti,,4.32,media,1824
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),11,2023,ES,tutti,,3.76,media,1792
+clima-economico,trstprl,Fiducia nel parlamento (0-10),11,2023,ES,tutti,,4.29,media,1795
+clima-economico,trstplt,Fiducia nei politici (0-10),11,2023,ES,tutti,,2.76,media,1829
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,ES,tutti,difficolta,17.8,pct_difficolta,1835
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,GB,tutti,,3.32,media,1658
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),11,2023,GB,tutti,,3.05,media,1640
+clima-economico,trstprl,Fiducia nel parlamento (0-10),11,2023,GB,tutti,,3.81,media,1642
+clima-economico,trstplt,Fiducia nei politici (0-10),11,2023,GB,tutti,,3.05,media,1647
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,GB,tutti,difficolta,16.8,pct_difficolta,1650
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,Europa-panel15,tutti,,4.36,media,24341
+clima-economico,stfgov,Soddisfazione per l'operato del governo (0-10),11,2023,Europa-panel14-noIE,tutti,,3.85,media,22070
+clima-economico,trstprl,Fiducia nel parlamento (0-10),11,2023,Europa-panel15,tutti,,4.47,media,24228
+clima-economico,trstplt,Fiducia nei politici (0-10),11,2023,Europa-panel15,tutti,,3.58,media,24373
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,Europa-panel14-noFR,tutti,difficolta,14.2,pct_difficolta,22777

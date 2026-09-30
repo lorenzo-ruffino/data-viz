@@ -1,0 +1,39 @@
+geo,ord,categoria,valore,tipo
+ES,1,"Salario netto
+per lavoratore
+dipendente",-329.5572144476158,contrib
+ES,2,"Più lavoratori
+dipendenti
+pro capite",2907.989896819497,contrib
+ES,3,"Reddito netto
+per lavoratore
+NON dipendente",-299.55764950705276,contrib
+ES,4,"Meno lavoratori
+NON dipendenti
+pro capite",-190.35617947071077,contrib
+ES,5,"Reddito da capitale
+pro capite",1494.4407977942653,contrib
+ES,6,"Prestazioni sociali
+e trasferimenti
+pro capite",2133.5595774799294,contrib
+ES,7,"Reddito disponibile
+reale pro capite",5689.464818949591,totale
+IT,1,"Salario netto
+per lavoratore
+dipendente",-882.312697816302,contrib
+IT,2,"Più lavoratori
+dipendenti
+pro capite",1962.5144602126372,contrib
+IT,3,"Reddito netto
+per lavoratore
+NON dipendente",-635.433596159941,contrib
+IT,4,"Meno lavoratori
+NON dipendenti
+pro capite",-157.85150059770334,contrib
+IT,5,"Reddito da capitale
+pro capite",-2089.286488108598,contrib
+IT,6,"Prestazioni sociali
+e trasferimenti
+pro capite",2064.9532602161544,contrib
+IT,7,"Reddito disponibile
+reale pro capite",274.3207501960351,totale

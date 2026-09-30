@@ -1,0 +1,37 @@
+ambito,indicatore,unita,italia,nord,centro,sud,isole
+Campione,Edifici scolastici monitorati,n,7188,3148,2130,1058,852
+Campione,Popolazione scolastica,n,1272742,512140,365641,231649,163312
+Campione,Media studenti per edificio,n,177,163,172,219,192
+Certificazioni,Collaudo statico,%,47.7,56.1,48.1,26.5,37.1
+Certificazioni,Certificato di agibilità,%,53.5,71.9,44.1,31.6,25.5
+Certificazioni,Certificato prevenzione incendi,%,56.0,51.5,69.1,66.4,45.1
+Certificazioni,Edifici con accorgimenti superamento barriere architettoniche,%,84.0,88.9,87.6,85.2,43.6
+Sismica,Edifici in zona sismica 1,n,401,22,0,189,190
+Sismica,Edifici zona sismica 1 progettati/adeguati a normativa antisismica,n,30,0,0,22,8
+Sismica,Edifici in zona sismica 2,n,2096,612,499,535,450
+Sismica,Edifici zona sismica 2 progettati/adeguati a normativa antisismica,n,458,46,71,341,0
+Sismica,Amministrazioni con interventi di adeguamento sismico ultimi 5 anni,%,68.5,68.3,84.6,50.0,66.7
+Sismica,Edifici con interventi di adeguamento sismico ultimi 5 anni,%,4.0,3.6,6.4,3.8,3.1
+Sismica,Amministrazioni con verifica di vulnerabilità sismica su tutti gli edifici,%,17.3,18.6,20.0,20.0,0.0
+Sismica,Edifici senza verifica di vulnerabilità sismica,%,57.2,64.9,33.7,42.8,76.8
+Manutenzione,Edifici con indagini diagnostiche dei solai ultimi 5 anni,%,26.1,27.6,22.5,33.9,10.4
+Manutenzione,Edifici con interventi di messa in sicurezza dei solai ultimi 5 anni,%,11.1,11.0,9.4,14.8,8.2
+Manutenzione,Edifici con manutenzione straordinaria ultimi 5 anni,%,51.7,52.3,43.3,61.3,45.0
+Manutenzione,Edifici che necessitano di interventi di manutenzione urgenti,%,31.7,24.7,26.1,45.2,54.2
+Investimenti,Euro stanziati manutenzione straordinaria per edificio (2025),euro,48054,64659,68524,5557,10247
+Investimenti,Euro spesi manutenzione straordinaria per edificio (2025),euro,38312,54709,41024,4527,9322
+Investimenti,Euro stanziati manutenzione straordinaria per edificio (media annua 5 anni),euro,57674,70934,69848,24586,15487
+Investimenti,Euro spesi manutenzione straordinaria per edificio (media annua 5 anni),euro,32430,46608,26382,5658,12976
+Investimenti,Euro stanziati manutenzione ordinaria per edificio (2025),euro,10592,14426,7274,7717,4910
+Investimenti,Euro spesi manutenzione ordinaria per edificio (2025),euro,9088,12681,4877,7100,4220
+Energia,Amministrazioni con interventi di efficientamento energetico ultimi 5 anni,%,85.4,95.3,88.2,57.1,75.0
+Energia,Edifici con interventi di efficientamento energetico,%,19.4,23.0,16.9,15.7,8.2
+Sport,Edifici con impianti per lo sport,%,47.4,48.9,37.3,50.3,53.6
+Sport,Impianti per lo sport aperti in orario extrascolastico,%,64.4,76.4,76.4,42.2,46.5
+Sport,Impianti per lo sport agibili,%,94.8,98.4,97.9,91.6,77.4
+Sport,Impianti per lo sport che necessitano di riqualificazione urgente,%,26.9,19.8,41.9,34.6,20.6
+Verde,Edifici con giardini o aree verdi fruibili,%,68.5,79.4,66.9,40.7,53.0
+Verde,Aree verdi usate per didattica all'aperto,%,40.3,53.6,38.7,16.6,18.8
+Servizi,Edifici con servizio di mensa scolastica,%,72.1,88.9,67.2,68.0,26.8
+Nuove scuole,Scuole nuove edificate negli ultimi 5 anni,%,1.3,,,,
+Nuove scuole,Scuole nuove in bioedilizia negli ultimi 5 anni,%,1.1,,,,

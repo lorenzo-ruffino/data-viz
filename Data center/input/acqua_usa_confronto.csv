@@ -1,0 +1,5 @@
+voce,gal_giorno,litri_giorno,misura,anno_riferimento,fonte_breve,fonte_url
+Data center USA (acqua evaporata in sito),47768097,180821918,consumo,2023,"LBNL, 2024 United States Data Center Energy Usage Report, p. 55",https://escholarship.org/uc/item/32d6m0d1
+Campi da golf USA,1455170219,5508418495,applicazione,2024,"Shaddox et al., HortTechnology 35(5):848-857, 2025",https://doi.org/10.21273/HORTTECH05716-25
+Colture irrigue dell'Arizona,3525340000,13344863579,consumo,2015,"USGS, dati per contea 2015 ver. 2.0, campo IC-CUsFr",https://doi.org/10.5066/F7TB15V5
+Irrigazione agricola USA,73200000000,277092142589,consumo,2015,"USGS Circular 1441, p. 1 e tab. 7, p. 27",https://pubs.usgs.gov/circ/1441/circ1441.pdf

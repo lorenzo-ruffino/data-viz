@@ -1,0 +1,38 @@
+ambito,indicatore,unita,italia,nord,centro,sud,isole
+Certificazioni,Collaudo statico,%,45.2,52.6,47.5,29.9,30.4
+Certificazioni,Certificato di agibilità,%,47.2,63.6,33.5,35.4,23.5
+Certificazioni,Certificato prevenzione incendi,%,56.6,56.4,59.7,68.0,40.5
+Certificazioni,Edifici con accorgimenti superamento barriere architettoniche,%,85.4,93.4,90.7,82.0,47.6
+Sismica,Edifici in zona sismica 1,n,400,22,0,188,190
+Sismica,Edifici zona sismica 1 progettati/adeguati a normativa antisismica,n,34,0,0,15,19
+Sismica,Edifici in zona sismica 2,n,2096,493,512,639,452
+Sismica,Edifici zona sismica 2 progettati/adeguati a normativa antisismica,n,339,109,98,78,54
+Sismica,Amministrazioni con interventi di adeguamento sismico ultimi 5 anni,%,69.1,66.7,78.6,72.7,60.0
+Sismica,Edifici con interventi di adeguamento sismico ultimi 5 anni,%,3.2,3.1,4.9,3.2,2.0
+Sismica,Amministrazioni con verifica di vulnerabilità sismica su tutti gli edifici,%,23.1,22.2,23.5,28.6,18.2
+Sismica,Edifici senza verifica di vulnerabilità sismica,%,54.8,62.9,35.4,30.8,72.4
+Manutenzione,Edifici con indagini diagnostiche dei solai ultimi 5 anni,%,31.2,32.0,22.5,36.1,33.9
+Manutenzione,Edifici con interventi di messa in sicurezza dei solai ultimi 5 anni,%,10.9,9.2,7.7,17.0,15.9
+Manutenzione,Edifici con manutenzione straordinaria ultimi 5 anni,%,49.9,48.6,44.5,62.4,43.0
+Manutenzione,Edifici che necessitano di interventi di manutenzione urgenti,%,37.1,23.4,41.1,55.7,49.8
+Investimenti,Euro stanziati manutenzione straordinaria per edificio (2024),euro,39648,65420,23822,6639,7762
+Investimenti,Euro spesi manutenzione straordinaria per edificio (2024),euro,29061,41699,27050,5564,5234
+Investimenti,Euro stanziati manutenzione straordinaria per edificio (media annua 5 anni),euro,43563,69216,25208,6602,6376
+Investimenti,Euro spesi manutenzione straordinaria per edificio (media annua 5 anni),euro,27886,37560,23569,6599,6471
+Investimenti,Euro stanziati manutenzione ordinaria per edificio (2024),euro,10113,13271,5859,8267,5458
+Investimenti,Euro spesi manutenzione ordinaria per edificio (2024),euro,8338,11196,3357,7594,4353
+Investimenti,Euro stanziati manutenzione ordinaria per edificio (media annua 5 anni),euro,11126,15695,6653,6788,4550
+Investimenti,Euro spesi manutenzione ordinaria per edificio (media annua 5 anni),euro,9108,12788,4734,5797,4507
+Sport,Edifici con impianti per lo sport,%,50.2,51.0,40.3,52.7,57.7
+Sport,Impianti per lo sport aperti in orario extrascolastico,%,59.1,77.0,66.6,45.4,34.0
+Sport,Impianti per lo sport che necessitano di riqualificazione urgente,%,20.1,13.0,29.8,41.3,11.1
+Verde,Edifici con giardini o aree verdi fruibili,%,64.4,79.7,65.3,32.4,52.3
+Verde,Aree verdi usate per didattica all'aperto,%,38.9,56.8,41.6,13.6,17.4
+Servizi,Edifici con servizio di mensa scolastica,%,73.7,89.9,71.1,58.7,38.8
+Servizi,Classi a tempo pieno,%,38.0,37.1,53.6,32.0,16.8
+Energia,Edifici con interventi di efficientamento energetico,%,16.0,,,,
+Energia,Edifici con certificazione energetica in classe A,%,6.5,,,,
+Energia,"Edifici nelle ultime tre classi energetiche (E,F,G)",%,66.6,,,,
+Energia,Edifici con impianti da fonti rinnovabili,%,21.0,,,,10.8
+Amianto,"Edifici con presenza di amianto (2024, stima da grafico)",%,~10,,,,
+Nuove scuole,Scuole nuove edificate negli ultimi 5 anni,%,1.0,1.2,1.3,0.1,0.7

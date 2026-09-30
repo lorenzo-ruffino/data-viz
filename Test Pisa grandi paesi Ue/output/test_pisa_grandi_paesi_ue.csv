@@ -1,0 +1,103 @@
+serie,dominio,anno,punteggio
+Italia,Scienze,2006,475.4
+Italia,Scienze,2009,488.8
+Italia,Scienze,2012,493.5
+Italia,Scienze,2015,480.5
+Italia,Scienze,2018,468
+Italia,Scienze,2022,477.5
+Italia,Scienze,2025,483
+Germania,Scienze,2006,515.6
+Germania,Scienze,2009,520.4
+Germania,Scienze,2012,524.1
+Germania,Scienze,2015,509.1
+Germania,Scienze,2018,503
+Germania,Scienze,2022,492.4
+Germania,Scienze,2025,485.5
+Francia,Scienze,2006,495.2
+Francia,Scienze,2009,498.2
+Francia,Scienze,2012,499
+Francia,Scienze,2015,495
+Francia,Scienze,2018,493
+Francia,Scienze,2022,487.2
+Francia,Scienze,2025,483.4
+Spagna,Scienze,2006,488.4
+Spagna,Scienze,2009,488.3
+Spagna,Scienze,2012,496.4
+Spagna,Scienze,2015,492.8
+Spagna,Scienze,2022,484.5
+Spagna,Scienze,2025,477.1
+Media OCSE (23 paesi),Scienze,2006,502.7
+Media OCSE (23 paesi),Scienze,2009,505.7
+Media OCSE (23 paesi),Scienze,2012,504.7
+Media OCSE (23 paesi),Scienze,2015,497
+Media OCSE (23 paesi),Scienze,2018,493.5
+Media OCSE (23 paesi),Scienze,2022,490.9
+Media OCSE (23 paesi),Scienze,2025,485.9
+Italia,Lettura,2006,468.5
+Italia,Lettura,2009,486.1
+Italia,Lettura,2012,489.8
+Italia,Lettura,2015,484.8
+Italia,Lettura,2018,476.3
+Italia,Lettura,2022,481.6
+Italia,Lettura,2025,474.3
+Germania,Lettura,2006,494.9
+Germania,Lettura,2009,497.3
+Germania,Lettura,2012,507.7
+Germania,Lettura,2015,509.1
+Germania,Lettura,2018,498.3
+Germania,Lettura,2022,479.8
+Germania,Lettura,2025,465.3
+Francia,Lettura,2006,487.7
+Francia,Lettura,2009,495.6
+Francia,Lettura,2012,505.5
+Francia,Lettura,2015,499.3
+Francia,Lettura,2018,492.6
+Francia,Lettura,2022,473.9
+Francia,Lettura,2025,456.3
+Spagna,Lettura,2006,460.8
+Spagna,Lettura,2009,481
+Spagna,Lettura,2012,487.9
+Spagna,Lettura,2015,495.6
+Spagna,Lettura,2022,474.3
+Spagna,Lettura,2025,451.4
+Media OCSE (23 paesi),Lettura,2006,495.5
+Media OCSE (23 paesi),Lettura,2009,499.4
+Media OCSE (23 paesi),Lettura,2012,501.4
+Media OCSE (23 paesi),Lettura,2015,497.2
+Media OCSE (23 paesi),Lettura,2018,492.8
+Media OCSE (23 paesi),Lettura,2022,481.9
+Media OCSE (23 paesi),Lettura,2025,465.8
+Italia,Matematica,2006,461.7
+Italia,Matematica,2009,482.9
+Italia,Matematica,2012,485.3
+Italia,Matematica,2015,489.7
+Italia,Matematica,2018,486.6
+Italia,Matematica,2022,471.3
+Italia,Matematica,2025,467.8
+Germania,Matematica,2006,503.8
+Germania,Matematica,2009,512.8
+Germania,Matematica,2012,513.5
+Germania,Matematica,2015,506
+Germania,Matematica,2018,500
+Germania,Matematica,2022,474.8
+Germania,Matematica,2025,463.8
+Francia,Matematica,2006,495.5
+Francia,Matematica,2009,496.8
+Francia,Matematica,2012,495
+Francia,Matematica,2015,492.9
+Francia,Matematica,2018,495.4
+Francia,Matematica,2022,473.9
+Francia,Matematica,2025,457.7
+Spagna,Matematica,2006,480
+Spagna,Matematica,2009,483.5
+Spagna,Matematica,2012,484.3
+Spagna,Matematica,2015,485.8
+Spagna,Matematica,2022,473.1
+Spagna,Matematica,2025,457.4
+Media OCSE (23 paesi),Matematica,2006,501.1
+Media OCSE (23 paesi),Matematica,2009,501.7
+Media OCSE (23 paesi),Matematica,2012,498.7
+Media OCSE (23 paesi),Matematica,2015,495.5
+Media OCSE (23 paesi),Matematica,2018,496.4
+Media OCSE (23 paesi),Matematica,2022,480.3
+Media OCSE (23 paesi),Matematica,2025,469.4

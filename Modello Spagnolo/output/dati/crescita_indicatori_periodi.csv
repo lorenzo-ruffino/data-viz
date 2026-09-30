@@ -1,0 +1,361 @@
+paese,codice_paese,indicatore,etichetta,periodo,anno_inizio,anno_fine,valore_inizio,valore_fine,crescita_pp,crescita_annua_pp
+Spagna,ES,pil_reale,PIL reale (volumi 2015),1995-2007,1995,2007,723864.5,1114404.6,53.952,3.661
+Spagna,ES,pil_reale,PIL reale (volumi 2015),2007-2013,2007,2013,1114404.6,1029042.1,-7.66,-1.319
+Spagna,ES,pil_reale,PIL reale (volumi 2015),2013-2019,2013,2019,1029042.1,1201898.1,16.798,2.622
+Spagna,ES,pil_reale,PIL reale (volumi 2015),2019-2025,2019,2025,1201898.1,1323961.4,10.156,1.625
+Spagna,ES,pil_reale,PIL reale (volumi 2015),1995-2025,1995,2025,723864.5,1323961.4,82.902,2.033
+Spagna,ES,pil_reale,PIL reale (volumi 2015),2000-2025,2000,2025,881436.1,1323961.4,50.205,1.641
+Italia,IT,pil_reale,PIL reale (volumi 2015),1995-2007,1995,2007,1506693.2,1808999.4,20.064,1.535
+Italia,IT,pil_reale,PIL reale (volumi 2015),2007-2013,2007,2013,1808999.4,1648698.8,-8.861,-1.535
+Italia,IT,pil_reale,PIL reale (volumi 2015),2013-2019,2013,2019,1648698.8,1732388.8,5.076,0.829
+Italia,IT,pil_reale,PIL reale (volumi 2015),2019-2025,2019,2025,1732388.8,1843443.4,6.41,1.041
+Italia,IT,pil_reale,PIL reale (volumi 2015),1995-2025,1995,2025,1506693.2,1843443.4,22.35,0.675
+Italia,IT,pil_reale,PIL reale (volumi 2015),2000-2025,2000,2025,1673584.2,1843443.4,10.149,0.387
+Francia,FR,pil_reale,PIL reale (volumi 2015),1995-2007,1995,2007,1576638.1,2095723.5,32.924,2.4
+Francia,FR,pil_reale,PIL reale (volumi 2015),2007-2013,2007,2013,2095723.5,2156646.2,2.907,0.479
+Francia,FR,pil_reale,PIL reale (volumi 2015),2013-2019,2013,2019,2156646.2,2350614.1,8.994,1.446
+Francia,FR,pil_reale,PIL reale (volumi 2015),2019-2025,2019,2025,2350614.1,2483983.3,5.674,0.924
+Francia,FR,pil_reale,PIL reale (volumi 2015),1995-2025,1995,2025,1576638.1,2483983.3,57.549,1.527
+Francia,FR,pil_reale,PIL reale (volumi 2015),2000-2025,2000,2025,1825899.0,2483983.3,36.042,1.239
+Germania,DE,pil_reale,PIL reale (volumi 2015),1995-2007,1995,2007,2356242.3,2861537.1,21.445,1.632
+Germania,DE,pil_reale,PIL reale (volumi 2015),2007-2013,2007,2013,2861537.1,2971742.8,3.851,0.632
+Germania,DE,pil_reale,PIL reale (volumi 2015),2013-2019,2013,2019,2971742.8,3312840.5,11.478,1.827
+Germania,DE,pil_reale,PIL reale (volumi 2015),2019-2025,2019,2025,3312840.5,3321415.6,0.259,0.043
+Germania,DE,pil_reale,PIL reale (volumi 2015),1995-2025,1995,2025,2356242.3,3321415.6,40.962,1.151
+Germania,DE,pil_reale,PIL reale (volumi 2015),2000-2025,2000,2025,2601108.6,3321415.6,27.692,0.983
+Unione europea,EU27_2020,pil_reale,PIL reale (volumi 2015),1995-2007,1995,2007,8891107.2,11902024.9,33.864,2.46
+Unione europea,EU27_2020,pil_reale,PIL reale (volumi 2015),2007-2013,2007,2013,11902024.9,11834141.7,-0.57,-0.095
+Unione europea,EU27_2020,pil_reale,PIL reale (volumi 2015),2013-2019,2013,2019,11834141.7,13407935.0,13.299,2.103
+Unione europea,EU27_2020,pil_reale,PIL reale (volumi 2015),2019-2025,2019,2025,13407935.0,14378870.6,7.241,1.172
+Unione europea,EU27_2020,pil_reale,PIL reale (volumi 2015),1995-2025,1995,2025,8891107.2,14378870.6,61.722,1.615
+Unione europea,EU27_2020,pil_reale,PIL reale (volumi 2015),2000-2025,2000,2025,10245095.7,14378870.6,40.349,1.365
+Spagna,ES,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2007,1995,2007,18220.0,24640.0,35.236,2.547
+Spagna,ES,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2007-2013,2007,2013,24640.0,22090.0,-10.349,-1.804
+Spagna,ES,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2013-2019,2013,2019,22090.0,25520.0,15.527,2.435
+Spagna,ES,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2019-2025,2019,2025,25520.0,26850.0,5.212,0.85
+Spagna,ES,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2025,1995,2025,18220.0,26850.0,47.366,1.301
+Spagna,ES,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2000-2025,2000,2025,21730.0,26850.0,23.562,0.85
+Italia,IT,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2007,1995,2007,26510.0,30790.0,16.145,1.255
+Italia,IT,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2007-2013,2007,2013,30790.0,27340.0,-11.205,-1.961
+Italia,IT,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2013-2019,2013,2019,27340.0,29000.0,6.072,0.987
+Italia,IT,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2019-2025,2019,2025,29000.0,31270.0,7.828,1.264
+Italia,IT,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2025,1995,2025,26510.0,31270.0,17.955,0.552
+Italia,IT,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2000-2025,2000,2025,29390.0,31270.0,6.397,0.248
+Francia,FR,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2007,1995,2007,26540.0,32860.0,23.813,1.796
+Francia,FR,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2007-2013,2007,2013,32860.0,32830.0,-0.091,-0.015
+Francia,FR,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2013-2019,2013,2019,32830.0,34880.0,6.244,1.015
+Francia,FR,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2019-2025,2019,2025,34880.0,36000.0,3.211,0.528
+Francia,FR,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2025,1995,2025,26540.0,36000.0,35.644,1.021
+Francia,FR,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2000-2025,2000,2025,30060.0,36000.0,19.76,0.724
+Germania,DE,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2007,1995,2007,28980.0,35330.0,21.912,1.665
+Germania,DE,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2007-2013,2007,2013,35330.0,36910.0,4.472,0.732
+Germania,DE,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2013-2019,2013,2019,36910.0,40300.0,9.185,1.475
+Germania,DE,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2019-2025,2019,2025,40300.0,39770.0,-1.315,-0.22
+Germania,DE,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2025,1995,2025,28980.0,39770.0,37.233,1.061
+Germania,DE,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2000-2025,2000,2025,31930.0,39770.0,24.554,0.882
+Unione europea,EU27_2020,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2007,1995,2007,20910.0,27230.0,30.225,2.225
+Unione europea,EU27_2020,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2007-2013,2007,2013,27230.0,26800.0,-1.579,-0.265
+Unione europea,EU27_2020,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2013-2019,2013,2019,26800.0,30090.0,12.276,1.949
+Unione europea,EU27_2020,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2019-2025,2019,2025,30090.0,31800.0,5.683,0.925
+Unione europea,EU27_2020,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),1995-2025,1995,2025,20910.0,31800.0,52.08,1.407
+Unione europea,EU27_2020,pil_pro_capite_reale,PIL pro capite reale (volumi 2015),2000-2025,2000,2025,23930.0,31800.0,32.888,1.144
+Spagna,ES,pil_pro_capite_pps,PIL pro capite in PPS,1995-2007,1995,2007,13631.3,25684.2,88.421,5.421
+Spagna,ES,pil_pro_capite_pps,PIL pro capite in PPS,2007-2013,2007,2013,25684.2,23552.4,-8.3,-1.434
+Spagna,ES,pil_pro_capite_pps,PIL pro capite in PPS,2013-2019,2013,2019,23552.4,28663.4,21.701,3.327
+Spagna,ES,pil_pro_capite_pps,PIL pro capite in PPS,2019-2025,2019,2025,28663.4,38135.7,33.047,4.874
+Spagna,ES,pil_pro_capite_pps,PIL pro capite in PPS,1995-2025,1995,2025,13631.3,38135.7,179.766,3.489
+Spagna,ES,pil_pro_capite_pps,PIL pro capite in PPS,2000-2025,2000,2025,17931.7,38135.7,112.672,3.064
+Italia,IT,pil_pro_capite_pps,PIL pro capite in PPS,1995-2007,1995,2007,18796.5,26930.2,43.272,3.042
+Italia,IT,pil_pro_capite_pps,PIL pro capite in PPS,2007-2013,2007,2013,26930.2,26316.4,-2.279,-0.384
+Italia,IT,pil_pro_capite_pps,PIL pro capite in PPS,2013-2019,2013,2019,26316.4,30348.1,15.32,2.404
+Italia,IT,pil_pro_capite_pps,PIL pro capite in PPS,2019-2025,2019,2025,30348.1,39949.2,31.637,4.688
+Italia,IT,pil_pro_capite_pps,PIL pro capite in PPS,1995-2025,1995,2025,18796.5,39949.2,112.535,2.545
+Italia,IT,pil_pro_capite_pps,PIL pro capite in PPS,2000-2025,2000,2025,22551.9,39949.2,77.143,2.314
+Francia,FR,pil_pro_capite_pps,PIL pro capite in PPS,1995-2007,1995,2007,17374.7,26999.6,55.396,3.742
+Francia,FR,pil_pro_capite_pps,PIL pro capite in PPS,2007-2013,2007,2013,26999.6,28708.1,6.328,1.028
+Francia,FR,pil_pro_capite_pps,PIL pro capite in PPS,2013-2019,2013,2019,28708.1,33247.6,15.813,2.477
+Francia,FR,pil_pro_capite_pps,PIL pro capite in PPS,2019-2025,2019,2025,33247.6,40716.0,22.463,3.435
+Francia,FR,pil_pro_capite_pps,PIL pro capite in PPS,1995-2025,1995,2025,17374.7,40716.0,134.341,2.879
+Francia,FR,pil_pro_capite_pps,PIL pro capite in PPS,2000-2025,2000,2025,21662.5,40716.0,87.956,2.556
+Germania,DE,pil_pro_capite_pps,PIL pro capite in PPS,1995-2007,1995,2007,19878.6,29604.6,48.927,3.375
+Germania,DE,pil_pro_capite_pps,PIL pro capite in PPS,2007-2013,2007,2013,29604.6,33166.5,12.032,1.912
+Germania,DE,pil_pro_capite_pps,PIL pro capite in PPS,2013-2019,2013,2019,33166.5,38992.6,17.566,2.734
+Germania,DE,pil_pro_capite_pps,PIL pro capite in PPS,2019-2025,2019,2025,38992.6,47979.4,23.047,3.517
+Germania,DE,pil_pro_capite_pps,PIL pro capite in PPS,1995-2025,1995,2025,19878.6,47979.4,141.362,2.981
+Germania,DE,pil_pro_capite_pps,PIL pro capite in PPS,2000-2025,2000,2025,23030.4,47979.4,108.331,2.979
+Unione europea,EU27_2020,pil_pro_capite_pps,PIL pro capite in PPS,1995-2007,1995,2007,14914.8,24678.9,65.466,4.286
+Unione europea,EU27_2020,pil_pro_capite_pps,PIL pro capite in PPS,2007-2013,2007,2013,24678.9,26253.0,6.378,1.036
+Unione europea,EU27_2020,pil_pro_capite_pps,PIL pro capite in PPS,2013-2019,2013,2019,26253.0,31696.4,20.734,3.19
+Unione europea,EU27_2020,pil_pro_capite_pps,PIL pro capite in PPS,2019-2025,2019,2025,31696.4,41565.7,31.137,4.621
+Unione europea,EU27_2020,pil_pro_capite_pps,PIL pro capite in PPS,1995-2025,1995,2025,14914.8,41565.7,178.688,3.475
+Unione europea,EU27_2020,pil_pro_capite_pps,PIL pro capite in PPS,2000-2025,2000,2025,18415.8,41565.7,125.707,3.31
+Spagna,ES,popolazione,Popolazione totale,1995-2007,1995,2007,39718.9,45236.0,13.89,1.09
+Spagna,ES,popolazione,Popolazione totale,2007-2013,2007,2013,45236.0,46581.12,2.974,0.49
+Spagna,ES,popolazione,Popolazione totale,2013-2019,2013,2019,46581.12,47087.78,1.088,0.18
+Spagna,ES,popolazione,Popolazione totale,2019-2025,2019,2025,47087.78,49312.42,4.724,0.772
+Spagna,ES,popolazione,Popolazione totale,1995-2025,1995,2025,39718.9,49312.42,24.154,0.724
+Spagna,ES,popolazione,Popolazione totale,2000-2025,2000,2025,40554.39,49312.42,21.596,0.785
+Italia,IT,popolazione,Popolazione totale,1995-2007,1995,2007,56844.3,58756.2,3.363,0.276
+Italia,IT,popolazione,Popolazione totale,2007-2013,2007,2013,58756.2,60311.6,2.647,0.436
+Italia,IT,popolazione,Popolazione totale,2013-2019,2013,2019,60311.6,59729.1,-0.966,-0.162
+Italia,IT,popolazione,Popolazione totale,2019-2025,2019,2025,59729.1,58947.2,-1.309,-0.219
+Italia,IT,popolazione,Popolazione totale,1995-2025,1995,2025,56844.3,58947.2,3.699,0.121
+Italia,IT,popolazione,Popolazione totale,2000-2025,2000,2025,56942.1,58947.2,3.521,0.139
+Francia,FR,popolazione,Popolazione totale,1995-2007,1995,2007,59407.0,63775.0,7.353,0.593
+Francia,FR,popolazione,Popolazione totale,2007-2013,2007,2013,63775.0,65684.0,2.993,0.493
+Francia,FR,popolazione,Popolazione totale,2013-2019,2013,2019,65684.0,67396.0,2.606,0.43
+Francia,FR,popolazione,Popolazione totale,2019-2025,2019,2025,67396.0,68998.0,2.377,0.392
+Francia,FR,popolazione,Popolazione totale,1995-2025,1995,2025,59407.0,68998.0,16.145,0.5
+Francia,FR,popolazione,Popolazione totale,2000-2025,2000,2025,60746.0,68998.0,13.584,0.511
+Germania,DE,popolazione,Popolazione totale,1995-2007,1995,2007,81308.0,80992.0,-0.389,-0.032
+Germania,DE,popolazione,Popolazione totale,2007-2013,2007,2013,80992.0,80517.0,-0.586,-0.098
+Germania,DE,popolazione,Popolazione totale,2013-2019,2013,2019,80517.0,82203.0,2.094,0.346
+Germania,DE,popolazione,Popolazione totale,2019-2025,2019,2025,82203.0,83512.0,1.592,0.264
+Germania,DE,popolazione,Popolazione totale,1995-2025,1995,2025,81308.0,83512.0,2.711,0.089
+Germania,DE,popolazione,Popolazione totale,2000-2025,2000,2025,81457.0,83512.0,2.523,0.1
+Unione europea,EU27_2020,popolazione,Popolazione totale,1995-2007,1995,2007,425166.61,437144.07,2.817,0.232
+Unione europea,EU27_2020,popolazione,Popolazione totale,2007-2013,2007,2013,437144.07,441628.0,1.026,0.17
+Unione europea,EU27_2020,popolazione,Popolazione totale,2013-2019,2013,2019,441628.0,445558.27,0.89,0.148
+Unione europea,EU27_2020,popolazione,Popolazione totale,2019-2025,2019,2025,445558.27,452200.7,1.491,0.247
+Unione europea,EU27_2020,popolazione,Popolazione totale,1995-2025,1995,2025,425166.61,452200.7,6.358,0.206
+Unione europea,EU27_2020,popolazione,Popolazione totale,2000-2025,2000,2025,428162.97,452200.7,5.614,0.219
+Spagna,ES,occupati,Occupati,1995-2007,1995,2007,13858.1,21296.7,53.677,3.646
+Spagna,ES,occupati,Occupati,2007-2013,2007,2013,21296.7,17906.9,-15.917,-2.848
+Spagna,ES,occupati,Occupati,2013-2019,2013,2019,17906.9,20467.1,14.297,2.252
+Spagna,ES,occupati,Occupati,2019-2025,2019,2025,20467.1,22605.0,10.446,1.67
+Spagna,ES,occupati,Occupati,1995-2025,1995,2025,13858.1,22605.0,63.118,1.644
+Spagna,ES,occupati,Occupati,2000-2025,2000,2025,16728.3,22605.0,35.13,1.212
+Italia,IT,occupati,Occupati,1995-2007,1995,2007,21670.5,25102.2,15.836,1.233
+Italia,IT,occupati,Occupati,2007-2013,2007,2013,25102.2,24144.0,-3.817,-0.647
+Italia,IT,occupati,Occupati,2013-2019,2013,2019,24144.0,25349.0,4.991,0.815
+Italia,IT,occupati,Occupati,2019-2025,2019,2025,25349.0,26835.1,5.863,0.954
+Italia,IT,occupati,Occupati,1995-2025,1995,2025,21670.5,26835.1,23.832,0.715
+Italia,IT,occupati,Occupati,2000-2025,2000,2025,22807.9,26835.1,17.657,0.653
+Francia,FR,occupati,Occupati,1995-2007,1995,2007,23712.0,27089.0,14.242,1.116
+Francia,FR,occupati,Occupati,2007-2013,2007,2013,27089.0,27305.0,0.797,0.132
+Francia,FR,occupati,Occupati,2013-2019,2013,2019,27305.0,28662.0,4.97,0.812
+Francia,FR,occupati,Occupati,2019-2025,2019,2025,28662.0,30638.0,6.894,1.117
+Francia,FR,occupati,Occupati,1995-2025,1995,2025,23712.0,30638.0,29.209,0.858
+Francia,FR,occupati,Occupati,2000-2025,2000,2025,25690.0,30638.0,19.26,0.707
+Germania,DE,occupati,Occupati,1995-2007,1995,2007,38046.0,40281.0,5.874,0.477
+Germania,DE,occupati,Occupati,2007-2013,2007,2013,40281.0,42378.0,5.206,0.849
+Germania,DE,occupati,Occupati,2013-2019,2013,2019,42378.0,45291.0,6.874,1.114
+Germania,DE,occupati,Occupati,2019-2025,2019,2025,45291.0,45977.0,1.515,0.251
+Germania,DE,occupati,Occupati,1995-2025,1995,2025,38046.0,45977.0,20.846,0.633
+Germania,DE,occupati,Occupati,2000-2025,2000,2025,39976.0,45977.0,15.012,0.561
+Unione europea,EU27_2020,occupati,Occupati,1995-2007,1995,2007,178262.07,199550.84,11.942,0.945
+Unione europea,EU27_2020,occupati,Occupati,2007-2013,2007,2013,199550.84,194850.12,-2.356,-0.397
+Unione europea,EU27_2020,occupati,Occupati,2013-2019,2013,2019,194850.12,209894.48,7.721,1.247
+Unione europea,EU27_2020,occupati,Occupati,2019-2025,2019,2025,209894.48,220584.65,5.093,0.831
+Unione europea,EU27_2020,occupati,Occupati,1995-2025,1995,2025,178262.07,220584.65,23.742,0.713
+Unione europea,EU27_2020,occupati,Occupati,2000-2025,2000,2025,187423.4,220584.65,17.693,0.654
+Spagna,ES,ore_per_occupato,Ore per occupato,1995-2007,1995,2007,1735.9,1694.9,-2.362,-0.199
+Spagna,ES,ore_per_occupato,Ore per occupato,2007-2013,2007,2013,1694.9,1688.1,-0.401,-0.067
+Spagna,ES,ore_per_occupato,Ore per occupato,2013-2019,2013,2019,1688.1,1678.2,-0.586,-0.098
+Spagna,ES,ore_per_occupato,Ore per occupato,2019-2025,2019,2025,1678.2,1632.7,-2.711,-0.457
+Spagna,ES,ore_per_occupato,Ore per occupato,1995-2025,1995,2025,1735.9,1632.7,-5.945,-0.204
+Spagna,ES,ore_per_occupato,Ore per occupato,2000-2025,2000,2025,1753.1,1632.7,-6.868,-0.284
+Italia,IT,ore_per_occupato,Ore per occupato,1995-2007,1995,2007,1832.5,1786.2,-2.527,-0.213
+Italia,IT,ore_per_occupato,Ore per occupato,2007-2013,2007,2013,1786.2,1687.5,-5.526,-0.943
+Italia,IT,ore_per_occupato,Ore per occupato,2013-2019,2013,2019,1687.5,1680.5,-0.415,-0.069
+Italia,IT,ore_per_occupato,Ore per occupato,2019-2025,2019,2025,1680.5,1715.7,2.095,0.346
+Italia,IT,ore_per_occupato,Ore per occupato,1995-2025,1995,2025,1832.5,1715.7,-6.374,-0.219
+Italia,IT,ore_per_occupato,Ore per occupato,2000-2025,2000,2025,1827.7,1715.7,-6.128,-0.253
+Francia,FR,ore_per_occupato,Ore per occupato,1995-2007,1995,2007,1579.1,1525.3,-3.407,-0.288
+Francia,FR,ore_per_occupato,Ore per occupato,2007-2013,2007,2013,1525.3,1512.8,-0.82,-0.137
+Francia,FR,ore_per_occupato,Ore per occupato,2013-2019,2013,2019,1512.8,1504.4,-0.555,-0.093
+Francia,FR,ore_per_occupato,Ore per occupato,2019-2025,2019,2025,1504.4,1499.9,-0.299,-0.05
+Francia,FR,ore_per_occupato,Ore per occupato,1995-2025,1995,2025,1579.1,1499.9,-5.016,-0.171
+Francia,FR,ore_per_occupato,Ore per occupato,2000-2025,2000,2025,1542.1,1499.9,-2.737,-0.111
+Germania,DE,ore_per_occupato,Ore per occupato,1995-2007,1995,2007,1528.9,1453.9,-4.905,-0.418
+Germania,DE,ore_per_occupato,Ore per occupato,2007-2013,2007,2013,1453.9,1395.7,-4.003,-0.679
+Germania,DE,ore_per_occupato,Ore per occupato,2013-2019,2013,2019,1395.7,1372.0,-1.698,-0.285
+Germania,DE,ore_per_occupato,Ore per occupato,2019-2025,2019,2025,1372.0,1332.0,-2.915,-0.492
+Germania,DE,ore_per_occupato,Ore per occupato,1995-2025,1995,2025,1528.9,1332.0,-12.879,-0.459
+Germania,DE,ore_per_occupato,Ore per occupato,2000-2025,2000,2025,1464.5,1332.0,-9.047,-0.379
+Unione europea,EU27_2020,ore_per_occupato,Ore per occupato,1995-2007,1995,2007,1727.2,1679.4,-2.767,-0.234
+Unione europea,EU27_2020,ore_per_occupato,Ore per occupato,2007-2013,2007,2013,1679.4,1632.5,-2.793,-0.471
+Unione europea,EU27_2020,ore_per_occupato,Ore per occupato,2013-2019,2013,2019,1632.5,1621.2,-0.692,-0.116
+Unione europea,EU27_2020,ore_per_occupato,Ore per occupato,2019-2025,2019,2025,1621.2,1603.2,-1.11,-0.186
+Unione europea,EU27_2020,ore_per_occupato,Ore per occupato,1995-2025,1995,2025,1727.2,1603.2,-7.179,-0.248
+Unione europea,EU27_2020,ore_per_occupato,Ore per occupato,2000-2025,2000,2025,1707.1,1603.2,-6.086,-0.251
+Spagna,ES,ore_totali,Ore totali lavorate,1995-2007,1995,2007,24056275.79,36095776.83,50.047,3.439
+Spagna,ES,ore_totali,Ore totali lavorate,2007-2013,2007,2013,36095776.83,30228637.89,-16.254,-2.913
+Spagna,ES,ore_totali,Ore totali lavorate,2013-2019,2013,2019,30228637.89,34347887.22,13.627,2.152
+Spagna,ES,ore_totali,Ore totali lavorate,2019-2025,2019,2025,34347887.22,36907183.5,7.451,1.205
+Spagna,ES,ore_totali,Ore totali lavorate,1995-2025,1995,2025,24056275.79,36907183.5,53.42,1.437
+Spagna,ES,ore_totali,Ore totali lavorate,2000-2025,2000,2025,29326382.73,36907183.5,25.85,0.924
+Italia,IT,ore_totali,Ore totali lavorate,1995-2007,1995,2007,39711191.25,44837549.64,12.909,1.017
+Italia,IT,ore_totali,Ore totali lavorate,2007-2013,2007,2013,44837549.64,40743000.0,-9.132,-1.583
+Italia,IT,ore_totali,Ore totali lavorate,2013-2019,2013,2019,40743000.0,42598994.5,4.555,0.745
+Italia,IT,ore_totali,Ore totali lavorate,2019-2025,2019,2025,42598994.5,46040981.07,8.08,1.303
+Italia,IT,ore_totali,Ore totali lavorate,1995-2025,1995,2025,39711191.25,46040981.07,15.94,0.494
+Italia,IT,ore_totali,Ore totali lavorate,2000-2025,2000,2025,41685998.83,46040981.07,10.447,0.398
+Francia,FR,ore_totali,Ore totali lavorate,1995-2007,1995,2007,37443619.2,41318851.7,10.35,0.824
+Francia,FR,ore_totali,Ore totali lavorate,2007-2013,2007,2013,41318851.7,41307004.0,-0.029,-0.005
+Francia,FR,ore_totali,Ore totali lavorate,2013-2019,2013,2019,41307004.0,43119112.8,4.387,0.718
+Francia,FR,ore_totali,Ore totali lavorate,2019-2025,2019,2025,43119112.8,45953936.2,6.574,1.067
+Francia,FR,ore_totali,Ore totali lavorate,1995-2025,1995,2025,37443619.2,45953936.2,22.728,0.685
+Francia,FR,ore_totali,Ore totali lavorate,2000-2025,2000,2025,39616549.0,45953936.2,15.997,0.595
+Germania,DE,ore_totali,Ore totali lavorate,1995-2007,1995,2007,58168529.4,58564545.9,0.681,0.057
+Germania,DE,ore_totali,Ore totali lavorate,2007-2013,2007,2013,58564545.9,59146974.6,0.995,0.165
+Germania,DE,ore_totali,Ore totali lavorate,2013-2019,2013,2019,59146974.6,62139252.0,5.059,0.826
+Germania,DE,ore_totali,Ore totali lavorate,2019-2025,2019,2025,62139252.0,61241364.0,-1.445,-0.242
+Germania,DE,ore_totali,Ore totali lavorate,1995-2025,1995,2025,58168529.4,61241364.0,5.283,0.172
+Germania,DE,ore_totali,Ore totali lavorate,2000-2025,2000,2025,58544852.0,61241364.0,4.606,0.18
+Unione europea,EU27_2020,ore_totali,Ore totali lavorate,1995-2007,1995,2007,307894247.304,335125680.696,8.844,0.709
+Unione europea,EU27_2020,ore_totali,Ore totali lavorate,2007-2013,2007,2013,335125680.696,318092820.9,-5.083,-0.866
+Unione europea,EU27_2020,ore_totali,Ore totali lavorate,2013-2019,2013,2019,318092820.9,340280930.976,6.975,1.13
+Unione europea,EU27_2020,ore_totali,Ore totali lavorate,2019-2025,2019,2025,340280930.976,353641310.88,3.926,0.644
+Unione europea,EU27_2020,ore_totali,Ore totali lavorate,1995-2025,1995,2025,307894247.304,353641310.88,14.858,0.463
+Unione europea,EU27_2020,ore_totali,Ore totali lavorate,2000-2025,2000,2025,319950486.14,353641310.88,10.53,0.401
+Spagna,ES,occupati_su_popolazione,Occupati su popolazione,1995-2007,1995,2007,34.89,47.079,34.934,2.528
+Spagna,ES,occupati_su_popolazione,Occupati su popolazione,2007-2013,2007,2013,47.079,38.442,-18.345,-3.321
+Spagna,ES,occupati_su_popolazione,Occupati su popolazione,2013-2019,2013,2019,38.442,43.466,13.067,2.068
+Spagna,ES,occupati_su_popolazione,Occupati su popolazione,2019-2025,2019,2025,43.466,45.84,5.463,0.89
+Spagna,ES,occupati_su_popolazione,Occupati su popolazione,1995-2025,1995,2025,34.89,45.84,31.384,0.914
+Spagna,ES,occupati_su_popolazione,Occupati su popolazione,2000-2025,2000,2025,41.249,45.84,11.131,0.423
+Italia,IT,occupati_su_popolazione,Occupati su popolazione,1995-2007,1995,2007,38.123,42.723,12.067,0.954
+Italia,IT,occupati_su_popolazione,Occupati su popolazione,2007-2013,2007,2013,42.723,40.032,-6.298,-1.078
+Italia,IT,occupati_su_popolazione,Occupati su popolazione,2013-2019,2013,2019,40.032,42.44,6.015,0.978
+Italia,IT,occupati_su_popolazione,Occupati su popolazione,2019-2025,2019,2025,42.44,45.524,7.267,1.176
+Italia,IT,occupati_su_popolazione,Occupati su popolazione,1995-2025,1995,2025,38.123,45.524,19.415,0.593
+Italia,IT,occupati_su_popolazione,Occupati su popolazione,2000-2025,2000,2025,40.055,45.524,13.655,0.513
+Francia,FR,occupati_su_popolazione,Occupati su popolazione,1995-2007,1995,2007,39.914,42.476,6.417,0.52
+Francia,FR,occupati_su_popolazione,Occupati su popolazione,2007-2013,2007,2013,42.476,41.57,-2.132,-0.359
+Francia,FR,occupati_su_popolazione,Occupati su popolazione,2013-2019,2013,2019,41.57,42.528,2.303,0.38
+Francia,FR,occupati_su_popolazione,Occupati su popolazione,2019-2025,2019,2025,42.528,44.404,4.412,0.722
+Francia,FR,occupati_su_popolazione,Occupati su popolazione,1995-2025,1995,2025,39.914,44.404,11.248,0.356
+Francia,FR,occupati_su_popolazione,Occupati su popolazione,2000-2025,2000,2025,42.291,44.404,4.997,0.195
+Germania,DE,occupati_su_popolazione,Occupati su popolazione,1995-2007,1995,2007,46.792,49.735,6.288,0.509
+Germania,DE,occupati_su_popolazione,Occupati su popolazione,2007-2013,2007,2013,49.735,52.632,5.827,0.948
+Germania,DE,occupati_su_popolazione,Occupati su popolazione,2013-2019,2013,2019,52.632,55.097,4.682,0.766
+Germania,DE,occupati_su_popolazione,Occupati su popolazione,2019-2025,2019,2025,55.097,55.054,-0.077,-0.013
+Germania,DE,occupati_su_popolazione,Occupati su popolazione,1995-2025,1995,2025,46.792,55.054,17.657,0.543
+Germania,DE,occupati_su_popolazione,Occupati su popolazione,2000-2025,2000,2025,49.076,55.054,12.181,0.461
+Unione europea,EU27_2020,occupati_su_popolazione,Occupati su popolazione,1995-2007,1995,2007,41.928,45.649,8.875,0.711
+Unione europea,EU27_2020,occupati_su_popolazione,Occupati su popolazione,2007-2013,2007,2013,45.649,44.121,-3.347,-0.566
+Unione europea,EU27_2020,occupati_su_popolazione,Occupati su popolazione,2013-2019,2013,2019,44.121,47.108,6.771,1.098
+Unione europea,EU27_2020,occupati_su_popolazione,Occupati su popolazione,2019-2025,2019,2025,47.108,48.78,3.549,0.583
+Unione europea,EU27_2020,occupati_su_popolazione,Occupati su popolazione,1995-2025,1995,2025,41.928,48.78,16.344,0.506
+Unione europea,EU27_2020,occupati_su_popolazione,Occupati su popolazione,2000-2025,2000,2025,43.774,48.78,11.437,0.434
+Spagna,ES,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2007,1995,2007,30.09,30.874,2.602,0.214
+Spagna,ES,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2007-2013,2007,2013,30.874,34.042,10.263,1.642
+Spagna,ES,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2013-2019,2013,2019,34.042,34.992,2.791,0.46
+Spagna,ES,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2019-2025,2019,2025,34.992,35.873,2.517,0.415
+Spagna,ES,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2025,1995,2025,30.09,35.873,19.216,0.588
+Spagna,ES,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2000-2025,2000,2025,30.056,35.873,19.353,0.71
+Italia,IT,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2007,1995,2007,37.941,40.346,6.337,0.513
+Italia,IT,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2007-2013,2007,2013,40.346,40.466,0.298,0.05
+Italia,IT,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2013-2019,2013,2019,40.466,40.667,0.498,0.083
+Italia,IT,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2019-2025,2019,2025,40.667,40.039,-1.545,-0.259
+Italia,IT,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2025,1995,2025,37.941,40.039,5.529,0.18
+Italia,IT,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2000-2025,2000,2025,40.147,40.039,-0.27,-0.011
+Francia,FR,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2007,1995,2007,42.107,50.721,20.457,1.563
+Francia,FR,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2007-2013,2007,2013,50.721,52.21,2.937,0.484
+Francia,FR,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2013-2019,2013,2019,52.21,54.514,4.413,0.722
+Francia,FR,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2019-2025,2019,2025,54.514,54.054,-0.845,-0.141
+Francia,FR,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2025,1995,2025,42.107,54.054,28.372,0.836
+Francia,FR,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2000-2025,2000,2025,46.089,54.054,17.281,0.64
+Germania,DE,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2007,1995,2007,40.507,48.861,20.624,1.575
+Germania,DE,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2007-2013,2007,2013,48.861,50.243,2.829,0.466
+Germania,DE,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2013-2019,2013,2019,50.243,53.313,6.11,0.993
+Germania,DE,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2019-2025,2019,2025,53.313,54.235,1.729,0.286
+Germania,DE,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2025,1995,2025,40.507,54.235,33.889,0.978
+Germania,DE,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2000-2025,2000,2025,44.429,54.235,22.07,0.801
+Unione europea,EU27_2020,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2007,1995,2007,28.877,35.515,22.987,1.739
+Unione europea,EU27_2020,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2007-2013,2007,2013,35.515,37.203,4.754,0.777
+Unione europea,EU27_2020,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2013-2019,2013,2019,37.203,39.403,5.911,0.962
+Unione europea,EU27_2020,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2019-2025,2019,2025,39.403,40.659,3.19,0.525
+Unione europea,EU27_2020,produttivita_oraria_residuo,Produttività oraria (PIL/ore),1995-2025,1995,2025,28.877,40.659,40.802,1.147
+Unione europea,EU27_2020,produttivita_oraria_residuo,Produttività oraria (PIL/ore),2000-2025,2000,2025,32.021,40.659,26.978,0.96
+Spagna,ES,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2007,1995,2007,52234.036,52327.572,0.179,0.015
+Spagna,ES,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2007-2013,2007,2013,52327.572,57466.234,9.82,1.573
+Spagna,ES,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2013-2019,2013,2019,57466.234,58723.42,2.188,0.361
+Spagna,ES,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2019-2025,2019,2025,58723.42,58569.405,-0.262,-0.044
+Spagna,ES,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2025,1995,2025,52234.036,58569.405,12.129,0.382
+Spagna,ES,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2000-2025,2000,2025,52691.314,58569.405,11.156,0.424
+Italia,IT,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2007,1995,2007,69527.385,72065.373,3.65,0.299
+Italia,IT,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2007-2013,2007,2013,72065.373,68286.067,-5.244,-0.894
+Italia,IT,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2013-2019,2013,2019,68286.067,68341.505,0.081,0.014
+Italia,IT,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2019-2025,2019,2025,68341.505,68695.231,0.518,0.086
+Italia,IT,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2025,1995,2025,69527.385,68695.231,-1.197,-0.04
+Italia,IT,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2000-2025,2000,2025,73377.391,68695.231,-6.381,-0.263
+Francia,FR,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2007,1995,2007,66491.148,77364.373,16.353,1.27
+Francia,FR,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2007-2013,2007,2013,77364.373,78983.563,2.093,0.346
+Francia,FR,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2013-2019,2013,2019,78983.563,82011.517,3.834,0.629
+Francia,FR,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2019-2025,2019,2025,82011.517,81075.243,-1.142,-0.191
+Francia,FR,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2025,1995,2025,66491.148,81075.243,21.934,0.663
+Francia,FR,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2000-2025,2000,2025,71074.309,81075.243,14.071,0.528
+Germania,DE,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2007,1995,2007,61931.407,71039.376,14.707,1.15
+Germania,DE,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2007-2013,2007,2013,71039.376,70124.659,-1.288,-0.216
+Germania,DE,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2013-2019,2013,2019,70124.659,73145.669,4.308,0.705
+Germania,DE,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2019-2025,2019,2025,73145.669,72240.807,-1.237,-0.207
+Germania,DE,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2025,1995,2025,61931.407,72240.807,16.646,0.515
+Germania,DE,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2000-2025,2000,2025,65066.755,72240.807,11.026,0.419
+Unione europea,EU27_2020,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2007,1995,2007,49876.607,59644.073,19.583,1.502
+Unione europea,EU27_2020,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2007-2013,2007,2013,59644.073,60734.588,1.828,0.302
+Unione europea,EU27_2020,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2013-2019,2013,2019,60734.588,63879.407,5.178,0.845
+Unione europea,EU27_2020,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2019-2025,2019,2025,63879.407,65185.273,2.044,0.338
+Unione europea,EU27_2020,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),1995-2025,1995,2025,49876.607,65185.273,30.693,0.896
+Unione europea,EU27_2020,produttivita_per_occupato_residuo,Produttività per occupato (PIL/occupati),2000-2025,2000,2025,54662.842,65185.273,19.25,0.707
+Spagna,ES,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2007,1995,2007,87.073,89.342,2.606,0.215
+Spagna,ES,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2007-2013,2007,2013,89.342,98.508,10.259,1.641
+Spagna,ES,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2013-2019,2013,2019,98.508,101.256,2.79,0.46
+Spagna,ES,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2019-2025,2019,2025,101.256,103.807,2.519,0.416
+Spagna,ES,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2025,1995,2025,87.073,103.807,19.218,0.588
+Spagna,ES,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2000-2025,2000,2025,86.975,103.807,19.353,0.71
+Italia,IT,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2007,1995,2007,93.585,99.514,6.335,0.513
+Italia,IT,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2007-2013,2007,2013,99.514,99.813,0.3,0.05
+Italia,IT,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2013-2019,2013,2019,99.813,100.309,0.497,0.083
+Italia,IT,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2019-2025,2019,2025,100.309,98.758,-1.546,-0.259
+Italia,IT,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2025,1995,2025,93.585,98.758,5.528,0.18
+Italia,IT,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2000-2025,2000,2025,99.026,98.758,-0.271,-0.011
+Francia,FR,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2007,1995,2007,79.19,95.385,20.451,1.563
+Francia,FR,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2007-2013,2007,2013,95.385,98.189,2.94,0.484
+Francia,FR,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2013-2019,2013,2019,98.189,102.524,4.415,0.723
+Francia,FR,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2019-2025,2019,2025,102.524,101.654,-0.849,-0.142
+Francia,FR,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2025,1995,2025,79.19,101.654,28.367,0.836
+Francia,FR,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2000-2025,2000,2025,86.676,101.654,17.28,0.64
+Germania,DE,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2007,1995,2007,79.335,95.699,20.626,1.575
+Germania,DE,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2007-2013,2007,2013,95.699,98.401,2.823,0.465
+Germania,DE,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2013-2019,2013,2019,98.401,104.412,6.109,0.993
+Germania,DE,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2019-2025,2019,2025,104.412,106.221,1.733,0.287
+Germania,DE,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2025,1995,2025,79.335,106.221,33.889,0.978
+Germania,DE,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2000-2025,2000,2025,87.014,106.221,22.073,0.801
+Unione europea,EU27_2020,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2007,1995,2007,75.974,93.439,22.988,1.739
+Unione europea,EU27_2020,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2007-2013,2007,2013,93.439,97.88,4.753,0.777
+Unione europea,EU27_2020,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2013-2019,2013,2019,97.88,103.663,5.908,0.961
+Unione europea,EU27_2020,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2019-2025,2019,2025,103.663,106.972,3.192,0.525
+Unione europea,EU27_2020,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),1995-2025,1995,2025,75.974,106.972,40.801,1.147
+Unione europea,EU27_2020,produttivita_oraria_rlpr_hw,Produttività oraria (indice Eurostat),2000-2025,2000,2025,84.244,106.972,26.979,0.96
+Spagna,ES,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2007,1995,2007,89.441,89.601,0.179,0.015
+Spagna,ES,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2007-2013,2007,2013,89.601,98.4,9.82,1.573
+Spagna,ES,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2013-2019,2013,2019,98.4,100.553,2.188,0.361
+Spagna,ES,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2019-2025,2019,2025,100.553,100.289,-0.263,-0.044
+Spagna,ES,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2025,1995,2025,89.441,100.289,12.129,0.382
+Spagna,ES,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2000-2025,2000,2025,90.224,100.289,11.156,0.424
+Italia,IT,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2007,1995,2007,101.591,105.299,3.65,0.299
+Italia,IT,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2007-2013,2007,2013,105.299,99.777,-5.244,-0.894
+Italia,IT,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2013-2019,2013,2019,99.777,99.858,0.081,0.014
+Italia,IT,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2019-2025,2019,2025,99.858,100.375,0.518,0.086
+Italia,IT,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2025,1995,2025,101.591,100.375,-1.197,-0.04
+Italia,IT,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2000-2025,2000,2025,107.216,100.375,-6.381,-0.263
+Francia,FR,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2007,1995,2007,83.124,96.718,16.354,1.27
+Francia,FR,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2007-2013,2007,2013,96.718,98.742,2.093,0.346
+Francia,FR,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2013-2019,2013,2019,98.742,102.527,3.833,0.629
+Francia,FR,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2019-2025,2019,2025,102.527,101.357,-1.141,-0.191
+Francia,FR,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2025,1995,2025,83.124,101.357,21.935,0.663
+Francia,FR,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2000-2025,2000,2025,88.854,101.357,14.071,0.528
+Germania,DE,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2007,1995,2007,86.541,99.268,14.706,1.15
+Germania,DE,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2007-2013,2007,2013,99.268,97.99,-1.287,-0.216
+Germania,DE,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2013-2019,2013,2019,97.99,102.211,4.308,0.705
+Germania,DE,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2019-2025,2019,2025,102.211,100.947,-1.237,-0.207
+Germania,DE,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2025,1995,2025,86.541,100.947,16.646,0.515
+Germania,DE,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2000-2025,2000,2025,90.922,100.947,11.026,0.419
+Unione europea,EU27_2020,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2007,1995,2007,80.424,96.174,19.584,1.502
+Unione europea,EU27_2020,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2007-2013,2007,2013,96.174,97.933,1.829,0.303
+Unione europea,EU27_2020,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2013-2019,2013,2019,97.933,103.004,5.178,0.845
+Unione europea,EU27_2020,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2019-2025,2019,2025,103.004,105.109,2.044,0.338
+Unione europea,EU27_2020,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),1995-2025,1995,2025,80.424,105.109,30.694,0.896
+Unione europea,EU27_2020,produttivita_per_occupato_rlpr_per,Produttività per occupato (indice Eurostat),2000-2025,2000,2025,88.142,105.109,19.25,0.707

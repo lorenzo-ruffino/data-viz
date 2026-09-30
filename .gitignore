@@ -42,8 +42,8 @@ Elezioni Italia/2025_11_23_Veneto_Regionali/Regionali_AltreRegioni_candidDiLista
 Referendum 2 giugno 1946/
 Salario Minimo Italia/
 
-# Worktree Claude
-.claude/worktrees/
+# Config locali di Claude Code (in ogni cartella)
+.claude/
 .kagi.toml
 
 # Credenziali Copernicus CDS
@@ -60,3 +60,17 @@ Temperature Copernicus/output/griglia_mensile.csv.gz
 
 # PDF (report, paper, fonti scaricate)
 *.pdf
+
+# Dati da non ridistribuire o di origine non documentata
+Opinioni economiche ESS/input/ess_slim.rds
+Elezioni amministrative 2026 - 24 e 25 maggio/output/sondaggi_candidati_2026.csv
+Elezioni amministrative 2026 - 24 e 25 maggio/output/sondaggi_comunali_2024_2026.csv
+
+# Log e segnaposto degli script
+Venezia 2026/output/scrape_log.txt
+Temperature Copernicus/output/log_*.txt
+Temperature Copernicus/output/.*_done
+
+# Progetti locali non ancora da pubblicare
+Crescita Futuro Nazionale/
+Meritocrazia e produttività/

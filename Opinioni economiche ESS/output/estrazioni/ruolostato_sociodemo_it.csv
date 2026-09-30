@@ -1,0 +1,181 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi,flag_n_basso
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:centro,centro,8.04,media,783,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:centro,centro,81.8,pct_7_10,783,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:destra,destra,8.08,media,481,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:destra,destra,81,pct_7_10,481,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:sinistra,sinistra,8.28,media,421,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:sinistra,sinistra,86,pct_7_10,421,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:altro inattivo,altro inattivo,8.14,media,260,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:altro inattivo,altro inattivo,81.9,pct_7_10,260,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:disoccupati,disoccupati,8.06,media,250,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:disoccupati,disoccupati,79,pct_7_10,250,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:occupati,occupati,8.13,media,1211,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:occupati,occupati,82.6,pct_7_10,1211,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:pensionati,pensionati,8.24,media,566,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:pensionati,pensionati,83.6,pct_7_10,566,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:studenti,studenti,8.05,media,251,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,condizione:studenti,studenti,81.8,pct_7_10,251,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:alto,alto,8.32,media,235,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:alto,alto,86.7,pct_7_10,235,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:basso,basso,8.01,media,550,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:basso,basso,79.9,pct_7_10,550,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:medio,medio,8.03,media,686,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:medio,medio,84.1,pct_7_10,686,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,eta:15-34,15-34,8.03,media,667,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,eta:15-34,15-34,80.9,pct_7_10,667,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,eta:35-54,35-54,8.15,media,900,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,eta:35-54,35-54,82.1,pct_7_10,900,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,eta:55+,55+,8.2,media,978,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,eta:55+,55+,83.3,pct_7_10,978,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,genere:donne,donne,8.22,media,1311,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,genere:donne,donne,83.8,pct_7_10,1311,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,genere:uomini,uomini,8.06,media,1247,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,genere:uomini,uomini,80.8,pct_7_10,1247,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,istruzione:alta,alta,8.24,media,330,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,istruzione:alta,alta,85.5,pct_7_10,330,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,istruzione:bassa,bassa,8.09,media,1136,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,istruzione:bassa,bassa,80.4,pct_7_10,1136,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,istruzione:media,media,8.18,media,1067,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,istruzione:media,media,83.7,pct_7_10,1067,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:difficolta,difficolta,8.05,media,547,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:difficolta,difficolta,78.7,pct_7_10,547,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:grande difficolta,grande difficolta,7.97,media,180,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:grande difficolta,grande difficolta,76.6,pct_7_10,180,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:se la cava,se la cava,8.21,media,1191,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:se la cava,se la cava,84.2,pct_7_10,1191,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:vive comodamente,vive comodamente,8.17,media,578,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:vive comodamente,vive comodamente,84.5,pct_7_10,578,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,settore:autonomi,autonomi,8.18,media,252,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,settore:autonomi,autonomi,81.7,pct_7_10,252,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,settore:privato,privato,8.22,media,1239,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,settore:privato,privato,85,pct_7_10,1239,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,settore:pubblico,pubblico,8.15,media,351,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,settore:pubblico,pubblico,81,pct_7_10,351,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,sindacato:ex iscritto,ex iscritto,8.24,media,199,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,sindacato:ex iscritto,ex iscritto,85.4,pct_7_10,199,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,sindacato:iscritto,iscritto,8.41,media,176,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,sindacato:iscritto,iscritto,87.4,pct_7_10,176,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,sindacato:mai iscritto,mai iscritto,8.11,media,2153,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,sindacato:mai iscritto,mai iscritto,81.6,pct_7_10,2153,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",8.14,media,2558,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",82.3,pct_7_10,2558,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:centro,centro,8.25,media,787,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:centro,centro,87.9,pct_7_10,787,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:destra,destra,8.43,media,482,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:destra,destra,87.8,pct_7_10,482,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:sinistra,sinistra,8.54,media,427,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:sinistra,sinistra,91.4,pct_7_10,427,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:altro inattivo,altro inattivo,8.66,media,261,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:altro inattivo,altro inattivo,91.1,pct_7_10,261,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:disoccupati,disoccupati,8.57,media,251,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:disoccupati,disoccupati,89.5,pct_7_10,251,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:occupati,occupati,8.35,media,1224,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:occupati,occupati,87.4,pct_7_10,1224,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:pensionati,pensionati,8.65,media,582,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:pensionati,pensionati,90.3,pct_7_10,582,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:studenti,studenti,8.17,media,254,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,condizione:studenti,studenti,86.6,pct_7_10,254,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:alto,alto,8.19,media,237,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:alto,alto,87.8,pct_7_10,237,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:basso,basso,8.61,media,561,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:basso,basso,89.9,pct_7_10,561,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:medio,medio,8.3,media,698,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:medio,medio,89.2,pct_7_10,698,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,eta:15-34,15-34,8.25,media,678,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,eta:15-34,15-34,86.5,pct_7_10,678,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,eta:35-54,35-54,8.39,media,904,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,eta:35-54,35-54,87.5,pct_7_10,904,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,eta:55+,55+,8.64,media,997,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,eta:55+,55+,90.8,pct_7_10,997,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,genere:donne,donne,8.51,media,1325,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,genere:donne,donne,88.9,pct_7_10,1325,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,genere:uomini,uomini,8.41,media,1267,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,genere:uomini,uomini,88.3,pct_7_10,1267,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,istruzione:alta,alta,8.21,media,333,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,istruzione:alta,alta,87.2,pct_7_10,333,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,istruzione:bassa,bassa,8.57,media,1159,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,istruzione:bassa,bassa,89.9,pct_7_10,1159,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,istruzione:media,media,8.4,media,1076,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,istruzione:media,media,87.5,pct_7_10,1076,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:difficolta,difficolta,8.48,media,557,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:difficolta,difficolta,85.7,pct_7_10,557,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:grande difficolta,grande difficolta,8.96,media,185,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:grande difficolta,grande difficolta,93.6,pct_7_10,185,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:se la cava,se la cava,8.5,media,1205,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:se la cava,se la cava,90.4,pct_7_10,1205,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:vive comodamente,vive comodamente,8.18,media,584,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:vive comodamente,vive comodamente,86,pct_7_10,584,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,settore:autonomi,autonomi,8.55,media,255,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,settore:autonomi,autonomi,87.4,pct_7_10,255,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,settore:privato,privato,8.45,media,1258,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,settore:privato,privato,89.9,pct_7_10,1258,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,settore:pubblico,pubblico,8.36,media,357,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,settore:pubblico,pubblico,86.8,pct_7_10,357,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,sindacato:ex iscritto,ex iscritto,8.65,media,201,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,sindacato:ex iscritto,ex iscritto,92.4,pct_7_10,201,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,sindacato:iscritto,iscritto,8.52,media,178,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,sindacato:iscritto,iscritto,88.8,pct_7_10,178,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,sindacato:mai iscritto,mai iscritto,8.43,media,2180,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,sindacato:mai iscritto,mai iscritto,88.3,pct_7_10,2180,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",8.46,media,2592,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",88.6,pct_7_10,2592,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:centro,centro,7.43,media,782,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:centro,centro,69,pct_7_10,782,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:destra,destra,7.51,media,480,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:destra,destra,68.8,pct_7_10,480,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:sinistra,sinistra,7.87,media,426,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,collocazione_politica:sinistra,sinistra,76.7,pct_7_10,426,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:altro inattivo,altro inattivo,7.98,media,259,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:altro inattivo,altro inattivo,78.3,pct_7_10,259,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:disoccupati,disoccupati,8.4,media,251,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:disoccupati,disoccupati,82.1,pct_7_10,251,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:occupati,occupati,7.49,media,1218,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:occupati,occupati,69,pct_7_10,1218,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:pensionati,pensionati,7.67,media,575,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:pensionati,pensionati,70.1,pct_7_10,575,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:studenti,studenti,7.61,media,254,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,condizione:studenti,studenti,76.2,pct_7_10,254,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:alto,alto,7.27,media,237,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:alto,alto,67.3,pct_7_10,237,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:basso,basso,7.86,media,557,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:basso,basso,74.8,pct_7_10,557,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:medio,medio,7.52,media,691,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,decile_reddito:medio,medio,71,pct_7_10,691,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,eta:15-34,15-34,7.73,media,678,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,eta:15-34,15-34,73.9,pct_7_10,678,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,eta:35-54,35-54,7.61,media,900,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,eta:35-54,35-54,70.6,pct_7_10,900,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,eta:55+,55+,7.73,media,986,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,eta:55+,55+,72.6,pct_7_10,986,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,genere:donne,donne,7.8,media,1319,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,genere:donne,donne,74.5,pct_7_10,1319,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,genere:uomini,uomini,7.56,media,1258,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,genere:uomini,uomini,69.7,pct_7_10,1258,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,istruzione:alta,alta,7.36,media,333,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,istruzione:alta,alta,68.2,pct_7_10,333,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,istruzione:bassa,bassa,7.89,media,1151,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,istruzione:bassa,bassa,75.8,pct_7_10,1151,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,istruzione:media,media,7.55,media,1069,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,istruzione:media,media,69.1,pct_7_10,1069,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:difficolta,difficolta,7.81,media,551,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:difficolta,difficolta,70.5,pct_7_10,551,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:grande difficolta,grande difficolta,8.35,media,185,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:grande difficolta,grande difficolta,83.7,pct_7_10,185,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:se la cava,se la cava,7.67,media,1197,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:se la cava,se la cava,73.4,pct_7_10,1197,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:vive comodamente,vive comodamente,7.41,media,581,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,reddito_percepito:vive comodamente,vive comodamente,68.3,pct_7_10,581,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,settore:autonomi,autonomi,7.42,media,253,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,settore:autonomi,autonomi,65.6,pct_7_10,253,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,settore:privato,privato,7.66,media,1255,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,settore:privato,privato,72.9,pct_7_10,1255,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,settore:pubblico,pubblico,7.48,media,352,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,settore:pubblico,pubblico,67.9,pct_7_10,352,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,sindacato:ex iscritto,ex iscritto,7.64,media,199,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,sindacato:ex iscritto,ex iscritto,72.4,pct_7_10,199,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,sindacato:iscritto,iscritto,7.37,media,176,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,sindacato:iscritto,iscritto,64.2,pct_7_10,176,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,sindacato:mai iscritto,mai iscritto,7.71,media,2169,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,sindacato:mai iscritto,mai iscritto,72.8,pct_7_10,2169,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",7.69,media,2577,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",72.2,pct_7_10,2577,FALSE

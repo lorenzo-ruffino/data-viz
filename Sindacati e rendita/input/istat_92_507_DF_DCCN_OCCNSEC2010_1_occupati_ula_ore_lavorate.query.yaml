@@ -1,0 +1,34 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 92_507_DF_DCCN_OCCNSEC2010_1
+description: Occupati, unità di lavoro, posizioni lavorative e ore lavorate
+filters:
+  FREQ:
+    value: A
+    description: ''
+  REF_AREA:
+    value: IT
+    description: ''
+  DATA_TYPE_AGGR:
+    value: FT
+    description: ''
+  BRKDW_INDUSTRY_NACE_REV2:
+    value: _T
+    description: ''
+  TYPE_EMPLOYMENT:
+    value: TOT
+    description: ''
+  INSTITUTIONAL_SECTOR:
+    value: S1
+    description: ''
+  ADJUSTMENT:
+    value: N
+    description: ''
+  EDITION:
+    value: 2026M3
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

@@ -1,0 +1,17 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 167_747_DCSP_NIC2B2025_1
+description: Prezzi al consumo per l’intera collettività (Nic) - medie annue dal 1996
+  al 2025 (basi 1995, 2010, 2015) - Ecoicop 2
+filters:
+  REF_AREA:
+    value: IT
+    description: ''
+  ECOICOP_2:
+    value: '00'
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

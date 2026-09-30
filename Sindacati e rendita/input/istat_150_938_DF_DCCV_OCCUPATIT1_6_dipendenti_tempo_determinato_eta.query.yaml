@@ -1,0 +1,17 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 150_938_DF_DCCV_OCCUPATIT1_6
+description: Occupati  (migliaia) - Dipendenti a tempo determinato/indeterminato,
+  tempo pieno/parziale, età
+filters:
+  FREQ:
+    value: A
+    description: ''
+  REF_AREA:
+    value: IT
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

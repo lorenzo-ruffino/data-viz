@@ -1,0 +1,16 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 155_374_DF_DCSC_RETRULAOROS_1_4
+description: Retribuzioni per Ula (base 2021)
+filters:
+  REF_AREA:
+    value: IT
+    description: ''
+  ADJUSTMENT:
+    value: N
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

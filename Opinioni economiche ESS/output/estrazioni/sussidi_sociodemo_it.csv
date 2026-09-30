@@ -1,0 +1,181 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,tutti,,28.2,pct_accordo,2403
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,tutti,,26.9,pct_neutro,2403
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,tutti,,44.8,pct_disaccordo,2403
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:15-34,,23.9,pct_accordo,619
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:15-34,,27.6,pct_neutro,619
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:15-34,,48.5,pct_disaccordo,619
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:35-54,,29.2,pct_accordo,854
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:35-54,,26.6,pct_neutro,854
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:35-54,,44.2,pct_disaccordo,854
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:55+,,30.1,pct_accordo,919
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:55+,,26.6,pct_neutro,919
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,eta:55+,,43.3,pct_disaccordo,919
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,genere:donne,,28.1,pct_accordo,1220
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,genere:donne,,26,pct_neutro,1220
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,genere:donne,,45.9,pct_disaccordo,1220
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,genere:uomini,,28.5,pct_accordo,1183
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,genere:uomini,,27.8,pct_neutro,1183
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,genere:uomini,,43.8,pct_disaccordo,1183
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:alta,,27.5,pct_accordo,319
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:alta,,24.7,pct_neutro,319
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:alta,,47.8,pct_disaccordo,319
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:bassa,,28.7,pct_accordo,1048
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:bassa,,26.6,pct_neutro,1048
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:bassa,,44.6,pct_disaccordo,1048
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:media,,27.9,pct_accordo,1017
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:media,,27.7,pct_neutro,1017
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,istruzione:media,,44.5,pct_disaccordo,1017
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:altro_inattivo,,28.8,pct_accordo,242
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:altro_inattivo,,26.5,pct_neutro,242
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:altro_inattivo,,44.8,pct_disaccordo,242
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:disoccupati,,26.1,pct_accordo,237
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:disoccupati,,24.3,pct_neutro,237
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:disoccupati,,49.5,pct_disaccordo,237
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:occupati,,27.6,pct_accordo,1161
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:occupati,,27.3,pct_neutro,1161
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:occupati,,45.2,pct_disaccordo,1161
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:pensionati,,32.6,pct_accordo,528
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:pensionati,,26.5,pct_neutro,528
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:pensionati,,40.8,pct_disaccordo,528
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:studenti,,22.2,pct_accordo,220
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:studenti,,28.9,pct_neutro,220
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,condizione:studenti,,49,pct_disaccordo,220
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:autonomi,,30.1,pct_accordo,239
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:autonomi,,27.9,pct_neutro,239
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:autonomi,,42,pct_disaccordo,239
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:privato,,27.8,pct_accordo,1177
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:privato,,26.3,pct_neutro,1177
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:privato,,45.9,pct_disaccordo,1177
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:pubblico,,29,pct_accordo,345
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:pubblico,,24.2,pct_neutro,345
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,settore:pubblico,,46.8,pct_disaccordo,345
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:difficolta,,31.4,pct_accordo,508
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:difficolta,,23.3,pct_neutro,508
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:difficolta,,45.4,pct_disaccordo,508
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:grande_difficolta,,27,pct_accordo,175
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:grande_difficolta,,23.3,pct_neutro,175
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:grande_difficolta,,49.7,pct_disaccordo,175
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:se_la_cava,,27.9,pct_accordo,1109
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:se_la_cava,,27,pct_neutro,1109
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:se_la_cava,,45.2,pct_disaccordo,1109
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:vive_comodamente,,26.3,pct_accordo,555
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:vive_comodamente,,29.8,pct_neutro,555
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,reddito_percepito:vive_comodamente,,43.9,pct_disaccordo,555
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:alto,,25.9,pct_accordo,224
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:alto,,27,pct_neutro,224
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:alto,,47.1,pct_disaccordo,224
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:basso,,29.3,pct_accordo,520
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:basso,,20.9,pct_neutro,520
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:basso,,49.8,pct_disaccordo,520
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:medio,,32,pct_accordo,665
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:medio,,24.7,pct_neutro,665
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,decile_reddito:medio,,43.3,pct_disaccordo,665
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:in_passato,,29,pct_accordo,188
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:in_passato,,28.7,pct_neutro,188
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:in_passato,,42.3,pct_disaccordo,188
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:iscritto_ora,,27.8,pct_accordo,172
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:iscritto_ora,,21.5,pct_neutro,172
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:iscritto_ora,,50.7,pct_disaccordo,172
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:mai,,28.3,pct_accordo,2013
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:mai,,26.8,pct_neutro,2013
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,sindacato:mai,,44.9,pct_disaccordo,2013
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:centro,,31.2,pct_accordo,741
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:centro,,28.7,pct_neutro,741
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:centro,,40.1,pct_disaccordo,741
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:destra,,33.2,pct_accordo,464
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:destra,,23,pct_neutro,464
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:destra,,43.8,pct_disaccordo,464
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:sinistra,,23.4,pct_accordo,401
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:sinistra,,24.1,pct_neutro,401
+sussidi,sblazy,I benefici sociali rendono le persone pigre,8,2016,IT,posizione_politica:sinistra,,52.5,pct_disaccordo,401
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,tutti,,38.4,pct_accordo,2528
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,tutti,,24.3,pct_neutro,2528
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,tutti,,37.3,pct_disaccordo,2528
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:15-34,,36.2,pct_accordo,661
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:15-34,,22.4,pct_neutro,661
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:15-34,,41.4,pct_disaccordo,661
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:35-54,,38.7,pct_accordo,882
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:35-54,,23.7,pct_neutro,882
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:35-54,,37.7,pct_disaccordo,882
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:55+,,39.5,pct_accordo,972
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:55+,,25.9,pct_neutro,972
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,eta:55+,,34.7,pct_disaccordo,972
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,genere:donne,,37.3,pct_accordo,1286
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,genere:donne,,24.7,pct_neutro,1286
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,genere:donne,,38.1,pct_disaccordo,1286
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,genere:uomini,,39.7,pct_accordo,1242
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,genere:uomini,,23.9,pct_neutro,1242
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,genere:uomini,,36.4,pct_disaccordo,1242
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:alta,,34.5,pct_accordo,324
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:alta,,25,pct_neutro,324
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:alta,,40.5,pct_disaccordo,324
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:bassa,,39.7,pct_accordo,1121
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:bassa,,24,pct_neutro,1121
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:bassa,,36.3,pct_disaccordo,1121
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:media,,37.7,pct_accordo,1059
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:media,,24.6,pct_neutro,1059
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,istruzione:media,,37.7,pct_disaccordo,1059
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:altro_inattivo,,39.8,pct_accordo,255
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:altro_inattivo,,20.5,pct_neutro,255
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:altro_inattivo,,39.6,pct_disaccordo,255
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:disoccupati,,29.9,pct_accordo,246
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:disoccupati,,16.6,pct_neutro,246
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:disoccupati,,53.4,pct_disaccordo,246
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:occupati,,39.5,pct_accordo,1197
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:occupati,,24.6,pct_neutro,1197
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:occupati,,35.9,pct_disaccordo,1197
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:pensionati,,40.2,pct_accordo,565
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:pensionati,,28.7,pct_neutro,565
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:pensionati,,31.2,pct_disaccordo,565
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:studenti,,36.9,pct_accordo,246
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:studenti,,24.7,pct_neutro,246
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,condizione:studenti,,38.4,pct_disaccordo,246
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:autonomi,,42.9,pct_accordo,247
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:autonomi,,26.6,pct_neutro,247
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:autonomi,,30.5,pct_disaccordo,247
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:privato,,38.6,pct_accordo,1232
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:privato,,23.6,pct_neutro,1232
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:privato,,37.7,pct_disaccordo,1232
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:pubblico,,35.2,pct_accordo,351
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:pubblico,,26.3,pct_neutro,351
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,settore:pubblico,,38.5,pct_disaccordo,351
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:difficolta,,38.9,pct_accordo,543
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:difficolta,,22,pct_neutro,543
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:difficolta,,39.2,pct_disaccordo,543
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:grande_difficolta,,24.9,pct_accordo,183
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:grande_difficolta,,18.2,pct_neutro,183
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:grande_difficolta,,57,pct_disaccordo,183
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:se_la_cava,,40.3,pct_accordo,1174
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:se_la_cava,,23.9,pct_neutro,1174
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:se_la_cava,,35.9,pct_disaccordo,1174
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:vive_comodamente,,38.4,pct_accordo,568
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:vive_comodamente,,29,pct_neutro,568
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,reddito_percepito:vive_comodamente,,32.5,pct_disaccordo,568
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:alto,,39.4,pct_accordo,236
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:alto,,28.8,pct_neutro,236
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:alto,,31.8,pct_disaccordo,236
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:basso,,37.3,pct_accordo,551
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:basso,,21.7,pct_neutro,551
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:basso,,41,pct_disaccordo,551
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:medio,,42.4,pct_accordo,681
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:medio,,26.4,pct_neutro,681
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,decile_reddito:medio,,31.2,pct_disaccordo,681
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:in_passato,,35.1,pct_accordo,196
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:in_passato,,26.4,pct_neutro,196
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:in_passato,,38.5,pct_disaccordo,196
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:iscritto_ora,,38.3,pct_accordo,175
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:iscritto_ora,,23.6,pct_neutro,175
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:iscritto_ora,,38.1,pct_disaccordo,175
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:mai,,38.7,pct_accordo,2126
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:mai,,24.1,pct_neutro,2126
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,sindacato:mai,,37.2,pct_disaccordo,2126
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:centro,,41,pct_accordo,777
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:centro,,26.8,pct_neutro,777
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:centro,,32.1,pct_disaccordo,777
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:destra,,42.6,pct_accordo,474
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:destra,,23.4,pct_neutro,474
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:destra,,34.1,pct_disaccordo,474
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:sinistra,,33.1,pct_accordo,418
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:sinistra,,23.5,pct_neutro,418
+sussidi,uentrjb,La maggior parte dei disoccupati non cerca davvero lavoro,8,2016,IT,posizione_politica:sinistra,,43.4,pct_disaccordo,418

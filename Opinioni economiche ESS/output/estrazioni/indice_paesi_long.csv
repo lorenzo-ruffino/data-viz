@@ -1,0 +1,87 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,IS,tutti,indice,8.225,media_indice_0_10,878
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,ES,tutti,indice,8.089,media_indice_0_10,1940
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,LT,tutti,indice,8.224,media_indice_0_10,2111
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,IT,tutti,indice,8.099,media_indice_0_10,2589
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,FI,tutti,indice,7.778,media_indice_0_10,1912
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,NO,tutti,indice,7.914,media_indice_0_10,1542
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,SI,tutti,indice,7.752,media_indice_0_10,1299
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,AT,tutti,indice,7.559,media_indice_0_10,1996
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,PT,tutti,indice,8.153,media_indice_0_10,1264
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,EE,tutti,indice,7.76,media_indice_0_10,2011
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,SE,tutti,indice,7.609,media_indice_0_10,1537
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,DE,tutti,indice,7.35,media_indice_0_10,2836
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,BE,tutti,indice,7.242,media_indice_0_10,1764
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,HU,tutti,indice,7.212,media_indice_0_10,1597
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,PL,tutti,indice,7.435,media_indice_0_10,1684
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,FR,tutti,indice,7.16,media_indice_0_10,2062
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,IE,tutti,indice,7.17,media_indice_0_10,2749
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,NL,tutti,indice,6.62,media_indice_0_10,1674
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,CH,tutti,indice,6.618,media_indice_0_10,1517
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,CZ,tutti,indice,7.569,media_indice_0_10,2266
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,GB,tutti,indice,6.879,media_indice_0_10,1945
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,IS,tutti,indice,1,rank,878
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,ES,tutti,indice,5,rank,1940
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,LT,tutti,indice,2,rank,2111
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,IT,tutti,indice,4,rank,2589
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,FI,tutti,indice,7,rank,1912
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,NO,tutti,indice,6,rank,1542
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,SI,tutti,indice,9,rank,1299
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,AT,tutti,indice,12,rank,1996
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,PT,tutti,indice,3,rank,1264
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,EE,tutti,indice,8,rank,2011
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,SE,tutti,indice,10,rank,1537
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,DE,tutti,indice,14,rank,2836
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,BE,tutti,indice,15,rank,1764
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,HU,tutti,indice,16,rank,1597
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,PL,tutti,indice,13,rank,1684
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,FR,tutti,indice,18,rank,2062
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,IE,tutti,indice,17,rank,2749
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,NL,tutti,indice,20,rank,1674
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,CH,tutti,indice,21,rank,1517
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,CZ,tutti,indice,11,rank,2266
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Posizione in classifica, indice ruolo dello Stato",8,2016,GB,tutti,indice,19,rank,1945
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,IS,tutti,indice,0.3004,media_zscore,872
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,ES,tutti,indice,0.2332,media_zscore,1881
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,LT,tutti,indice,0.2077,media_zscore,2085
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,IT,tutti,indice,0.1751,media_zscore,2466
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,FI,tutti,indice,0.1381,media_zscore,1914
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,NO,tutti,indice,0.0871,media_zscore,1537
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,SI,tutti,indice,0.0834,media_zscore,1282
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,AT,tutti,indice,0.0756,media_zscore,1982
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,PT,tutti,indice,0.0741,media_zscore,1249
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,EE,tutti,indice,0.066,media_zscore,2000
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,SE,tutti,indice,0.0479,media_zscore,1525
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,DE,tutti,indice,0.0258,media_zscore,2825
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,BE,tutti,indice,0.015,media_zscore,1762
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,HU,tutti,indice,-0.0102,media_zscore,1571
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,PL,tutti,indice,-0.0471,media_zscore,1655
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,FR,tutti,indice,-0.1164,media_zscore,2058
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,IE,tutti,indice,-0.1174,media_zscore,2726
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,NL,tutti,indice,-0.1236,media_zscore,1666
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,CH,tutti,indice,-0.1429,media_zscore,1503
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,CZ,tutti,indice,-0.1432,media_zscore,2248
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,GB,tutti,indice,-0.1967,media_zscore,1945
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,IS,tutti,indice,1,rank,872
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,ES,tutti,indice,2,rank,1881
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,LT,tutti,indice,3,rank,2085
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,IT,tutti,indice,4,rank,2466
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,FI,tutti,indice,5,rank,1914
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,NO,tutti,indice,6,rank,1537
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,SI,tutti,indice,7,rank,1282
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,AT,tutti,indice,8,rank,1982
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,PT,tutti,indice,9,rank,1249
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,EE,tutti,indice,10,rank,2000
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,SE,tutti,indice,11,rank,1525
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,DE,tutti,indice,12,rank,2825
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,BE,tutti,indice,13,rank,1762
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,HU,tutti,indice,14,rank,1571
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,PL,tutti,indice,15,rank,1655
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,FR,tutti,indice,16,rank,2058
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,IE,tutti,indice,17,rank,2726
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,NL,tutti,indice,18,rank,1666
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,CH,tutti,indice,19,rank,1503
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,CZ,tutti,indice,20,rank,2248
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Posizione in classifica, indice composito pro-Stato",8,2016,GB,tutti,indice,21,rank,1945
+indice_sintetico,gvslvol+gvslvue+gvcldcr,"Indice ruolo dello Stato (media item responsabilita' del governo, 0-10)",8,2016,Europa,tutti,indice,7.445,media_indice_0_10,39173
+indice_sintetico,gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc,"Indice composito pro-Stato (media z-score, 0 = media europea)",8,2016,Europa,tutti,indice,-1e-04,media_zscore,38752

@@ -1,0 +1,337 @@
+paese,codice,materia,edizione,punteggio_medio,errore_standard,tabella
+Germany,DEU,Lettura,2000,483.99,2.465,Table I.B1.2a.37
+Germany,DEU,Lettura,2003,491.36,3.386,Table I.B1.2a.37
+Germany,DEU,Lettura,2006,494.94,4.41,Table I.B1.2a.37
+Germany,DEU,Lettura,2009,497.31,2.656,Table I.B1.2a.37
+Germany,DEU,Lettura,2012,507.68,2.816,Table I.B1.2a.37
+Germany,DEU,Lettura,2015,509.1,3.018,Table I.B1.2a.37
+Germany,DEU,Lettura,2018,498.28,3.025,Table I.B1.2a.37
+Germany,DEU,Lettura,2022,479.79,3.609,Table I.B1.2a.37
+Germany,DEU,Lettura,2025,465.28,3.562,Table I.B1.2a.37
+Spain,ESP,Lettura,2000,492.55,2.708,Table I.B1.2a.37
+Spain,ESP,Lettura,2003,480.54,2.601,Table I.B1.2a.37
+Spain,ESP,Lettura,2006,460.83,2.234,Table I.B1.2a.37
+Spain,ESP,Lettura,2009,481.04,2.02,Table I.B1.2a.37
+Spain,ESP,Lettura,2012,487.94,1.909,Table I.B1.2a.37
+Spain,ESP,Lettura,2015,495.58,2.364,Table I.B1.2a.37
+Spain,ESP,Lettura,2018,m,m,Table I.B1.2a.37
+Spain,ESP,Lettura,2022,474.31,1.654,Table I.B1.2a.37
+Spain,ESP,Lettura,2025,451.36,1.938,Table I.B1.2a.37
+Finland,FIN,Lettura,2000,546.47,2.578,Table I.B1.2a.37
+Finland,FIN,Lettura,2003,543.46,1.642,Table I.B1.2a.37
+Finland,FIN,Lettura,2006,546.87,2.147,Table I.B1.2a.37
+Finland,FIN,Lettura,2009,535.88,2.254,Table I.B1.2a.37
+Finland,FIN,Lettura,2012,524.02,2.382,Table I.B1.2a.37
+Finland,FIN,Lettura,2015,526.42,2.547,Table I.B1.2a.37
+Finland,FIN,Lettura,2018,520.08,2.307,Table I.B1.2a.37
+Finland,FIN,Lettura,2022,490.22,2.255,Table I.B1.2a.37
+Finland,FIN,Lettura,2025,474.3,2.12,Table I.B1.2a.37
+France,FRA,Lettura,2000,504.74,2.728,Table I.B1.2a.37
+France,FRA,Lettura,2003,496.19,2.678,Table I.B1.2a.37
+France,FRA,Lettura,2006,487.71,4.064,Table I.B1.2a.37
+France,FRA,Lettura,2009,495.62,3.442,Table I.B1.2a.37
+France,FRA,Lettura,2012,505.48,2.826,Table I.B1.2a.37
+France,FRA,Lettura,2015,499.31,2.507,Table I.B1.2a.37
+France,FRA,Lettura,2018,492.61,2.321,Table I.B1.2a.37
+France,FRA,Lettura,2022,473.85,3.075,Table I.B1.2a.37
+France,FRA,Lettura,2025,456.33,3.244,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2000,m,m,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2003,m,m,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2006,495.08,2.255,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2009,494.18,2.28,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2012,499.32,3.5,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2015,497.97,2.769,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2018,503.93,2.583,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2022,494.4,2.371,Table I.B1.2a.37
+United Kingdom,GBR,Lettura,2025,494.23,2.021,Table I.B1.2a.37
+Italy,ITA,Lettura,2000,487.47,2.913,Table I.B1.2a.37
+Italy,ITA,Lettura,2003,475.66,3.044,Table I.B1.2a.37
+Italy,ITA,Lettura,2006,468.52,2.426,Table I.B1.2a.37
+Italy,ITA,Lettura,2009,486.05,1.572,Table I.B1.2a.37
+Italy,ITA,Lettura,2012,489.75,1.972,Table I.B1.2a.37
+Italy,ITA,Lettura,2015,484.76,2.681,Table I.B1.2a.37
+Italy,ITA,Lettura,2018,476.28,2.439,Table I.B1.2a.37
+Italy,ITA,Lettura,2022,481.6,2.68,Table I.B1.2a.37
+Italy,ITA,Lettura,2025,474.29,2.598,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2000,m,m,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2003,513.12,2.854,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2006,506.75,2.925,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2009,508.4,5.15,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2012,511.23,3.469,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2015,502.96,2.412,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2018,484.78,2.651,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2022,459.24,4.282,Table I.B1.2a.37
+Netherlands*,NLD,Lettura,2025,441.34,2.895,Table I.B1.2a.37
+OECD average,OECD,Lettura,2000,m,m,Table I.B1.2a.37
+OECD average,OECD,Lettura,2003,m,m,Table I.B1.2a.37
+OECD average,OECD,Lettura,2006,m,m,Table I.B1.2a.37
+OECD average,OECD,Lettura,2009,m,m,Table I.B1.2a.37
+OECD average,OECD,Lettura,2012,491.82,0.479,Table I.B1.2a.37
+OECD average,OECD,Lettura,2015,488.53,0.446,Table I.B1.2a.37
+OECD average,OECD,Lettura,2018,m,m,Table I.B1.2a.37
+OECD average,OECD,Lettura,2022,m,m,Table I.B1.2a.37
+OECD average,OECD,Lettura,2025,460.94,0.446,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2000,499.53,0.715,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2003,497.42,0.622,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2006,495.47,0.686,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2009,499.4,0.569,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2012,501.36,0.575,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2015,497.25,0.569,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2018,492.84,0.514,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2022,481.93,0.552,Table I.B1.2a.37
+OECD average-23,OECD_23,Lettura,2025,465.83,0.563,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2000,m,m,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2003,m,m,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2006,m,m,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2009,m,m,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2012,493.51,0.506,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2015,490.27,0.472,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2018,487.62,0.425,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2022,477.35,0.47,Table I.B1.2a.37
+OECD average-35,OECD_35,Lettura,2025,463.01,0.474,Table I.B1.2a.37
+Poland,POL,Lettura,2000,479.12,4.456,Table I.B1.2a.37
+Poland,POL,Lettura,2003,496.61,2.875,Table I.B1.2a.37
+Poland,POL,Lettura,2006,507.64,2.795,Table I.B1.2a.37
+Poland,POL,Lettura,2009,500.48,2.605,Table I.B1.2a.37
+Poland,POL,Lettura,2012,518.19,3.136,Table I.B1.2a.37
+Poland,POL,Lettura,2015,505.7,2.485,Table I.B1.2a.37
+Poland,POL,Lettura,2018,511.86,2.702,Table I.B1.2a.37
+Poland,POL,Lettura,2022,488.71,2.74,Table I.B1.2a.37
+Poland,POL,Lettura,2025,481.54,2.847,Table I.B1.2a.37
+Portugal,PRT,Lettura,2000,470.15,4.518,Table I.B1.2a.37
+Portugal,PRT,Lettura,2003,477.57,3.732,Table I.B1.2a.37
+Portugal,PRT,Lettura,2006,472.3,3.561,Table I.B1.2a.37
+Portugal,PRT,Lettura,2009,489.33,3.067,Table I.B1.2a.37
+Portugal,PRT,Lettura,2012,487.76,3.751,Table I.B1.2a.37
+Portugal,PRT,Lettura,2015,498.13,2.694,Table I.B1.2a.37
+Portugal,PRT,Lettura,2018,491.8,2.429,Table I.B1.2a.37
+Portugal,PRT,Lettura,2022,476.59,2.663,Table I.B1.2a.37
+Portugal,PRT,Lettura,2025,462.03,3.228,Table I.B1.2a.37
+Sweden,SWE,Lettura,2000,516.33,2.204,Table I.B1.2a.37
+Sweden,SWE,Lettura,2003,514.27,2.421,Table I.B1.2a.37
+Sweden,SWE,Lettura,2006,507.31,3.436,Table I.B1.2a.37
+Sweden,SWE,Lettura,2009,497.45,2.88,Table I.B1.2a.37
+Sweden,SWE,Lettura,2012,483.34,3.003,Table I.B1.2a.37
+Sweden,SWE,Lettura,2015,500.16,3.483,Table I.B1.2a.37
+Sweden,SWE,Lettura,2018,505.79,3.025,Table I.B1.2a.37
+Sweden,SWE,Lettura,2022,486.98,2.49,Table I.B1.2a.37
+Sweden,SWE,Lettura,2025,466.44,3.15,Table I.B1.2a.37
+United States*,USA,Lettura,2000,504.42,7.045,Table I.B1.2a.37
+United States*,USA,Lettura,2003,495.19,3.222,Table I.B1.2a.37
+United States*,USA,Lettura,2006,m,m,Table I.B1.2a.37
+United States*,USA,Lettura,2009,499.83,3.654,Table I.B1.2a.37
+United States*,USA,Lettura,2012,497.58,3.744,Table I.B1.2a.37
+United States*,USA,Lettura,2015,496.94,3.407,Table I.B1.2a.37
+United States*,USA,Lettura,2018,505.35,3.569,Table I.B1.2a.37
+United States*,USA,Lettura,2022,503.94,4.326,Table I.B1.2a.37
+United States*,USA,Lettura,2025,489.52,5.837,Table I.B1.2a.37
+Germany,DEU,Matematica,2003,502.99,3.317,Table I.B1.2a.38
+Germany,DEU,Matematica,2006,503.79,3.868,Table I.B1.2a.38
+Germany,DEU,Matematica,2009,512.78,2.863,Table I.B1.2a.38
+Germany,DEU,Matematica,2012,513.53,2.877,Table I.B1.2a.38
+Germany,DEU,Matematica,2015,505.97,2.888,Table I.B1.2a.38
+Germany,DEU,Matematica,2018,500.04,2.647,Table I.B1.2a.38
+Germany,DEU,Matematica,2022,474.83,3.065,Table I.B1.2a.38
+Germany,DEU,Matematica,2025,463.81,3.046,Table I.B1.2a.38
+Spain,ESP,Matematica,2003,485.11,2.409,Table I.B1.2a.38
+Spain,ESP,Matematica,2006,479.96,2.334,Table I.B1.2a.38
+Spain,ESP,Matematica,2009,483.49,2.109,Table I.B1.2a.38
+Spain,ESP,Matematica,2012,484.32,1.896,Table I.B1.2a.38
+Spain,ESP,Matematica,2015,485.84,2.151,Table I.B1.2a.38
+Spain,ESP,Matematica,2018,m,m,Table I.B1.2a.38
+Spain,ESP,Matematica,2022,473.14,1.504,Table I.B1.2a.38
+Spain,ESP,Matematica,2025,457.45,1.687,Table I.B1.2a.38
+Finland,FIN,Matematica,2003,544.29,1.866,Table I.B1.2a.38
+Finland,FIN,Matematica,2006,548.36,2.296,Table I.B1.2a.38
+Finland,FIN,Matematica,2009,540.5,2.167,Table I.B1.2a.38
+Finland,FIN,Matematica,2012,518.75,1.941,Table I.B1.2a.38
+Finland,FIN,Matematica,2015,511.08,2.309,Table I.B1.2a.38
+Finland,FIN,Matematica,2018,507.3,1.968,Table I.B1.2a.38
+Finland,FIN,Matematica,2022,484.14,1.857,Table I.B1.2a.38
+Finland,FIN,Matematica,2025,468.69,2.201,Table I.B1.2a.38
+France,FRA,Matematica,2003,510.8,2.504,Table I.B1.2a.38
+France,FRA,Matematica,2006,495.54,3.171,Table I.B1.2a.38
+France,FRA,Matematica,2009,496.78,3.094,Table I.B1.2a.38
+France,FRA,Matematica,2012,494.98,2.455,Table I.B1.2a.38
+France,FRA,Matematica,2015,492.92,2.099,Table I.B1.2a.38
+France,FRA,Matematica,2018,495.41,2.32,Table I.B1.2a.38
+France,FRA,Matematica,2022,473.94,2.489,Table I.B1.2a.38
+France,FRA,Matematica,2025,457.66,2.995,Table I.B1.2a.38
+United Kingdom,GBR,Matematica,2003,m,m,Table I.B1.2a.38
+United Kingdom,GBR,Matematica,2006,495.44,2.143,Table I.B1.2a.38
+United Kingdom,GBR,Matematica,2009,492.41,2.42,Table I.B1.2a.38
+United Kingdom,GBR,Matematica,2012,493.93,3.296,Table I.B1.2a.38
+United Kingdom,GBR,Matematica,2015,492.48,2.497,Table I.B1.2a.38
+United Kingdom,GBR,Matematica,2018,501.77,2.564,Table I.B1.2a.38
+United Kingdom,GBR,Matematica,2022,488.98,2.218,Table I.B1.2a.38
+United Kingdom,GBR,Matematica,2025,487.57,2.199,Table I.B1.2a.38
+Italy,ITA,Matematica,2003,465.66,3.075,Table I.B1.2a.38
+Italy,ITA,Matematica,2006,461.69,2.282,Table I.B1.2a.38
+Italy,ITA,Matematica,2009,482.91,1.856,Table I.B1.2a.38
+Italy,ITA,Matematica,2012,485.32,2.025,Table I.B1.2a.38
+Italy,ITA,Matematica,2015,489.73,2.845,Table I.B1.2a.38
+Italy,ITA,Matematica,2018,486.59,2.78,Table I.B1.2a.38
+Italy,ITA,Matematica,2022,471.26,3.093,Table I.B1.2a.38
+Italy,ITA,Matematica,2025,467.76,2.846,Table I.B1.2a.38
+Netherlands*,NLD,Matematica,2003,537.82,3.13,Table I.B1.2a.38
+Netherlands*,NLD,Matematica,2006,530.65,2.586,Table I.B1.2a.38
+Netherlands*,NLD,Matematica,2009,525.84,4.745,Table I.B1.2a.38
+Netherlands*,NLD,Matematica,2012,522.97,3.472,Table I.B1.2a.38
+Netherlands*,NLD,Matematica,2015,512.25,2.212,Table I.B1.2a.38
+Netherlands*,NLD,Matematica,2018,519.23,2.632,Table I.B1.2a.38
+Netherlands*,NLD,Matematica,2022,492.68,3.766,Table I.B1.2a.38
+Netherlands*,NLD,Matematica,2025,483.27,2.888,Table I.B1.2a.38
+OECD average,OECD,Matematica,2003,m,m,Table I.B1.2a.38
+OECD average,OECD,Matematica,2006,m,m,Table I.B1.2a.38
+OECD average,OECD,Matematica,2009,m,m,Table I.B1.2a.38
+OECD average,OECD,Matematica,2012,488.16,0.465,Table I.B1.2a.38
+OECD average,OECD,Matematica,2015,484.88,0.418,Table I.B1.2a.38
+OECD average,OECD,Matematica,2018,m,m,Table I.B1.2a.38
+OECD average,OECD,Matematica,2022,m,m,Table I.B1.2a.38
+OECD average,OECD,Matematica,2025,463.02,0.425,Table I.B1.2a.38
+OECD average-23,OECD_23,Matematica,2003,502.12,0.607,Table I.B1.2a.38
+OECD average-23,OECD_23,Matematica,2006,501.07,0.595,Table I.B1.2a.38
+OECD average-23,OECD_23,Matematica,2009,501.67,0.578,Table I.B1.2a.38
+OECD average-23,OECD_23,Matematica,2012,498.68,0.564,Table I.B1.2a.38
+OECD average-23,OECD_23,Matematica,2015,495.52,0.534,Table I.B1.2a.38
+OECD average-23,OECD_23,Matematica,2018,496.35,0.504,Table I.B1.2a.38
+OECD average-23,OECD_23,Matematica,2022,480.29,0.488,Table I.B1.2a.38
+OECD average-23,OECD_23,Matematica,2025,469.38,0.548,Table I.B1.2a.38
+OECD average-35,OECD_35,Matematica,2003,m,m,Table I.B1.2a.38
+OECD average-35,OECD_35,Matematica,2006,490.72,0.521,Table I.B1.2a.38
+OECD average-35,OECD_35,Matematica,2009,m,m,Table I.B1.2a.38
+OECD average-35,OECD_35,Matematica,2012,490.54,0.494,Table I.B1.2a.38
+OECD average-35,OECD_35,Matematica,2015,487.24,0.443,Table I.B1.2a.38
+OECD average-35,OECD_35,Matematica,2018,489.68,0.418,Table I.B1.2a.38
+OECD average-35,OECD_35,Matematica,2022,474.84,0.415,Table I.B1.2a.38
+OECD average-35,OECD_35,Matematica,2025,465.49,0.453,Table I.B1.2a.38
+Poland,POL,Matematica,2003,490.24,2.504,Table I.B1.2a.38
+Poland,POL,Matematica,2006,495.43,2.442,Table I.B1.2a.38
+Poland,POL,Matematica,2009,494.8,2.838,Table I.B1.2a.38
+Poland,POL,Matematica,2012,517.5,3.617,Table I.B1.2a.38
+Poland,POL,Matematica,2015,504.47,2.39,Table I.B1.2a.38
+Poland,POL,Matematica,2018,515.65,2.602,Table I.B1.2a.38
+Poland,POL,Matematica,2022,488.96,2.275,Table I.B1.2a.38
+Poland,POL,Matematica,2025,484.12,2.758,Table I.B1.2a.38
+Portugal,PRT,Matematica,2003,466.02,3.405,Table I.B1.2a.38
+Portugal,PRT,Matematica,2006,466.16,3.069,Table I.B1.2a.38
+Portugal,PRT,Matematica,2009,486.89,2.915,Table I.B1.2a.38
+Portugal,PRT,Matematica,2012,487.06,3.812,Table I.B1.2a.38
+Portugal,PRT,Matematica,2015,491.63,2.491,Table I.B1.2a.38
+Portugal,PRT,Matematica,2018,492.49,2.685,Table I.B1.2a.38
+Portugal,PRT,Matematica,2022,471.91,2.351,Table I.B1.2a.38
+Portugal,PRT,Matematica,2025,459.94,3.455,Table I.B1.2a.38
+Sweden,SWE,Matematica,2003,509.05,2.559,Table I.B1.2a.38
+Sweden,SWE,Matematica,2006,502.36,2.408,Table I.B1.2a.38
+Sweden,SWE,Matematica,2009,494.24,2.899,Table I.B1.2a.38
+Sweden,SWE,Matematica,2012,478.26,2.255,Table I.B1.2a.38
+Sweden,SWE,Matematica,2015,493.92,3.172,Table I.B1.2a.38
+Sweden,SWE,Matematica,2018,502.39,2.654,Table I.B1.2a.38
+Sweden,SWE,Matematica,2022,481.77,2.063,Table I.B1.2a.38
+Sweden,SWE,Matematica,2025,464.25,2.509,Table I.B1.2a.38
+United States*,USA,Matematica,2003,482.88,2.949,Table I.B1.2a.38
+United States*,USA,Matematica,2006,474.35,4.021,Table I.B1.2a.38
+United States*,USA,Matematica,2009,487.4,3.574,Table I.B1.2a.38
+United States*,USA,Matematica,2012,481.37,3.597,Table I.B1.2a.38
+United States*,USA,Matematica,2015,469.63,3.166,Table I.B1.2a.38
+United States*,USA,Matematica,2018,478.24,3.235,Table I.B1.2a.38
+United States*,USA,Matematica,2022,464.89,4.007,Table I.B1.2a.38
+United States*,USA,Matematica,2025,462.85,5.397,Table I.B1.2a.38
+Germany,DEU,Scienze,2006,515.65,3.796,Table I.B1.2a.36
+Germany,DEU,Scienze,2009,520.41,2.799,Table I.B1.2a.36
+Germany,DEU,Scienze,2012,524.12,2.963,Table I.B1.2a.36
+Germany,DEU,Scienze,2015,509.14,2.699,Table I.B1.2a.36
+Germany,DEU,Scienze,2018,502.99,2.912,Table I.B1.2a.36
+Germany,DEU,Scienze,2022,492.43,3.483,Table I.B1.2a.36
+Germany,DEU,Scienze,2025,485.52,3.521,Table I.B1.2a.36
+Spain,ESP,Scienze,2006,488.42,2.565,Table I.B1.2a.36
+Spain,ESP,Scienze,2009,488.25,2.052,Table I.B1.2a.36
+Spain,ESP,Scienze,2012,496.45,1.829,Table I.B1.2a.36
+Spain,ESP,Scienze,2015,492.79,2.065,Table I.B1.2a.36
+Spain,ESP,Scienze,2018,m,m,Table I.B1.2a.36
+Spain,ESP,Scienze,2022,484.53,1.601,Table I.B1.2a.36
+Spain,ESP,Scienze,2025,477.13,1.904,Table I.B1.2a.36
+Finland,FIN,Scienze,2006,563.32,2.018,Table I.B1.2a.36
+Finland,FIN,Scienze,2009,554.08,2.336,Table I.B1.2a.36
+Finland,FIN,Scienze,2012,545.44,2.199,Table I.B1.2a.36
+Finland,FIN,Scienze,2015,530.66,2.392,Table I.B1.2a.36
+Finland,FIN,Scienze,2018,521.88,2.51,Table I.B1.2a.36
+Finland,FIN,Scienze,2022,510.96,2.501,Table I.B1.2a.36
+Finland,FIN,Scienze,2025,504.37,2.261,Table I.B1.2a.36
+France,FRA,Scienze,2006,495.22,3.36,Table I.B1.2a.36
+France,FRA,Scienze,2009,498.23,3.601,Table I.B1.2a.36
+France,FRA,Scienze,2012,498.97,2.579,Table I.B1.2a.36
+France,FRA,Scienze,2015,494.98,2.061,Table I.B1.2a.36
+France,FRA,Scienze,2018,492.98,2.224,Table I.B1.2a.36
+France,FRA,Scienze,2022,487.23,2.73,Table I.B1.2a.36
+France,FRA,Scienze,2025,483.42,3.206,Table I.B1.2a.36
+United Kingdom,GBR,Scienze,2006,514.77,2.289,Table I.B1.2a.36
+United Kingdom,GBR,Scienze,2009,513.71,2.518,Table I.B1.2a.36
+United Kingdom,GBR,Scienze,2012,514.13,3.382,Table I.B1.2a.36
+United Kingdom,GBR,Scienze,2015,509.22,2.564,Table I.B1.2a.36
+United Kingdom,GBR,Scienze,2018,504.67,2.564,Table I.B1.2a.36
+United Kingdom,GBR,Scienze,2022,499.67,2.376,Table I.B1.2a.36
+United Kingdom,GBR,Scienze,2025,511.36,2.102,Table I.B1.2a.36
+Italy,ITA,Scienze,2006,475.4,2.019,Table I.B1.2a.36
+Italy,ITA,Scienze,2009,488.83,1.773,Table I.B1.2a.36
+Italy,ITA,Scienze,2012,493.54,1.936,Table I.B1.2a.36
+Italy,ITA,Scienze,2015,480.55,2.516,Table I.B1.2a.36
+Italy,ITA,Scienze,2018,468.01,2.43,Table I.B1.2a.36
+Italy,ITA,Scienze,2022,477.46,3.178,Table I.B1.2a.36
+Italy,ITA,Scienze,2025,482.98,2.479,Table I.B1.2a.36
+Netherlands*,NLD,Scienze,2006,524.86,2.742,Table I.B1.2a.36
+Netherlands*,NLD,Scienze,2009,522.22,5.419,Table I.B1.2a.36
+Netherlands*,NLD,Scienze,2012,522.06,3.508,Table I.B1.2a.36
+Netherlands*,NLD,Scienze,2015,508.57,2.257,Table I.B1.2a.36
+Netherlands*,NLD,Scienze,2018,503.38,2.841,Table I.B1.2a.36
+Netherlands*,NLD,Scienze,2022,488.32,4.073,Table I.B1.2a.36
+Netherlands*,NLD,Scienze,2025,485.45,2.821,Table I.B1.2a.36
+OECD average,OECD,Scienze,2006,m,m,Table I.B1.2a.36
+OECD average,OECD,Scienze,2009,m,m,Table I.B1.2a.36
+OECD average,OECD,Scienze,2012,496.44,0.465,Table I.B1.2a.36
+OECD average,OECD,Scienze,2015,488.76,0.409,Table I.B1.2a.36
+OECD average,OECD,Scienze,2018,m,m,Table I.B1.2a.36
+OECD average,OECD,Scienze,2022,m,m,Table I.B1.2a.36
+OECD average,OECD,Scienze,2025,481.91,0.438,Table I.B1.2a.36
+OECD average-23,OECD_23,Scienze,2006,502.74,0.595,Table I.B1.2a.36
+OECD average-23,OECD_23,Scienze,2009,505.74,0.58,Table I.B1.2a.36
+OECD average-23,OECD_23,Scienze,2012,504.73,0.568,Table I.B1.2a.36
+OECD average-23,OECD_23,Scienze,2015,496.98,0.525,Table I.B1.2a.36
+OECD average-23,OECD_23,Scienze,2018,493.46,0.513,Table I.B1.2a.36
+OECD average-23,OECD_23,Scienze,2022,490.86,0.533,Table I.B1.2a.36
+OECD average-23,OECD_23,Scienze,2025,485.94,0.554,Table I.B1.2a.36
+OECD average-35,OECD_35,Scienze,2006,495.23,0.506,Table I.B1.2a.36
+OECD average-35,OECD_35,Scienze,2009,m,m,Table I.B1.2a.36
+OECD average-35,OECD_35,Scienze,2012,498.51,0.493,Table I.B1.2a.36
+OECD average-35,OECD_35,Scienze,2015,490.79,0.435,Table I.B1.2a.36
+OECD average-35,OECD_35,Scienze,2018,489.16,0.422,Table I.B1.2a.36
+OECD average-35,OECD_35,Scienze,2022,486.75,0.453,Table I.B1.2a.36
+OECD average-35,OECD_35,Scienze,2025,483.93,0.466,Table I.B1.2a.36
+Poland,POL,Scienze,2006,497.81,2.342,Table I.B1.2a.36
+Poland,POL,Scienze,2009,508.07,2.413,Table I.B1.2a.36
+Poland,POL,Scienze,2012,525.82,3.123,Table I.B1.2a.36
+Poland,POL,Scienze,2015,501.44,2.507,Table I.B1.2a.36
+Poland,POL,Scienze,2018,511.04,2.607,Table I.B1.2a.36
+Poland,POL,Scienze,2022,499.16,2.545,Table I.B1.2a.36
+Poland,POL,Scienze,2025,495.07,2.743,Table I.B1.2a.36
+Portugal,PRT,Scienze,2006,474.31,3.023,Table I.B1.2a.36
+Portugal,PRT,Scienze,2009,492.95,2.898,Table I.B1.2a.36
+Portugal,PRT,Scienze,2012,489.27,3.747,Table I.B1.2a.36
+Portugal,PRT,Scienze,2015,501.1,2.431,Table I.B1.2a.36
+Portugal,PRT,Scienze,2018,491.68,2.773,Table I.B1.2a.36
+Portugal,PRT,Scienze,2022,484.37,2.559,Table I.B1.2a.36
+Portugal,PRT,Scienze,2025,481.72,3.518,Table I.B1.2a.36
+Sweden,SWE,Scienze,2006,503.33,2.375,Table I.B1.2a.36
+Sweden,SWE,Scienze,2009,495.11,2.721,Table I.B1.2a.36
+Sweden,SWE,Scienze,2012,484.8,3.002,Table I.B1.2a.36
+Sweden,SWE,Scienze,2015,493.42,3.601,Table I.B1.2a.36
+Sweden,SWE,Scienze,2018,499.44,3.07,Table I.B1.2a.36
+Sweden,SWE,Scienze,2022,493.55,2.35,Table I.B1.2a.36
+Sweden,SWE,Scienze,2025,485.11,2.994,Table I.B1.2a.36
+United States*,USA,Scienze,2006,488.91,4.224,Table I.B1.2a.36
+United States*,USA,Scienze,2009,502.0,3.644,Table I.B1.2a.36
+United States*,USA,Scienze,2012,497.41,3.776,Table I.B1.2a.36
+United States*,USA,Scienze,2015,496.24,3.181,Table I.B1.2a.36
+United States*,USA,Scienze,2018,502.38,3.318,Table I.B1.2a.36
+United States*,USA,Scienze,2022,499.41,4.319,Table I.B1.2a.36
+United States*,USA,Scienze,2025,501.58,5.817,Table I.B1.2a.36

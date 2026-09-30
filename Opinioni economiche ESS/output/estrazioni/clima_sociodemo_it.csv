@@ -1,0 +1,57 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,tutti,,4,media,2824
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,tutti,difficolta,21.3,pct_difficolta,2758
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,eta:35-54,,4.07,media,858
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,eta:35-54,difficolta,23.7,pct_difficolta,838
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,eta:15-34,,4.28,media,609
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,eta:15-34,difficolta,16.6,pct_difficolta,595
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,eta:55+,,3.84,media,1328
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,eta:55+,difficolta,21,pct_difficolta,1298
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,genere:uomini,,4.03,media,1323
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,genere:uomini,difficolta,20.2,pct_difficolta,1285
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,genere:donne,,3.97,media,1501
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,genere:donne,difficolta,22.3,pct_difficolta,1473
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,istruzione:media,,4.17,media,1119
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,istruzione:media,difficolta,12.3,pct_difficolta,1097
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,istruzione:alta,,4.21,media,509
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,istruzione:alta,difficolta,5,pct_difficolta,496
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,istruzione:bassa,,3.82,media,1173
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,istruzione:bassa,difficolta,32.8,pct_difficolta,1149
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,condizione:occupati,,4.15,media,1339
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,condizione:occupati,difficolta,15.4,pct_difficolta,1319
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,condizione:altro_inattivo,,3.72,media,412
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,condizione:altro_inattivo,difficolta,36,pct_difficolta,406
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,condizione:studenti,,4.56,media,241
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,condizione:studenti,difficolta,12.8,pct_difficolta,230
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,condizione:pensionati,,3.85,media,631
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,condizione:pensionati,difficolta,14.9,pct_difficolta,612
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,condizione:disoccupati,,3.56,media,183
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,condizione:disoccupati,difficolta,60.2,pct_difficolta,180
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,settore:privato,,3.97,media,1394
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,settore:privato,difficolta,18.2,pct_difficolta,1373
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,settore:autonomi,,3.78,media,252
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,settore:autonomi,difficolta,18.5,pct_difficolta,250
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,settore:pubblico,,4.28,media,382
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,settore:pubblico,difficolta,12.3,pct_difficolta,374
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,reddito_percepito:comodamente,,4.58,media,838
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,reddito_percepito:se_la_cava,,3.91,media,1342
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,reddito_percepito:difficolta,,3.34,media,458
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,reddito_percepito:grande_difficolta,,4.07,media,87
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,decile_reddito:medio,,4.32,media,932
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,decile_reddito:medio,difficolta,14,pct_difficolta,935
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,decile_reddito:alto,,4.54,media,381
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,decile_reddito:alto,difficolta,3.7,pct_difficolta,384
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,decile_reddito:basso,,3.73,media,550
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,decile_reddito:basso,difficolta,40.9,pct_difficolta,556
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,sindacato:mai,,4.02,media,2343
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,sindacato:mai,difficolta,21.7,pct_difficolta,2292
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,sindacato:iscritto_ora,,4.09,media,234
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,sindacato:iscritto_ora,difficolta,16.6,pct_difficolta,230
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,sindacato:in_passato,,3.78,media,229
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,sindacato:in_passato,difficolta,19.5,pct_difficolta,223
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,collocazione_politica:centro,,4.14,media,1041
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,collocazione_politica:centro,difficolta,22.5,pct_difficolta,1019
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,collocazione_politica:destra,,4.86,media,617
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,collocazione_politica:destra,difficolta,17.4,pct_difficolta,607
+clima-economico,stfeco,Soddisfazione per lo stato dell'economia (0-10),11,2023,IT,collocazione_politica:sinistra,,3.57,media,491
+clima-economico,hincfel,Percezione del reddito familiare (1-4),11,2023,IT,collocazione_politica:sinistra,difficolta,18.5,pct_difficolta,480

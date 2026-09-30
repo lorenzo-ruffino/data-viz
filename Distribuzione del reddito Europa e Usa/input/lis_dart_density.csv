@@ -1,0 +1,501 @@
+paese,reddito_usd_ppp,densita
+Francia,0,0
+Francia,1285,0
+Francia,2571,3.7e-07
+Francia,3856,1.6e-06
+Francia,5142,1.87e-06
+Francia,6427,1.86e-06
+Francia,7713,2.48e-06
+Francia,8998,4.19e-06
+Francia,10284,5.98e-06
+Francia,11569,8.73e-06
+Francia,12855,1.13e-05
+Francia,14140,1.4e-05
+Francia,15426,1.634e-05
+Francia,16711,1.937e-05
+Francia,17996,2.231e-05
+Francia,19282,2.36e-05
+Francia,20567,2.524e-05
+Francia,21853,2.563e-05
+Francia,23138,2.514e-05
+Francia,24424,2.785e-05
+Francia,25709,2.889e-05
+Francia,26995,2.983e-05
+Francia,28280,3.025e-05
+Francia,29566,2.995e-05
+Francia,30851,2.883e-05
+Francia,32136,2.851e-05
+Francia,33422,2.774e-05
+Francia,34707,2.505e-05
+Francia,35993,2.322e-05
+Francia,37278,2.253e-05
+Francia,38564,2.016e-05
+Francia,39849,1.884e-05
+Francia,41135,1.892e-05
+Francia,42420,1.608e-05
+Francia,43706,1.456e-05
+Francia,44991,1.398e-05
+Francia,46277,1.385e-05
+Francia,47562,1.205e-05
+Francia,48847,1.034e-05
+Francia,50133,9.96e-06
+Francia,51418,9.21e-06
+Francia,52704,8.45e-06
+Francia,53989,7.4e-06
+Francia,55275,6.85e-06
+Francia,56560,6.2e-06
+Francia,57846,5.71e-06
+Francia,59131,4.65e-06
+Francia,60417,4.58e-06
+Francia,61702,4.62e-06
+Francia,62988,4.19e-06
+Francia,64273,3.34e-06
+Francia,65558,3.2e-06
+Francia,66844,3.17e-06
+Francia,68129,2.93e-06
+Francia,69415,2.52e-06
+Francia,70700,2.03e-06
+Francia,71986,2.2e-06
+Francia,73271,1.98e-06
+Francia,74557,2.18e-06
+Francia,75842,1.9e-06
+Francia,77128,1.66e-06
+Francia,78413,1.56e-06
+Francia,79699,1.43e-06
+Francia,80984,1.37e-06
+Francia,82269,1.15e-06
+Francia,83555,1.03e-06
+Francia,84840,1.04e-06
+Francia,86126,1.1e-06
+Francia,87411,8.2e-07
+Francia,88697,8.7e-07
+Francia,89982,8.1e-07
+Francia,91268,8.4e-07
+Francia,92553,8.5e-07
+Francia,93839,8.7e-07
+Francia,95124,7.7e-07
+Francia,96409,7.4e-07
+Francia,97695,5.7e-07
+Francia,98980,6.7e-07
+Francia,100266,4.1e-07
+Francia,101551,3.5e-07
+Francia,102837,3.4e-07
+Francia,104122,3.9e-07
+Francia,105408,4e-07
+Francia,106693,3e-07
+Francia,107979,2.9e-07
+Francia,109264,3.7e-07
+Francia,110550,4.1e-07
+Francia,111835,4.9e-07
+Francia,113120,4.2e-07
+Francia,114406,3.9e-07
+Francia,115691,2.8e-07
+Francia,116977,2.1e-07
+Francia,118262,2.4e-07
+Francia,119548,3.5e-07
+Francia,120833,3e-07
+Francia,122119,2.9e-07
+Francia,123404,2.3e-07
+Francia,124690,1.6e-07
+Francia,125975,5e-08
+Francia,127261,0
+Germania,0,0
+Germania,1507,5.9e-07
+Germania,3014,2.35e-06
+Germania,4520,3.32e-06
+Germania,6027,4.5e-06
+Germania,7534,5.36e-06
+Germania,9041,5.71e-06
+Germania,10547,4.78e-06
+Germania,12054,6.34e-06
+Germania,13561,1.013e-05
+Germania,15068,1.304e-05
+Germania,16575,1.417e-05
+Germania,18081,1.429e-05
+Germania,19588,1.589e-05
+Germania,21095,1.64e-05
+Germania,22602,1.777e-05
+Germania,24109,1.891e-05
+Germania,25615,2.081e-05
+Germania,27122,2.368e-05
+Germania,28629,2.493e-05
+Germania,30136,2.533e-05
+Germania,31642,2.36e-05
+Germania,33149,2.225e-05
+Germania,34656,2.209e-05
+Germania,36163,2.238e-05
+Germania,37670,2.106e-05
+Germania,39176,2.343e-05
+Germania,40683,2.258e-05
+Germania,42190,2.067e-05
+Germania,43697,1.896e-05
+Germania,45204,1.902e-05
+Germania,46710,1.798e-05
+Germania,48217,1.474e-05
+Germania,49724,1.419e-05
+Germania,51231,1.437e-05
+Germania,52737,1.321e-05
+Germania,54244,1.262e-05
+Germania,55751,1.007e-05
+Germania,57258,7.77e-06
+Germania,58765,8.44e-06
+Germania,60271,8.26e-06
+Germania,61778,6.85e-06
+Germania,63285,6.49e-06
+Germania,64792,5.8e-06
+Germania,66298,4.95e-06
+Germania,67805,3.89e-06
+Germania,69312,3.53e-06
+Germania,70819,3.58e-06
+Germania,72326,2.8e-06
+Germania,73832,2.88e-06
+Germania,75339,3.74e-06
+Germania,76846,2.97e-06
+Germania,78353,2.06e-06
+Germania,79860,2.23e-06
+Germania,81366,1.92e-06
+Germania,82873,2.07e-06
+Germania,84380,2.58e-06
+Germania,85887,1.99e-06
+Germania,87393,1.43e-06
+Germania,88900,1.12e-06
+Germania,90407,1.06e-06
+Germania,91914,8.3e-07
+Germania,93421,1.4e-06
+Germania,94927,1.23e-06
+Germania,96434,9.7e-07
+Germania,97941,1.2e-06
+Germania,99448,5.8e-07
+Germania,100955,3.6e-07
+Germania,102461,5.3e-07
+Germania,103968,8e-07
+Germania,105475,5.7e-07
+Germania,106982,5e-07
+Germania,108488,5.1e-07
+Germania,109995,6.1e-07
+Germania,111502,5.1e-07
+Germania,113009,3.5e-07
+Germania,114516,3.5e-07
+Germania,116022,2.9e-07
+Germania,117529,4.4e-07
+Germania,119036,5.7e-07
+Germania,120543,4e-07
+Germania,122049,2.2e-07
+Germania,123556,1.1e-07
+Germania,125063,3.1e-07
+Germania,126570,3.7e-07
+Germania,128077,1.2e-07
+Germania,129583,1.1e-07
+Germania,131090,2.4e-07
+Germania,132597,2.2e-07
+Germania,134104,1.4e-07
+Germania,135611,3.2e-07
+Germania,137117,1.4e-07
+Germania,138624,1.4e-07
+Germania,140131,2.4e-07
+Germania,141638,1.1e-07
+Germania,143144,6e-08
+Germania,144651,3.3e-07
+Germania,146158,3.5e-07
+Germania,147665,6e-08
+Germania,149172,0
+Italia,0,0
+Italia,958,1e-08
+Italia,1917,1.2e-06
+Italia,2875,3.31e-06
+Italia,3834,4.33e-06
+Italia,4792,4.61e-06
+Italia,5750,7.39e-06
+Italia,6709,1.217e-05
+Italia,7667,1.726e-05
+Italia,8625,1.991e-05
+Italia,9584,1.653e-05
+Italia,10542,2.348e-05
+Italia,11501,2.956e-05
+Italia,12459,3.178e-05
+Italia,13417,3.329e-05
+Italia,14376,3.397e-05
+Italia,15334,3.674e-05
+Italia,16293,3.673e-05
+Italia,17251,3.536e-05
+Italia,18209,3.168e-05
+Italia,19168,3.109e-05
+Italia,20126,2.94e-05
+Italia,21085,3.017e-05
+Italia,22043,2.9e-05
+Italia,23001,2.82e-05
+Italia,23960,2.986e-05
+Italia,24918,2.743e-05
+Italia,25876,2.983e-05
+Italia,26835,2.737e-05
+Italia,27793,2.14e-05
+Italia,28752,2.679e-05
+Italia,29710,2.769e-05
+Italia,30668,2.263e-05
+Italia,31627,2.041e-05
+Italia,32585,2.194e-05
+Italia,33544,1.893e-05
+Italia,34502,1.79e-05
+Italia,35460,1.577e-05
+Italia,36419,1.296e-05
+Italia,37377,1.369e-05
+Italia,38335,1.505e-05
+Italia,39294,1.418e-05
+Italia,40252,1.452e-05
+Italia,41211,1.205e-05
+Italia,42169,9.09e-06
+Italia,43127,8.65e-06
+Italia,44086,8.94e-06
+Italia,45044,6.62e-06
+Italia,46003,8.24e-06
+Italia,46961,8.15e-06
+Italia,47919,5.79e-06
+Italia,48878,5.45e-06
+Italia,49836,5.29e-06
+Italia,50795,4.7e-06
+Italia,51753,4.18e-06
+Italia,52711,3.33e-06
+Italia,53670,2.66e-06
+Italia,54628,2.27e-06
+Italia,55586,2.4e-06
+Italia,56545,2.83e-06
+Italia,57503,3.51e-06
+Italia,58462,3.07e-06
+Italia,59420,2.09e-06
+Italia,60378,2.44e-06
+Italia,61337,1.86e-06
+Italia,62295,1.31e-06
+Italia,63254,1.61e-06
+Italia,64212,1.54e-06
+Italia,65170,1.57e-06
+Italia,66129,1.88e-06
+Italia,67087,1.52e-06
+Italia,68045,1.07e-06
+Italia,69004,9.4e-07
+Italia,69962,7.1e-07
+Italia,70921,6.9e-07
+Italia,71879,7.8e-07
+Italia,72837,8.8e-07
+Italia,73796,5.5e-07
+Italia,74754,6e-07
+Italia,75713,7.2e-07
+Italia,76671,5.1e-07
+Italia,77629,4e-07
+Italia,78588,3.3e-07
+Italia,79546,3.8e-07
+Italia,80505,5.3e-07
+Italia,81463,2.9e-07
+Italia,82421,7.2e-07
+Italia,83380,6.1e-07
+Italia,84338,2.9e-07
+Italia,85296,3.3e-07
+Italia,86255,4.5e-07
+Italia,87213,3e-07
+Italia,88172,2.8e-07
+Italia,89130,2.6e-07
+Italia,90088,1.1e-07
+Italia,91047,1.4e-07
+Italia,92005,2.3e-07
+Italia,92964,1.4e-07
+Italia,93922,0
+Italia,94880,0
+Spagna,0,0
+Spagna,1071,1.8e-07
+Spagna,2142,1.36e-06
+Spagna,3213,3.28e-06
+Spagna,4284,4.43e-06
+Spagna,5355,5.36e-06
+Spagna,6426,6.54e-06
+Spagna,7497,7.63e-06
+Spagna,8568,9.94e-06
+Spagna,9639,1.116e-05
+Spagna,10710,1.182e-05
+Spagna,11781,1.377e-05
+Spagna,12852,1.717e-05
+Spagna,13923,1.969e-05
+Spagna,14994,2.175e-05
+Spagna,16065,2.243e-05
+Spagna,17136,2.323e-05
+Spagna,18207,2.56e-05
+Spagna,19278,2.734e-05
+Spagna,20349,2.554e-05
+Spagna,21420,2.451e-05
+Spagna,22491,2.484e-05
+Spagna,23562,2.498e-05
+Spagna,24633,2.562e-05
+Spagna,25704,2.665e-05
+Spagna,26775,2.619e-05
+Spagna,27846,2.551e-05
+Spagna,28917,2.76e-05
+Spagna,29988,2.677e-05
+Spagna,31059,2.553e-05
+Spagna,32130,2.429e-05
+Spagna,33201,2.155e-05
+Spagna,34272,2.149e-05
+Spagna,35343,2.133e-05
+Spagna,36414,1.936e-05
+Spagna,37485,1.861e-05
+Spagna,38556,1.991e-05
+Spagna,39627,1.919e-05
+Spagna,40698,1.768e-05
+Spagna,41769,1.586e-05
+Spagna,42840,1.385e-05
+Spagna,43911,1.289e-05
+Spagna,44982,1.222e-05
+Spagna,46053,1.196e-05
+Spagna,47124,1.168e-05
+Spagna,48195,1.116e-05
+Spagna,49266,9.17e-06
+Spagna,50337,8.12e-06
+Spagna,51408,7.88e-06
+Spagna,52479,7.46e-06
+Spagna,53550,6.92e-06
+Spagna,54621,6.37e-06
+Spagna,55692,6.19e-06
+Spagna,56763,5.7e-06
+Spagna,57833,5.93e-06
+Spagna,58904,5.85e-06
+Spagna,59975,5.1e-06
+Spagna,61046,4.65e-06
+Spagna,62117,4.94e-06
+Spagna,63188,4.61e-06
+Spagna,64259,3.6e-06
+Spagna,65330,3.28e-06
+Spagna,66401,3.5e-06
+Spagna,67472,3.03e-06
+Spagna,68543,2.68e-06
+Spagna,69614,2.96e-06
+Spagna,70685,2.74e-06
+Spagna,71756,2.11e-06
+Spagna,72827,1.58e-06
+Spagna,73898,1.72e-06
+Spagna,74969,2.31e-06
+Spagna,76040,1.93e-06
+Spagna,77111,1.41e-06
+Spagna,78182,1.82e-06
+Spagna,79253,2.03e-06
+Spagna,80324,1.65e-06
+Spagna,81395,1.71e-06
+Spagna,82466,1.54e-06
+Spagna,83537,1.3e-06
+Spagna,84608,1.07e-06
+Spagna,85679,8.6e-07
+Spagna,86750,1.03e-06
+Spagna,87821,1.02e-06
+Spagna,88892,9.7e-07
+Spagna,89963,1.25e-06
+Spagna,91034,7.7e-07
+Spagna,92105,7.7e-07
+Spagna,93176,8.7e-07
+Spagna,94247,7.2e-07
+Spagna,95318,7.5e-07
+Spagna,96389,8.2e-07
+Spagna,97460,6.3e-07
+Spagna,98531,5.9e-07
+Spagna,99602,6.9e-07
+Spagna,100673,5.3e-07
+Spagna,101744,6.2e-07
+Spagna,102815,5.2e-07
+Spagna,103886,2.9e-07
+Spagna,104957,5e-08
+Spagna,106028,0
+Stati Uniti,0,1.29e-06
+Stati Uniti,2550,3e-06
+Stati Uniti,5099,3.03e-06
+Stati Uniti,7649,3.71e-06
+Stati Uniti,10199,6.01e-06
+Stati Uniti,12749,8.84e-06
+Stati Uniti,15298,1.164e-05
+Stati Uniti,17848,1.44e-05
+Stati Uniti,20398,1.615e-05
+Stati Uniti,22948,1.709e-05
+Stati Uniti,25497,1.659e-05
+Stati Uniti,28047,1.643e-05
+Stati Uniti,30597,1.625e-05
+Stati Uniti,33147,1.539e-05
+Stati Uniti,35696,1.519e-05
+Stati Uniti,38246,1.476e-05
+Stati Uniti,40796,1.438e-05
+Stati Uniti,43345,1.424e-05
+Stati Uniti,45895,1.318e-05
+Stati Uniti,48445,1.223e-05
+Stati Uniti,50995,1.161e-05
+Stati Uniti,53544,1.097e-05
+Stati Uniti,56094,1.059e-05
+Stati Uniti,58644,9.81e-06
+Stati Uniti,61194,8.99e-06
+Stati Uniti,63743,8.32e-06
+Stati Uniti,66293,7.2e-06
+Stati Uniti,68843,6.9e-06
+Stati Uniti,71393,6.67e-06
+Stati Uniti,73942,5.96e-06
+Stati Uniti,76492,5.47e-06
+Stati Uniti,79042,5.17e-06
+Stati Uniti,81591,4.58e-06
+Stati Uniti,84141,4.04e-06
+Stati Uniti,86691,3.63e-06
+Stati Uniti,89241,3.59e-06
+Stati Uniti,91790,3.21e-06
+Stati Uniti,94340,2.74e-06
+Stati Uniti,96890,2.55e-06
+Stati Uniti,99440,2.26e-06
+Stati Uniti,101989,2.31e-06
+Stati Uniti,104539,1.91e-06
+Stati Uniti,107089,1.82e-06
+Stati Uniti,109639,1.76e-06
+Stati Uniti,112188,1.61e-06
+Stati Uniti,114738,1.57e-06
+Stati Uniti,117288,1.33e-06
+Stati Uniti,119837,1.19e-06
+Stati Uniti,122387,1.09e-06
+Stati Uniti,124937,1.29e-06
+Stati Uniti,127487,1.23e-06
+Stati Uniti,130036,9.4e-07
+Stati Uniti,132586,1.04e-06
+Stati Uniti,135136,8.5e-07
+Stati Uniti,137686,7.7e-07
+Stati Uniti,140235,9.2e-07
+Stati Uniti,142785,7.7e-07
+Stati Uniti,145335,6e-07
+Stati Uniti,147885,6.1e-07
+Stati Uniti,150434,5.1e-07
+Stati Uniti,152984,6.4e-07
+Stati Uniti,155534,6.8e-07
+Stati Uniti,158083,5.9e-07
+Stati Uniti,160633,4.2e-07
+Stati Uniti,163183,4e-07
+Stati Uniti,165733,3.8e-07
+Stati Uniti,168282,3e-07
+Stati Uniti,170832,3.4e-07
+Stati Uniti,173382,3.2e-07
+Stati Uniti,175932,2.7e-07
+Stati Uniti,178481,2.7e-07
+Stati Uniti,181031,2.5e-07
+Stati Uniti,183581,2.4e-07
+Stati Uniti,186131,3e-07
+Stati Uniti,188680,2.7e-07
+Stati Uniti,191230,3.1e-07
+Stati Uniti,193780,2.7e-07
+Stati Uniti,196329,2.1e-07
+Stati Uniti,198879,2e-07
+Stati Uniti,201429,1.9e-07
+Stati Uniti,203979,1.7e-07
+Stati Uniti,206528,2.5e-07
+Stati Uniti,209078,2.5e-07
+Stati Uniti,211628,1.7e-07
+Stati Uniti,214178,2.1e-07
+Stati Uniti,216727,1.6e-07
+Stati Uniti,219277,1.3e-07
+Stati Uniti,221827,1.6e-07
+Stati Uniti,224377,1.3e-07
+Stati Uniti,226926,8e-08
+Stati Uniti,229476,1e-07
+Stati Uniti,232026,1e-07
+Stati Uniti,234575,1.4e-07
+Stati Uniti,237125,1.3e-07
+Stati Uniti,239675,9e-08
+Stati Uniti,242225,9e-08
+Stati Uniti,244774,1e-07
+Stati Uniti,247324,5e-08
+Stati Uniti,249874,3e-08
+Stati Uniti,252424,0

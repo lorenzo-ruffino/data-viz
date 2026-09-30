@@ -1,0 +1,122 @@
+2019 quota D1/PIL 39.85  D11/PIL 29.20  B2A3G/PIL 47.43
+2020 quota D1/PIL 40.60  D11/PIL 29.65  B2A3G/PIL 47.73
+2021 quota D1/PIL 40.07  D11/PIL 29.32  B2A3G/PIL 47.91
+2022 quota D1/PIL 39.22  D11/PIL 28.75  B2A3G/PIL 49.20
+2023 quota D1/PIL 38.42  D11/PIL 28.21  B2A3G/PIL 49.85
+2024 quota D1/PIL 39.38  D11/PIL 28.93  B2A3G/PIL 48.29
+2025 quota D1/PIL 39.88  D11/PIL 29.25  B2A3G/PIL 47.69
+
+===== 2022->2023: Δ pressione -0.49 pp
+voce                               cat   liv0      Δ  compos   aliq
+Contributi dipendenti (D613CE)     L     2.34  -0.34   -0.04  -0.30
+Contributi datori (D611)           L     8.55  -0.16   -0.16  +0.00
+IRPEF&c. su lavoro dip. (D51A)     L     6.01  +0.27   -0.11  +0.38
+IRPEF&c. su pensioni (D51A)        P     3.45  +0.15   -0.10  +0.25
+IRPEF&c. altri redditi (D51A)      K     1.67  +0.07   +0.02  +0.05
+Contributi autonomi (D613CS)       K     1.89  +0.01   +0.03  -0.02
+IRES (D51B)                        K     2.65  +0.08   +0.04  +0.05
+Imposte su plusvalenze (D51C)      O     0.14  -0.06   +0.00  -0.06
+IVA (D211)                         C     6.93  -0.40   -0.11  -0.28
+Accise (D214A)                     C     1.44  +0.42   -0.02  +0.44
+Altre ind. (IRAP,IMU,bollo..)      O     5.89  -0.49   +0.00  -0.49
+Altro (D5 altre, D91, D61 altri)   O     0.73  -0.04   +0.00  -0.04
+  cat L: Δ -0.24  composizione -0.32  aliquota +0.08
+  cat P: Δ +0.15  composizione -0.10  aliquota +0.25
+  cat K: Δ +0.17  composizione +0.08  aliquota +0.08
+  cat O: Δ -0.59  composizione +0.00  aliquota -0.59
+  cat C: Δ +0.02  composizione -0.14  aliquota +0.16
+  TOT composizione -0.47  TOT aliquote/altro -0.02
+  ore dip +3.9%  PIL reale +0.9%  retrib/ora +1.3%  deflatore +6.3%
+  prelievo lavoro dip = 16.90% PIL; comp. 'occupazione>PIL' +0.49, comp. 'salario reale' -0.79 (lordo, prima di compensazione su K)
+
+===== 2023->2024: Δ pressione +1.11 pp
+voce                               cat   liv0      Δ  compos   aliq
+Contributi dipendenti (D613CE)     L     2.00  -0.19   +0.05  -0.24
+Contributi datori (D611)           L     8.39  +0.20   +0.21  -0.01
+IRPEF&c. su lavoro dip. (D51A)     L     6.28  +0.30   +0.16  +0.14
+IRPEF&c. su pensioni (D51A)        P     3.61  +0.17   +0.08  +0.09
+IRPEF&c. altri redditi (D51A)      K     1.74  +0.08   -0.05  +0.14
+Contributi autonomi (D613CS)       K     1.90  +0.11   -0.06  +0.17
+IRES (D51B)                        K     2.73  -0.07   -0.09  +0.02
+Imposte su plusvalenze (D51C)      O     0.08  +0.16   +0.00  +0.16
+IVA (D211)                         C     6.54  +0.06   +0.01  +0.04
+Accise (D214A)                     C     1.86  +0.18   +0.00  +0.18
+Altre ind. (IRAP,IMU,bollo..)      O     5.40  +0.16   +0.00  +0.16
+Altro (D5 altre, D91, D61 altri)   O     0.69  -0.06   +0.00  -0.06
+  cat L: Δ +0.31  composizione +0.42  aliquota -0.11
+  cat P: Δ +0.17  composizione +0.08  aliquota +0.09
+  cat K: Δ +0.12  composizione -0.20  aliquota +0.32
+  cat O: Δ +0.26  composizione +0.00  aliquota +0.26
+  cat C: Δ +0.24  composizione +0.02  aliquota +0.22
+  TOT composizione +0.32  TOT aliquote/altro +0.79
+  ore dip +2.5%  PIL reale +0.8%  retrib/ora +2.8%  deflatore +2.0%
+  prelievo lavoro dip = 16.66% PIL; comp. 'occupazione>PIL' +0.28, comp. 'salario reale' +0.14 (lordo, prima di compensazione su K)
+
+===== 2024->2025: Δ pressione +0.70 pp
+voce                               cat   liv0      Δ  compos   aliq
+Contributi dipendenti (D613CE)     L     1.81  +0.80   +0.02  +0.78
+Contributi datori (D611)           L     8.59  +0.13   +0.09  +0.04
+IRPEF&c. su lavoro dip. (D51A)     L     6.58  -0.24   +0.07  -0.31
+IRPEF&c. su pensioni (D51A)        P     3.78  -0.14   -0.02  -0.12
+IRPEF&c. altri redditi (D51A)      K     1.83  -0.07   -0.02  -0.04
+Contributi autonomi (D613CS)       K     2.01  -0.02   -0.02  +0.01
+IRES (D51B)                        K     2.66  +0.03   -0.03  +0.06
+Imposte su plusvalenze (D51C)      O     0.23  +0.12   +0.00  +0.12
+IVA (D211)                         C     6.59  +0.07   -0.00  +0.07
+Accise (D214A)                     C     2.04  +0.03   -0.00  +0.03
+Altre ind. (IRAP,IMU,bollo..)      O     5.56  -0.09   +0.00  -0.09
+Altro (D5 altre, D91, D61 altri)   O     0.63  +0.09   +0.00  +0.09
+  cat L: Δ +0.69  composizione +0.19  aliquota +0.50
+  cat P: Δ -0.14  composizione -0.02  aliquota -0.12
+  cat K: Δ -0.06  composizione -0.08  aliquota +0.02
+  cat O: Δ +0.11  composizione +0.00  aliquota +0.11
+  cat C: Δ +0.10  composizione -0.00  aliquota +0.10
+  TOT composizione +0.09  TOT aliquote/altro +0.61
+  ore dip +1.0%  PIL reale +0.5%  retrib/ora +2.7%  deflatore +2.0%
+  prelievo lavoro dip = 16.98% PIL; comp. 'occupazione>PIL' +0.07, comp. 'salario reale' +0.11 (lordo, prima di compensazione su K)
+
+===== 2022->2025: Δ pressione +1.32 pp
+voce                               cat   liv0      Δ  compos   aliq
+Contributi dipendenti (D613CE)     L     2.34  +0.27   +0.04  +0.23
+Contributi datori (D611)           L     8.55  +0.17   +0.15  +0.02
+IRPEF&c. su lavoro dip. (D51A)     L     6.01  +0.33   +0.10  +0.23
+IRPEF&c. su pensioni (D51A)        P     3.45  +0.19   -0.04  +0.23
+IRPEF&c. altri redditi (D51A)      K     1.67  +0.09   -0.05  +0.14
+Contributi autonomi (D613CS)       K     1.89  +0.10   -0.06  +0.16
+IRES (D51B)                        K     2.65  +0.04   -0.08  +0.12
+Imposte su plusvalenze (D51C)      O     0.14  +0.21   +0.00  +0.21
+IVA (D211)                         C     6.93  -0.27   -0.10  -0.17
+Accise (D214A)                     C     1.44  +0.64   -0.02  +0.66
+Altre ind. (IRAP,IMU,bollo..)      O     5.89  -0.42   +0.00  -0.42
+Altro (D5 altre, D91, D61 altri)   O     0.73  -0.01   +0.00  -0.01
+  cat L: Δ +0.76  composizione +0.29  aliquota +0.48
+  cat P: Δ +0.19  composizione -0.04  aliquota +0.23
+  cat K: Δ +0.23  composizione -0.19  aliquota +0.42
+  cat O: Δ -0.22  composizione +0.00  aliquota -0.22
+  cat C: Δ +0.36  composizione -0.12  aliquota +0.49
+  TOT composizione -0.06  TOT aliquote/altro +1.39
+  ore dip +7.5%  PIL reale +2.3%  retrib/ora +6.9%  deflatore +10.5%
+  prelievo lavoro dip = 16.90% PIL; comp. 'occupazione>PIL' +0.86, comp. 'salario reale' -0.55 (lordo, prima di compensazione su K)
+
+===== 2019->2025: Δ pressione +0.78 pp
+voce                               cat   liv0      Δ  compos   aliq
+Contributi dipendenti (D613CE)     L     2.46  +0.14   +0.00  +0.14
+Contributi datori (D611)           L     8.78  -0.07   +0.01  -0.08
+IRPEF&c. su lavoro dip. (D51A)     L     6.27  +0.07   +0.01  +0.06
+IRPEF&c. su pensioni (D51A)        P     3.60  +0.04   +0.02  +0.02
+IRPEF&c. altri redditi (D51A)      K     1.74  +0.02   +0.01  +0.01
+Contributi autonomi (D613CS)       K     1.89  +0.10   +0.01  +0.09
+IRES (D51B)                        K     1.95  +0.74   +0.01  +0.73
+Imposte su plusvalenze (D51C)      O     0.17  +0.18   +0.00  +0.18
+IVA (D211)                         C     6.18  +0.48   -0.22  +0.71
+Accise (D214A)                     C     2.77  -0.70   -0.10  -0.60
+Altre ind. (IRAP,IMU,bollo..)      O     5.72  -0.25   +0.00  -0.25
+Altro (D5 altre, D91, D61 altri)   O     0.70  +0.02   +0.00  +0.02
+  cat L: Δ +0.15  composizione +0.03  aliquota +0.12
+  cat P: Δ +0.04  composizione +0.02  aliquota +0.02
+  cat K: Δ +0.86  composizione +0.03  aliquota +0.83
+  cat O: Δ -0.06  composizione +0.00  aliquota -0.06
+  cat C: Δ -0.21  composizione -0.32  aliquota +0.11
+  TOT composizione -0.24  TOT aliquote/altro +1.03
+  ore dip +11.1%  PIL reale +6.4%  retrib/ora +12.9%  deflatore +17.6%
+  prelievo lavoro dip = 17.51% PIL; comp. 'occupazione>PIL' +0.77, comp. 'salario reale' -0.71 (lordo, prima di compensazione su K)

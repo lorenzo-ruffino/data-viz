@@ -1,0 +1,95 @@
+2023 pressione 41.23  quota D1 38.45  quota B2A3G 49.80
+2024 pressione 42.21  quota D1 39.29  quota B2A3G 48.43
+2025 pressione 42.90  quota D1 39.83  quota B2A3G 47.81
+
+===== 2023->2024: pressione 41.23 -> 42.21 (Δ +0.99)
+                                                  voce gruppo  livello  delta  compos  intens
+                    Contributi a carico dei dipendenti      L    1.996 -0.196   0.041  -0.237
+                        Contributi a carico dei datori      L    8.392  0.162   0.171  -0.008
+                     IRPEF+addiz. su lavoro dipendente      L    5.667  0.177   0.115   0.062
+                              IRPEF+addiz. su pensioni      P    3.211  0.140   0.057   0.083
+                         IRPEF+addiz. su altri redditi      A    1.754 -0.106  -0.048  -0.058
+                      Contributi autonomi + concordato      A    1.897  0.101  -0.052   0.153
+                       IRES, IRAP, sostitutive imprese      K    4.049  0.006  -0.112   0.118
+                         Redditi e rendite finanziarie      F    1.285  0.524   0.000   0.524
+                    Energia (accise, oneri di sistema)      E    1.821  0.176  -0.001   0.177
+                                                   IVA      C    6.541  0.027  -0.004   0.031
+                    Immobili (IMU, cedolare, registro)      O    1.654  0.029   0.000   0.029
+Altro (tabacchi, giochi, bollo auto, canone, ETS, ...)      O    2.960 -0.054   0.000  -0.054
+somma Δ +0.985  composizione +0.165  intensità +0.820
+lavoro dip: prelievo 16.06% PIL; compos lavoro +0.326 = occupazione +0.336 + salari -0.010
+ULA dip +3.18%  PIL reale +1.06%  retrib/ULA +2.06%  deflatore +2.13%  pensioni +5.03%
+IRPEF+addizionali: 227.7 -> 239.7
+
+===== 2024->2025: pressione 42.21 -> 42.90 (Δ +0.69)
+                                                  voce gruppo  livello  delta  compos  intens
+                    Contributi a carico dei dipendenti      L    1.800  0.797   0.021   0.777
+                        Contributi a carico dei datori      L    8.554  0.137   0.098   0.039
+                     IRPEF+addiz. su lavoro dipendente      L    5.844 -0.285   0.067  -0.352
+                              IRPEF+addiz. su pensioni      P    3.350 -0.163  -0.016  -0.147
+                         IRPEF+addiz. su altri redditi      A    1.648 -0.080  -0.021  -0.059
+                      Contributi autonomi + concordato      A    1.998 -0.000  -0.026   0.025
+                       IRES, IRAP, sostitutive imprese      K    4.055  0.009  -0.052   0.061
+                         Redditi e rendite finanziarie      F    1.810  0.299   0.000   0.299
+                    Energia (accise, oneri di sistema)      E    1.996  0.003   0.005  -0.002
+                                                   IVA      C    6.568  0.072   0.017   0.054
+                    Immobili (IMU, cedolare, registro)      O    1.683 -0.027   0.000  -0.027
+Altro (tabacchi, giochi, bollo auto, canone, ETS, ...)      O    2.905 -0.074   0.000  -0.074
+somma Δ +0.687  composizione +0.093  intensità +0.594
+lavoro dip: prelievo 16.20% PIL; compos lavoro +0.186 = occupazione +0.063 + salari +0.122
+ULA dip +1.01%  PIL reale +0.62%  retrib/ULA +2.60%  deflatore +1.83%  pensioni +1.96%
+IRPEF+addizionali: 239.7 -> 233.6
+
+######## 2023->2024
+  Finanza  Ritenute su interessi (famiglie)                      +4.92 mld  +0.208 pp
+  Finanza  Ritenute su dividendi (famiglie)                      +0.85 mld  +0.031 pp
+  Finanza  Plusvalenze e risparmio gestito                       +3.48 mld  +0.155 pp
+  Finanza  Imposta di bollo                                      +2.15 mld  +0.087 pp
+  Finanza  Assicurazioni vita/prev. compl. (incl. straord. 2025)  +0.35 mld  +0.012 pp
+  Finanza  Ritenute interessi imprese, Tobin tax, cripto         +0.73 mld  +0.031 pp
+  Energia  Energia elettrica + oneri di sistema                  +4.70 mld  +0.199 pp
+  Energia  Gas metano + oneri gas                                +0.00 mld  -0.005 pp
+  Energia  Oli minerali e gas incondensabili                     +0.43 mld  -0.019 pp
+  Imprese  IRES                                                  +4.48 mld  +0.130 pp
+  Imprese  IRAP                                                  +3.42 mld  +0.112 pp
+  Imprese  Extraprofitti energia e rinnovabili                   -2.97 mld  -0.139 pp
+  Imprese  Rivalutazione beni aziendali                          -2.00 mld  -0.096 pp
+  Imprese  Global minimum tax                                    +0.00 mld  +0.000 pp
+  contributi dip./retribuzioni 7.08% -> 6.26%  => decontribuzione -5.24 mld (-0.237 pp)
+  IRPEF+addiz: Δ +0.211 pp = composizione +0.123 + intensità +0.087
+     misura Riforma IRPEF a tre aliquote (MEF): -4.30 mld (-0.195 pp)
+     effetto riflesso decontribuzione su IRPEF: +1.47 mld (+0.066 pp)
+     fiscal drag dipendenti: +1.75 mld (+0.079)  pensionati +2.28 mld (+0.103)
+     residuo IRPEF: +0.033 pp (+0.73 mld)
+  CUNEO netto (contributi + detrazione/riforma cuneo + riflesso): -0.171 pp
+
+######## 2024->2025
+  Finanza  Ritenute su interessi (famiglie)                      +1.95 mld  +0.070 pp
+  Finanza  Ritenute su dividendi (famiglie)                      +0.26 mld  +0.005 pp
+  Finanza  Plusvalenze e risparmio gestito                       +2.73 mld  +0.115 pp
+  Finanza  Imposta di bollo                                      +0.60 mld  +0.017 pp
+  Finanza  Assicurazioni vita/prev. compl. (incl. straord. 2025)  +1.76 mld  +0.075 pp
+  Finanza  Ritenute interessi imprese, Tobin tax, cripto         +0.46 mld  +0.018 pp
+  Energia  Energia elettrica + oneri di sistema                  -0.26 mld  -0.026 pp
+  Energia  Gas metano + oneri gas                                +1.70 mld  +0.071 pp
+  Energia  Oli minerali e gas incondensabili                     +0.44 mld  -0.010 pp
+  Imprese  IRES                                                  +2.44 mld  +0.048 pp
+  Imprese  IRAP                                                  -0.14 mld  -0.041 pp
+  Imprese  Extraprofitti energia e rinnovabili                   +0.23 mld  +0.010 pp
+  Imprese  Rivalutazione beni aziendali                          -0.18 mld  -0.010 pp
+  Imprese  Global minimum tax                                    +0.05 mld  +0.002 pp
+  Energia  revisione settembre (accise energia)                         -0.73 mld
+  contributi dip./retribuzioni 6.26% -> 8.92%  => decontribuzione +17.59 mld (+0.777 pp)
+  IRPEF+addiz: Δ -0.529 pp = composizione +0.030 + intensità -0.558
+     misura Nuova detrazione cuneo (UPB): -8.44 mld (-0.373 pp)
+     effetto riflesso decontribuzione su IRPEF: -4.93 mld (-0.217 pp)
+     fiscal drag dipendenti: +2.35 mld (+0.104)  pensionati +0.86 mld (+0.038)
+     residuo IRPEF: -0.110 pp (-2.49 mld)
+  CUNEO netto (contributi + detrazione/riforma cuneo + riflesso): +0.187 pp
+
+### VARIANTI
+2023->2024 lag=False: Δ +0.985 compos +0.165 intens +0.820 | lav +0.326 (occ dip +0.336, occ ULA tot +0.143, salari -0.010) pens +0.057 prof/aut -0.213 cons/ener -0.005 || intens K+A +0.213
+2023->2024 lag=True: Δ +0.985 compos +0.771 intens +0.214 | lav +0.326 (occ dip +0.336, occ ULA tot +0.143, salari -0.010) pens +0.057 prof/aut +0.394 cons/ener -0.005 || intens K+A -0.393
+2024->2025 lag=False: Δ +0.687 compos +0.093 intens +0.594 | lav +0.186 (occ dip +0.063, occ ULA tot +0.099, salari +0.122) pens -0.016 prof/aut -0.099 cons/ener +0.022 || intens K+A +0.027
+2024->2025 lag=True: Δ +0.687 compos +0.034 intens +0.653 | lav +0.186 (occ dip +0.063, occ ULA tot +0.099, salari +0.122) pens -0.016 prof/aut -0.158 cons/ener +0.022 || intens K+A +0.086
+B2A3G crescita: {'2023': 8.49, '2024': 0.36, '2025': 1.15}

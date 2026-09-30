@@ -1,0 +1,31 @@
+indicatore,popolazione,paese,codice,anno,valore,unita,fonte,url
+almeno_competenze_digitali_di_base,16-74 anni,Media UE27,EU27_2020,2021,53.92,% individui,"Eurostat isoc_sk_dskl_i21 (indic_is=I_DSK2_BAB)",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Media UE27,EU27_2020,2023,55.56,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Media UE27,EU27_2020,2025,60.40,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Italia,IT,2021,45.60,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Italia,IT,2023,45.75,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Italia,IT,2025,54.27,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Francia,FR,2021,61.96,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Francia,FR,2023,59.67,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Francia,FR,2025,65.74,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Germania,DE,2021,48.92,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Germania,DE,2023,52.22,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Germania,DE,2025,59.55,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Spagna,ES,2021,64.16,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Spagna,ES,2023,66.18,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-74 anni,Spagna,ES,2025,66.50,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Media UE27,EU27_2020,2021,71.17,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Media UE27,EU27_2020,2023,69.98,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Media UE27,EU27_2020,2025,74.55,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Italia,IT,2021,60.03,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Italia,IT,2023,59.07,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Italia,IT,2025,68.50,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Francia,FR,2021,80.50,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Francia,FR,2023,76.70,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Francia,FR,2025,80.42,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Germania,DE,2021,57.68,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Germania,DE,2023,55.69,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Germania,DE,2025,62.34,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Spagna,ES,2021,84.87,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Spagna,ES,2023,83.56,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21
+almeno_competenze_digitali_di_base,16-24 anni,Spagna,ES,2025,82.55,% individui,"Eurostat isoc_sk_dskl_i21",https://ec.europa.eu/eurostat/databrowser/view/isoc_sk_dskl_i21

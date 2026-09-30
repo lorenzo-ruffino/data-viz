@@ -1,0 +1,17 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 169_750_DF_DCSP_FOI2B2025_1
+description: Foi - medie annue dal 1996 al 2025 (basi 1995, 2010, 2015) - Ecoicop
+  2
+filters:
+  REF_AREA:
+    value: IT
+    description: ''
+  ECOICOP_2:
+    value: 00ST
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

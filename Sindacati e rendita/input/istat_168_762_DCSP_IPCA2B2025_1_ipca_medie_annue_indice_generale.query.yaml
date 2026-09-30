@@ -1,0 +1,16 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 168_762_DF_DCSP_IPCA2B2025_1
+description: Ipca - medie annue dal 1996 (base 2025) - Ecoicop 2
+filters:
+  REF_AREA:
+    value: IT
+    description: ''
+  ECOICOP_2:
+    value: '00'
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

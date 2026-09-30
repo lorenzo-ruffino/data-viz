@@ -1,0 +1,19 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 155_318_DF_DCSC_RETRCONTR1C_1
+description: Retribuzioni contrattuali (base 2015)
+filters:
+  FREQ:
+    value: A
+    description: ''
+  REF_AREA:
+    value: IT
+    description: ''
+  ADJUSTMENT:
+    value: N
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

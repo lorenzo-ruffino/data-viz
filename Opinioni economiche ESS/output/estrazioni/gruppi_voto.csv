@@ -1,0 +1,31 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,tutti,d'accordo (1-2),80.7,pct_accordo,2825
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,tutti,in disaccordo (4-5),5.6,pct_contrario,2825
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,tutti,né d'accordo né in disaccordo (3),13.7,pct_neutro,2825
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:FI,d'accordo (1-2),72.9,pct_accordo,133
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:FI,in disaccordo (4-5),7.4,pct_contrario,133
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:FI,né d'accordo né in disaccordo (3),19.7,pct_neutro,133
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:FdI,d'accordo (1-2),72.1,pct_accordo,295
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:FdI,in disaccordo (4-5),10.5,pct_contrario,295
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:FdI,né d'accordo né in disaccordo (3),17.4,pct_neutro,295
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:Lega,d'accordo (1-2),66.7,pct_accordo,147
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:Lega,in disaccordo (4-5),13.1,pct_contrario,147
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:Lega,né d'accordo né in disaccordo (3),20.2,pct_neutro,147
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:M5S,d'accordo (1-2),87.9,pct_accordo,232
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:M5S,in disaccordo (4-5),1.8,pct_contrario,232
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:M5S,né d'accordo né in disaccordo (3),10.3,pct_neutro,232
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:PD,d'accordo (1-2),86.5,pct_accordo,319
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:PD,in disaccordo (4-5),2.3,pct_contrario,319
+sociodemo-politica,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,voto:PD,né d'accordo né in disaccordo (3),11.2,pct_neutro,319
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,tutti,media (0-10),4,media,2824
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,tutti,punteggio alto (7-10),11.9,pct_7_10,2824
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:FI,media (0-10),5.23,media,133
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:FI,punteggio alto (7-10),30.8,pct_7_10,133
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:FdI,media (0-10),4.91,media,296
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:FdI,punteggio alto (7-10),21.8,pct_7_10,296
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:Lega,media (0-10),4.69,media,148
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:Lega,punteggio alto (7-10),22.6,pct_7_10,148
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:M5S,media (0-10),3.57,media,232
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:M5S,punteggio alto (7-10),7.9,pct_7_10,232
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:PD,media (0-10),4.01,media,322
+sociodemo-politica,stfeco,Soddisfazione per lo stato dell'economia,11,2023,IT,voto:PD,punteggio alto (7-10),9.9,pct_7_10,322

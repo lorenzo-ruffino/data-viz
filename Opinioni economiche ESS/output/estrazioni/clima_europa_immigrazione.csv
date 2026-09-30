@@ -1,0 +1,22 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",6,2012,IT,tutti,,5.82,media,914
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",8,2016,IT,tutti,,4.47,media,2471
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",9,2018,IT,tutti,,4.86,media,2566
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",10,2021,IT,tutti,,5.18,media,2544
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",11,2023,IT,tutti,,4.75,media,2732
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",1,2002,IT,tutti,,5.35,media,1118
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",6,2012,IT,tutti,,5.06,media,936
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",8,2016,IT,tutti,,4.15,media,2516
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",9,2018,IT,tutti,,4.66,media,2653
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",10,2021,IT,tutti,,5.06,media,2601
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",11,2023,IT,tutti,,5.04,media,2769
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",11,2023,DE,tutti,,5.91,media,2360
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",11,2023,DE,tutti,,5.77,media,2386
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",11,2023,FR,tutti,,5.19,media,1629
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",11,2023,FR,tutti,,5.36,media,1725
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",11,2023,ES,tutti,,6.24,media,1729
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",11,2023,ES,tutti,,6.2,media,1815
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",11,2023,GB,tutti,,5.41,media,1397
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",11,2023,GB,tutti,,6.39,media,1627
+clima-economico,euftf,"Integrazione europea: gia' troppo oltre vs andare oltre (0-10, 10=piu' integrazione)",11,2023,Europa,tutti,,5.47,media,40463
+clima-economico,imbgeco,"Immigrazione, effetto sull'economia (0-10, 10=positivo)",11,2023,Europa,tutti,,5.63,media,42199

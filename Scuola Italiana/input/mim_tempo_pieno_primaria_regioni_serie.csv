@@ -1,0 +1,241 @@
+anno_scolastico,livello_territoriale,territorio,alunni_primaria_statale,alunni_tempo_pieno,quota_tempo_pieno_pct
+2015/16,regione,Abruzzo,54438,8657,15.9
+2015/16,regione,Basilicata,23872,11163,46.8
+2015/16,regione,Calabria,88086,17956,20.4
+2015/16,regione,Campania,273511,30969,11.3
+2015/16,regione,Emilia Romagna,190692,93117,48.8
+2015/16,regione,Friuli-Venezia G.,49424,19620,39.7
+2015/16,regione,Lazio,242054,129308,53.4
+2015/16,regione,Liguria,55573,27123,48.8
+2015/16,regione,Lombardia,433949,227550,52.4
+2015/16,regione,Marche,67049,18006,26.9
+2015/16,regione,Molise,11942,992,8.3
+2015/16,regione,Piemonte,179919,94552,52.6
+2015/16,regione,Puglia,185773,28975,15.6
+2015/16,regione,Sardegna,63938,22393,35.0
+2015/16,regione,Sicilia,235592,16438,7.0
+2015/16,regione,Toscana,153012,77321,50.5
+2015/16,regione,Umbria,38436,9330,24.3
+2015/16,regione,Veneto,218456,68412,31.3
+2015/16,ripartizione,Nord Ovest,669441,349225,52.2
+2015/16,ripartizione,Nord Est,458572,181149,39.5
+2015/16,ripartizione,Centro,500551,233965,46.7
+2015/16,ripartizione,Sud,637622,98712,15.5
+2015/16,ripartizione,Isole,299530,38831,13.0
+2015/16,italia,ITALIA,2565716,901882,35.2
+2016/17,regione,Abruzzo,54331,9135,16.8
+2016/17,regione,Basilicata,23488,10656,45.4
+2016/17,regione,Calabria,86922,18116,20.8
+2016/17,regione,Campania,270666,35255,13.0
+2016/17,regione,Emilia Romagna,191694,94115,49.1
+2016/17,regione,Friuli-Venezia G.,49436,19693,39.8
+2016/17,regione,Lazio,242789,131816,54.3
+2016/17,regione,Liguria,55202,27097,49.1
+2016/17,regione,Lombardia,435840,229435,52.6
+2016/17,regione,Marche,66877,18386,27.5
+2016/17,regione,Molise,11779,786,6.7
+2016/17,regione,Piemonte,179042,94717,52.9
+2016/17,regione,Puglia,184018,28847,15.7
+2016/17,regione,Sardegna,63821,22650,35.5
+2016/17,regione,Sicilia,232369,16836,7.2
+2016/17,regione,Toscana,153173,78572,51.3
+2016/17,regione,Umbria,38174,9445,24.7
+2016/17,regione,Veneto,217151,71224,32.8
+2016/17,ripartizione,Nord Ovest,670084,351249,52.4
+2016/17,ripartizione,Nord Est,458281,185032,40.4
+2016/17,ripartizione,Centro,501013,238219,47.5
+2016/17,ripartizione,Sud,631204,102795,16.3
+2016/17,ripartizione,Isole,296190,39486,13.3
+2016/17,italia,ITALIA,2556772,916781,35.9
+2017/18,regione,Abruzzo,54025,9500,17.6
+2017/18,regione,Basilicata,22687,10354,45.6
+2017/18,regione,Calabria,84676,18435,21.8
+2017/18,regione,Campania,264163,37370,14.1
+2017/18,regione,Emilia Romagna,190385,94392,49.6
+2017/18,regione,Friuli-Venezia G.,48805,19619,40.2
+2017/18,regione,Lazio,240680,132347,55.0
+2017/18,regione,Liguria,54647,27119,49.6
+2017/18,regione,Lombardia,433313,229718,53.0
+2017/18,regione,Marche,66380,18557,28.0
+2017/18,regione,Molise,11444,719,6.3
+2017/18,regione,Piemonte,177089,93485,52.8
+2017/18,regione,Puglia,179826,28060,15.6
+2017/18,regione,Sardegna,62911,22378,35.6
+2017/18,regione,Sicilia,226879,16917,7.5
+2017/18,regione,Toscana,152263,78963,51.9
+2017/18,regione,Umbria,37745,9710,25.7
+2017/18,regione,Veneto,214792,73507,34.2
+2017/18,ripartizione,Nord Ovest,665049,350322,52.7
+2017/18,ripartizione,Nord Est,453982,187518,41.3
+2017/18,ripartizione,Centro,497068,239577,48.2
+2017/18,ripartizione,Sud,616821,104438,16.9
+2017/18,ripartizione,Isole,289790,39295,13.6
+2017/18,italia,ITALIA,2522710,921150,36.5
+2018/19,regione,Abruzzo,53464,9784,18.3
+2018/19,regione,Basilicata,22138,10203,46.1
+2018/19,regione,Calabria,82896,18993,22.9
+2018/19,regione,Campania,257720,39021,15.1
+2018/19,regione,Emilia Romagna,188598,94504,50.1
+2018/19,regione,Friuli-Venezia G.,47975,19512,40.7
+2018/19,regione,Lazio,238202,132783,55.7
+2018/19,regione,Liguria,54057,26893,49.7
+2018/19,regione,Lombardia,428395,230169,53.7
+2018/19,regione,Marche,65550,18925,28.9
+2018/19,regione,Molise,11202,843,7.5
+2018/19,regione,Piemonte,174547,92427,53.0
+2018/19,regione,Puglia,175566,27569,15.7
+2018/19,regione,Sardegna,61710,22115,35.8
+2018/19,regione,Sicilia,222519,17693,8.0
+2018/19,regione,Toscana,150465,78977,52.5
+2018/19,regione,Umbria,37075,9751,26.3
+2018/19,regione,Veneto,211518,75367,35.6
+2018/19,ripartizione,Nord Ovest,656999,349489,53.2
+2018/19,ripartizione,Nord Est,448091,189383,42.3
+2018/19,ripartizione,Centro,491292,240436,48.9
+2018/19,ripartizione,Sud,602986,106413,17.6
+2018/19,ripartizione,Isole,284229,39808,14.0
+2018/19,italia,ITALIA,2483597,925529,37.3
+2019/20,regione,Abruzzo,52483,10249,19.5
+2019/20,regione,Basilicata,21360,10035,47.0
+2019/20,regione,Calabria,81011,19537,24.1
+2019/20,regione,Campania,250652,41376,16.5
+2019/20,regione,Emilia Romagna,185553,95460,51.4
+2019/20,regione,Friuli-Venezia G.,47147,19550,41.5
+2019/20,regione,Lazio,233654,132627,56.8
+2019/20,regione,Liguria,52866,26726,50.6
+2019/20,regione,Lombardia,420382,227503,54.1
+2019/20,regione,Marche,63999,19136,29.9
+2019/20,regione,Molise,10908,861,7.9
+2019/20,regione,Piemonte,170999,91922,53.8
+2019/20,regione,Puglia,171467,27672,16.1
+2019/20,regione,Sardegna,60434,22170,36.7
+2019/20,regione,Sicilia,217297,19607,9.0
+2019/20,regione,Toscana,147039,79409,54.0
+2019/20,regione,Umbria,36256,9971,27.5
+2019/20,regione,Veneto,206600,76795,37.2
+2019/20,ripartizione,Nord Ovest,644247,346151,53.7
+2019/20,ripartizione,Nord Est,439300,191805,43.7
+2019/20,ripartizione,Centro,480948,241143,50.1
+2019/20,ripartizione,Sud,587881,109730,18.7
+2019/20,ripartizione,Isole,277731,41777,15.0
+2019/20,italia,ITALIA,2430107,930606,38.3
+2020/21,regione,Abruzzo,51408,10564,20.5
+2020/21,regione,Basilicata,20647,9967,48.3
+2020/21,regione,Calabria,79115,19392,24.5
+2020/21,regione,Campania,242525,43634,18.0
+2020/21,regione,Emilia Romagna,180340,94425,52.4
+2020/21,regione,Friuli-Venezia G.,45466,19297,42.4
+2020/21,regione,Lazio,227385,131949,58.0
+2020/21,regione,Liguria,51324,26487,51.6
+2020/21,regione,Lombardia,407182,222728,54.7
+2020/21,regione,Marche,61829,19121,30.9
+2020/21,regione,Molise,10714,879,8.2
+2020/21,regione,Piemonte,165857,90016,54.3
+2020/21,regione,Puglia,166488,28299,17.0
+2020/21,regione,Sardegna,58080,21845,37.6
+2020/21,regione,Sicilia,211946,21501,10.1
+2020/21,regione,Toscana,142042,77456,54.5
+2020/21,regione,Umbria,35308,10041,28.4
+2020/21,regione,Veneto,199838,76853,38.5
+2020/21,ripartizione,Nord Ovest,624363,339231,54.3
+2020/21,ripartizione,Nord Est,425644,190575,44.8
+2020/21,ripartizione,Centro,466564,238567,51.1
+2020/21,ripartizione,Sud,570897,112735,19.7
+2020/21,ripartizione,Isole,270026,43346,16.1
+2020/21,italia,ITALIA,2357494,924454,39.2
+2021/22,regione,Abruzzo,51036,11242,22.0
+2021/22,regione,Basilicata,20327,10133,49.8
+2021/22,regione,Calabria,78212,19867,25.4
+2021/22,regione,Campania,236495,45372,19.2
+2021/22,regione,Emilia Romagna,177640,95394,53.7
+2021/22,regione,Friuli-Venezia G.,44275,19277,43.5
+2021/22,regione,Lazio,223126,131807,59.1
+2021/22,regione,Liguria,50915,26866,52.8
+2021/22,regione,Lombardia,400432,221371,55.3
+2021/22,regione,Marche,60599,19372,32.0
+2021/22,regione,Molise,10488,982,9.4
+2021/22,regione,Piemonte,162707,89248,54.9
+2021/22,regione,Puglia,161691,28843,17.8
+2021/22,regione,Sardegna,56242,21905,38.9
+2021/22,regione,Sicilia,208177,22835,11.0
+2021/22,regione,Toscana,138793,77710,56.0
+2021/22,regione,Umbria,34552,10235,29.6
+2021/22,regione,Veneto,195299,77809,39.8
+2021/22,ripartizione,Nord Ovest,614054,337485,55.0
+2021/22,ripartizione,Nord Est,417214,192480,46.1
+2021/22,ripartizione,Centro,457070,239124,52.3
+2021/22,ripartizione,Sud,558249,116439,20.9
+2021/22,ripartizione,Isole,264419,44740,16.9
+2021/22,italia,ITALIA,2311006,930268,40.3
+2022/23,regione,Abruzzo,50427,11904,23.6
+2022/23,regione,Basilicata,19935,10275,51.5
+2022/23,regione,Calabria,76938,20135,26.2
+2022/23,regione,Campania,231724,48483,20.9
+2022/23,regione,Emilia Romagna,174524,95936,55.0
+2022/23,regione,Friuli-Venezia G.,43087,19388,45.0
+2022/23,regione,Lazio,218515,131989,60.4
+2022/23,regione,Liguria,50240,27457,54.7
+2022/23,regione,Lombardia,392776,219927,56.0
+2022/23,regione,Marche,59125,19837,33.6
+2022/23,regione,Molise,10355,1110,10.7
+2022/23,regione,Piemonte,159382,88390,55.5
+2022/23,regione,Puglia,157813,30154,19.1
+2022/23,regione,Sardegna,54228,21912,40.4
+2022/23,regione,Sicilia,204879,24493,12.0
+2022/23,regione,Toscana,135437,77704,57.4
+2022/23,regione,Umbria,33722,10516,31.2
+2022/23,regione,Veneto,190256,78984,41.5
+2022/23,ripartizione,Nord Ovest,602398,335774,55.7
+2022/23,ripartizione,Nord Est,407867,194308,47.6
+2022/23,ripartizione,Centro,446799,240046,53.7
+2022/23,ripartizione,Sud,547192,122061,22.3
+2022/23,ripartizione,Isole,259107,46405,17.9
+2022/23,italia,ITALIA,2263363,938594,41.5
+2023/24,regione,Abruzzo,49316,12722,25.8
+2023/24,regione,Basilicata,19461,10467,53.8
+2023/24,regione,Calabria,75970,20558,27.1
+2023/24,regione,Campania,228216,51726,22.7
+2023/24,regione,Emilia Romagna,171069,95685,55.9
+2023/24,regione,Friuli-Venezia G.,42117,19327,45.9
+2023/24,regione,Lazio,212637,132611,62.4
+2023/24,regione,Liguria,49331,27789,56.3
+2023/24,regione,Lombardia,385091,217570,56.5
+2023/24,regione,Marche,57788,20209,35.0
+2023/24,regione,Molise,10204,1011,9.9
+2023/24,regione,Piemonte,155818,86828,55.7
+2023/24,regione,Puglia,154019,31771,20.6
+2023/24,regione,Sardegna,52624,22203,42.2
+2023/24,regione,Sicilia,202272,26363,13.0
+2023/24,regione,Toscana,131975,77684,58.9
+2023/24,regione,Umbria,32408,10572,32.6
+2023/24,regione,Veneto,185717,80702,43.5
+2023/24,ripartizione,Nord Ovest,590240,332187,56.3
+2023/24,ripartizione,Nord Est,398903,195714,49.1
+2023/24,ripartizione,Centro,434808,241076,55.4
+2023/24,ripartizione,Sud,537186,128255,23.9
+2023/24,ripartizione,Isole,254896,48566,19.1
+2023/24,italia,ITALIA,2216033,945798,42.7
+2024/25,regione,Abruzzo,48200,12943,26.9
+2024/25,regione,Basilicata,19271,10804,56.1
+2024/25,regione,Calabria,74927,21112,28.2
+2024/25,regione,Campania,224658,53713,23.9
+2024/25,regione,Emilia Romagna,167447,95524,57.0
+2024/25,regione,Friuli-Venezia G.,40956,19199,46.9
+2024/25,regione,Lazio,207423,132876,64.1
+2024/25,regione,Liguria,48376,27851,57.6
+2024/25,regione,Lombardia,376914,215715,57.2
+2024/25,regione,Marche,56123,20753,37.0
+2024/25,regione,Molise,10012,1206,12.0
+2024/25,regione,Piemonte,151516,85747,56.6
+2024/25,regione,Puglia,150338,34108,22.7
+2024/25,regione,Sardegna,50437,22388,44.4
+2024/25,regione,Sicilia,199967,28203,14.1
+2024/25,regione,Toscana,128463,77504,60.3
+2024/25,regione,Umbria,31353,10641,33.9
+2024/25,regione,Veneto,181040,82334,45.5
+2024/25,ripartizione,Nord Ovest,576806,329313,57.1
+2024/25,ripartizione,Nord Est,389443,197057,50.6
+2024/25,ripartizione,Centro,423362,241774,57.1
+2024/25,ripartizione,Sud,527406,133886,25.4
+2024/25,ripartizione,Isole,250404,50591,20.2
+2024/25,italia,ITALIA,2167421,952621,44.0

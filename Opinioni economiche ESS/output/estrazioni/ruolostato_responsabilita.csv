@@ -1,0 +1,103 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi,flag_n_basso
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",7.83,media,2726,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",78.3,pct_7_10,2726,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",8.32,media,2465,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",86.8,pct_7_10,2465,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",7.49,media,28762,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",72.2,pct_7_10,28762,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",7.1,media,2057,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",66.5,pct_7_10,2057,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",6.97,media,2304,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",62.4,pct_7_10,2304,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,DE,tutti,"",8.44,media,2837,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,DE,tutti,"",88.7,pct_7_10,2837,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,ES,tutti,"",7.98,media,1918,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,ES,tutti,"",79.8,pct_7_10,1918,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,Europa,tutti,"",7.79,media,38940,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,Europa,tutti,"",77.7,pct_7_10,38940,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,Europa-panel15,tutti,"",7.71,media,27157,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,Europa-panel15,tutti,"",76.8,pct_7_10,27157,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,FR,tutti,"",7.41,media,2059,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,FR,tutti,"",73.6,pct_7_10,2059,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,GB,tutti,"",7,media,1937,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,GB,tutti,"",64.9,pct_7_10,1937,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",8.14,media,2558,FALSE
+ruolo-stato,gvcldcr,"Servizi per l'infanzia ai genitori lavoratori, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",82.3,pct_7_10,2558,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",8.3,media,2744,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",88.4,pct_7_10,2744,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",8.98,media,2558,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",95.3,pct_7_10,2558,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",8.51,media,29158,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",90.3,pct_7_10,29158,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",8.04,media,2067,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",83.9,pct_7_10,2067,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",8.73,media,2346,FALSE
+ruolo-stato,gvhlthc,"Assistenza sanitaria per i malati, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",93.6,pct_7_10,2346,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",6.17,media,2732,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",50.9,pct_7_10,2732,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",7.67,media,2477,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",77.1,pct_7_10,2477,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",6.45,media,28939,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",54.6,pct_7_10,28939,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",6.02,media,2061,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",46.5,pct_7_10,2061,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",6,media,2331,FALSE
+ruolo-stato,gvjbevn,"Lavoro per tutti, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",46.9,pct_7_10,2331,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",7.31,media,2710,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",69.4,pct_7_10,2710,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",8.18,media,2474,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",83.4,pct_7_10,2474,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",7.46,media,28742,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",71.9,pct_7_10,28742,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",7.22,media,2060,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",67.2,pct_7_10,2060,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",7.21,media,2320,FALSE
+ruolo-stato,gvpdlwk,"Congedo retribuito per cura di familiari malati, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",68.2,pct_7_10,2320,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",7.5,media,2742,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",73.4,pct_7_10,2742,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",8.82,media,2556,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",94.8,pct_7_10,2556,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",8.18,media,29144,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",85.2,pct_7_10,29144,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",7.97,media,2070,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",82.6,pct_7_10,2070,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",8.5,media,2344,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",91.7,pct_7_10,2344,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,DE,tutti,"",7.58,media,2833,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,DE,tutti,"",75.9,pct_7_10,2833,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,ES,tutti,"",8.54,media,1940,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,ES,tutti,"",91,pct_7_10,1940,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,Europa,tutti,"",7.98,media,39180,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,Europa,tutti,"",82.9,pct_7_10,39180,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,Europa-panel15,tutti,"",7.89,media,27321,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,Europa-panel15,tutti,"",81.9,pct_7_10,27321,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,FR,tutti,"",7.86,media,2064,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,FR,tutti,"",83.5,pct_7_10,2064,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,GB,tutti,"",7.79,media,1949,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,GB,tutti,"",80.2,pct_7_10,1949,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",8.46,media,2592,FALSE
+ruolo-stato,gvslvol,"Tenore di vita degli anziani, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",88.6,pct_7_10,2592,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",6.35,media,2730,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,DE,tutti,"",46.5,pct_7_10,2730,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",7.76,media,2512,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,ES,tutti,"",74.2,pct_7_10,2512,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",6.53,media,28959,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,Europa-panel15,tutti,"",51,pct_7_10,28959,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",6.17,media,2057,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,FR,tutti,"",44.1,pct_7_10,2057,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",6,media,2336,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",4,2008,GB,tutti,"",40.8,pct_7_10,2336,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,DE,tutti,"",6.02,media,2821,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,DE,tutti,"",41.3,pct_7_10,2821,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,ES,tutti,"",7.74,media,1925,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,ES,tutti,"",75.5,pct_7_10,1925,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,Europa,tutti,"",6.55,media,38959,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,Europa,tutti,"",52,pct_7_10,38959,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,Europa-panel15,tutti,"",6.36,media,27189,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,Europa-panel15,tutti,"",48.7,pct_7_10,27189,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,FR,tutti,"",6.21,media,2050,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,FR,tutti,"",46.2,pct_7_10,2050,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,GB,tutti,"",5.85,media,1939,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,GB,tutti,"",38,pct_7_10,1939,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",7.69,media,2577,FALSE
+ruolo-stato,gvslvue,"Tenore di vita dei disoccupati, responsabilita' del governo (0-10)",8,2016,IT,tutti,"",72.2,pct_7_10,2577,FALSE

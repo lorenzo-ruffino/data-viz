@@ -1,0 +1,209 @@
+indicator,indicator_name,iso3,country,year,value
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,DEU,Germany,2000,490
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,DEU,Germany,2003,502.98553214
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,DEU,Germany,2006,503.790858681686
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,DEU,Germany,2009,512.777642599843
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,DEU,Germany,2012,513.525055819929
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,DEU,Germany,2015,505.9713
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,DEU,Germany,2018,500.043780166766
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ESP,Spain,2000,476
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ESP,Spain,2003,485.10805641
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ESP,Spain,2006,479.957507442949
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ESP,Spain,2009,483.493140321268
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ESP,Spain,2012,484.319297801971
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ESP,Spain,2015,485.8432
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ESP,Spain,2018,481.392612675476
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,FRA,France,2000,517
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,FRA,France,2003,510.79947353
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,FRA,France,2006,495.538332644515
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,FRA,France,2009,496.782310397535
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,FRA,France,2012,494.98467432064
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,FRA,France,2015,492.9204
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,FRA,France,2018,495.407581444032
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,GBR,United Kingdom,2000,529
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,GBR,United Kingdom,2003,508.25808094
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,GBR,United Kingdom,2006,495.444158833462
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,GBR,United Kingdom,2009,492.414078206256
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,GBR,United Kingdom,2012,493.934230896316
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,GBR,United Kingdom,2015,492.4785
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,GBR,United Kingdom,2018,501.76989911392
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ITA,Italy,2000,457
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ITA,Italy,2003,465.66421009
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ITA,Italy,2006,461.6887207488
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ITA,Italy,2009,482.908480430536
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ITA,Italy,2012,485.321181012553
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ITA,Italy,2015,489.7287
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,ITA,Italy,2018,486.58985801291
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,NLD,Netherlands,2003,537.823276
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,NLD,Netherlands,2006,530.654046305865
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,NLD,Netherlands,2009,525.835688380923
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,NLD,Netherlands,2012,522.971758192681
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,NLD,Netherlands,2015,512.2528
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,NLD,Netherlands,2018,519.230982676559
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,OED,OECD members,2018,489.286640086271
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,POL,Poland,2000,470
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,POL,Poland,2003,490.23877608
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,POL,Poland,2006,495.428497326879
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,POL,Poland,2009,494.802918517109
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,POL,Poland,2012,517.501096817955
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,POL,Poland,2015,504.4693
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,POL,Poland,2018,515.647874629692
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,PRT,Portugal,2000,454
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,PRT,Portugal,2003,466.0166947
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,PRT,Portugal,2006,466.160985842381
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,PRT,Portugal,2009,486.888306098136
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,PRT,Portugal,2012,487.063181343903
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,PRT,Portugal,2015,491.627
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,PRT,Portugal,2018,492.487406111793
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,SWE,Sweden,2000,510
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,SWE,Sweden,2003,509.04644872
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,SWE,Sweden,2006,502.356398784186
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,SWE,Sweden,2009,494.238175422399
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,SWE,Sweden,2012,478.260635903011
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,SWE,Sweden,2015,493.9181
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,SWE,Sweden,2018,502.387702056848
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,USA,United States,2000,493
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,USA,United States,2003,482.88503847
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,USA,United States,2006,474.352157500162
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,USA,United States,2009,487.396520406538
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,USA,United States,2012,481.366786279212
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,USA,United States,2015,469.6285
+LO.PISA.MAT,PISA: Mean performance on the mathematics scale,USA,United States,2018,478.244717377205
+LO.PISA.REA,PISA: Mean performance on the reading scale,DEU,Germany,2000,483.990823766235
+LO.PISA.REA,PISA: Mean performance on the reading scale,DEU,Germany,2003,491.35799852
+LO.PISA.REA,PISA: Mean performance on the reading scale,DEU,Germany,2006,494.944417879441
+LO.PISA.REA,PISA: Mean performance on the reading scale,DEU,Germany,2009,497.305058150888
+LO.PISA.REA,PISA: Mean performance on the reading scale,DEU,Germany,2012,507.676529765533
+LO.PISA.REA,PISA: Mean performance on the reading scale,DEU,Germany,2015,509.1041
+LO.PISA.REA,PISA: Mean performance on the reading scale,DEU,Germany,2018,498.279256429592
+LO.PISA.REA,PISA: Mean performance on the reading scale,ESP,Spain,2000,492.552969160095
+LO.PISA.REA,PISA: Mean performance on the reading scale,ESP,Spain,2003,480.53799047
+LO.PISA.REA,PISA: Mean performance on the reading scale,ESP,Spain,2006,460.830112097119
+LO.PISA.REA,PISA: Mean performance on the reading scale,ESP,Spain,2009,481.042326052625
+LO.PISA.REA,PISA: Mean performance on the reading scale,ESP,Spain,2012,487.939181597799
+LO.PISA.REA,PISA: Mean performance on the reading scale,ESP,Spain,2015,495.5764
+LO.PISA.REA,PISA: Mean performance on the reading scale,FRA,France,2000,504.742388238491
+LO.PISA.REA,PISA: Mean performance on the reading scale,FRA,France,2003,496.18878489
+LO.PISA.REA,PISA: Mean performance on the reading scale,FRA,France,2006,487.706247187242
+LO.PISA.REA,PISA: Mean performance on the reading scale,FRA,France,2009,495.616541310945
+LO.PISA.REA,PISA: Mean performance on the reading scale,FRA,France,2012,505.481483378022
+LO.PISA.REA,PISA: Mean performance on the reading scale,FRA,France,2015,499.3061
+LO.PISA.REA,PISA: Mean performance on the reading scale,FRA,France,2018,492.606481334553
+LO.PISA.REA,PISA: Mean performance on the reading scale,GBR,United Kingdom,2000,523
+LO.PISA.REA,PISA: Mean performance on the reading scale,GBR,United Kingdom,2003,507.01274867
+LO.PISA.REA,PISA: Mean performance on the reading scale,GBR,United Kingdom,2006,495.083509651635
+LO.PISA.REA,PISA: Mean performance on the reading scale,GBR,United Kingdom,2009,494.182010308355
+LO.PISA.REA,PISA: Mean performance on the reading scale,GBR,United Kingdom,2012,499.323115130356
+LO.PISA.REA,PISA: Mean performance on the reading scale,GBR,United Kingdom,2015,497.9719
+LO.PISA.REA,PISA: Mean performance on the reading scale,GBR,United Kingdom,2018,503.928109206045
+LO.PISA.REA,PISA: Mean performance on the reading scale,ITA,Italy,2000,487.469645338731
+LO.PISA.REA,PISA: Mean performance on the reading scale,ITA,Italy,2003,475.66158083
+LO.PISA.REA,PISA: Mean performance on the reading scale,ITA,Italy,2006,468.523108602033
+LO.PISA.REA,PISA: Mean performance on the reading scale,ITA,Italy,2009,486.051098781548
+LO.PISA.REA,PISA: Mean performance on the reading scale,ITA,Italy,2012,489.754403284842
+LO.PISA.REA,PISA: Mean performance on the reading scale,ITA,Italy,2015,484.758
+LO.PISA.REA,PISA: Mean performance on the reading scale,ITA,Italy,2018,476.284679692667
+LO.PISA.REA,PISA: Mean performance on the reading scale,NLD,Netherlands,2003,513.11897043
+LO.PISA.REA,PISA: Mean performance on the reading scale,NLD,Netherlands,2006,506.74697063491
+LO.PISA.REA,PISA: Mean performance on the reading scale,NLD,Netherlands,2009,508.403722944549
+LO.PISA.REA,PISA: Mean performance on the reading scale,NLD,Netherlands,2012,511.229965245418
+LO.PISA.REA,PISA: Mean performance on the reading scale,NLD,Netherlands,2015,502.9591
+LO.PISA.REA,PISA: Mean performance on the reading scale,NLD,Netherlands,2018,484.783725370566
+LO.PISA.REA,PISA: Mean performance on the reading scale,OED,OECD members,2018,487.125994762552
+LO.PISA.REA,PISA: Mean performance on the reading scale,POL,Poland,2000,479.121687960328
+LO.PISA.REA,PISA: Mean performance on the reading scale,POL,Poland,2003,496.6052659
+LO.PISA.REA,PISA: Mean performance on the reading scale,POL,Poland,2006,507.639526884825
+LO.PISA.REA,PISA: Mean performance on the reading scale,POL,Poland,2009,500.478482555257
+LO.PISA.REA,PISA: Mean performance on the reading scale,POL,Poland,2012,518.186880548638
+LO.PISA.REA,PISA: Mean performance on the reading scale,POL,Poland,2015,505.6971
+LO.PISA.REA,PISA: Mean performance on the reading scale,POL,Poland,2018,511.855695357732
+LO.PISA.REA,PISA: Mean performance on the reading scale,PRT,Portugal,2000,470.154622065874
+LO.PISA.REA,PISA: Mean performance on the reading scale,PRT,Portugal,2003,477.56864555
+LO.PISA.REA,PISA: Mean performance on the reading scale,PRT,Portugal,2006,472.304304814666
+LO.PISA.REA,PISA: Mean performance on the reading scale,PRT,Portugal,2009,489.334923939821
+LO.PISA.REA,PISA: Mean performance on the reading scale,PRT,Portugal,2012,487.757687222583
+LO.PISA.REA,PISA: Mean performance on the reading scale,PRT,Portugal,2015,498.1289
+LO.PISA.REA,PISA: Mean performance on the reading scale,PRT,Portugal,2018,491.800785136834
+LO.PISA.REA,PISA: Mean performance on the reading scale,SWE,Sweden,2000,516.331185779085
+LO.PISA.REA,PISA: Mean performance on the reading scale,SWE,Sweden,2003,514.26741267
+LO.PISA.REA,PISA: Mean performance on the reading scale,SWE,Sweden,2006,507.312880076813
+LO.PISA.REA,PISA: Mean performance on the reading scale,SWE,Sweden,2009,497.449423526009
+LO.PISA.REA,PISA: Mean performance on the reading scale,SWE,Sweden,2012,483.335005574195
+LO.PISA.REA,PISA: Mean performance on the reading scale,SWE,Sweden,2015,500.1556
+LO.PISA.REA,PISA: Mean performance on the reading scale,SWE,Sweden,2018,505.785220598165
+LO.PISA.REA,PISA: Mean performance on the reading scale,USA,United States,2000,504.419691245284
+LO.PISA.REA,PISA: Mean performance on the reading scale,USA,United States,2003,495.18241195
+LO.PISA.REA,PISA: Mean performance on the reading scale,USA,United States,2009,499.826821131663
+LO.PISA.REA,PISA: Mean performance on the reading scale,USA,United States,2012,497.581718116953
+LO.PISA.REA,PISA: Mean performance on the reading scale,USA,United States,2015,496.9351
+LO.PISA.REA,PISA: Mean performance on the reading scale,USA,United States,2018,505.352771050068
+LO.PISA.SCI,PISA: Mean performance on the science scale,DEU,Germany,2000,487.105835740655
+LO.PISA.SCI,PISA: Mean performance on the science scale,DEU,Germany,2003,502.33647629
+LO.PISA.SCI,PISA: Mean performance on the science scale,DEU,Germany,2006,515.64913003029
+LO.PISA.SCI,PISA: Mean performance on the science scale,DEU,Germany,2009,520.405349483897
+LO.PISA.SCI,PISA: Mean performance on the science scale,DEU,Germany,2012,524.120799257005
+LO.PISA.SCI,PISA: Mean performance on the science scale,DEU,Germany,2015,509.1406
+LO.PISA.SCI,PISA: Mean performance on the science scale,DEU,Germany,2018,502.9889028235
+LO.PISA.SCI,PISA: Mean performance on the science scale,ESP,Spain,2000,490.939007370946
+LO.PISA.SCI,PISA: Mean performance on the science scale,ESP,Spain,2003,487.09256947
+LO.PISA.SCI,PISA: Mean performance on the science scale,ESP,Spain,2006,488.424522403293
+LO.PISA.SCI,PISA: Mean performance on the science scale,ESP,Spain,2009,488.254630256288
+LO.PISA.SCI,PISA: Mean performance on the science scale,ESP,Spain,2012,496.445822824473
+LO.PISA.SCI,PISA: Mean performance on the science scale,ESP,Spain,2015,492.7861
+LO.PISA.SCI,PISA: Mean performance on the science scale,ESP,Spain,2018,483.252042725488
+LO.PISA.SCI,PISA: Mean performance on the science scale,FRA,France,2000,500.486317527093
+LO.PISA.SCI,PISA: Mean performance on the science scale,FRA,France,2003,511.22545748
+LO.PISA.SCI,PISA: Mean performance on the science scale,FRA,France,2006,495.219838638056
+LO.PISA.SCI,PISA: Mean performance on the science scale,FRA,France,2009,498.22689391511
+LO.PISA.SCI,PISA: Mean performance on the science scale,FRA,France,2012,498.970894151481
+LO.PISA.SCI,PISA: Mean performance on the science scale,FRA,France,2015,494.9776
+LO.PISA.SCI,PISA: Mean performance on the science scale,FRA,France,2018,492.977076058355
+LO.PISA.SCI,PISA: Mean performance on the science scale,GBR,United Kingdom,2000,532
+LO.PISA.SCI,PISA: Mean performance on the science scale,GBR,United Kingdom,2003,518.40338766
+LO.PISA.SCI,PISA: Mean performance on the science scale,GBR,United Kingdom,2006,514.773547839566
+LO.PISA.SCI,PISA: Mean performance on the science scale,GBR,United Kingdom,2009,513.710240139805
+LO.PISA.SCI,PISA: Mean performance on the science scale,GBR,United Kingdom,2012,514.129321054891
+LO.PISA.SCI,PISA: Mean performance on the science scale,GBR,United Kingdom,2015,509.2215
+LO.PISA.SCI,PISA: Mean performance on the science scale,GBR,United Kingdom,2018,504.667473533585
+LO.PISA.SCI,PISA: Mean performance on the science scale,ITA,Italy,2000,477.603320130052
+LO.PISA.SCI,PISA: Mean performance on the science scale,ITA,Italy,2003,486.45421372
+LO.PISA.SCI,PISA: Mean performance on the science scale,ITA,Italy,2006,475.39722060224
+LO.PISA.SCI,PISA: Mean performance on the science scale,ITA,Italy,2009,488.831362943198
+LO.PISA.SCI,PISA: Mean performance on the science scale,ITA,Italy,2012,493.541481804953
+LO.PISA.SCI,PISA: Mean performance on the science scale,ITA,Italy,2015,480.5468
+LO.PISA.SCI,PISA: Mean performance on the science scale,ITA,Italy,2018,468.011727891513
+LO.PISA.SCI,PISA: Mean performance on the science scale,NLD,Netherlands,2003,524.36870636
+LO.PISA.SCI,PISA: Mean performance on the science scale,NLD,Netherlands,2006,524.861505727814
+LO.PISA.SCI,PISA: Mean performance on the science scale,NLD,Netherlands,2009,522.218128201078
+LO.PISA.SCI,PISA: Mean performance on the science scale,NLD,Netherlands,2012,522.055821725803
+LO.PISA.SCI,PISA: Mean performance on the science scale,NLD,Netherlands,2015,508.5748
+LO.PISA.SCI,PISA: Mean performance on the science scale,NLD,Netherlands,2018,503.383819750007
+LO.PISA.SCI,PISA: Mean performance on the science scale,OED,OECD members,2018,488.662377484584
+LO.PISA.SCI,PISA: Mean performance on the science scale,POL,Poland,2000,483.122108567397
+LO.PISA.SCI,PISA: Mean performance on the science scale,POL,Poland,2003,497.780127
+LO.PISA.SCI,PISA: Mean performance on the science scale,POL,Poland,2006,497.806502146554
+LO.PISA.SCI,PISA: Mean performance on the science scale,POL,Poland,2009,508.0682976879
+LO.PISA.SCI,PISA: Mean performance on the science scale,POL,Poland,2012,525.816445438169
+LO.PISA.SCI,PISA: Mean performance on the science scale,POL,Poland,2015,501.4353
+LO.PISA.SCI,PISA: Mean performance on the science scale,POL,Poland,2018,511.035561794169
+LO.PISA.SCI,PISA: Mean performance on the science scale,PRT,Portugal,2000,458.995785394299
+LO.PISA.SCI,PISA: Mean performance on the science scale,PRT,Portugal,2003,467.73512135
+LO.PISA.SCI,PISA: Mean performance on the science scale,PRT,Portugal,2006,474.305889180987
+LO.PISA.SCI,PISA: Mean performance on the science scale,PRT,Portugal,2009,492.949967418761
+LO.PISA.SCI,PISA: Mean performance on the science scale,PRT,Portugal,2012,489.274731981519
+LO.PISA.SCI,PISA: Mean performance on the science scale,PRT,Portugal,2015,501.1001
+LO.PISA.SCI,PISA: Mean performance on the science scale,PRT,Portugal,2018,491.677328515614
+LO.PISA.SCI,PISA: Mean performance on the science scale,SWE,Sweden,2000,512.128270725064
+LO.PISA.SCI,PISA: Mean performance on the science scale,SWE,Sweden,2003,506.12409744
+LO.PISA.SCI,PISA: Mean performance on the science scale,SWE,Sweden,2006,503.334005841912
+LO.PISA.SCI,PISA: Mean performance on the science scale,SWE,Sweden,2009,495.105898116161
+LO.PISA.SCI,PISA: Mean performance on the science scale,SWE,Sweden,2012,484.798965809011
+LO.PISA.SCI,PISA: Mean performance on the science scale,SWE,Sweden,2015,493.4224
+LO.PISA.SCI,PISA: Mean performance on the science scale,SWE,Sweden,2018,499.444690059301
+LO.PISA.SCI,PISA: Mean performance on the science scale,USA,United States,2000,499.4601516259
+LO.PISA.SCI,PISA: Mean performance on the science scale,USA,United States,2003,491.26346276
+LO.PISA.SCI,PISA: Mean performance on the science scale,USA,United States,2006,488.906836775351
+LO.PISA.SCI,PISA: Mean performance on the science scale,USA,United States,2009,502.002265007935
+LO.PISA.SCI,PISA: Mean performance on the science scale,USA,United States,2012,497.409811483087
+LO.PISA.SCI,PISA: Mean performance on the science scale,USA,United States,2015,496.2424
+LO.PISA.SCI,PISA: Mean performance on the science scale,USA,United States,2018,502.380032000921

@@ -1,0 +1,279 @@
+country,subject,year,mean_score
+Estonia,Mathematics,2006,515
+Estonia,Mathematics,2009,512
+Estonia,Mathematics,2012,521
+Estonia,Mathematics,2015,520
+Estonia,Mathematics,2018,523
+Estonia,Mathematics,2022,510
+Finland,Mathematics,2000,536
+Finland,Mathematics,2003,544
+Finland,Mathematics,2006,548
+Finland,Mathematics,2009,541
+Finland,Mathematics,2012,519
+Finland,Mathematics,2015,511.13
+Finland,Mathematics,2018,507
+Finland,Mathematics,2022,484
+France,Mathematics,2000,517
+France,Mathematics,2003,511
+France,Mathematics,2006,496
+France,Mathematics,2009,497.2
+France,Mathematics,2012,495
+France,Mathematics,2015,493
+France,Mathematics,2018,495.41
+France,Mathematics,2022,474
+Germany,Mathematics,2000,490
+Germany,Mathematics,2003,503.19
+Germany,Mathematics,2006,504.19
+Germany,Mathematics,2009,513
+Germany,Mathematics,2012,514
+Germany,Mathematics,2015,506
+Germany,Mathematics,2018,500.04
+Germany,Mathematics,2022,474.83
+International Average (OECD),Mathematics,2000,492
+International Average (OECD),Mathematics,2003,499
+International Average (OECD),Mathematics,2006,494
+International Average (OECD),Mathematics,2009,495
+International Average (OECD),Mathematics,2012,494
+International Average (OECD),Mathematics,2015,490
+International Average (OECD),Mathematics,2018,489
+International Average (OECD),Mathematics,2022,472.36
+Italy,Mathematics,2000,457
+Italy,Mathematics,2003,466.31
+Italy,Mathematics,2006,462
+Italy,Mathematics,2009,483.33
+Italy,Mathematics,2012,485
+Italy,Mathematics,2015,490.3
+Italy,Mathematics,2018,487
+Italy,Mathematics,2022,471
+Netherlands,Mathematics,2003,538
+Netherlands,Mathematics,2006,531
+Netherlands,Mathematics,2009,526
+Netherlands,Mathematics,2012,523
+Netherlands,Mathematics,2015,512
+Netherlands,Mathematics,2018,519
+Netherlands,Mathematics,2022,493
+Poland,Mathematics,2000,470
+Poland,Mathematics,2003,490.24
+Poland,Mathematics,2006,495.24
+Poland,Mathematics,2009,495.23
+Poland,Mathematics,2012,518.12
+Poland,Mathematics,2015,504.17
+Poland,Mathematics,2018,516
+Poland,Mathematics,2022,488.96
+Portugal,Mathematics,2000,454
+Portugal,Mathematics,2003,466.3
+Portugal,Mathematics,2006,466
+Portugal,Mathematics,2009,487.31
+Portugal,Mathematics,2012,487
+Portugal,Mathematics,2015,492.29
+Portugal,Mathematics,2018,492
+Portugal,Mathematics,2022,471.91
+Spain,Mathematics,2000,476
+Spain,Mathematics,2003,485
+Spain,Mathematics,2006,480
+Spain,Mathematics,2009,483.32
+Spain,Mathematics,2012,484
+Spain,Mathematics,2015,486.32
+Spain,Mathematics,2018,481.39
+Spain,Mathematics,2022,473.14
+Sweden,Mathematics,2000,510
+Sweden,Mathematics,2003,509
+Sweden,Mathematics,2006,502
+Sweden,Mathematics,2009,494
+Sweden,Mathematics,2012,478
+Sweden,Mathematics,2015,494.24
+Sweden,Mathematics,2018,502.39
+Sweden,Mathematics,2022,482
+United Kingdom,Mathematics,2000,529.07
+United Kingdom,Mathematics,2003,508
+United Kingdom,Mathematics,2006,495.23
+United Kingdom,Mathematics,2009,492
+United Kingdom,Mathematics,2012,494.24
+United Kingdom,Mathematics,2015,492.27
+United Kingdom,Mathematics,2018,501.77
+United Kingdom,Mathematics,2022,488.98
+United States,Mathematics,2000,493
+United States,Mathematics,2003,483.28
+United States,Mathematics,2006,474
+United States,Mathematics,2009,487.29
+United States,Mathematics,2012,481
+United States,Mathematics,2015,470.4
+United States,Mathematics,2018,478
+United States,Mathematics,2022,465
+Estonia,Reading,2006,501.12
+Estonia,Reading,2009,501
+Estonia,Reading,2012,516
+Estonia,Reading,2015,519
+Estonia,Reading,2018,523
+Estonia,Reading,2022,511
+Finland,Reading,2000,546
+Finland,Reading,2003,543
+Finland,Reading,2006,547
+Finland,Reading,2009,536
+Finland,Reading,2012,524
+Finland,Reading,2015,526
+Finland,Reading,2018,520.08
+Finland,Reading,2022,490
+France,Reading,2000,505.14
+France,Reading,2003,496
+France,Reading,2006,488
+France,Reading,2009,496
+France,Reading,2012,505
+France,Reading,2015,499.19
+France,Reading,2018,492.61
+France,Reading,2022,473.85
+Germany,Reading,2000,484
+Germany,Reading,2003,491.21
+Germany,Reading,2006,495.17
+Germany,Reading,2009,497
+Germany,Reading,2012,508.18
+Germany,Reading,2015,509.11
+Germany,Reading,2018,498
+Germany,Reading,2022,479.79
+International Average (OECD),Reading,2000,493
+International Average (OECD),Reading,2003,494
+International Average (OECD),Reading,2006,489
+International Average (OECD),Reading,2009,493
+International Average (OECD),Reading,2012,496
+International Average (OECD),Reading,2015,493
+International Average (OECD),Reading,2018,487
+International Average (OECD),Reading,2022,476
+Italy,Reading,2000,487
+Italy,Reading,2003,476
+Italy,Reading,2006,469
+Italy,Reading,2009,486
+Italy,Reading,2012,490.25
+Italy,Reading,2015,485.34
+Italy,Reading,2018,476.28
+Italy,Reading,2022,482
+Netherlands,Reading,2003,513
+Netherlands,Reading,2006,507.1
+Netherlands,Reading,2009,508
+Netherlands,Reading,2012,511
+Netherlands,Reading,2015,503.15
+Netherlands,Reading,2018,485
+Netherlands,Reading,2022,459
+Poland,Reading,2000,479
+Poland,Reading,2003,497
+Poland,Reading,2006,508
+Poland,Reading,2009,500
+Poland,Reading,2012,518
+Poland,Reading,2015,506
+Poland,Reading,2018,512
+Poland,Reading,2022,488.71
+Portugal,Reading,2000,470
+Portugal,Reading,2003,478
+Portugal,Reading,2006,472
+Portugal,Reading,2009,489
+Portugal,Reading,2012,488.31
+Portugal,Reading,2015,498.21
+Portugal,Reading,2018,492
+Portugal,Reading,2022,476.59
+Spain,Reading,2000,493.18
+Spain,Reading,2003,481
+Spain,Reading,2006,461
+Spain,Reading,2009,481
+Spain,Reading,2012,488.29
+Spain,Reading,2015,496
+Spain,Reading,2022,474.31
+Sweden,Reading,2000,516
+Sweden,Reading,2003,514
+Sweden,Reading,2006,507.09
+Sweden,Reading,2009,497
+Sweden,Reading,2012,483.34
+Sweden,Reading,2015,500.17
+Sweden,Reading,2018,505.79
+Sweden,Reading,2022,487
+United Kingdom,Reading,2000,523
+United Kingdom,Reading,2003,507.1
+United Kingdom,Reading,2006,495.16
+United Kingdom,Reading,2009,494
+United Kingdom,Reading,2012,499
+United Kingdom,Reading,2015,498.22
+United Kingdom,Reading,2018,503.93
+United Kingdom,Reading,2022,494
+United States,Reading,2000,504
+United States,Reading,2003,495
+United States,Reading,2009,500
+United States,Reading,2012,498
+United States,Reading,2015,497.24
+United States,Reading,2018,505
+United States,Reading,2022,504
+Estonia,Science,2006,531.05
+Estonia,Science,2009,528
+Estonia,Science,2012,541
+Estonia,Science,2015,534
+Estonia,Science,2018,530
+Estonia,Science,2022,526
+Finland,Science,2006,563
+Finland,Science,2009,554
+Finland,Science,2012,545
+Finland,Science,2015,531
+Finland,Science,2018,522
+Finland,Science,2022,511
+France,Science,2006,495
+France,Science,2009,498
+France,Science,2012,499
+France,Science,2015,495.27
+France,Science,2018,492.9771
+France,Science,2022,487
+Germany,Science,2006,516
+Germany,Science,2009,520.12
+Germany,Science,2012,524
+Germany,Science,2015,509.16
+Germany,Science,2018,502.9889
+Germany,Science,2022,492
+International Average (OECD),Science,2006,498
+International Average (OECD),Science,2009,501
+International Average (OECD),Science,2012,501
+International Average (OECD),Science,2015,493
+International Average (OECD),Science,2018,489
+International Average (OECD),Science,2022,484.65
+Italy,Science,2006,475
+Italy,Science,2009,489
+Italy,Science,2012,494.31
+Italy,Science,2015,481
+Italy,Science,2018,468.0117
+Italy,Science,2022,477
+Netherlands,Science,2006,525
+Netherlands,Science,2009,522
+Netherlands,Science,2012,522.12
+Netherlands,Science,2015,509.17
+Netherlands,Science,2018,503.3838
+Netherlands,Science,2022,488
+Poland,Science,2006,498.22
+Poland,Science,2009,508.17
+Poland,Science,2012,526
+Poland,Science,2015,501.22
+Poland,Science,2018,511
+Poland,Science,2022,499.16
+Portugal,Science,2006,474
+Portugal,Science,2009,493
+Portugal,Science,2012,489
+Portugal,Science,2015,501.23
+Portugal,Science,2018,492
+Portugal,Science,2022,484.37
+Spain,Science,2006,488.3
+Spain,Science,2009,488
+Spain,Science,2012,496.27
+Spain,Science,2015,493.3
+Spain,Science,2018,483
+Spain,Science,2022,484.53
+Sweden,Science,2006,503
+Sweden,Science,2009,495
+Sweden,Science,2012,485
+Sweden,Science,2015,493.28
+Sweden,Science,2018,499.4447
+Sweden,Science,2022,493.55
+United Kingdom,Science,2006,515
+United Kingdom,Science,2009,514
+United Kingdom,Science,2012,514.19
+United Kingdom,Science,2015,509.15
+United Kingdom,Science,2018,505
+United Kingdom,Science,2022,499.67
+United States,Science,2006,489
+United States,Science,2009,502
+United States,Science,2012,497
+United States,Science,2015,496
+United States,Science,2018,502
+United States,Science,2022,499.41

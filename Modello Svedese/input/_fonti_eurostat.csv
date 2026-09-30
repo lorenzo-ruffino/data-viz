@@ -1,0 +1,37 @@
+serie,dataset,filtri,anno_min,anno_max,estratto
+pil_crescita_reale,nama_10_gdp,unit=CLV_PCH_PRE; na_item=B1GQ,1994,2025,2026-09-01
+pil_volume_meur20,nama_10_gdp,unit=CLV20_MEUR; na_item=B1GQ,1993,2025,2026-09-01
+pilpc_pps_eu27_100,nama_10_pc,unit=PC_EU27_2020_HAB_MPPS_CP; na_item=B1GQ,1995,2025,2026-09-01
+pilpc_pps_livello,nama_10_pc,unit=CP_PPS_EU27_2020_HAB; na_item=B1GQ,1995,2025,2026-09-01
+pilpc_reale_eur20,nama_10_pc,unit=CLV20_EUR_HAB; na_item=B1GQ,1993,2025,2026-09-01
+gfcf_pc_pil,nama_10_gdp,unit=PC_GDP; na_item=P51G,1993,2025,2026-09-01
+export_pc_pil,nama_10_gdp,unit=PC_GDP; na_item=P6,1993,2025,2026-09-01
+prod_oraria_reale_i20,nama_10_lp_ulc,unit=I20; na_item=RLPR_HW,1993,2025,2026-09-01
+ore_lavorate_per_occupato,nama_10_lp_ulc,unit=HW; na_item=HW_EMP,1993,2025,2026-09-01
+retrib_per_occupato_eur,nama_10_lp_ulc,unit=EUR; na_item=D1_SAL_PER,1993,2025,2026-09-01
+retrib_per_occupato_nac,nama_10_lp_ulc,unit=NAC; na_item=D1_SAL_PER,1993,2025,2026-09-01
+debito_pc_pil,gov_10dd_edpt1,unit=PC_GDP; sector=S13; na_item=GD,1995,2025,2026-09-01
+saldo_pc_pil,gov_10dd_edpt1,unit=PC_GDP; sector=S13; na_item=B9,1995,2025,2026-09-01
+spesa_pubblica_pc_pil,gov_10a_main,unit=PC_GDP; sector=S13; na_item=TE,1995,2025,2026-09-01
+entrate_pc_pil,gov_10a_main,unit=PC_GDP; sector=S13; na_item=TR,1995,2025,2026-09-01
+interessi_pc_pil,gov_10a_main,unit=PC_GDP; sector=S13; na_item=D41PAY,1995,2025,2026-09-01
+pressione_fiscale_pc_pil,gov_10a_taxag,unit=PC_GDP; sector=S13_S212; na_item=D2_D5_D91_D61_M_D995,1995,2025,2026-09-01
+occupazione_20_64,lfsa_ergan,unit=PC; sex=T; age=Y20-64; citizen=TOTAL,1995,2025,2026-09-01
+occupazione_20_64_F,lfsa_ergan,unit=PC; sex=F; age=Y20-64; citizen=TOTAL,1995,2025,2026-09-01
+occupazione_15_64,lfsa_ergan,unit=PC; sex=T; age=Y15-64; citizen=TOTAL,1995,2025,2026-09-01
+occupazione_55_64,lfsa_ergan,unit=PC; sex=T; age=Y55-64; citizen=TOTAL,1995,2025,2026-09-01
+disoccupazione_15_74,lfsa_urgan,unit=PC; sex=T; age=Y15-74; citizen=TOTAL,1995,2025,2026-09-01
+disoccupazione_giovanile,lfsa_urgan,unit=PC; sex=T; age=Y15-24; citizen=TOTAL,1995,2025,2026-09-01
+rs_pc_pil,rd_e_gerdtot,unit=PC_GDP; sectperf=TOTAL,1993,2024,2026-09-01
+rs_imprese_pc_pil,rd_e_gerdtot,unit=PC_GDP; sectperf=BES,1993,2024,2026-09-01
+fecondita,demo_find,indic_de=TOTFERRT,1960,2024,2026-09-01
+over65_pc,demo_pjanind,indic_de=PC_Y65_MAX,1960,2025,2026-09-01
+eta_mediana,demo_pjanind,indic_de=MEDAGEPOP,1960,2025,2026-09-01
+saldo_migratorio_per1000,demo_gind,indic_de=CNMIGRATRT,1960,2025,2026-09-01
+popolazione_1gen,demo_gind,indic_de=JAN,1960,2026,2026-09-01
+laureati_25_34,edat_lfse_03,unit=PC; sex=T; age=Y25-34; isced11=ED5-8,1992,2025,2026-09-01
+laureati_25_64,edat_lfse_03,unit=PC; sex=T; age=Y25-64; isced11=ED5-8,1992,2025,2026-09-01
+bassa_istruzione_25_64,edat_lfse_03,unit=PC; sex=T; age=Y25-64; isced11=ED0-2,1992,2025,2026-09-01
+reddito_mediano_pps,ilc_di03,statinfo=MED_EI; unit=PPS; age=TOTAL; sex=T,1995,2025,2026-09-01
+reddito_medio_pps,ilc_di03,statinfo=MEAN_EI; unit=PPS; age=TOTAL; sex=T,1995,2025,2026-09-01
+gini,ilc_di12,statinfo=GINI_HND; age=TOTAL,2014,2025,2026-09-01

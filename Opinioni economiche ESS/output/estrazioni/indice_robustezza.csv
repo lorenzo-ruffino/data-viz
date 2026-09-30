@@ -1,0 +1,27 @@
+tema,essround,anno,analisi,indice,item,n_item,n_paesi,valore_it,rank_it,n_validi_it,statistica,max_shift_rank,nota
+indice_sintetico,8,2016,leave_one_out,indice1,gvslvol,2,21,7.9153,2,2589,0.9844,3,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice1,gvslvue,2,21,8.3054,5,2589,0.9403,4,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice1,gvcldcr,2,21,8.0768,3,2589,0.9416,6,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,specifica_base,indice1,(nessuno),3,21,8.0992,4,2589,1,0,item: gvslvol+gvslvue+gvcldcr
+indice_sintetico,8,2016,leave_one_out,indice2,gincdif,8,21,0.1771,4,2466,0.9558,4,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice2,gvslvol,8,21,0.1643,4,2466,0.9701,3,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice2,gvslvue,8,21,0.1335,4,2466,0.9688,4,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice2,gvcldcr,8,21,0.1771,3,2466,0.9688,3,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice2,sbeqsoc,8,21,0.184,4,2466,0.9481,4,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice2,sbstrec,8,21,0.1866,4,2466,0.9844,3,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice2,sbbsntx,8,21,0.2162,3,2466,0.9792,4,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice2,sblazy,8,21,0.1525,4,2466,0.9818,3,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,leave_one_out,indice2,basinc,8,21,0.185,3,2466,0.9662,4,rho di Spearman della classifica senza l'item vs classifica di base
+indice_sintetico,8,2016,specifica_base,indice2,(nessuno),9,21,0.1751,4,2466,1,0,item: gincdif+gvslvol+gvslvue+gvcldcr+sbeqsoc+sbstrec+sbbsntx+sblazy+basinc
+indice_sintetico,8,2016,spearman_indice1_vs_indice2,indice1~indice2,,,21,,,,0.8779,9,correlazione di rango tra i due indici sui paesi europei
+indice_sintetico,8,2016,correlazione_item_totale,indice2,gincdif,,,,,,0.2705,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,correlazione_item_totale,indice2,gvslvol,,,,,,0.3684,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,correlazione_item_totale,indice2,gvslvue,,,,,,0.49,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,correlazione_item_totale,indice2,gvcldcr,,,,,,0.3341,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,correlazione_item_totale,indice2,sbeqsoc,,,,,,0.1195,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,correlazione_item_totale,indice2,sbstrec,,,,,,0.3572,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,correlazione_item_totale,indice2,sbbsntx,,,,,,0.336,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,correlazione_item_totale,indice2,sblazy,,,,,,0.362,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,correlazione_item_totale,indice2,basinc,,,,,,0.1828,,r item-resto della scala; positiva = orientamento corretto
+indice_sintetico,8,2016,alpha_cronbach,indice2,(tutti),9,,,,33166,0.633,,"coerenza interna, non ponderata, su casi completi"
+indice_sintetico,8,2016,validazione_r4_6item_vs_3item,indice1,gvhlthc+gvpdlwk+gvjbevn,3,25,,,,0.9762,4,"round 4 (2008), unico round con tutti e 6 gli item; l'Italia non e' nel round 4. rho tra indice a 6 item e indice ai soli 3 item disponibili nel round 8"

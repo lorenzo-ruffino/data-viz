@@ -1,0 +1,117 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi,flag_n_basso
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:altro inattivo,altro inattivo,1.74,media,413,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:altro inattivo,altro inattivo,86.2,pct_accordo,413,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:altro inattivo,altro inattivo,2.3,pct_contrario,413,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:altro inattivo,altro inattivo,11.5,pct_neutro,413,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:disoccupati,disoccupati,1.92,media,187,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:disoccupati,disoccupati,77.8,pct_accordo,187,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:disoccupati,disoccupati,12.5,pct_contrario,187,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:disoccupati,disoccupati,9.7,pct_neutro,187,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:occupati,occupati,1.83,media,1333,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:occupati,occupati,81.6,pct_accordo,1333,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:occupati,occupati,5.4,pct_contrario,1333,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:occupati,occupati,13,pct_neutro,1333,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:pensionati,pensionati,1.9,media,629,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:pensionati,pensionati,77.8,pct_accordo,629,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:pensionati,pensionati,6.1,pct_contrario,629,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:pensionati,pensionati,16,pct_neutro,629,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:studenti,studenti,1.92,media,245,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:studenti,studenti,77.7,pct_accordo,245,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:studenti,studenti,6,pct_contrario,245,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,condizione:studenti,studenti,16.3,pct_neutro,245,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:alto,alto,1.77,media,376,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:alto,alto,85.2,pct_accordo,376,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:alto,alto,5.4,pct_contrario,376,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:alto,alto,9.4,pct_neutro,376,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:basso,basso,1.79,media,552,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:basso,basso,83,pct_accordo,552,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:basso,basso,4.4,pct_contrario,552,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:basso,basso,12.5,pct_neutro,552,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:medio,medio,1.93,media,927,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:medio,medio,77.8,pct_accordo,927,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:medio,medio,8.5,pct_contrario,927,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,decile_reddito:medio,medio,13.7,pct_neutro,927,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:15-34,15-34,1.81,media,616,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:15-34,15-34,82.5,pct_accordo,616,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:15-34,15-34,4.1,pct_contrario,616,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:15-34,15-34,13.4,pct_neutro,616,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:35-54,35-54,1.82,media,854,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:35-54,35-54,82.7,pct_accordo,854,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:35-54,35-54,5.1,pct_contrario,854,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:35-54,35-54,12.2,pct_neutro,854,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:55+,55+,1.87,media,1325,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:55+,55+,79.5,pct_accordo,1325,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:55+,55+,5.7,pct_contrario,1325,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,eta:55+,55+,14.8,pct_neutro,1325,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:donne,donne,1.82,media,1510,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:donne,donne,82,pct_accordo,1510,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:donne,donne,5.5,pct_contrario,1510,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:donne,donne,12.5,pct_neutro,1510,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:uomini,uomini,1.89,media,1315,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:uomini,uomini,79.3,pct_accordo,1315,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:uomini,uomini,5.7,pct_contrario,1315,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,genere:uomini,uomini,15.1,pct_neutro,1315,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:alta,alta,1.85,media,507,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:alta,alta,82,pct_accordo,507,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:alta,alta,4.6,pct_contrario,507,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:alta,alta,13.4,pct_neutro,507,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:bassa,bassa,1.86,media,1179,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:bassa,bassa,79.6,pct_accordo,1179,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:bassa,bassa,5.1,pct_contrario,1179,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:bassa,bassa,15.3,pct_neutro,1179,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:media,media,1.84,media,1116,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:media,media,81.5,pct_accordo,1116,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:media,media,6.8,pct_contrario,1116,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,istruzione:media,media,11.7,pct_neutro,1116,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:centro,centro,1.89,media,1038,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:centro,centro,79.3,pct_accordo,1038,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:centro,centro,5.6,pct_contrario,1038,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:centro,centro,15.1,pct_neutro,1038,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:destra,destra,2.12,media,614,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:destra,destra,70,pct_accordo,614,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:destra,destra,11.1,pct_contrario,614,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:destra,destra,18.9,pct_neutro,614,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:sinistra,sinistra,1.61,media,488,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:sinistra,sinistra,90,pct_accordo,488,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:sinistra,sinistra,2.2,pct_contrario,488,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,politica:sinistra,sinistra,7.8,pct_neutro,488,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:difficoltà,difficoltà,1.76,media,459,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:difficoltà,difficoltà,83.2,pct_accordo,459,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:difficoltà,difficoltà,3.5,pct_contrario,459,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:difficoltà,difficoltà,13.4,pct_neutro,459,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:grande difficoltà,grande difficoltà,2.48,media,86,TRUE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:grande difficoltà,grande difficoltà,56.9,pct_accordo,86,TRUE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:grande difficoltà,grande difficoltà,32.3,pct_contrario,86,TRUE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:grande difficoltà,grande difficoltà,10.8,pct_neutro,86,TRUE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:se la cava,se la cava,1.84,media,1342,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:se la cava,se la cava,80.8,pct_accordo,1342,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:se la cava,se la cava,4.9,pct_contrario,1342,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:se la cava,se la cava,14.3,pct_neutro,1342,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:vive comodamente,vive comodamente,1.86,media,835,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:vive comodamente,vive comodamente,81.2,pct_accordo,835,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:vive comodamente,vive comodamente,5.1,pct_contrario,835,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,reddito_percepito:vive comodamente,vive comodamente,13.7,pct_neutro,835,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:autonomi,autonomi,1.77,media,253,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:autonomi,autonomi,82.4,pct_accordo,253,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:autonomi,autonomi,5,pct_contrario,253,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:autonomi,autonomi,12.6,pct_neutro,253,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:privato,privato,1.84,media,1387,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:privato,privato,81.9,pct_accordo,1387,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:privato,privato,4.9,pct_contrario,1387,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:privato,privato,13.3,pct_neutro,1387,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:pubblico,pubblico,1.91,media,379,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:pubblico,pubblico,78.1,pct_accordo,379,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:pubblico,pubblico,6.7,pct_contrario,379,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,settore:pubblico,pubblico,15.2,pct_neutro,379,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:ex iscritto,ex iscritto,1.86,media,230,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:ex iscritto,ex iscritto,77.9,pct_accordo,230,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:ex iscritto,ex iscritto,6.3,pct_contrario,230,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:ex iscritto,ex iscritto,15.8,pct_neutro,230,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:iscritto,iscritto,1.75,media,232,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:iscritto,iscritto,82.5,pct_accordo,232,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:iscritto,iscritto,2.2,pct_contrario,232,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:iscritto,iscritto,15.3,pct_neutro,232,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:mai iscritto,mai iscritto,1.86,media,2347,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:mai iscritto,mai iscritto,81,pct_accordo,2347,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:mai iscritto,mai iscritto,5.8,pct_contrario,2347,FALSE
+redistribuzione,gincdif,Il governo dovrebbe ridurre le differenze di reddito,11,2023,IT,sindacato:mai iscritto,mai iscritto,13.2,pct_neutro,2347,FALSE

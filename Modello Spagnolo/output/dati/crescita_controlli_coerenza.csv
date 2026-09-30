@@ -1,0 +1,16 @@
+controllo,paese,anni,scarto_max_pc
+ore_totali_calcolate_vs_file_regionale,Spagna,2000-2024,0.0029
+ore_totali_calcolate_vs_file_regionale,Italia,2000-2023,0.0028
+ore_totali_calcolate_vs_file_regionale,Francia,2000-2024,0.1869
+ore_totali_calcolate_vs_file_regionale,Germania,2000-2023,0.0034
+ore_totali_calcolate_vs_file_regionale,Unione europea,2000-2024,0.0306
+prod_oraria_residuo_vs_RLPR_HW_indice2015,Spagna,1995-2025,0.0055
+prod_oraria_residuo_vs_RLPR_HW_indice2015,Italia,1995-2025,0.004
+prod_oraria_residuo_vs_RLPR_HW_indice2015,Francia,1995-2025,0.0053
+prod_oraria_residuo_vs_RLPR_HW_indice2015,Germania,1995-2025,0.0042
+prod_oraria_residuo_vs_RLPR_HW_indice2015,Unione europea,1995-2025,0.0028
+pil_procapite_ricalcolato_vs_ufficiale,Spagna,1995-2025,0.0257
+pil_procapite_ricalcolato_vs_ufficiale,Italia,1995-2025,0.0176
+pil_procapite_ricalcolato_vs_ufficiale,Francia,1995-2025,0.0159
+pil_procapite_ricalcolato_vs_ufficiale,Germania,1995-2025,0.0128
+pil_procapite_ricalcolato_vs_ufficiale,Unione europea,1995-2025,0.0185

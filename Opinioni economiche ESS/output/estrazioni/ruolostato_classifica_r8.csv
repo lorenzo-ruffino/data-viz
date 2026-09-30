@@ -1,0 +1,23 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi,flag_n_basso,rank
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,IS,tutti,Islanda,8.24,media,867,FALSE,1
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,LT,tutti,Lituania,8.22,media,2083,FALSE,2
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,PT,tutti,Portogallo,8.16,media,1250,FALSE,3
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,IT,tutti,Italia,8.1,media,2538,FALSE,4
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,ES,tutti,Spagna,8.09,media,1895,FALSE,5
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,NO,tutti,Norvegia,7.91,media,1535,FALSE,6
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,FI,tutti,Finlandia,7.78,media,1903,FALSE,7
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,SI,tutti,Slovenia,7.76,media,1274,FALSE,8
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,EE,tutti,Estonia,7.76,media,1992,FALSE,9
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,SE,tutti,Svezia,7.61,media,1514,FALSE,10
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,AT,tutti,Austria,7.57,media,1968,FALSE,11
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,CZ,tutti,Cechia,7.56,media,2234,FALSE,12
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,PL,tutti,Polonia,7.42,media,1652,FALSE,13
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,DE,tutti,Germania,7.35,media,2812,FALSE,14
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,BE,tutti,Belgio,7.24,media,1762,FALSE,15
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,HU,tutti,Ungheria,7.21,media,1569,FALSE,16
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,IE,tutti,Irlanda,7.17,media,2683,FALSE,17
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,FR,tutti,Francia,7.15,media,2045,FALSE,18
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,GB,tutti,Regno Unito,6.88,media,1927,FALSE,19
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,NL,tutti,Paesi Bassi,6.62,media,1654,FALSE,20
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,CH,tutti,Svizzera,6.61,media,1483,FALSE,21
+ruolo-stato,indice_gv3,"Indice medio responsabilita' del governo sui 3 item disponibili al round 8 (anziani, disoccupati, infanzia)",8,2016,Europa,tutti,Europa,7.44,media,38640,FALSE,

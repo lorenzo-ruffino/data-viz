@@ -1,0 +1,37 @@
+country,subject,year,mean_score,rank
+Estonia,Mathematics,2025,508,8
+Finland,Mathematics,2025,469,22
+France,Mathematics,2025,458,33
+Germany,Mathematics,2025,464,25
+Italy,Mathematics,2025,468,24
+Netherlands,Mathematics,2025,483,13
+Poland,Mathematics,2025,484,12
+Portugal,Mathematics,2025,460,30
+Spain,Mathematics,2025,457,35
+Sweden,Mathematics,2025,464,26
+United Kingdom,Mathematics,2025,488,10
+United States,Mathematics,2025,463,27
+Estonia,Reading,2025,499,8
+Finland,Reading,2025,474,16
+France,Reading,2025,456,28
+Germany,Reading,2025,465,24
+Italy,Reading,2025,474,17
+Netherlands,Reading,2025,441,36
+Poland,Reading,2025,482,14
+Portugal,Reading,2025,462,26
+Spain,Reading,2025,451,32
+Sweden,Reading,2025,466,23
+United Kingdom,Reading,2025,494,10
+United States,Reading,2025,490,13
+Estonia,Science,2025,527,6
+Finland,Science,2025,504,12
+France,Science,2025,483,27
+Germany,Science,2025,486,23
+Italy,Science,2025,483,28
+Netherlands,Science,2025,485,24
+Poland,Science,2025,495,18
+Portugal,Science,2025,482,29
+Spain,Science,2025,477,32
+Sweden,Science,2025,485,25
+United Kingdom,Science,2025,511,8
+United States,Science,2025,502,13

@@ -1,0 +1,5 @@
+voce,gal_giorno,litri_giorno,misura,anno_riferimento,fonte_breve,fonte_url,nota
+Data center USA - solo in sito,47768097,180821918,consumo,2023,"LBNL 2024, p. 55 (66 miliardi di litri/anno)",https://escholarship.org/uc/item/32d6m0d1,Perimetro consigliato: confrontabile con le altre voci
+Data center USA - solo centrali elettriche a monte,579007238,2191780822,consumo,2023,"LBNL 2024, p. 57 (circa 800 miliardi di litri/anno)",https://escholarship.org/uc/item/32d6m0d1,Include evaporazione dai bacini idroelettrici; non ha equivalente nelle altre voci
+Data center USA - in sito + centrali,626775335,2372602740,consumo,2023,"LBNL 2024, pp. 55 e 57 (866 miliardi di litri/anno)",https://escholarship.org/uc/item/32d6m0d1,Somma delle due voci LBNL
+Data center USA - stima Potter (in sito + centrali),250000000,946352946,consumo,2023,"Construction Physics, I was wrong about data center water",https://www.construction-physics.com/p/i-was-wrong-about-data-center-water,Stima dichiarata a occhio dall'autore; e la cifra usata da Masley e dall'articolo

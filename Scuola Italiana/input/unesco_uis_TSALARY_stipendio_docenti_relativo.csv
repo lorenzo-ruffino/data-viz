@@ -1,0 +1,152 @@
+indicator,indicator_name,geoUnit,year,value
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2019,1.129588961601257
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2020,1.249418973922729
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2021,1.204565048217773
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2022,1.055269956588745
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2019,0.6955403089523315
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2020,0.6972665786743164
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2022,0.639244794845581
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2019,0.6614437103271484
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2020,0.6594002842903137
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2021,0.6720420718193054
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2022,0.6283547282218933
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2017,0.8800972104072571
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2019,0.8403419256210327
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2020,0.8696767091751099
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2021,0.8313049077987671
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2022,0.8403002023696899
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2019,0.6189330220222473
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2020,0.6824349164962769
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2021,0.6566511988639832
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2022,0.5986310243606567
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2017,1.326179027557373
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2019,1.308972001075745
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2020,1.299098014831543
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2021,1.278990983963013
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2022,1.211025953292847
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2017,0.8659598231315613
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2019,0.8798720240592957
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2020,0.8083903789520264
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2021,0.7272158861160278
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2017,0.6964743137359619
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2019,0.6065300107002258
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2020,0.5850327014923096
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2021,0.5875951051712036
+TSALARY.0,"Average teacher salary in pre-primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2022,0.671116828918457
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2017,0.8839372992515564
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2019,0.8893944025039673
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2020,0.886377215385437
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2021,0.9075201153755188
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2022,0.9613385796546936
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2019,1.129588961601257
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2020,1.249418973922729
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2021,1.204565048217773
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2022,1.055269956588745
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2019,0.6955403089523315
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2020,0.6972665786743164
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2022,0.639244794845581
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2019,0.6614437103271484
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2020,0.6594002842903137
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2021,0.6720420718193054
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2022,0.6283547282218933
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2017,0.8800972104072571
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2019,0.8403419256210327
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2020,0.8696767091751099
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2021,0.8313049077987671
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2022,0.8403002023696899
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2019,0.6160417795181274
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2020,0.6824349164962769
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2021,0.6566511988639832
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2022,0.5986310243606567
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2017,1.326179027557373
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2019,1.308972001075745
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2020,1.299098014831543
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2021,1.278990983963013
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2022,1.211025953292847
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2017,0.8769564032554626
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2019,0.8692420721054077
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2020,0.8281605243682861
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2021,0.7989274859428406
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2017,0.6516379117965698
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2019,0.5999302268028259
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2020,0.5774418115615845
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2021,0.5810500979423523
+TSALARY.1,"Average teacher salary in primary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2022,0.645261287689209
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2017,0.9611592292785645
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2019,0.9679713845252991
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2020,0.9704833030700684
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2021,0.9877321124076843
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2022,1.044185042381287
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2019,1.028589963912964
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2020,1.04582405090332
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2021,1.04351794719696
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2022,1.178578972816467
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2019,0.7169318199157715
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2020,0.7222970724105835
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2022,0.6880918741226196
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2019,0.7201576232910156
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2020,0.7169396281242371
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2021,0.7306845784187317
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2022,0.6831849813461304
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2017,0.9901753067970276
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2019,0.9533864259719849
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2020,0.9439334273338318
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2021,0.9372729063034058
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2022,0.8992347717285156
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2019,0.6155878901481628
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2020,0.6824349164962769
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2021,0.6566511988639832
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2022,0.5986310243606567
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2017,1.326179027557373
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2019,1.308972001075745
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2020,1.299098014831543
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2021,1.278990983963013
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2022,1.211025953292847
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2017,0.8094630241394043
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2019,0.7966396808624268
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2020,0.7692902088165283
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2021,0.8120577931404114
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2017,0.6673545837402344
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2019,0.6323956251144409
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2020,0.607201874256134
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2021,0.6123073101043701
+TSALARY.2,"Average teacher salary in lower secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2022,0.6763151288032532
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2017,1.011160016059875
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2019,1.018332004547119
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2020,1.00360095500946
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2021,1.023663997650146
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",DEU,2022,1.085216999053955
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2019,1.028589963912964
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2020,1.04582405090332
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2021,1.04351794719696
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",ESP,2022,1.178578972816467
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2019,0.7169318199157715
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2020,0.7222970724105835
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",FRA,2022,0.6880918741226196
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2019,0.7401919960975647
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2020,0.7368807792663574
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2021,0.7510080933570862
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",ITA,2022,0.7021874189376831
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2017,0.9901753067970276
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2019,0.9533864259719849
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2020,0.9439334273338318
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2021,0.9372729063034058
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",NLD,2022,0.8992347717285156
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2019,0.6134184002876282
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2020,0.6824349164962769
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2021,0.6566511988639832
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",POL,2022,0.5986310243606567
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2017,1.326179027557373
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2019,1.308972001075745
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2020,1.299098014831543
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2021,1.278990983963013
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",PRT,2022,1.211025953292847
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2017,0.7869629859924316
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2019,0.7787293195724487
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2020,0.7504013776779175
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",SWE,2021,0.8261981010437012
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2017,0.6635445952415466
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2019,0.6229420900344849
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2020,0.5972378253936768
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2021,0.6030257940292358
+TSALARY.3,"Average teacher salary in upper secondary education relative to other professions requiring a comparable level of qualification, both sexes",USA,2022,0.6782773733139038

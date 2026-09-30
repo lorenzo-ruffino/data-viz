@@ -1,0 +1,97 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,IT,tutti,Subito all'arrivo,9.9,pct,2488
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,IT,tutti,"Dopo un anno, indipendentemente dal lavoro",5.7,pct,2488
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,IT,tutti,Dopo aver lavorato e pagato le tasse per almeno un anno,37.6,pct,2488
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,IT,tutti,Una volta ottenuta la cittadinanza,33.1,pct,2488
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,IT,tutti,Mai gli stessi diritti,13.7,pct,2488
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,IT,tutti,,13.7,pct_mai_stessi_diritti,2488
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,IT,tutti,,46.8,pct_restrittivo_cittadinanza_o_mai,2488
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,IT,tutti,,15.6,pct_generoso_subito_o_dopo_un_anno,2488
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,IT,tutti,Molto più alti,4.3,pct,2083
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,IT,tutti,Più alti,33,pct,2083
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,IT,tutti,Né più alti né più bassi,44.4,pct,2083
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,IT,tutti,Più bassi,15.7,pct,2083
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,IT,tutti,Molto più bassi,2.6,pct,2083
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,IT,tutti,,37.3,pct_piu_alti,2083
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,IT,tutti,,18.3,pct_piu_bassi,2083
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,IT,tutti,,44.4,pct_invariato,2083
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,DE,tutti,Subito all'arrivo,11.2,pct,2808
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,DE,tutti,"Dopo un anno, indipendentemente dal lavoro",13.1,pct,2808
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,DE,tutti,Dopo aver lavorato e pagato le tasse per almeno un anno,50.2,pct,2808
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,DE,tutti,Una volta ottenuta la cittadinanza,23.3,pct,2808
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,DE,tutti,Mai gli stessi diritti,2.3,pct,2808
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,DE,tutti,,2.3,pct_mai_stessi_diritti,2808
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,DE,tutti,,25.6,pct_restrittivo_cittadinanza_o_mai,2808
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,DE,tutti,,24.3,pct_generoso_subito_o_dopo_un_anno,2808
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,DE,tutti,Molto più alti,1.4,pct,2680
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,DE,tutti,Più alti,16,pct,2680
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,DE,tutti,Né più alti né più bassi,33.1,pct,2680
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,DE,tutti,Più bassi,46.5,pct,2680
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,DE,tutti,Molto più bassi,3.1,pct,2680
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,DE,tutti,,17.4,pct_piu_alti,2680
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,DE,tutti,,49.6,pct_piu_bassi,2680
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,DE,tutti,,33.1,pct_invariato,2680
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,FR,tutti,Subito all'arrivo,12.2,pct,2009
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,FR,tutti,"Dopo un anno, indipendentemente dal lavoro",11.1,pct,2009
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,FR,tutti,Dopo aver lavorato e pagato le tasse per almeno un anno,50.2,pct,2009
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,FR,tutti,Una volta ottenuta la cittadinanza,19.7,pct,2009
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,FR,tutti,Mai gli stessi diritti,6.8,pct,2009
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,FR,tutti,,6.8,pct_mai_stessi_diritti,2009
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,FR,tutti,,26.5,pct_restrittivo_cittadinanza_o_mai,2009
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,FR,tutti,,23.3,pct_generoso_subito_o_dopo_un_anno,2009
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,FR,tutti,Molto più alti,1.1,pct,1926
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,FR,tutti,Più alti,17.7,pct,1926
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,FR,tutti,Né più alti né più bassi,33.1,pct,1926
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,FR,tutti,Più bassi,40.8,pct,1926
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,FR,tutti,Molto più bassi,7.4,pct,1926
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,FR,tutti,,18.8,pct_piu_alti,1926
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,FR,tutti,,48.2,pct_piu_bassi,1926
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,FR,tutti,,33.1,pct_invariato,1926
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,ES,tutti,Subito all'arrivo,18.9,pct,1823
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,ES,tutti,"Dopo un anno, indipendentemente dal lavoro",11.8,pct,1823
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,ES,tutti,Dopo aver lavorato e pagato le tasse per almeno un anno,50.4,pct,1823
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,ES,tutti,Una volta ottenuta la cittadinanza,14.9,pct,1823
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,ES,tutti,Mai gli stessi diritti,4.1,pct,1823
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,ES,tutti,,4.1,pct_mai_stessi_diritti,1823
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,ES,tutti,,19,pct_restrittivo_cittadinanza_o_mai,1823
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,ES,tutti,,30.7,pct_generoso_subito_o_dopo_un_anno,1823
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,ES,tutti,Molto più alti,4.3,pct,1523
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,ES,tutti,Più alti,47.6,pct,1523
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,ES,tutti,Né più alti né più bassi,26.5,pct,1523
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,ES,tutti,Più bassi,19.8,pct,1523
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,ES,tutti,Molto più bassi,1.9,pct,1523
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,ES,tutti,,51.9,pct_piu_alti,1523
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,ES,tutti,,21.7,pct_piu_bassi,1523
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,ES,tutti,,26.5,pct_invariato,1523
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,GB,tutti,Subito all'arrivo,5.3,pct,1909
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,GB,tutti,"Dopo un anno, indipendentemente dal lavoro",8.2,pct,1909
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,GB,tutti,Dopo aver lavorato e pagato le tasse per almeno un anno,58.6,pct,1909
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,GB,tutti,Una volta ottenuta la cittadinanza,21.7,pct,1909
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,GB,tutti,Mai gli stessi diritti,6.2,pct,1909
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,GB,tutti,,6.2,pct_mai_stessi_diritti,1909
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,GB,tutti,,27.9,pct_restrittivo_cittadinanza_o_mai,1909
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,GB,tutti,,13.5,pct_generoso_subito_o_dopo_un_anno,1909
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,GB,tutti,Molto più alti,3.3,pct,1826
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,GB,tutti,Più alti,27.9,pct,1826
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,GB,tutti,Né più alti né più bassi,36.4,pct,1826
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,GB,tutti,Più bassi,30.7,pct,1826
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,GB,tutti,Molto più bassi,1.7,pct,1826
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,GB,tutti,,31.2,pct_piu_alti,1826
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,GB,tutti,,32.4,pct_piu_bassi,1826
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,GB,tutti,,36.4,pct_invariato,1826
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,Europa,tutti,Subito all'arrivo,10.3,pct,37884
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,Europa,tutti,"Dopo un anno, indipendentemente dal lavoro",9.7,pct,37884
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,Europa,tutti,Dopo aver lavorato e pagato le tasse per almeno un anno,46.8,pct,37884
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,Europa,tutti,Una volta ottenuta la cittadinanza,26.1,pct,37884
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,Europa,tutti,Mai gli stessi diritti,7.2,pct,37884
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,Europa,tutti,,7.2,pct_mai_stessi_diritti,37884
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,Europa,tutti,,33.3,pct_restrittivo_cittadinanza_o_mai,37884
+sussidi,imsclbn,Quando gli immigrati dovrebbero avere accesso ai benefici sociali,8,2016,Europa,tutti,,20,pct_generoso_subito_o_dopo_un_anno,37884
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,Europa,tutti,Molto più alti,3.3,pct,31764
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,Europa,tutti,Più alti,27.2,pct,31764
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,Europa,tutti,Né più alti né più bassi,33.3,pct,31764
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,Europa,tutti,Più bassi,32.4,pct,31764
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,Europa,tutti,Molto più bassi,3.8,pct,31764
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,Europa,tutti,,30.5,pct_piu_alti,31764
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,Europa,tutti,,36.2,pct_piu_bassi,31764
+sussidi,eudcnbf,"Se decidesse più l'UE, il livello dei benefici sociali sarebbe più alto o più basso",8,2016,Europa,tutti,,33.3,pct_invariato,31764

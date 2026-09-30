@@ -1,0 +1,9 @@
+scenario,categoria,n
+"1,8 figli per donna",Senza figli,60
+"1,8 figli per donna",Un figlio,40
+"1,8 figli per donna",Due figli,240
+"1,8 figli per donna",Tre o più figli,60
+"1,3 figli per donna",Senza figli,104
+"1,3 figli per donna",Un figlio,92
+"1,3 figli per donna",Due figli,184
+"1,3 figli per donna",Tre o più figli,20

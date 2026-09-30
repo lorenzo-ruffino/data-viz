@@ -1,0 +1,233 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:15-34,ingiustamente basso,11.2,pct_ingiustamente_basso,555
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:15-34,giusto,18.1,pct_giusto,555
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:15-34,ingiustamente alto,70.8,pct_ingiustamente_alto,555
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:15-34,media,1.54,media,555
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:35-54,ingiustamente basso,13.7,pct_ingiustamente_basso,781
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:35-54,giusto,18.5,pct_giusto,781
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:35-54,ingiustamente alto,67.8,pct_ingiustamente_alto,781
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:35-54,media,1.41,media,781
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:55+,ingiustamente basso,11.5,pct_ingiustamente_basso,1072
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:55+,giusto,17.3,pct_giusto,1072
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:55+,ingiustamente alto,71.2,pct_ingiustamente_alto,1072
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,eta:55+,media,1.61,media,1072
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,genere:uomini,ingiustamente basso,13.8,pct_ingiustamente_basso,1161
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,genere:uomini,giusto,16.6,pct_giusto,1161
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,genere:uomini,ingiustamente alto,69.6,pct_ingiustamente_alto,1161
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,genere:uomini,media,1.47,media,1161
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,genere:donne,ingiustamente basso,10.8,pct_ingiustamente_basso,1265
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,genere:donne,giusto,19,pct_giusto,1265
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,genere:donne,ingiustamente alto,70.3,pct_ingiustamente_alto,1265
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,genere:donne,media,1.58,media,1265
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:bassa,ingiustamente basso,12.4,pct_ingiustamente_basso,1098
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:bassa,giusto,12.6,pct_giusto,1098
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:bassa,ingiustamente alto,75,pct_ingiustamente_alto,1098
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:bassa,media,1.72,media,1098
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:media,ingiustamente basso,11.9,pct_ingiustamente_basso,890
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:media,giusto,19.2,pct_giusto,890
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:media,ingiustamente alto,68.9,pct_ingiustamente_alto,890
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:media,media,1.44,media,890
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:alta,ingiustamente basso,11.2,pct_ingiustamente_basso,419
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:alta,giusto,30.7,pct_giusto,419
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:alta,ingiustamente alto,58.2,pct_ingiustamente_alto,419
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,istruzione:alta,media,1.21,media,419
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:occupati,ingiustamente basso,12.1,pct_ingiustamente_basso,1067
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:occupati,giusto,20,pct_giusto,1067
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:occupati,ingiustamente alto,67.9,pct_ingiustamente_alto,1067
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:occupati,media,1.44,media,1067
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:disoccupati,ingiustamente basso,14.2,pct_ingiustamente_basso,258
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:disoccupati,giusto,16.7,pct_giusto,258
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:disoccupati,ingiustamente alto,69.1,pct_ingiustamente_alto,258
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:disoccupati,media,1.52,media,258
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:pensionati,ingiustamente basso,8.8,pct_ingiustamente_basso,591
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:pensionati,giusto,17.3,pct_giusto,591
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:pensionati,ingiustamente alto,73.9,pct_ingiustamente_alto,591
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:pensionati,media,1.75,media,591
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:studenti,ingiustamente basso,12.6,pct_ingiustamente_basso,226
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:studenti,giusto,20.1,pct_giusto,226
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:studenti,ingiustamente alto,67.3,pct_ingiustamente_alto,226
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:studenti,media,1.39,media,226
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:altro_inattivo,ingiustamente basso,14.6,pct_ingiustamente_basso,265
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:altro_inattivo,giusto,10,pct_giusto,265
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:altro_inattivo,ingiustamente alto,75.4,pct_ingiustamente_alto,265
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,condizione:altro_inattivo,media,1.68,media,265
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:pubblico,ingiustamente basso,11.8,pct_ingiustamente_basso,346
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:pubblico,giusto,26.6,pct_giusto,346
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:pubblico,ingiustamente alto,61.6,pct_ingiustamente_alto,346
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:pubblico,media,1.32,media,346
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:privato,ingiustamente basso,11.6,pct_ingiustamente_basso,1147
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:privato,giusto,16.2,pct_giusto,1147
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:privato,ingiustamente alto,72.2,pct_ingiustamente_alto,1147
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:privato,media,1.58,media,1147
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:autonomi,ingiustamente basso,11.9,pct_ingiustamente_basso,278
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:autonomi,giusto,21.1,pct_giusto,278
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:autonomi,ingiustamente alto,67.1,pct_ingiustamente_alto,278
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,settore:autonomi,media,1.42,media,278
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:comodamente,ingiustamente basso,11.7,pct_ingiustamente_basso,560
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:comodamente,giusto,30.1,pct_giusto,560
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:comodamente,ingiustamente alto,58.2,pct_ingiustamente_alto,560
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:comodamente,media,1.09,media,560
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:se_la_cava,ingiustamente basso,10.4,pct_ingiustamente_basso,1190
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:se_la_cava,giusto,16.4,pct_giusto,1190
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:se_la_cava,ingiustamente alto,73.3,pct_ingiustamente_alto,1190
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:se_la_cava,media,1.6,media,1190
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:difficolta,ingiustamente basso,15.8,pct_ingiustamente_basso,474
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:difficolta,giusto,11.4,pct_giusto,474
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:difficolta,ingiustamente alto,72.9,pct_ingiustamente_alto,474
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:difficolta,media,1.68,media,474
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:grande_difficolta,ingiustamente basso,12.7,pct_ingiustamente_basso,156
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:grande_difficolta,giusto,10.7,pct_giusto,156
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:grande_difficolta,ingiustamente alto,76.6,pct_ingiustamente_alto,156
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,reddito_percepito:grande_difficolta,media,2.09,media,156
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:basso,ingiustamente basso,10.5,pct_ingiustamente_basso,504
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:basso,giusto,13.4,pct_giusto,504
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:basso,ingiustamente alto,76.1,pct_ingiustamente_alto,504
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:basso,media,1.87,media,504
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:medio,ingiustamente basso,10.3,pct_ingiustamente_basso,698
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:medio,giusto,21.1,pct_giusto,698
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:medio,ingiustamente alto,68.6,pct_ingiustamente_alto,698
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:medio,media,1.35,media,698
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:alto,ingiustamente basso,11.9,pct_ingiustamente_basso,209
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:alto,giusto,33.2,pct_giusto,209
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:alto,ingiustamente alto,54.9,pct_ingiustamente_alto,209
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,decile_reddito:alto,media,1.09,media,209
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:iscritto,ingiustamente basso,12.2,pct_ingiustamente_basso,162
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:iscritto,giusto,19.1,pct_giusto,162
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:iscritto,ingiustamente alto,68.8,pct_ingiustamente_alto,162
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:iscritto,media,1.37,media,162
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:ex_iscritto,ingiustamente basso,11.7,pct_ingiustamente_basso,260
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:ex_iscritto,giusto,20.8,pct_giusto,260
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:ex_iscritto,ingiustamente alto,67.4,pct_ingiustamente_alto,260
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:ex_iscritto,media,1.43,media,260
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:mai_iscritto,ingiustamente basso,12,pct_ingiustamente_basso,1984
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:mai_iscritto,giusto,17.3,pct_giusto,1984
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:mai_iscritto,ingiustamente alto,70.7,pct_ingiustamente_alto,1984
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,sindacato:mai_iscritto,media,1.57,media,1984
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:sinistra,ingiustamente basso,12.2,pct_ingiustamente_basso,411
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:sinistra,giusto,20.3,pct_giusto,411
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:sinistra,ingiustamente alto,67.5,pct_ingiustamente_alto,411
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:sinistra,media,1.31,media,411
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:centro,ingiustamente basso,11.8,pct_ingiustamente_basso,852
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:centro,giusto,18.3,pct_giusto,852
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:centro,ingiustamente alto,69.9,pct_ingiustamente_alto,852
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:centro,media,1.57,media,852
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:destra,ingiustamente basso,10.2,pct_ingiustamente_basso,565
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:destra,giusto,20.8,pct_giusto,565
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:destra,ingiustamente alto,69,pct_ingiustamente_alto,565
+giustizia,topinfr,Giustizia percepita dei redditi del 10% dei lavoratori piu' ricco,9,2018,IT,lr:destra,media,1.53,media,565
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:15-34,d'accordo,76.5,pct_accordo,614
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:15-34,ne' d'accordo ne' in disaccordo,15.2,pct_neutro,614
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:15-34,in disaccordo,8.3,pct_contrario,614
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:15-34,media,2.09,media,614
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:35-54,d'accordo,75.1,pct_accordo,855
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:35-54,ne' d'accordo ne' in disaccordo,16.7,pct_neutro,855
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:35-54,in disaccordo,8.2,pct_contrario,855
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:35-54,media,2.1,media,855
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:55+,d'accordo,76.4,pct_accordo,1202
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:55+,ne' d'accordo ne' in disaccordo,17.1,pct_neutro,1202
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:55+,in disaccordo,6.5,pct_contrario,1202
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,eta:55+,media,2.03,media,1202
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,genere:uomini,d'accordo,75.1,pct_accordo,1273
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,genere:uomini,ne' d'accordo ne' in disaccordo,15.7,pct_neutro,1273
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,genere:uomini,in disaccordo,9.2,pct_contrario,1273
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,genere:uomini,media,2.09,media,1273
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,genere:donne,d'accordo,77.1,pct_accordo,1418
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,genere:donne,ne' d'accordo ne' in disaccordo,17.1,pct_neutro,1418
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,genere:donne,in disaccordo,5.8,pct_contrario,1418
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,genere:donne,media,2.05,media,1418
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:bassa,d'accordo,81.2,pct_accordo,1223
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:bassa,ne' d'accordo ne' in disaccordo,14.2,pct_neutro,1223
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:bassa,in disaccordo,4.6,pct_contrario,1223
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:bassa,media,1.95,media,1223
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:media,d'accordo,74.7,pct_accordo,981
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:media,ne' d'accordo ne' in disaccordo,17.2,pct_neutro,981
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:media,in disaccordo,8.1,pct_contrario,981
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:media,media,2.1,media,981
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:alta,d'accordo,63.7,pct_accordo,467
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:alta,ne' d'accordo ne' in disaccordo,21.4,pct_neutro,467
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:alta,in disaccordo,15,pct_contrario,467
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,istruzione:alta,media,2.37,media,467
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:occupati,d'accordo,71.3,pct_accordo,1168
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:occupati,ne' d'accordo ne' in disaccordo,19.3,pct_neutro,1168
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:occupati,in disaccordo,9.3,pct_contrario,1168
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:occupati,media,2.16,media,1168
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:disoccupati,d'accordo,85.1,pct_accordo,279
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:disoccupati,ne' d'accordo ne' in disaccordo,10.4,pct_neutro,279
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:disoccupati,in disaccordo,4.5,pct_contrario,279
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:disoccupati,media,1.91,media,279
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:pensionati,d'accordo,77.2,pct_accordo,677
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:pensionati,ne' d'accordo ne' in disaccordo,16.6,pct_neutro,677
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:pensionati,in disaccordo,6.2,pct_contrario,677
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:pensionati,media,2.02,media,677
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:studenti,d'accordo,77.2,pct_accordo,253
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:studenti,ne' d'accordo ne' in disaccordo,13.9,pct_neutro,253
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:studenti,in disaccordo,8.9,pct_contrario,253
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:studenti,media,2.08,media,253
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:altro_inattivo,d'accordo,81.7,pct_accordo,297
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:altro_inattivo,ne' d'accordo ne' in disaccordo,13.6,pct_neutro,297
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:altro_inattivo,in disaccordo,4.7,pct_contrario,297
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,condizione:altro_inattivo,media,1.97,media,297
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:pubblico,d'accordo,74.1,pct_accordo,375
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:pubblico,ne' d'accordo ne' in disaccordo,17.6,pct_neutro,375
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:pubblico,in disaccordo,8.4,pct_contrario,375
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:pubblico,media,2.12,media,375
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:privato,d'accordo,75.7,pct_accordo,1259
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:privato,ne' d'accordo ne' in disaccordo,16.2,pct_neutro,1259
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:privato,in disaccordo,8,pct_contrario,1259
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:privato,media,2.07,media,1259
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:autonomi,d'accordo,66.7,pct_accordo,317
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:autonomi,ne' d'accordo ne' in disaccordo,24.5,pct_neutro,317
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:autonomi,in disaccordo,8.9,pct_contrario,317
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,settore:autonomi,media,2.18,media,317
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:comodamente,d'accordo,66.7,pct_accordo,630
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:comodamente,ne' d'accordo ne' in disaccordo,20.5,pct_neutro,630
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:comodamente,in disaccordo,12.8,pct_contrario,630
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:comodamente,media,2.26,media,630
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:se_la_cava,d'accordo,76.6,pct_accordo,1295
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:se_la_cava,ne' d'accordo ne' in disaccordo,17,pct_neutro,1295
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:se_la_cava,in disaccordo,6.4,pct_contrario,1295
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:se_la_cava,media,2.08,media,1295
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:difficolta,d'accordo,80.9,pct_accordo,522
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:difficolta,ne' d'accordo ne' in disaccordo,13.2,pct_neutro,522
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:difficolta,in disaccordo,5.8,pct_contrario,522
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:difficolta,media,1.94,media,522
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:grande_difficolta,d'accordo,88.1,pct_accordo,178
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:grande_difficolta,ne' d'accordo ne' in disaccordo,8.8,pct_neutro,178
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:grande_difficolta,in disaccordo,3.1,pct_contrario,178
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,reddito_percepito:grande_difficolta,media,1.76,media,178
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:basso,d'accordo,84.5,pct_accordo,551
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:basso,ne' d'accordo ne' in disaccordo,11.1,pct_neutro,551
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:basso,in disaccordo,4.4,pct_contrario,551
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:basso,media,1.86,media,551
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:medio,d'accordo,75.1,pct_accordo,731
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:medio,ne' d'accordo ne' in disaccordo,16.9,pct_neutro,731
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:medio,in disaccordo,8,pct_contrario,731
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:medio,media,2.11,media,731
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:alto,d'accordo,61.7,pct_accordo,225
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:alto,ne' d'accordo ne' in disaccordo,21.1,pct_neutro,225
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:alto,in disaccordo,17.2,pct_contrario,225
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,decile_reddito:alto,media,2.42,media,225
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:iscritto,d'accordo,71.6,pct_accordo,180
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:iscritto,ne' d'accordo ne' in disaccordo,17.8,pct_neutro,180
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:iscritto,in disaccordo,10.6,pct_contrario,180
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:iscritto,media,2.15,media,180
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:ex_iscritto,d'accordo,76.8,pct_accordo,286
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:ex_iscritto,ne' d'accordo ne' in disaccordo,14.6,pct_neutro,286
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:ex_iscritto,in disaccordo,8.6,pct_contrario,286
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:ex_iscritto,media,2.02,media,286
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:mai_iscritto,d'accordo,76.6,pct_accordo,2201
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:mai_iscritto,ne' d'accordo ne' in disaccordo,16.3,pct_neutro,2201
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:mai_iscritto,in disaccordo,7.1,pct_contrario,2201
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,sindacato:mai_iscritto,media,2.06,media,2201
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:sinistra,d'accordo,77.1,pct_accordo,441
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:sinistra,ne' d'accordo ne' in disaccordo,14,pct_neutro,441
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:sinistra,in disaccordo,8.9,pct_contrario,441
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:sinistra,media,2.02,media,441
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:centro,d'accordo,77.5,pct_accordo,930
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:centro,ne' d'accordo ne' in disaccordo,15.9,pct_neutro,930
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:centro,in disaccordo,6.7,pct_contrario,930
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:centro,media,2.03,media,930
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:destra,d'accordo,69.6,pct_accordo,609
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:destra,ne' d'accordo ne' in disaccordo,18.5,pct_neutro,609
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:destra,in disaccordo,11.8,pct_contrario,609
+giustizia,sofrdst,Societa' giusta se reddito e ricchezza sono distribuiti in modo uguale (principio egualitario),9,2018,IT,lr:destra,media,2.25,media,609

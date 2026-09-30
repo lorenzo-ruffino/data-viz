@@ -1,0 +1,31 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi
+giustizia,recskil,Conoscenze e competenze della persona: quanto influenzano le decisioni di assunzione,9,2018,IT,tutti,poca o nessuna influenza (1-2),43.8,pct_poca_influenza,2672
+giustizia,recskil,Conoscenze e competenze della persona: quanto influenzano le decisioni di assunzione,9,2018,IT,tutti,molta influenza (3-4),56.2,pct_molta_influenza,2672
+giustizia,recskil,Conoscenze e competenze della persona: quanto influenzano le decisioni di assunzione,9,2018,IT,tutti,media,2.73,media,2672
+giustizia,recskil,Conoscenze e competenze della persona: quanto influenzano le decisioni di assunzione,9,2018,Europa,tutti,poca o nessuna influenza (1-2),21.9,pct_poca_influenza,45262
+giustizia,recskil,Conoscenze e competenze della persona: quanto influenzano le decisioni di assunzione,9,2018,Europa,tutti,molta influenza (3-4),78.1,pct_molta_influenza,45262
+giustizia,recskil,Conoscenze e competenze della persona: quanto influenzano le decisioni di assunzione,9,2018,Europa,tutti,media,3.1,media,45262
+giustizia,recexp,Esperienza lavorativa della persona: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,poca o nessuna influenza (1-2),38.9,pct_poca_influenza,2681
+giustizia,recexp,Esperienza lavorativa della persona: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,molta influenza (3-4),61.1,pct_molta_influenza,2681
+giustizia,recexp,Esperienza lavorativa della persona: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,media,2.81,media,2681
+giustizia,recexp,Esperienza lavorativa della persona: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,poca o nessuna influenza (1-2),21.1,pct_poca_influenza,45334
+giustizia,recexp,Esperienza lavorativa della persona: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,molta influenza (3-4),78.9,pct_molta_influenza,45334
+giustizia,recexp,Esperienza lavorativa della persona: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,media,3.08,media,45334
+giustizia,recknow,Conoscere qualcuno nell'organizzazione: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,poca o nessuna influenza (1-2),38.9,pct_poca_influenza,2664
+giustizia,recknow,Conoscere qualcuno nell'organizzazione: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,molta influenza (3-4),61.1,pct_molta_influenza,2664
+giustizia,recknow,Conoscere qualcuno nell'organizzazione: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,media,2.83,media,2664
+giustizia,recknow,Conoscere qualcuno nell'organizzazione: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,poca o nessuna influenza (1-2),41.9,pct_poca_influenza,44875
+giustizia,recknow,Conoscere qualcuno nell'organizzazione: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,molta influenza (3-4),58.1,pct_molta_influenza,44875
+giustizia,recknow,Conoscere qualcuno nell'organizzazione: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,media,2.75,media,44875
+giustizia,recimg,Avere un background migratorio: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,poca o nessuna influenza (1-2),71.9,pct_poca_influenza,2479
+giustizia,recimg,Avere un background migratorio: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,molta influenza (3-4),28.1,pct_molta_influenza,2479
+giustizia,recimg,Avere un background migratorio: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,media,2.04,media,2479
+giustizia,recimg,Avere un background migratorio: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,poca o nessuna influenza (1-2),64.4,pct_poca_influenza,42126
+giustizia,recimg,Avere un background migratorio: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,molta influenza (3-4),35.6,pct_molta_influenza,42126
+giustizia,recimg,Avere un background migratorio: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,media,2.22,media,42126
+giustizia,recgndr,Il genere della persona: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,poca o nessuna influenza (1-2),71.4,pct_poca_influenza,2574
+giustizia,recgndr,Il genere della persona: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,molta influenza (3-4),28.6,pct_molta_influenza,2574
+giustizia,recgndr,Il genere della persona: quanto influenza le decisioni di assunzione,9,2018,IT,tutti,media,2.09,media,2574
+giustizia,recgndr,Il genere della persona: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,poca o nessuna influenza (1-2),69.8,pct_poca_influenza,44052
+giustizia,recgndr,Il genere della persona: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,molta influenza (3-4),30.2,pct_molta_influenza,44052
+giustizia,recgndr,Il genere della persona: quanto influenza le decisioni di assunzione,9,2018,Europa,tutti,media,2.1,media,44052

@@ -1,0 +1,25 @@
+tema,variabile,label_it,essround,anno,aggregato,gruppo,categoria,valore,tipo_valore,n_validi,flag_n_basso
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,DE,tutti,"",2.69,media,2772,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,DE,tutti,"",46.8,pct_accordo,2772,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,DE,tutti,"",23.4,pct_disaccordo,2772,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,DE,tutti,"",29.8,pct_neutro,2772,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,ES,tutti,"",3.26,media,1474,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,ES,tutti,"",26.8,pct_accordo,1474,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,ES,tutti,"",46.1,pct_disaccordo,1474,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,ES,tutti,"",27.1,pct_neutro,1474,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,Europa,tutti,"",3.07,media,36851,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,Europa,tutti,"",32,pct_accordo,36851,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,Europa,tutti,"",38.6,pct_disaccordo,36851,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,Europa,tutti,"",29.3,pct_neutro,36851,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,FR,tutti,"",3.23,media,1461,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,FR,tutti,"",30,pct_accordo,1461,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,FR,tutti,"",45.2,pct_disaccordo,1461,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,FR,tutti,"",24.8,pct_neutro,1461,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,GB,tutti,"",3.04,media,1999,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,GB,tutti,"",29.1,pct_accordo,1999,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,GB,tutti,"",34.9,pct_disaccordo,1999,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,GB,tutti,"",36,pct_neutro,1999,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,IT,tutti,"",3.07,media,1086,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,IT,tutti,"",31,pct_accordo,1086,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,IT,tutti,"",39.2,pct_disaccordo,1086,FALSE
+ruolo-stato,ginveco,"Meno lo Stato interviene nell'economia, meglio e' per il Paese (1-5; accordo = anti-intervento)",1,2002,IT,tutti,"",29.7,pct_neutro,1086,FALSE
