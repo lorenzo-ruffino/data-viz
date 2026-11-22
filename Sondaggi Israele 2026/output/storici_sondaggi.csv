@@ -1,0 +1,377 @@
+elezione,istituto,data,famiglia,seggi
+2015,Risultato,2015-03-17,likud,30.0
+2015,Risultato,2015-03-17,shas,7.0
+2015,Risultato,2015-03-17,utj,6.0
+2015,Risultato,2015-03-17,destra_rel,8.0
+2015,Risultato,2015-03-17,yb,6.0
+2015,Risultato,2015-03-17,arabi,13.0
+2015,Risultato,2015-03-17,centro_sin,50.0
+2015,Risultato,2015-03-17,blocco_netanyahu,51.0
+2015,Midgam,2015-03-13,likud,22.0
+2015,Midgam,2015-03-13,shas,7.0
+2015,Midgam,2015-03-13,utj,6.0
+2015,Midgam,2015-03-13,destra_rel,16.0
+2015,Midgam,2015-03-13,yb,5.0
+2015,Midgam,2015-03-13,arabi,13.0
+2015,Midgam,2015-03-13,centro_sin,51.0
+2015,Midgam,2015-03-13,blocco_netanyahu,51.0
+2015,Dialog,2015-03-13,likud,20.0
+2015,Dialog,2015-03-13,shas,7.0
+2015,Dialog,2015-03-13,utj,7.0
+2015,Dialog,2015-03-13,destra_rel,17.0
+2015,Dialog,2015-03-13,yb,5.0
+2015,Dialog,2015-03-13,arabi,13.0
+2015,Dialog,2015-03-13,centro_sin,51.0
+2015,Dialog,2015-03-13,blocco_netanyahu,51.0
+2015,Reshet Bet,2015-03-13,likud,21.0
+2015,Reshet Bet,2015-03-13,shas,9.0
+2015,Reshet Bet,2015-03-13,utj,6.0
+2015,Reshet Bet,2015-03-13,destra_rel,15.0
+2015,Reshet Bet,2015-03-13,yb,6.0
+2015,Reshet Bet,2015-03-13,arabi,13.0
+2015,Reshet Bet,2015-03-13,centro_sin,50.0
+2015,Reshet Bet,2015-03-13,blocco_netanyahu,51.0
+2015,Panels Politics (Lazar),2015-03-13,likud,21.0
+2015,Panels Politics (Lazar),2015-03-13,shas,7.0
+2015,Panels Politics (Lazar),2015-03-13,utj,6.0
+2015,Panels Politics (Lazar),2015-03-13,destra_rel,16.0
+2015,Panels Politics (Lazar),2015-03-13,yb,4.0
+2015,Panels Politics (Lazar),2015-03-13,arabi,13.0
+2015,Panels Politics (Lazar),2015-03-13,centro_sin,53.0
+2015,Panels Politics (Lazar),2015-03-13,blocco_netanyahu,50.0
+2015,Teleseker,2015-03-13,likud,23.0
+2015,Teleseker,2015-03-13,shas,7.0
+2015,Teleseker,2015-03-13,utj,7.0
+2015,Teleseker,2015-03-13,destra_rel,15.0
+2015,Teleseker,2015-03-13,yb,6.0
+2015,Teleseker,2015-03-13,arabi,12.0
+2015,Teleseker,2015-03-13,centro_sin,50.0
+2015,Teleseker,2015-03-13,blocco_netanyahu,52.0
+2015,Smith,2015-03-12,likud,20.0
+2015,Smith,2015-03-12,shas,9.0
+2015,Smith,2015-03-12,utj,6.0
+2015,Smith,2015-03-12,destra_rel,16.0
+2015,Smith,2015-03-12,yb,6.0
+2015,Smith,2015-03-12,arabi,13.0
+2015,Smith,2015-03-12,centro_sin,50.0
+2015,Smith,2015-03-12,blocco_netanyahu,51.0
+2015,Maagar Mochot,2015-03-12,likud,21.0
+2015,Maagar Mochot,2015-03-12,shas,7.0
+2015,Maagar Mochot,2015-03-12,utj,7.0
+2015,Maagar Mochot,2015-03-12,destra_rel,18.0
+2015,Maagar Mochot,2015-03-12,yb,5.0
+2015,Maagar Mochot,2015-03-12,arabi,12.0
+2015,Maagar Mochot,2015-03-12,centro_sin,50.0
+2015,Maagar Mochot,2015-03-12,blocco_netanyahu,53.0
+2015,Geocartography,2015-03-08,likud,26.0
+2015,Geocartography,2015-03-08,shas,8.0
+2015,Geocartography,2015-03-08,utj,8.0
+2015,Geocartography,2015-03-08,destra_rel,13.0
+2015,Geocartography,2015-03-08,yb,7.0
+2015,Geocartography,2015-03-08,arabi,12.0
+2015,Geocartography,2015-03-08,centro_sin,46.0
+2015,Geocartography,2015-03-08,blocco_netanyahu,55.0
+2019 (apr),Risultato,2019-04-09,likud,35.0
+2019 (apr),Risultato,2019-04-09,shas,8.0
+2019 (apr),Risultato,2019-04-09,utj,8.0
+2019 (apr),Risultato,2019-04-09,destra_rel,5.0
+2019 (apr),Risultato,2019-04-09,yb,5.0
+2019 (apr),Risultato,2019-04-09,arabi,10.0
+2019 (apr),Risultato,2019-04-09,centro_sin,49.0
+2019 (apr),Risultato,2019-04-09,blocco_netanyahu,56.0
+2019 (apr),Midgam,2019-04-05,likud,28.0
+2019 (apr),Midgam,2019-04-05,shas,5.0
+2019 (apr),Midgam,2019-04-05,utj,6.0
+2019 (apr),Midgam,2019-04-05,destra_rel,19.0
+2019 (apr),Midgam,2019-04-05,yb,4.0
+2019 (apr),Midgam,2019-04-05,arabi,10.0
+2019 (apr),Midgam,2019-04-05,centro_sin,48.0
+2019 (apr),Midgam,2019-04-05,blocco_netanyahu,58.0
+2019 (apr),Smith,2019-04-05,likud,27.0
+2019 (apr),Smith,2019-04-05,shas,6.0
+2019 (apr),Smith,2019-04-05,utj,7.0
+2019 (apr),Smith,2019-04-05,destra_rel,17.0
+2019 (apr),Smith,2019-04-05,yb,4.0
+2019 (apr),Smith,2019-04-05,arabi,11.0
+2019 (apr),Smith,2019-04-05,centro_sin,48.0
+2019 (apr),Smith,2019-04-05,blocco_netanyahu,57.0
+2019 (apr),Maagar Mochot,2019-04-05,likud,28.0
+2019 (apr),Maagar Mochot,2019-04-05,shas,6.0
+2019 (apr),Maagar Mochot,2019-04-05,utj,7.0
+2019 (apr),Maagar Mochot,2019-04-05,destra_rel,19.0
+2019 (apr),Maagar Mochot,2019-04-05,yb,0.0
+2019 (apr),Maagar Mochot,2019-04-05,arabi,7.0
+2019 (apr),Maagar Mochot,2019-04-05,centro_sin,53.0
+2019 (apr),Maagar Mochot,2019-04-05,blocco_netanyahu,60.0
+2019 (apr),Kantar,2019-04-04,likud,31.0
+2019 (apr),Kantar,2019-04-04,shas,4.0
+2019 (apr),Kantar,2019-04-04,utj,6.0
+2019 (apr),Kantar,2019-04-04,destra_rel,18.0
+2019 (apr),Kantar,2019-04-04,yb,0.0
+2019 (apr),Kantar,2019-04-04,arabi,12.0
+2019 (apr),Kantar,2019-04-04,centro_sin,49.0
+2019 (apr),Kantar,2019-04-04,blocco_netanyahu,59.0
+2019 (apr),Miskar,2019-04-04,likud,31.0
+2019 (apr),Miskar,2019-04-04,shas,6.0
+2019 (apr),Miskar,2019-04-04,utj,6.0
+2019 (apr),Miskar,2019-04-04,destra_rel,23.0
+2019 (apr),Miskar,2019-04-04,yb,0.0
+2019 (apr),Miskar,2019-04-04,arabi,11.0
+2019 (apr),Miskar,2019-04-04,centro_sin,43.0
+2019 (apr),Miskar,2019-04-04,blocco_netanyahu,66.0
+2019 (apr),Panels Politics (Lazar),2019-04-03,likud,29.0
+2019 (apr),Panels Politics (Lazar),2019-04-03,shas,5.0
+2019 (apr),Panels Politics (Lazar),2019-04-03,utj,6.0
+2019 (apr),Panels Politics (Lazar),2019-04-03,destra_rel,18.0
+2019 (apr),Panels Politics (Lazar),2019-04-03,yb,4.0
+2019 (apr),Panels Politics (Lazar),2019-04-03,arabi,12.0
+2019 (apr),Panels Politics (Lazar),2019-04-03,centro_sin,46.0
+2019 (apr),Panels Politics (Lazar),2019-04-03,blocco_netanyahu,58.0
+2019 (apr),Dialog,2019-04-03,likud,30.0
+2019 (apr),Dialog,2019-04-03,shas,5.0
+2019 (apr),Dialog,2019-04-03,utj,6.0
+2019 (apr),Dialog,2019-04-03,destra_rel,17.0
+2019 (apr),Dialog,2019-04-03,yb,4.0
+2019 (apr),Dialog,2019-04-03,arabi,11.0
+2019 (apr),Dialog,2019-04-03,centro_sin,47.0
+2019 (apr),Dialog,2019-04-03,blocco_netanyahu,58.0
+2019 (set),Risultato,2019-09-17,likud,32.0
+2019 (set),Risultato,2019-09-17,shas,9.0
+2019 (set),Risultato,2019-09-17,utj,7.0
+2019 (set),Risultato,2019-09-17,destra_rel,7.0
+2019 (set),Risultato,2019-09-17,yb,8.0
+2019 (set),Risultato,2019-09-17,arabi,13.0
+2019 (set),Risultato,2019-09-17,centro_sin,44.0
+2019 (set),Risultato,2019-09-17,blocco_netanyahu,55.0
+2019 (set),Midgam,2019-09-13,likud,32.0
+2019 (set),Midgam,2019-09-13,shas,6.0
+2019 (set),Midgam,2019-09-13,utj,7.0
+2019 (set),Midgam,2019-09-13,destra_rel,13.0
+2019 (set),Midgam,2019-09-13,yb,9.0
+2019 (set),Midgam,2019-09-13,arabi,12.0
+2019 (set),Midgam,2019-09-13,centro_sin,41.0
+2019 (set),Midgam,2019-09-13,blocco_netanyahu,58.0
+2019 (set),Shvakim Panorama,2019-09-13,likud,33.0
+2019 (set),Shvakim Panorama,2019-09-13,shas,7.0
+2019 (set),Shvakim Panorama,2019-09-13,utj,8.0
+2019 (set),Shvakim Panorama,2019-09-13,destra_rel,11.0
+2019 (set),Shvakim Panorama,2019-09-13,yb,9.0
+2019 (set),Shvakim Panorama,2019-09-13,arabi,11.0
+2019 (set),Shvakim Panorama,2019-09-13,centro_sin,41.0
+2019 (set),Shvakim Panorama,2019-09-13,blocco_netanyahu,59.0
+2019 (set),Smith,2019-09-12,likud,33.0
+2019 (set),Smith,2019-09-12,shas,8.0
+2019 (set),Smith,2019-09-12,utj,7.0
+2019 (set),Smith,2019-09-12,destra_rel,9.0
+2019 (set),Smith,2019-09-12,yb,8.0
+2019 (set),Smith,2019-09-12,arabi,12.0
+2019 (set),Smith,2019-09-12,centro_sin,43.0
+2019 (set),Smith,2019-09-12,blocco_netanyahu,57.0
+2019 (set),Panels Politics (Lazar),2019-09-12,likud,36.0
+2019 (set),Panels Politics (Lazar),2019-09-12,shas,7.0
+2019 (set),Panels Politics (Lazar),2019-09-12,utj,8.0
+2019 (set),Panels Politics (Lazar),2019-09-12,destra_rel,9.0
+2019 (set),Panels Politics (Lazar),2019-09-12,yb,9.0
+2019 (set),Panels Politics (Lazar),2019-09-12,arabi,10.0
+2019 (set),Panels Politics (Lazar),2019-09-12,centro_sin,41.0
+2019 (set),Panels Politics (Lazar),2019-09-12,blocco_netanyahu,60.0
+2019 (set),Kantar,2019-09-12,likud,31.0
+2019 (set),Kantar,2019-09-12,shas,7.0
+2019 (set),Kantar,2019-09-12,utj,8.0
+2019 (set),Kantar,2019-09-12,destra_rel,13.0
+2019 (set),Kantar,2019-09-12,yb,7.0
+2019 (set),Kantar,2019-09-12,arabi,11.0
+2019 (set),Kantar,2019-09-12,centro_sin,43.0
+2019 (set),Kantar,2019-09-12,blocco_netanyahu,59.0
+2019 (set),Maagar Mochot,2019-09-11,likud,33.0
+2019 (set),Maagar Mochot,2019-09-11,shas,7.0
+2019 (set),Maagar Mochot,2019-09-11,utj,7.0
+2019 (set),Maagar Mochot,2019-09-11,destra_rel,11.0
+2019 (set),Maagar Mochot,2019-09-11,yb,9.0
+2019 (set),Maagar Mochot,2019-09-11,arabi,12.0
+2019 (set),Maagar Mochot,2019-09-11,centro_sin,41.0
+2019 (set),Maagar Mochot,2019-09-11,blocco_netanyahu,58.0
+2020,Risultato,2020-03-02,likud,36.0
+2020,Risultato,2020-03-02,shas,9.0
+2020,Risultato,2020-03-02,utj,7.0
+2020,Risultato,2020-03-02,destra_rel,6.0
+2020,Risultato,2020-03-02,yb,7.0
+2020,Risultato,2020-03-02,arabi,15.0
+2020,Risultato,2020-03-02,centro_sin,40.0
+2020,Risultato,2020-03-02,blocco_netanyahu,58.0
+2020,Smith,2020-02-28,likud,35.0
+2020,Smith,2020-02-28,shas,9.0
+2020,Smith,2020-02-28,utj,7.0
+2020,Smith,2020-02-28,destra_rel,7.0
+2020,Smith,2020-02-28,yb,6.0
+2020,Smith,2020-02-28,arabi,14.0
+2020,Smith,2020-02-28,centro_sin,42.0
+2020,Smith,2020-02-28,blocco_netanyahu,58.0
+2020,Midgam,2020-02-28,likud,33.0
+2020,Midgam,2020-02-28,shas,8.0
+2020,Midgam,2020-02-28,utj,7.0
+2020,Midgam,2020-02-28,destra_rel,8.0
+2020,Midgam,2020-02-28,yb,7.0
+2020,Midgam,2020-02-28,arabi,15.0
+2020,Midgam,2020-02-28,centro_sin,42.0
+2020,Midgam,2020-02-28,blocco_netanyahu,56.0
+2020,Panels Politics (Lazar),2020-02-27,likud,34.0
+2020,Panels Politics (Lazar),2020-02-27,shas,9.0
+2020,Panels Politics (Lazar),2020-02-27,utj,7.0
+2020,Panels Politics (Lazar),2020-02-27,destra_rel,7.0
+2020,Panels Politics (Lazar),2020-02-27,yb,7.0
+2020,Panels Politics (Lazar),2020-02-27,arabi,13.0
+2020,Panels Politics (Lazar),2020-02-27,centro_sin,43.0
+2020,Panels Politics (Lazar),2020-02-27,blocco_netanyahu,57.0
+2020,Maagar Mochot,2020-02-27,likud,33.0
+2020,Maagar Mochot,2020-02-27,shas,8.0
+2020,Maagar Mochot,2020-02-27,utj,7.0
+2020,Maagar Mochot,2020-02-27,destra_rel,9.0
+2020,Maagar Mochot,2020-02-27,yb,7.0
+2020,Maagar Mochot,2020-02-27,arabi,14.0
+2020,Maagar Mochot,2020-02-27,centro_sin,42.0
+2020,Maagar Mochot,2020-02-27,blocco_netanyahu,57.0
+2020,Kantar,2020-02-27,likud,35.0
+2020,Kantar,2020-02-27,shas,8.0
+2020,Kantar,2020-02-27,utj,8.0
+2020,Kantar,2020-02-27,destra_rel,7.0
+2020,Kantar,2020-02-27,yb,6.0
+2020,Kantar,2020-02-27,arabi,14.0
+2020,Kantar,2020-02-27,centro_sin,42.0
+2020,Kantar,2020-02-27,blocco_netanyahu,58.0
+2020,Direct Polls,2020-02-26,likud,35.0
+2020,Direct Polls,2020-02-26,shas,9.0
+2020,Direct Polls,2020-02-26,utj,8.0
+2020,Direct Polls,2020-02-26,destra_rel,7.0
+2020,Direct Polls,2020-02-26,yb,6.0
+2020,Direct Polls,2020-02-26,arabi,13.0
+2020,Direct Polls,2020-02-26,centro_sin,42.0
+2020,Direct Polls,2020-02-26,blocco_netanyahu,59.0
+2021,Risultato,2021-03-23,likud,30.0
+2021,Risultato,2021-03-23,shas,9.0
+2021,Risultato,2021-03-23,utj,7.0
+2021,Risultato,2021-03-23,destra_rel,6.0
+2021,Risultato,2021-03-23,yb,7.0
+2021,Risultato,2021-03-23,arabi,10.0
+2021,Risultato,2021-03-23,centro_sin,51.0
+2021,Risultato,2021-03-23,blocco_netanyahu,52.0
+2021,Camil Fuchs / Panel Project,2021-03-19,likud,30.0
+2021,Camil Fuchs / Panel Project,2021-03-19,shas,8.0
+2021,Camil Fuchs / Panel Project,2021-03-19,utj,7.0
+2021,Camil Fuchs / Panel Project,2021-03-19,destra_rel,5.0
+2021,Camil Fuchs / Panel Project,2021-03-19,yb,6.0
+2021,Camil Fuchs / Panel Project,2021-03-19,arabi,12.0
+2021,Camil Fuchs / Panel Project,2021-03-19,centro_sin,52.0
+2021,Camil Fuchs / Panel Project,2021-03-19,blocco_netanyahu,50.0
+2021,Midgam,2021-03-19,likud,32.0
+2021,Midgam,2021-03-19,shas,8.0
+2021,Midgam,2021-03-19,utj,7.0
+2021,Midgam,2021-03-19,destra_rel,4.0
+2021,Midgam,2021-03-19,yb,7.0
+2021,Midgam,2021-03-19,arabi,12.0
+2021,Midgam,2021-03-19,centro_sin,50.0
+2021,Midgam,2021-03-19,blocco_netanyahu,51.0
+2021,Panels Politics (Lazar),2021-03-18,likud,30.0
+2021,Panels Politics (Lazar),2021-03-18,shas,8.0
+2021,Panels Politics (Lazar),2021-03-18,utj,6.0
+2021,Panels Politics (Lazar),2021-03-18,destra_rel,5.0
+2021,Panels Politics (Lazar),2021-03-18,yb,8.0
+2021,Panels Politics (Lazar),2021-03-18,arabi,12.0
+2021,Panels Politics (Lazar),2021-03-18,centro_sin,51.0
+2021,Panels Politics (Lazar),2021-03-18,blocco_netanyahu,49.0
+2021,Direct Polls,2021-03-18,likud,32.0
+2021,Direct Polls,2021-03-18,shas,9.0
+2021,Direct Polls,2021-03-18,utj,7.0
+2021,Direct Polls,2021-03-18,destra_rel,5.0
+2021,Direct Polls,2021-03-18,yb,9.0
+2021,Direct Polls,2021-03-18,arabi,11.0
+2021,Direct Polls,2021-03-18,centro_sin,47.0
+2021,Direct Polls,2021-03-18,blocco_netanyahu,53.0
+2021,Kantar,2021-03-18,likud,31.0
+2021,Kantar,2021-03-18,shas,8.0
+2021,Kantar,2021-03-18,utj,7.0
+2021,Kantar,2021-03-18,destra_rel,5.0
+2021,Kantar,2021-03-18,yb,7.0
+2021,Kantar,2021-03-18,arabi,12.0
+2021,Kantar,2021-03-18,centro_sin,50.0
+2021,Kantar,2021-03-18,blocco_netanyahu,51.0
+2021,Smith,2021-03-18,likud,31.0
+2021,Smith,2021-03-18,shas,8.0
+2021,Smith,2021-03-18,utj,7.0
+2021,Smith,2021-03-18,destra_rel,5.0
+2021,Smith,2021-03-18,yb,7.0
+2021,Smith,2021-03-18,arabi,12.0
+2021,Smith,2021-03-18,centro_sin,50.0
+2021,Smith,2021-03-18,blocco_netanyahu,51.0
+2021,Maagar Mochot,2021-03-18,likud,29.0
+2021,Maagar Mochot,2021-03-18,shas,9.0
+2021,Maagar Mochot,2021-03-18,utj,7.0
+2021,Maagar Mochot,2021-03-18,destra_rel,5.0
+2021,Maagar Mochot,2021-03-18,yb,8.0
+2021,Maagar Mochot,2021-03-18,arabi,10.0
+2021,Maagar Mochot,2021-03-18,centro_sin,52.0
+2021,Maagar Mochot,2021-03-18,blocco_netanyahu,50.0
+2022,Risultato,2022-11-01,likud,32.0
+2022,Risultato,2022-11-01,shas,11.0
+2022,Risultato,2022-11-01,utj,7.0
+2022,Risultato,2022-11-01,destra_rel,14.0
+2022,Risultato,2022-11-01,yb,6.0
+2022,Risultato,2022-11-01,arabi,10.0
+2022,Risultato,2022-11-01,centro_sin,40.0
+2022,Risultato,2022-11-01,blocco_netanyahu,64.0
+2022,Camil Fuchs / Panel Project,2022-10-28,likud,30.0
+2022,Camil Fuchs / Panel Project,2022-10-28,shas,8.0
+2022,Camil Fuchs / Panel Project,2022-10-28,utj,7.0
+2022,Camil Fuchs / Panel Project,2022-10-28,destra_rel,15.0
+2022,Camil Fuchs / Panel Project,2022-10-28,yb,5.0
+2022,Camil Fuchs / Panel Project,2022-10-28,arabi,8.0
+2022,Camil Fuchs / Panel Project,2022-10-28,centro_sin,47.0
+2022,Camil Fuchs / Panel Project,2022-10-28,blocco_netanyahu,60.0
+2022,Midgam,2022-10-28,likud,31.0
+2022,Midgam,2022-10-28,shas,8.0
+2022,Midgam,2022-10-28,utj,7.0
+2022,Midgam,2022-10-28,destra_rel,14.0
+2022,Midgam,2022-10-28,yb,6.0
+2022,Midgam,2022-10-28,arabi,8.0
+2022,Midgam,2022-10-28,centro_sin,46.0
+2022,Midgam,2022-10-28,blocco_netanyahu,60.0
+2022,Smith,2022-10-27,likud,31.0
+2022,Smith,2022-10-27,shas,9.0
+2022,Smith,2022-10-27,utj,7.0
+2022,Smith,2022-10-27,destra_rel,14.0
+2022,Smith,2022-10-27,yb,6.0
+2022,Smith,2022-10-27,arabi,8.0
+2022,Smith,2022-10-27,centro_sin,45.0
+2022,Smith,2022-10-27,blocco_netanyahu,61.0
+2022,Direct Polls,2022-10-27,likud,34.0
+2022,Direct Polls,2022-10-27,shas,9.0
+2022,Direct Polls,2022-10-27,utj,7.0
+2022,Direct Polls,2022-10-27,destra_rel,12.0
+2022,Direct Polls,2022-10-27,yb,6.0
+2022,Direct Polls,2022-10-27,arabi,8.0
+2022,Direct Polls,2022-10-27,centro_sin,44.0
+2022,Direct Polls,2022-10-27,blocco_netanyahu,62.0
+2022,Kantar,2022-10-27,likud,31.0
+2022,Kantar,2022-10-27,shas,8.0
+2022,Kantar,2022-10-27,utj,7.0
+2022,Kantar,2022-10-27,destra_rel,14.0
+2022,Kantar,2022-10-27,yb,6.0
+2022,Kantar,2022-10-27,arabi,8.0
+2022,Kantar,2022-10-27,centro_sin,46.0
+2022,Kantar,2022-10-27,blocco_netanyahu,60.0
+2022,Panels Politics (Lazar),2022-10-27,likud,31.0
+2022,Panels Politics (Lazar),2022-10-27,shas,9.0
+2022,Panels Politics (Lazar),2022-10-27,utj,6.0
+2022,Panels Politics (Lazar),2022-10-27,destra_rel,14.0
+2022,Panels Politics (Lazar),2022-10-27,yb,6.0
+2022,Panels Politics (Lazar),2022-10-27,arabi,8.0
+2022,Panels Politics (Lazar),2022-10-27,centro_sin,46.0
+2022,Panels Politics (Lazar),2022-10-27,blocco_netanyahu,60.0
+2022,Maagar Mochot,2022-10-26,likud,30.0
+2022,Maagar Mochot,2022-10-26,shas,9.0
+2022,Maagar Mochot,2022-10-26,utj,7.0
+2022,Maagar Mochot,2022-10-26,destra_rel,15.0
+2022,Maagar Mochot,2022-10-26,yb,5.0
+2022,Maagar Mochot,2022-10-26,arabi,8.0
+2022,Maagar Mochot,2022-10-26,centro_sin,46.0
+2022,Maagar Mochot,2022-10-26,blocco_netanyahu,61.0

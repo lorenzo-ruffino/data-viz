@@ -1,0 +1,23 @@
+anno,voce,valore_Meur,tipo,fonte
+2017,Bilancio Ministero Difesa (Milex),19776,previsione competenza,https://www.milex.org/2026/11/05/spesa-militare-previsionale-2027-per-la-prima-volta-superati-i-40-miliardi-annuali/
+2022,Spesa militare diretta Milex,25700,Milex,idem
+2023,Bilancio Ministero Difesa (Milex),27723,Milex,idem
+2023,Spesa militare diretta Milex,26700,Milex,idem
+2024,Bilancio ordinario Difesa (DPP 2024-26),29184.2,competenza,https://documenti.camera.it/leg19/dossier/pdf/DI0117.pdf
+2025,Bilancio ordinario Difesa (DPP 2025-27),31298.4,competenza LdB 2025,https://documenti.camera.it/leg19/dossier/testi/DI0159.htm
+2025,Funzione Sicurezza Carabinieri,7864.5,DPP 2025-27,idem
+2025,Funzioni esterne,144.4,DPP 2025-27,idem
+2025,Pensioni provvisorie,444.5,DPP 2025-27 (verificare),idem
+2026,Bilancio ordinario Difesa (DPP 2025-27 previsione),31208.6,previsione,idem
+2026,Bilancio Ministero Difesa (Milex su ddl 2027),32398,previsione aggiornata,Milex 2027
+2026,Spesa militare diretta Milex,~34000,Milex,Milex 2027
+2027,Bilancio ordinario Difesa (DPP 2025-27 previsione),31749.4,previsione pre-manovra,DI0159
+2027,Bilancio Ministero Difesa (ddl bilancio 2027; Milex),38823,competenza,Milex 2027
+2027,Bilancio Difesa a legislazione vigente (Milex),34298,competenza,Milex 2027
+2027,Spesa militare diretta Milex,40044,Milex,Milex 2027
+2027,Spesa militare con costi indiretti Milex,41164,Milex,Milex 2027
+2027,Nuove armi (Difesa+MIMIT; Milex),17211,Milex,Milex 2027
+2027,MIMIT interventi difesa,3278,Milex,Milex 2027
+2027,Personale Funzione Difesa,12879,Milex,Milex 2027
+2027,Pensioni militari INPS,4200,Milex,Milex 2027
+2027,Missioni internazionali (90% fondo MEF),1450,Milex,Milex 2027

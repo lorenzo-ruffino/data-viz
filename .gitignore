@@ -74,3 +74,33 @@ Temperature Copernicus/output/.*_done
 # Progetti locali non ancora da pubblicare
 Crescita Futuro Nazionale/
 Meritocrazia e produttività/
+Costo del fallimento/
+Efficacia donazioni/
+Italia senza migrazione dal 1995/
+Classi sovraffollate/
+
+# README con dettagli della rete e dell'archivio locali
+Mortalità caldo 2026/README.md
+Temperature Copernicus/README.md
+
+# Cache e file locali
+.cloudflare/
+__pycache__/
+*.pyc
+/racli_orarie.csv
+
+# Pagine Wikipedia grezze (riscaricabili con gli script 01_scarica_sondaggi.py)
+*.wiki
+
+# Dati di modelli esterni, da non ridistribuire
+Midterm 2026/input/modelli_*.json
+
+# Microdati decessi Istat (pesanti, riscaricabili)
+Mortalità caldo 2026/input/istat/
+Mortalità caldo 2026/input/derivati/
+Mortalità caldo 2026/input/istat_rilasci_precedenti/
+Mortalità caldo 2026/input/istat_popolazione/
+
+# Previsioni crescita Italia: PDF e file grezzi scaricati (rigenerabili dagli url in input/fonti_*.csv)
+Previsioni crescita Italia/input/pdf/
+Previsioni crescita Italia/input/raw/

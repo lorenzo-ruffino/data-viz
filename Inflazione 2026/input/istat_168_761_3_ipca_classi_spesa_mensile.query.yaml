@@ -1,0 +1,10 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 168_761_DF_DCSP_IPCA1B2025_3
+description: Ipca trimestrali - classi di spesa (dal 2005)
+filters: {}
+start_period: null
+end_period: null
+last_n: null
+first_n: null

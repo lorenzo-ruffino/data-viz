@@ -1,0 +1,925 @@
+geo,anno,frequenza,quota
+AT,2015,abitualmente,10.2
+AT,2015,mai,78
+AT,2015,qualche volta,11.8
+AT,2016,abitualmente,9.9
+AT,2016,mai,78
+AT,2016,qualche volta,12.1
+AT,2017,abitualmente,9.5
+AT,2017,mai,78.4
+AT,2017,qualche volta,12.1
+AT,2018,abitualmente,10
+AT,2018,mai,78.4
+AT,2018,qualche volta,11.7
+AT,2019,abitualmente,9.9
+AT,2019,mai,78
+AT,2019,qualche volta,12.1
+AT,2020,abitualmente,18.1
+AT,2020,mai,70.8
+AT,2020,qualche volta,11.1
+AT,2021,abitualmente,15.9
+AT,2021,mai,71.6
+AT,2021,qualche volta,12.5
+AT,2022,abitualmente,12.9
+AT,2022,mai,72.6
+AT,2022,qualche volta,14.6
+AT,2023,abitualmente,10.9
+AT,2023,mai,72.1
+AT,2023,qualche volta,17
+AT,2024,abitualmente,10.8
+AT,2024,mai,71.9
+AT,2024,qualche volta,17.3
+AT,2025,abitualmente,10.8
+AT,2025,mai,71.4
+AT,2025,qualche volta,17.8
+BE,2015,abitualmente,8.1
+BE,2015,mai,77.7
+BE,2015,qualche volta,14.2
+BE,2016,abitualmente,7.2
+BE,2016,mai,77.3
+BE,2016,qualche volta,15.5
+BE,2017,abitualmente,6.9
+BE,2017,mai,76.5
+BE,2017,qualche volta,16.5
+BE,2018,abitualmente,6.6
+BE,2018,mai,77.3
+BE,2018,qualche volta,16.1
+BE,2019,abitualmente,6.9
+BE,2019,mai,75.3
+BE,2019,qualche volta,17.7
+BE,2020,abitualmente,17.2
+BE,2020,mai,66.3
+BE,2020,qualche volta,16.5
+BE,2021,abitualmente,26.2
+BE,2021,mai,60.2
+BE,2021,qualche volta,13.7
+BE,2022,abitualmente,16.4
+BE,2022,mai,64.5
+BE,2022,qualche volta,19
+BE,2023,abitualmente,14.3
+BE,2023,mai,64.1
+BE,2023,qualche volta,21.6
+BE,2024,abitualmente,13.8
+BE,2024,mai,64.1
+BE,2024,qualche volta,22.2
+BE,2025,abitualmente,13.2
+BE,2025,mai,62.9
+BE,2025,qualche volta,23.9
+BG,2015,abitualmente,0.3
+BG,2015,mai,99
+BG,2015,qualche volta,0.7
+BG,2016,abitualmente,0.2
+BG,2016,mai,98.9
+BG,2016,qualche volta,1
+BG,2017,abitualmente,0.3
+BG,2017,mai,99
+BG,2017,qualche volta,0.6
+BG,2018,abitualmente,0.3
+BG,2018,mai,99.1
+BG,2018,qualche volta,0.7
+BG,2019,abitualmente,0.5
+BG,2019,mai,98.9
+BG,2019,qualche volta,0.6
+BG,2020,abitualmente,1.2
+BG,2020,mai,97
+BG,2020,qualche volta,1.8
+BG,2021,abitualmente,2.8
+BG,2021,mai,93.5
+BG,2021,qualche volta,3.7
+BG,2022,abitualmente,1.6
+BG,2022,mai,95.6
+BG,2022,qualche volta,2.9
+BG,2023,abitualmente,1
+BG,2023,mai,97.2
+BG,2023,qualche volta,1.8
+BG,2024,abitualmente,1.2
+BG,2024,mai,97
+BG,2024,qualche volta,1.8
+BG,2025,abitualmente,1.4
+BG,2025,mai,96
+BG,2025,qualche volta,2.6
+CY,2015,abitualmente,1.5
+CY,2015,mai,97.4
+CY,2015,qualche volta,1.1
+CY,2016,abitualmente,1.6
+CY,2016,mai,97.1
+CY,2016,qualche volta,1.3
+CY,2017,abitualmente,1.2
+CY,2017,mai,97.5
+CY,2017,qualche volta,1.3
+CY,2018,abitualmente,1.2
+CY,2018,mai,97.9
+CY,2018,qualche volta,1
+CY,2019,abitualmente,1.4
+CY,2019,mai,97.4
+CY,2019,qualche volta,1.3
+CY,2020,abitualmente,4.9
+CY,2020,mai,92
+CY,2020,qualche volta,3.1
+CY,2021,abitualmente,6.8
+CY,2021,mai,87
+CY,2021,qualche volta,6.2
+CY,2022,abitualmente,4.5
+CY,2022,mai,88.9
+CY,2022,qualche volta,6.6
+CY,2023,abitualmente,4
+CY,2023,mai,89.1
+CY,2023,qualche volta,7
+CY,2024,abitualmente,4
+CY,2024,mai,87.7
+CY,2024,qualche volta,8.2
+CY,2025,abitualmente,4.2
+CY,2025,mai,85.7
+CY,2025,qualche volta,10.1
+CZ,2015,abitualmente,3.5
+CZ,2015,mai,92.4
+CZ,2015,qualche volta,4.1
+CZ,2016,abitualmente,3.8
+CZ,2016,mai,91.2
+CZ,2016,qualche volta,5
+CZ,2017,abitualmente,3.9
+CZ,2017,mai,90.9
+CZ,2017,qualche volta,5.2
+CZ,2018,abitualmente,4
+CZ,2018,mai,90.6
+CZ,2018,qualche volta,5.4
+CZ,2019,abitualmente,4.6
+CZ,2019,mai,90
+CZ,2019,qualche volta,5.4
+CZ,2020,abitualmente,7.2
+CZ,2020,mai,86.9
+CZ,2020,qualche volta,5.9
+CZ,2021,abitualmente,7.2
+CZ,2021,mai,85.5
+CZ,2021,qualche volta,7.3
+CZ,2022,abitualmente,6.3
+CZ,2022,mai,84.4
+CZ,2022,qualche volta,9.4
+CZ,2023,abitualmente,6.1
+CZ,2023,mai,84.9
+CZ,2023,qualche volta,9.1
+CZ,2024,abitualmente,6.6
+CZ,2024,mai,83.5
+CZ,2024,qualche volta,9.9
+CZ,2025,abitualmente,6.6
+CZ,2025,mai,83.1
+CZ,2025,qualche volta,10.3
+DE,2015,abitualmente,3.3
+DE,2015,mai,88.8
+DE,2015,qualche volta,8
+DE,2016,abitualmente,3.2
+DE,2016,mai,89.1
+DE,2016,qualche volta,7.7
+DE,2017,abitualmente,4.8
+DE,2017,mai,89.2
+DE,2017,qualche volta,6
+DE,2018,abitualmente,5
+DE,2018,mai,88.4
+DE,2018,qualche volta,6.6
+DE,2019,abitualmente,5.2
+DE,2019,mai,87.4
+DE,2019,qualche volta,7.4
+DE,2020,abitualmente,13.6
+DE,2020,mai,79.2
+DE,2020,qualche volta,7.3
+DE,2021,abitualmente,17.2
+DE,2021,mai,75
+DE,2021,qualche volta,7.8
+DE,2022,abitualmente,14.5
+DE,2022,mai,75.9
+DE,2022,qualche volta,9.6
+DE,2023,abitualmente,12.8
+DE,2023,mai,76.7
+DE,2023,qualche volta,10.4
+DE,2024,abitualmente,12.7
+DE,2024,mai,76.2
+DE,2024,qualche volta,11.1
+DE,2025,abitualmente,13
+DE,2025,mai,75.4
+DE,2025,qualche volta,11.7
+DK,2015,abitualmente,9
+DK,2015,mai,72.8
+DK,2015,qualche volta,18.2
+DK,2016,abitualmente,8.4
+DK,2016,mai,67.9
+DK,2016,qualche volta,23.7
+DK,2017,abitualmente,8.8
+DK,2017,mai,70.1
+DK,2017,qualche volta,21.1
+DK,2018,abitualmente,7.8
+DK,2018,mai,72.6
+DK,2018,qualche volta,19.6
+DK,2019,abitualmente,7.8
+DK,2019,mai,71.5
+DK,2019,qualche volta,20.7
+DK,2020,abitualmente,17
+DK,2020,mai,64.7
+DK,2020,qualche volta,18.3
+DK,2021,abitualmente,18.1
+DK,2021,mai,64
+DK,2021,qualche volta,17.9
+DK,2022,abitualmente,11.8
+DK,2022,mai,66.2
+DK,2022,qualche volta,22
+DK,2023,abitualmente,7.9
+DK,2023,mai,63.2
+DK,2023,qualche volta,28.9
+DK,2024,abitualmente,7.8
+DK,2024,mai,59
+DK,2024,qualche volta,33.3
+DK,2025,abitualmente,7.6
+DK,2025,mai,59.3
+DK,2025,qualche volta,33.1
+EE,2015,abitualmente,5.4
+EE,2015,mai,87
+EE,2015,qualche volta,7.6
+EE,2016,abitualmente,5.8
+EE,2016,mai,85
+EE,2016,qualche volta,9.2
+EE,2017,abitualmente,5.7
+EE,2017,mai,84
+EE,2017,qualche volta,10.3
+EE,2018,abitualmente,7.4
+EE,2018,mai,80.6
+EE,2018,qualche volta,12
+EE,2019,abitualmente,6.6
+EE,2019,mai,80.3
+EE,2019,qualche volta,13.1
+EE,2020,abitualmente,12.2
+EE,2020,mai,77
+EE,2020,qualche volta,10.8
+EE,2021,abitualmente,14.9
+EE,2021,mai,73.6
+EE,2021,qualche volta,11.4
+EE,2022,abitualmente,12.4
+EE,2022,mai,74.4
+EE,2022,qualche volta,13.1
+EE,2023,abitualmente,12
+EE,2023,mai,71.9
+EE,2023,qualche volta,16
+EE,2024,abitualmente,13.1
+EE,2024,mai,70.8
+EE,2024,qualche volta,16.2
+EE,2025,abitualmente,11.6
+EE,2025,mai,71.7
+EE,2025,qualche volta,16.8
+EL,2015,abitualmente,2.6
+EL,2015,mai,94.4
+EL,2015,qualche volta,3
+EL,2016,abitualmente,2.6
+EL,2016,mai,94
+EL,2016,qualche volta,3.4
+EL,2017,abitualmente,2.3
+EL,2017,mai,94.5
+EL,2017,qualche volta,3.2
+EL,2018,abitualmente,2
+EL,2018,mai,94.9
+EL,2018,qualche volta,3.1
+EL,2019,abitualmente,1.9
+EL,2019,mai,94.8
+EL,2019,qualche volta,3.4
+EL,2020,abitualmente,7
+EL,2020,mai,89.6
+EL,2020,qualche volta,3.4
+EL,2021,abitualmente,6.7
+EL,2021,mai,85.1
+EL,2021,qualche volta,8.2
+EL,2022,abitualmente,2.5
+EL,2022,mai,90.2
+EL,2022,qualche volta,7.4
+EL,2023,abitualmente,1.9
+EL,2023,mai,92.6
+EL,2023,qualche volta,5.5
+EL,2024,abitualmente,2.7
+EL,2024,mai,92.2
+EL,2024,qualche volta,5.1
+EL,2025,abitualmente,2.3
+EL,2025,mai,93.3
+EL,2025,qualche volta,4.4
+ES,2015,abitualmente,3.6
+ES,2015,mai,93.6
+ES,2015,qualche volta,2.9
+ES,2016,abitualmente,3.5
+ES,2016,mai,93.6
+ES,2016,qualche volta,2.9
+ES,2017,abitualmente,4.3
+ES,2017,mai,92.7
+ES,2017,qualche volta,3
+ES,2018,abitualmente,4.3
+ES,2018,mai,92.5
+ES,2018,qualche volta,3.2
+ES,2019,abitualmente,4.8
+ES,2019,mai,91.7
+ES,2019,qualche volta,3.5
+ES,2020,abitualmente,10.9
+ES,2020,mai,84.9
+ES,2020,qualche volta,4.2
+ES,2021,abitualmente,9.4
+ES,2021,mai,84.7
+ES,2021,qualche volta,5.9
+ES,2022,abitualmente,7.5
+ES,2022,mai,86.3
+ES,2022,qualche volta,6.2
+ES,2023,abitualmente,7.1
+ES,2023,mai,85.8
+ES,2023,qualche volta,7.1
+ES,2024,abitualmente,7.8
+ES,2024,mai,84.6
+ES,2024,qualche volta,7.6
+ES,2025,abitualmente,7.9
+ES,2025,mai,84.3
+ES,2025,qualche volta,7.8
+EU27_2020,2015,abitualmente,4.9
+EU27_2020,2015,mai,87
+EU27_2020,2015,qualche volta,8.1
+EU27_2020,2016,abitualmente,4.8
+EU27_2020,2016,mai,86.9
+EU27_2020,2016,qualche volta,8.3
+EU27_2020,2017,abitualmente,5.1
+EU27_2020,2017,mai,86.9
+EU27_2020,2017,qualche volta,8
+EU27_2020,2018,abitualmente,5.2
+EU27_2020,2018,mai,86.4
+EU27_2020,2018,qualche volta,8.4
+EU27_2020,2019,abitualmente,5.4
+EU27_2020,2019,mai,85.5
+EU27_2020,2019,qualche volta,9
+EU27_2020,2020,abitualmente,12.1
+EU27_2020,2020,mai,79.3
+EU27_2020,2020,qualche volta,8.6
+EU27_2020,2021,abitualmente,13.3
+EU27_2020,2021,mai,75.9
+EU27_2020,2021,qualche volta,10.8
+EU27_2020,2022,abitualmente,10
+EU27_2020,2022,mai,77.6
+EU27_2020,2022,qualche volta,12.4
+EU27_2020,2023,abitualmente,8.9
+EU27_2020,2023,mai,77.8
+EU27_2020,2023,qualche volta,13.3
+EU27_2020,2024,abitualmente,8.9
+EU27_2020,2024,mai,77.4
+EU27_2020,2024,qualche volta,13.7
+EU27_2020,2025,abitualmente,8.8
+EU27_2020,2025,mai,77
+EU27_2020,2025,qualche volta,14.2
+FI,2015,abitualmente,12
+FI,2015,mai,73.2
+FI,2015,qualche volta,14.8
+FI,2016,abitualmente,11.9
+FI,2016,mai,72.7
+FI,2016,qualche volta,15.4
+FI,2017,abitualmente,12.3
+FI,2017,mai,71.5
+FI,2017,qualche volta,16.2
+FI,2018,abitualmente,13.3
+FI,2018,mai,69.7
+FI,2018,qualche volta,17
+FI,2019,abitualmente,14.1
+FI,2019,mai,68.4
+FI,2019,qualche volta,17.6
+FI,2020,abitualmente,25.1
+FI,2020,mai,60.7
+FI,2020,qualche volta,14.1
+FI,2021,abitualmente,24.8
+FI,2021,mai,58.9
+FI,2021,qualche volta,16.2
+FI,2022,abitualmente,23.1
+FI,2022,mai,59.9
+FI,2022,qualche volta,17
+FI,2023,abitualmente,21.7
+FI,2023,mai,58.3
+FI,2023,qualche volta,20
+FI,2024,abitualmente,19.6
+FI,2024,mai,60.6
+FI,2024,qualche volta,19.8
+FI,2025,abitualmente,20.5
+FI,2025,mai,58.6
+FI,2025,qualche volta,21
+FR,2015,abitualmente,7
+FR,2015,mai,80.6
+FR,2015,qualche volta,12.4
+FR,2016,abitualmente,6.9
+FR,2016,mai,79.7
+FR,2016,qualche volta,13.4
+FR,2017,abitualmente,6.7
+FR,2017,mai,79.6
+FR,2017,qualche volta,13.6
+FR,2018,abitualmente,6.6
+FR,2018,mai,79.3
+FR,2018,qualche volta,14.1
+FR,2019,abitualmente,7
+FR,2019,mai,77.2
+FR,2019,qualche volta,15.8
+FR,2020,abitualmente,15.7
+FR,2020,mai,70.6
+FR,2020,qualche volta,13.7
+FR,2021,abitualmente,17
+FR,2021,mai,65.8
+FR,2021,qualche volta,17.2
+FR,2022,abitualmente,12.4
+FR,2022,mai,66.2
+FR,2022,qualche volta,21.3
+FR,2023,abitualmente,10.8
+FR,2023,mai,66.6
+FR,2023,qualche volta,22.7
+FR,2024,abitualmente,11.1
+FR,2024,mai,66.1
+FR,2024,qualche volta,22.8
+FR,2025,abitualmente,11.1
+FR,2025,mai,64.5
+FR,2025,qualche volta,24.4
+HR,2015,abitualmente,1.2
+HR,2015,mai,95.6
+HR,2015,qualche volta,3.1
+HR,2016,abitualmente,1.5
+HR,2016,mai,94.5
+HR,2016,qualche volta,4
+HR,2017,abitualmente,1.5
+HR,2017,mai,93.9
+HR,2017,qualche volta,4.6
+HR,2018,abitualmente,1.4
+HR,2018,mai,93.2
+HR,2018,qualche volta,5.3
+HR,2019,abitualmente,2
+HR,2019,mai,92.9
+HR,2019,qualche volta,5.1
+HR,2020,abitualmente,3.2
+HR,2020,mai,88.6
+HR,2020,qualche volta,8.2
+HR,2021,abitualmente,4.8
+HR,2021,mai,86.1
+HR,2021,qualche volta,9.1
+HR,2022,abitualmente,4.9
+HR,2022,mai,87.1
+HR,2022,qualche volta,8
+HR,2023,abitualmente,4.8
+HR,2023,mai,87.6
+HR,2023,qualche volta,7.6
+HR,2024,abitualmente,4.5
+HR,2024,mai,86.7
+HR,2024,qualche volta,8.8
+HR,2025,abitualmente,4.7
+HR,2025,mai,86.1
+HR,2025,qualche volta,9.2
+HU,2015,abitualmente,3.4
+HU,2015,mai,91.3
+HU,2015,qualche volta,5.3
+HU,2016,abitualmente,3
+HU,2016,mai,92.8
+HU,2016,qualche volta,4.2
+HU,2017,abitualmente,2.5
+HU,2017,mai,93.4
+HU,2017,qualche volta,4.1
+HU,2018,abitualmente,2.3
+HU,2018,mai,94
+HU,2018,qualche volta,3.7
+HU,2019,abitualmente,1.2
+HU,2019,mai,95.5
+HU,2019,qualche volta,3.4
+HU,2020,abitualmente,3.5
+HU,2020,mai,89
+HU,2020,qualche volta,7.4
+HU,2021,abitualmente,4.6
+HU,2021,mai,86.6
+HU,2021,qualche volta,8.9
+HU,2022,abitualmente,2.8
+HU,2022,mai,89.4
+HU,2022,qualche volta,7.8
+HU,2023,abitualmente,3.7
+HU,2023,mai,91.5
+HU,2023,qualche volta,4.9
+HU,2024,abitualmente,4
+HU,2024,mai,91
+HU,2024,qualche volta,5
+HU,2025,abitualmente,4.1
+HU,2025,mai,90.2
+HU,2025,qualche volta,5.7
+IE,2015,abitualmente,3.7
+IE,2015,mai,86.7
+IE,2015,qualche volta,9.6
+IE,2016,abitualmente,3.3
+IE,2016,mai,87.3
+IE,2016,qualche volta,9.3
+IE,2017,abitualmente,5
+IE,2017,mai,83.6
+IE,2017,qualche volta,11.5
+IE,2018,abitualmente,6.5
+IE,2018,mai,80.6
+IE,2018,qualche volta,12.8
+IE,2019,abitualmente,7
+IE,2019,mai,80.2
+IE,2019,qualche volta,12.9
+IE,2020,abitualmente,21.5
+IE,2020,mai,68.1
+IE,2020,qualche volta,10.5
+IE,2021,abitualmente,32.2
+IE,2021,mai,60.5
+IE,2021,qualche volta,7.3
+IE,2022,abitualmente,25.4
+IE,2022,mai,63.5
+IE,2022,qualche volta,11.1
+IE,2023,abitualmente,21.4
+IE,2023,mai,63.4
+IE,2023,qualche volta,15.3
+IE,2024,abitualmente,20.6
+IE,2024,mai,63.6
+IE,2024,qualche volta,15.9
+IE,2025,abitualmente,19.2
+IE,2025,mai,64.2
+IE,2025,qualche volta,16.6
+IT,2015,abitualmente,3.4
+IT,2015,mai,95.6
+IT,2015,qualche volta,1
+IT,2016,abitualmente,3.3
+IT,2016,mai,95.7
+IT,2016,qualche volta,1
+IT,2017,abitualmente,3.5
+IT,2017,mai,95.4
+IT,2017,qualche volta,1.1
+IT,2018,abitualmente,3.6
+IT,2018,mai,95.2
+IT,2018,qualche volta,1.2
+IT,2019,abitualmente,3.6
+IT,2019,mai,95.3
+IT,2019,qualche volta,1.1
+IT,2020,abitualmente,12.2
+IT,2020,mai,86.4
+IT,2020,qualche volta,1.4
+IT,2021,abitualmente,8.3
+IT,2021,mai,85.2
+IT,2021,qualche volta,6.5
+IT,2022,abitualmente,5.2
+IT,2022,mai,87.8
+IT,2022,qualche volta,7
+IT,2023,abitualmente,4.4
+IT,2023,mai,88
+IT,2023,qualche volta,7.6
+IT,2024,abitualmente,3.7
+IT,2024,mai,89.7
+IT,2024,qualche volta,6.6
+IT,2025,abitualmente,2.7
+IT,2025,mai,91.8
+IT,2025,qualche volta,5.5
+LT,2015,abitualmente,3
+LT,2015,mai,95.1
+LT,2015,qualche volta,1.9
+LT,2016,abitualmente,2.7
+LT,2016,mai,95.1
+LT,2016,qualche volta,2.1
+LT,2017,abitualmente,2.6
+LT,2017,mai,95.2
+LT,2017,qualche volta,2.1
+LT,2018,abitualmente,2.5
+LT,2018,mai,95.4
+LT,2018,qualche volta,2.1
+LT,2019,abitualmente,2.4
+LT,2019,mai,95.5
+LT,2019,qualche volta,2.1
+LT,2020,abitualmente,5.4
+LT,2020,mai,91.7
+LT,2020,qualche volta,2.9
+LT,2021,abitualmente,9.1
+LT,2021,mai,85.7
+LT,2021,qualche volta,5.2
+LT,2022,abitualmente,6.1
+LT,2022,mai,88.6
+LT,2022,qualche volta,5.3
+LT,2023,abitualmente,5.6
+LT,2023,mai,87.3
+LT,2023,qualche volta,7.1
+LT,2024,abitualmente,5.2
+LT,2024,mai,88.1
+LT,2024,qualche volta,6.7
+LT,2025,abitualmente,5.1
+LT,2025,mai,87.4
+LT,2025,qualche volta,7.5
+LU,2015,abitualmente,13.2
+LU,2015,mai,67.9
+LU,2015,qualche volta,18.9
+LU,2016,abitualmente,12
+LU,2016,mai,67.6
+LU,2016,qualche volta,20.4
+LU,2017,abitualmente,12.7
+LU,2017,mai,66.3
+LU,2017,qualche volta,20.9
+LU,2018,abitualmente,11
+LU,2018,mai,69.1
+LU,2018,qualche volta,19.8
+LU,2019,abitualmente,11.6
+LU,2019,mai,66.9
+LU,2019,qualche volta,21.5
+LU,2020,abitualmente,23.1
+LU,2020,mai,52.4
+LU,2020,qualche volta,24.4
+LU,2021,abitualmente,28.1
+LU,2021,mai,54.9
+LU,2021,qualche volta,17
+LU,2022,abitualmente,17.7
+LU,2022,mai,59.9
+LU,2022,qualche volta,22.4
+LU,2023,abitualmente,12.7
+LU,2023,mai,59.9
+LU,2023,qualche volta,27.3
+LU,2024,abitualmente,13
+LU,2024,mai,57.2
+LU,2024,qualche volta,29.8
+LU,2025,abitualmente,11.2
+LU,2025,mai,57.1
+LU,2025,qualche volta,31.7
+LV,2015,abitualmente,2.1
+LV,2015,mai,96.9
+LV,2015,qualche volta,1
+LV,2016,abitualmente,2.6
+LV,2016,mai,95.8
+LV,2016,qualche volta,1.6
+LV,2017,abitualmente,2.1
+LV,2017,mai,96.6
+LV,2017,qualche volta,1.2
+LV,2018,abitualmente,2.9
+LV,2018,mai,95.2
+LV,2018,qualche volta,1.9
+LV,2019,abitualmente,3
+LV,2019,mai,95.2
+LV,2019,qualche volta,1.8
+LV,2020,abitualmente,4.5
+LV,2020,mai,94
+LV,2020,qualche volta,1.6
+LV,2021,abitualmente,11
+LV,2021,mai,86.4
+LV,2021,qualche volta,2.6
+LV,2022,abitualmente,8.8
+LV,2022,mai,88.6
+LV,2022,qualche volta,2.6
+LV,2023,abitualmente,8.1
+LV,2023,mai,89.5
+LV,2023,qualche volta,2.4
+LV,2024,abitualmente,8.4
+LV,2024,mai,87.9
+LV,2024,qualche volta,3.7
+LV,2025,abitualmente,8.5
+LV,2025,mai,87.5
+LV,2025,qualche volta,4.1
+MT,2015,abitualmente,2.6
+MT,2015,mai,95.1
+MT,2015,qualche volta,2.3
+MT,2016,abitualmente,3.6
+MT,2016,mai,93.5
+MT,2016,qualche volta,2.9
+MT,2017,abitualmente,4.4
+MT,2017,mai,92.5
+MT,2017,qualche volta,3.1
+MT,2018,abitualmente,5.9
+MT,2018,mai,90.2
+MT,2018,qualche volta,3.9
+MT,2019,abitualmente,6.1
+MT,2019,mai,88.4
+MT,2019,qualche volta,5.5
+MT,2020,abitualmente,14.8
+MT,2020,mai,74.5
+MT,2020,qualche volta,10.8
+MT,2021,abitualmente,14.8
+MT,2021,mai,70.9
+MT,2021,qualche volta,14.3
+MT,2022,abitualmente,12
+MT,2022,mai,72.1
+MT,2022,qualche volta,15.9
+MT,2023,abitualmente,11.5
+MT,2023,mai,74.6
+MT,2023,qualche volta,13.9
+MT,2024,abitualmente,12.1
+MT,2024,mai,73.8
+MT,2024,qualche volta,14.2
+MT,2025,abitualmente,12.5
+MT,2025,mai,74.1
+MT,2025,qualche volta,13.4
+NL,2015,abitualmente,13.6
+NL,2015,mai,65.5
+NL,2015,qualche volta,20.9
+NL,2016,abitualmente,13.4
+NL,2016,mai,65.4
+NL,2016,qualche volta,21.2
+NL,2017,abitualmente,13.7
+NL,2017,mai,64.8
+NL,2017,qualche volta,21.4
+NL,2018,abitualmente,14
+NL,2018,mai,64.3
+NL,2018,qualche volta,21.7
+NL,2019,abitualmente,14.1
+NL,2019,mai,62.9
+NL,2019,qualche volta,23
+NL,2020,abitualmente,17.8
+NL,2020,mai,59.8
+NL,2020,qualche volta,22.3
+NL,2021,abitualmente,20.4
+NL,2021,mai,46.1
+NL,2021,qualche volta,33.5
+NL,2022,abitualmente,15.6
+NL,2022,mai,47.1
+NL,2022,qualche volta,37.4
+NL,2023,abitualmente,12.7
+NL,2023,mai,48.1
+NL,2023,qualche volta,39.2
+NL,2024,abitualmente,12.2
+NL,2024,mai,48
+NL,2024,qualche volta,39.8
+NL,2025,abitualmente,11.3
+NL,2025,mai,47.7
+NL,2025,qualche volta,41
+PL,2015,abitualmente,5.6
+PL,2015,mai,84.2
+PL,2015,qualche volta,10.2
+PL,2016,abitualmente,5.3
+PL,2016,mai,85.3
+PL,2016,qualche volta,9.4
+PL,2017,abitualmente,4.5
+PL,2017,mai,86.4
+PL,2017,qualche volta,9.1
+PL,2018,abitualmente,4.6
+PL,2018,mai,86.1
+PL,2018,qualche volta,9.4
+PL,2019,abitualmente,4.6
+PL,2019,mai,85.5
+PL,2019,qualche volta,9.9
+PL,2020,abitualmente,9
+PL,2020,mai,81.7
+PL,2020,qualche volta,9.3
+PL,2021,abitualmente,7
+PL,2021,mai,84.5
+PL,2021,qualche volta,8.5
+PL,2022,abitualmente,5
+PL,2022,mai,87.2
+PL,2022,qualche volta,7.8
+PL,2023,abitualmente,5.4
+PL,2023,mai,85.7
+PL,2023,qualche volta,8.9
+PL,2024,abitualmente,5.5
+PL,2024,mai,84.7
+PL,2024,qualche volta,9.8
+PL,2025,abitualmente,6.1
+PL,2025,mai,83.7
+PL,2025,qualche volta,10.2
+PT,2015,abitualmente,6.2
+PT,2015,mai,85.8
+PT,2015,qualche volta,8
+PT,2016,abitualmente,6.3
+PT,2016,mai,85.6
+PT,2016,qualche volta,8.1
+PT,2017,abitualmente,5.9
+PT,2017,mai,85.7
+PT,2017,qualche volta,8.4
+PT,2018,abitualmente,6.1
+PT,2018,mai,85.2
+PT,2018,qualche volta,8.7
+PT,2019,abitualmente,6.6
+PT,2019,mai,84.3
+PT,2019,qualche volta,9.1
+PT,2020,abitualmente,13.8
+PT,2020,mai,77.5
+PT,2020,qualche volta,8.7
+PT,2021,abitualmente,14.4
+PT,2021,mai,74.3
+PT,2021,qualche volta,11.3
+PT,2022,abitualmente,8
+PT,2022,mai,81.3
+PT,2022,qualche volta,10.7
+PT,2023,abitualmente,7.7
+PT,2023,mai,82.3
+PT,2023,qualche volta,10
+PT,2024,abitualmente,8.7
+PT,2024,mai,79.2
+PT,2024,qualche volta,12.1
+PT,2025,abitualmente,8.9
+PT,2025,mai,78.7
+PT,2025,qualche volta,12.4
+RO,2015,abitualmente,0.5
+RO,2015,mai,99.2
+RO,2015,qualche volta,0.3
+RO,2016,abitualmente,0.5
+RO,2016,mai,99.2
+RO,2016,qualche volta,0.3
+RO,2017,abitualmente,0.4
+RO,2017,mai,99.4
+RO,2017,qualche volta,0.2
+RO,2018,abitualmente,0.4
+RO,2018,mai,99.3
+RO,2018,qualche volta,0.3
+RO,2019,abitualmente,0.8
+RO,2019,mai,98.6
+RO,2019,qualche volta,0.6
+RO,2020,abitualmente,2.5
+RO,2020,mai,96.8
+RO,2020,qualche volta,0.6
+RO,2021,abitualmente,2.4
+RO,2021,mai,93.4
+RO,2021,qualche volta,4.2
+RO,2022,abitualmente,1.4
+RO,2022,mai,95.7
+RO,2022,qualche volta,2.9
+RO,2023,abitualmente,1.2
+RO,2023,mai,96.6
+RO,2023,qualche volta,2.1
+RO,2024,abitualmente,1.2
+RO,2024,mai,96.5
+RO,2024,qualche volta,2.3
+RO,2025,abitualmente,1.3
+RO,2025,mai,96.4
+RO,2025,qualche volta,2.3
+SE,2015,abitualmente,5.1
+SE,2015,mai,69
+SE,2015,qualche volta,25.9
+SE,2016,abitualmente,5.1
+SE,2016,mai,68.1
+SE,2016,qualche volta,26.8
+SE,2017,abitualmente,5
+SE,2017,mai,67.6
+SE,2017,qualche volta,27.4
+SE,2018,abitualmente,5.3
+SE,2018,mai,65.4
+SE,2018,qualche volta,29.4
+SE,2019,abitualmente,5.9
+SE,2019,mai,62.8
+SE,2019,qualche volta,31.3
+SE,2020,abitualmente,NA
+SE,2020,mai,NA
+SE,2020,qualche volta,NA
+SE,2021,abitualmente,26.9
+SE,2021,mai,53.9
+SE,2021,qualche volta,19.2
+SE,2022,abitualmente,18.1
+SE,2022,mai,55.3
+SE,2022,qualche volta,26.7
+SE,2023,abitualmente,14.3
+SE,2023,mai,54.7
+SE,2023,qualche volta,31
+SE,2024,abitualmente,13.4
+SE,2024,mai,54.4
+SE,2024,qualche volta,32.2
+SE,2025,abitualmente,12.4
+SE,2025,mai,55.5
+SE,2025,qualche volta,32.1
+SI,2015,abitualmente,7.9
+SI,2015,mai,81.3
+SI,2015,qualche volta,10.8
+SI,2016,abitualmente,7.5
+SI,2016,mai,82.5
+SI,2016,qualche volta,10.1
+SI,2017,abitualmente,7.2
+SI,2017,mai,81.8
+SI,2017,qualche volta,11
+SI,2018,abitualmente,6.9
+SI,2018,mai,82.1
+SI,2018,qualche volta,10.9
+SI,2019,abitualmente,6.8
+SI,2019,mai,82.2
+SI,2019,qualche volta,11
+SI,2020,abitualmente,7.4
+SI,2020,mai,80
+SI,2020,qualche volta,12.6
+SI,2021,abitualmente,10.6
+SI,2021,mai,77.1
+SI,2021,qualche volta,12.3
+SI,2022,abitualmente,8.5
+SI,2022,mai,77.8
+SI,2022,qualche volta,13.7
+SI,2023,abitualmente,6.4
+SI,2023,mai,81.6
+SI,2023,qualche volta,12
+SI,2024,abitualmente,6.9
+SI,2024,mai,81
+SI,2024,qualche volta,12.1
+SI,2025,abitualmente,7.3
+SI,2025,mai,80.8
+SI,2025,qualche volta,11.9
+SK,2015,abitualmente,3.2
+SK,2015,mai,91.2
+SK,2015,qualche volta,5.6
+SK,2016,abitualmente,3.2
+SK,2016,mai,91.7
+SK,2016,qualche volta,5
+SK,2017,abitualmente,3.5
+SK,2017,mai,91.6
+SK,2017,qualche volta,4.9
+SK,2018,abitualmente,3.6
+SK,2018,mai,90.9
+SK,2018,qualche volta,5.4
+SK,2019,abitualmente,3.7
+SK,2019,mai,90.5
+SK,2019,qualche volta,5.8
+SK,2020,abitualmente,5.7
+SK,2020,mai,88.4
+SK,2020,qualche volta,5.9
+SK,2021,abitualmente,6.6
+SK,2021,mai,85
+SK,2021,qualche volta,8.4
+SK,2022,abitualmente,5.1
+SK,2022,mai,87
+SK,2022,qualche volta,8
+SK,2023,abitualmente,4.9
+SK,2023,mai,87.3
+SK,2023,qualche volta,7.8
+SK,2024,abitualmente,5.7
+SK,2024,mai,86.4
+SK,2024,qualche volta,7.9
+SK,2025,abitualmente,7.3
+SK,2025,mai,83.2
+SK,2025,qualche volta,9.5

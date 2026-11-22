@@ -1,0 +1,169 @@
+citta,anno,riferimento,comune,citta_metropolitana,resto_citta_metropolitana,quota_comune_pct
+Italia,1951,censimento,47515537,,,
+Italia,1961,censimento,50623569,,,
+Italia,1971,censimento,54136547,,,
+Italia,1981,censimento,56556911,,,
+Italia,1991,censimento,56778031,,,
+Italia,2001,censimento,56995744,,,
+Italia,2011,censimento,59433744,,,
+Italia,2018,31 dicembre (censimento permanente),59816673,,,
+Italia,2019,31 dicembre (censimento permanente),59641488,,,
+Italia,2020,31 dicembre (censimento permanente),59236213,,,
+Italia,2021,31 dicembre (censimento permanente),59030133,,,
+Italia,2022,31 dicembre (censimento permanente),58997201,,,
+Italia,2023,31 dicembre (censimento permanente),58971230,,,
+Italia,2024,31 dicembre (censimento permanente),58943464,,,
+Torino,1951,censimento,719300,1433001,713701,50.2
+Torino,1961,censimento,1025822,1824254,798432,56.2
+Torino,1971,censimento,1167968,2287016,1119048,51.1
+Torino,1981,censimento,1117154,2345771,1228617,47.6
+Torino,1991,censimento,962507,2236765,1274258,43.0
+Torino,2001,censimento,865263,2165619,1300356,40.0
+Torino,2011,censimento,872367,2247780,1375413,38.8
+Torino,2018,31 dicembre (censimento permanente),860793,2238663,1377870,38.5
+Torino,2019,31 dicembre (censimento permanente),857910,2230946,1373036,38.5
+Torino,2020,31 dicembre (censimento permanente),858205,2219206,1361001,38.7
+Torino,2021,31 dicembre (censimento permanente),848748,2208370,1359622,38.4
+Torino,2022,31 dicembre (censimento permanente),847398,2204632,1357234,38.4
+Torino,2023,31 dicembre (censimento permanente),851199,2204837,1353638,38.6
+Torino,2024,31 dicembre (censimento permanente),853196,2204276,1351080,38.7
+Milano,1951,censimento,1274187,1929687,655500,66.0
+Milano,1961,censimento,1582474,2494598,912124,63.4
+Milano,1971,censimento,1732068,3087296,1355228,56.1
+Milano,1981,censimento,1604844,3139490,1534646,51.1
+Milano,1991,censimento,1369295,3009338,1640043,45.5
+Milano,2001,censimento,1256211,2940579,1684368,42.7
+Milano,2011,censimento,1242123,3038420,1796297,40.9
+Milano,2018,31 dicembre (censimento permanente),1395980,3250077,1854097,43.0
+Milano,2019,31 dicembre (censimento permanente),1406242,3265327,1859085,43.1
+Milano,2020,31 dicembre (censimento permanente),1374582,3241813,1867231,42.4
+Milano,2021,31 dicembre (censimento permanente),1349930,3214630,1864700,42.0
+Milano,2022,31 dicembre (censimento permanente),1358420,3228006,1869586,42.1
+Milano,2023,31 dicembre (censimento permanente),1371499,3245459,1873960,42.3
+Milano,2024,31 dicembre (censimento permanente),1365698,3246455,1880757,42.1
+Genova,1951,censimento,688447,928890,240443,74.1
+Genova,1961,censimento,784194,1031091,246897,76.1
+Genova,1971,censimento,816872,1087973,271101,75.1
+Genova,1981,censimento,762895,1045109,282214,73.0
+Genova,1991,censimento,678771,950849,272078,71.4
+Genova,2001,censimento,610307,878082,267775,69.5
+Genova,2011,censimento,586180,855834,269654,68.5
+Genova,2018,31 dicembre (censimento permanente),569184,831172,261988,68.5
+Genova,2019,31 dicembre (censimento permanente),565752,826194,260442,68.5
+Genova,2020,31 dicembre (censimento permanente),566410,823612,257202,68.8
+Genova,2021,31 dicembre (censimento permanente),561203,817402,256199,68.7
+Genova,2022,31 dicembre (censimento permanente),561191,816606,255415,68.7
+Genova,2023,31 dicembre (censimento permanente),562422,817628,255206,68.8
+Genova,2024,31 dicembre (censimento permanente),564080,818812,254732,68.9
+Venezia,1951,censimento,310034,740450,430416,41.9
+Venezia,1961,censimento,339671,749173,409502,45.3
+Venezia,1971,censimento,354475,807251,452776,43.9
+Venezia,1981,censimento,336081,838794,502713,40.1
+Venezia,1991,censimento,298532,820052,521520,36.4
+Venezia,2001,censimento,271073,809586,538513,33.5
+Venezia,2011,censimento,261362,846962,585600,30.9
+Venezia,2018,31 dicembre (censimento permanente),259961,851057,591096,30.5
+Venezia,2019,31 dicembre (censimento permanente),258685,848829,590144,30.5
+Venezia,2020,31 dicembre (censimento permanente),256083,843545,587462,30.4
+Venezia,2021,31 dicembre (censimento permanente),251944,836916,584972,30.1
+Venezia,2022,31 dicembre (censimento permanente),250913,835895,584982,30.0
+Venezia,2023,31 dicembre (censimento permanente),250290,835405,585115,30.0
+Venezia,2024,31 dicembre (censimento permanente),249490,834306,584816,29.9
+Padova,1951,censimento,167672,715039,547367,23.4
+Padova,1961,censimento,197680,694017,496337,28.5
+Padova,1971,censimento,231599,762998,531399,30.4
+Padova,1981,censimento,234678,809667,574989,29.0
+Padova,1991,censimento,215137,820318,605181,26.2
+Padova,2001,censimento,204870,849857,644987,24.1
+Padova,2011,censimento,206192,921361,715169,22.4
+Padova,2018,31 dicembre (censimento permanente),209995,933867,723872,22.5
+Padova,2019,31 dicembre (censimento permanente),210077,933700,723623,22.5
+Padova,2020,31 dicembre (censimento permanente),209730,932629,722899,22.5
+Padova,2021,31 dicembre (censimento permanente),206651,929198,722547,22.2
+Padova,2022,31 dicembre (censimento permanente),207112,930349,723237,22.3
+Padova,2023,31 dicembre (censimento permanente),207502,931607,724105,22.3
+Padova,2024,31 dicembre (censimento permanente),207412,932284,724872,22.2
+Bologna,1951,censimento,340526,763907,423381,44.6
+Bologna,1961,censimento,444872,841474,396602,52.9
+Bologna,1971,censimento,490528,918844,428316,53.4
+Bologna,1981,censimento,459080,930284,471204,49.3
+Bologna,1991,censimento,404378,906856,502478,44.6
+Bologna,2001,censimento,371217,915225,544008,40.6
+Bologna,2011,censimento,371337,976243,604906,38.0
+Bologna,2018,31 dicembre (censimento permanente),393248,1017551,624303,38.6
+Bologna,2019,31 dicembre (censimento permanente),395416,1021501,626085,38.7
+Bologna,2020,31 dicembre (censimento permanente),391686,1015608,623922,38.6
+Bologna,2021,31 dicembre (censimento permanente),387842,1010812,622970,38.4
+Bologna,2022,31 dicembre (censimento permanente),389200,1014124,624924,38.4
+Bologna,2023,31 dicembre (censimento permanente),390098,1017536,627438,38.3
+Bologna,2024,31 dicembre (censimento permanente),390151,1020193,630042,38.2
+Firenze,1951,censimento,374625,804541,429916,46.6
+Firenze,1961,censimento,436516,867000,430484,50.3
+Firenze,1971,censimento,457803,964761,506958,47.5
+Firenze,1981,censimento,448331,995639,547308,45.0
+Firenze,1991,censimento,403294,967437,564143,41.7
+Firenze,2001,censimento,356118,933860,577742,38.1
+Firenze,2011,censimento,358079,973145,615066,36.8
+Firenze,2018,31 dicembre (censimento permanente),369885,998976,629091,37.0
+Firenze,2019,31 dicembre (censimento permanente),366927,995517,628590,36.9
+Firenze,2020,31 dicembre (censimento permanente),368419,998431,630012,36.9
+Firenze,2021,31 dicembre (censimento permanente),361619,987260,625641,36.6
+Firenze,2022,31 dicembre (censimento permanente),362742,988194,625452,36.7
+Firenze,2023,31 dicembre (censimento permanente),362613,988785,626172,36.7
+Firenze,2024,31 dicembre (censimento permanente),361705,988068,626363,36.6
+Roma,1951,censimento,1632402,2150670,518268,75.9
+Roma,1961,censimento,2163555,2775380,611825,78.0
+Roma,1971,censimento,2750370,3490377,740007,78.8
+Roma,1981,censimento,2805109,3695961,890852,75.9
+Roma,1991,censimento,2733908,3761067,1027159,72.7
+Roma,2001,censimento,2546804,3700424,1153620,68.8
+Roma,2011,censimento,2617175,3997465,1380290,65.5
+Roma,2018,31 dicembre (censimento permanente),2820219,4263542,1443323,66.1
+Roma,2019,31 dicembre (censimento permanente),2808293,4253314,1445021,66.0
+Roma,2020,31 dicembre (censimento permanente),2770226,4231451,1461225,65.5
+Roma,2021,31 dicembre (censimento permanente),2749031,4216874,1467843,65.2
+Roma,2022,31 dicembre (censimento permanente),2755309,4227059,1471750,65.2
+Roma,2023,31 dicembre (censimento permanente),2751747,4225409,1473662,65.1
+Roma,2024,31 dicembre (censimento permanente),2747290,4222648,1475358,65.1
+Napoli,1951,censimento,1010550,2081119,1070569,48.6
+Napoli,1961,censimento,1182815,2421243,1238428,48.9
+Napoli,1971,censimento,1226594,2709929,1483335,45.3
+Napoli,1981,censimento,1212387,2970563,1758176,40.8
+Napoli,1991,censimento,1067365,3016026,1948661,35.4
+Napoli,2001,censimento,1004500,3059196,2054696,32.8
+Napoli,2011,censimento,962003,3054956,2092953,31.5
+Napoli,2018,31 dicembre (censimento permanente),954318,3048194,2093876,31.3
+Napoli,2019,31 dicembre (censimento permanente),948850,3034410,2085560,31.3
+Napoli,2020,31 dicembre (censimento permanente),922094,2986745,2064651,30.9
+Napoli,2021,31 dicembre (censimento permanente),921142,2988376,2067234,30.8
+Napoli,2022,31 dicembre (censimento permanente),917510,2980338,2062828,30.8
+Napoli,2023,31 dicembre (censimento permanente),913704,2970974,2057270,30.8
+Napoli,2024,31 dicembre (censimento permanente),909013,2963633,2054620,30.7
+Bari,1951,censimento,268183,928366,660183,28.9
+Bari,1961,censimento,312023,981507,669484,31.8
+Bari,1971,censimento,357274,1060037,702763,33.7
+Bari,1981,censimento,371022,1154535,783513,32.1
+Bari,1991,censimento,342309,1202704,860395,28.5
+Bari,2001,censimento,316532,1218038,901506,26.0
+Bari,2011,censimento,315933,1247303,931370,25.3
+Bari,2018,31 dicembre (censimento permanente),316491,1234997,918506,25.6
+Bari,2019,31 dicembre (censimento permanente),315284,1230205,914921,25.6
+Bari,2020,31 dicembre (censimento permanente),317205,1230158,912953,25.8
+Bari,2021,31 dicembre (censimento permanente),315948,1226784,910836,25.8
+Bari,2022,31 dicembre (censimento permanente),316736,1225048,908312,25.9
+Bari,2023,31 dicembre (censimento permanente),316226,1221682,905456,25.9
+Bari,2024,31 dicembre (censimento permanente),315831,1219545,903714,25.9
+Palermo,1951,censimento,490692,1028431,537739,47.7
+Palermo,1961,censimento,587985,1111397,523412,52.9
+Palermo,1971,censimento,642814,1124015,481201,57.2
+Palermo,1981,censimento,701782,1198575,496793,58.6
+Palermo,1991,censimento,698556,1224778,526222,57.0
+Palermo,2001,censimento,686722,1235923,549201,55.6
+Palermo,2011,censimento,657561,1243585,586024,52.9
+Palermo,2018,31 dicembre (censimento permanente),652720,1231602,578882,53.0
+Palermo,2019,31 dicembre (censimento permanente),647422,1222988,575566,52.9
+Palermo,2020,31 dicembre (censimento permanente),637885,1208819,570934,52.8
+Palermo,2021,31 dicembre (censimento permanente),635439,1208991,573552,52.6
+Palermo,2022,31 dicembre (censimento permanente),632499,1204189,571690,52.5
+Palermo,2023,31 dicembre (censimento permanente),630427,1200253,569826,52.5
+Palermo,2024,31 dicembre (censimento permanente),628693,1198738,570045,52.4

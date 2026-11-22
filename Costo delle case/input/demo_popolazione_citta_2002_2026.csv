@@ -1,0 +1,851 @@
+citta,ambito,anno,popolazione,fonte
+Italia,Italia,2002,56993270,ISTAT ricostruzione intercensuaria
+Italia,Italia,2003,57186378,ISTAT ricostruzione intercensuaria
+Italia,Italia,2004,57611990,ISTAT ricostruzione intercensuaria
+Italia,Italia,2005,58044368,ISTAT ricostruzione intercensuaria
+Italia,Italia,2006,58288996,ISTAT ricostruzione intercensuaria
+Italia,Italia,2007,58510725,ISTAT ricostruzione intercensuaria
+Italia,Italia,2008,59001769,ISTAT ricostruzione intercensuaria
+Italia,Italia,2009,59420592,ISTAT ricostruzione intercensuaria
+Italia,Italia,2010,59690316,ISTAT ricostruzione intercensuaria
+Italia,Italia,2011,59948497,ISTAT ricostruzione intercensuaria
+Italia,Italia,2012,60105185,ISTAT ricostruzione intercensuaria
+Italia,Italia,2013,60277309,ISTAT ricostruzione intercensuaria
+Italia,Italia,2014,60345917,ISTAT ricostruzione intercensuaria
+Italia,Italia,2015,60295497,ISTAT ricostruzione intercensuaria
+Italia,Italia,2016,60163712,ISTAT ricostruzione intercensuaria
+Italia,Italia,2017,60066734,ISTAT ricostruzione intercensuaria
+Italia,Italia,2018,59937769,ISTAT ricostruzione intercensuaria
+Italia,Italia,2019,59816673,ISTAT POSAS
+Italia,Italia,2020,59641488,ISTAT POSAS
+Italia,Italia,2021,59236213,ISTAT POSAS
+Italia,Italia,2022,59030133,ISTAT POSAS
+Italia,Italia,2023,58997201,ISTAT POSAS
+Italia,Italia,2024,58971230,ISTAT POSAS
+Italia,Italia,2025,58943464,ISTAT POSAS
+Italia,Italia,2026,58942828,ISTAT POSAS (stima)
+Milano,comune,2002,1252862,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2002,2938627,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2002,1685765,ISTAT ricostruzione intercensuaria
+Milano,comune,2003,1244653,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2003,2935908,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2003,1691255,ISTAT ricostruzione intercensuaria
+Milano,comune,2004,1236863,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2004,2941233,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2004,1704370,ISTAT ricostruzione intercensuaria
+Milano,comune,2005,1258127,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2005,2983298,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2005,1725171,ISTAT ricostruzione intercensuaria
+Milano,comune,2006,1262198,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2006,2996002,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2006,1733804,ISTAT ricostruzione intercensuaria
+Milano,comune,2007,1253215,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2007,2999062,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2007,1745847,ISTAT ricostruzione intercensuaria
+Milano,comune,2008,1245440,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2008,3006001,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2008,1760561,ISTAT ricostruzione intercensuaria
+Milano,comune,2009,1237192,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2009,3013241,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2009,1776049,ISTAT ricostruzione intercensuaria
+Milano,comune,2010,1246203,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2010,3034843,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2010,1788640,ISTAT ricostruzione intercensuaria
+Milano,comune,2011,1260239,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2011,3063241,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2011,1803002,ISTAT ricostruzione intercensuaria
+Milano,comune,2012,1279948,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2012,3095104,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2012,1815156,ISTAT ricostruzione intercensuaria
+Milano,comune,2013,1294727,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2013,3125287,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2013,1830560,ISTAT ricostruzione intercensuaria
+Milano,comune,2014,1322892,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2014,3163522,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2014,1840630,ISTAT ricostruzione intercensuaria
+Milano,comune,2015,1339812,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2015,3186367,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2015,1846555,ISTAT ricostruzione intercensuaria
+Milano,comune,2016,1352193,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2016,3200447,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2016,1848254,ISTAT ricostruzione intercensuaria
+Milano,comune,2017,1363683,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2017,3214702,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2017,1851019,ISTAT ricostruzione intercensuaria
+Milano,comune,2018,1380995,ISTAT ricostruzione intercensuaria
+Milano,citta metropolitana/provincia,2018,3232728,ISTAT ricostruzione intercensuaria
+Milano,resto della provincia,2018,1851733,ISTAT ricostruzione intercensuaria
+Milano,comune,2019,1395980,ISTAT POSAS
+Milano,citta metropolitana/provincia,2019,3250077,ISTAT POSAS
+Milano,resto della provincia,2019,1854097,ISTAT POSAS
+Milano,comune,2020,1406242,ISTAT POSAS
+Milano,citta metropolitana/provincia,2020,3265327,ISTAT POSAS
+Milano,resto della provincia,2020,1859085,ISTAT POSAS
+Milano,comune,2021,1374582,ISTAT POSAS
+Milano,citta metropolitana/provincia,2021,3241813,ISTAT POSAS
+Milano,resto della provincia,2021,1867231,ISTAT POSAS
+Milano,comune,2022,1349930,ISTAT POSAS
+Milano,citta metropolitana/provincia,2022,3214630,ISTAT POSAS
+Milano,resto della provincia,2022,1864700,ISTAT POSAS
+Milano,comune,2023,1358420,ISTAT POSAS
+Milano,citta metropolitana/provincia,2023,3228006,ISTAT POSAS
+Milano,resto della provincia,2023,1869586,ISTAT POSAS
+Milano,comune,2024,1371499,ISTAT POSAS
+Milano,citta metropolitana/provincia,2024,3245459,ISTAT POSAS
+Milano,resto della provincia,2024,1873960,ISTAT POSAS
+Milano,comune,2025,1365698,ISTAT POSAS
+Milano,citta metropolitana/provincia,2025,3246455,ISTAT POSAS
+Milano,resto della provincia,2025,1880757,ISTAT POSAS
+Milano,comune,2026,1362863,ISTAT POSAS (stima)
+Milano,citta metropolitana/provincia,2026,3253111,ISTAT POSAS (stima)
+Milano,resto della provincia,2026,1890248,ISTAT POSAS (stima)
+Torino,comune,2002,866325,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2002,2165695,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2002,1299370,ISTAT ricostruzione intercensuaria
+Torino,comune,2003,864753,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2003,2169876,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2003,1305123,ISTAT ricostruzione intercensuaria
+Torino,comune,2004,872332,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2004,2189701,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2004,1317369,ISTAT ricostruzione intercensuaria
+Torino,comune,2005,876299,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2005,2202292,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2005,1325993,ISTAT ricostruzione intercensuaria
+Torino,comune,2006,875389,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2006,2208364,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2006,1332975,ISTAT ricostruzione intercensuaria
+Torino,comune,2007,875609,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2007,2214122,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2007,1338513,ISTAT ricostruzione intercensuaria
+Torino,comune,2008,884574,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2008,2245170,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2008,1360596,ISTAT ricostruzione intercensuaria
+Torino,comune,2009,887394,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2009,2260921,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2009,1373527,ISTAT ricostruzione intercensuaria
+Torino,comune,2010,890102,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2010,2268453,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2010,1378351,ISTAT ricostruzione intercensuaria
+Torino,comune,2011,889969,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2011,2273859,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2011,1383890,ISTAT ricostruzione intercensuaria
+Torino,comune,2012,888880,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2012,2278547,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2012,1389667,ISTAT ricostruzione intercensuaria
+Torino,comune,2013,894314,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2013,2286885,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2013,1392571,ISTAT ricostruzione intercensuaria
+Torino,comune,2014,892395,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2014,2285336,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2014,1392941,ISTAT ricostruzione intercensuaria
+Torino,comune,2015,884710,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2015,2275771,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2015,1391061,ISTAT ricostruzione intercensuaria
+Torino,comune,2016,881643,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2016,2268360,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2016,1386717,ISTAT ricostruzione intercensuaria
+Torino,comune,2017,877088,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2017,2262336,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2017,1385248,ISTAT ricostruzione intercensuaria
+Torino,comune,2018,868878,ISTAT ricostruzione intercensuaria
+Torino,citta metropolitana/provincia,2018,2249616,ISTAT ricostruzione intercensuaria
+Torino,resto della provincia,2018,1380738,ISTAT ricostruzione intercensuaria
+Torino,comune,2019,860793,ISTAT POSAS
+Torino,citta metropolitana/provincia,2019,2238663,ISTAT POSAS
+Torino,resto della provincia,2019,1377870,ISTAT POSAS
+Torino,comune,2020,857910,ISTAT POSAS
+Torino,citta metropolitana/provincia,2020,2230946,ISTAT POSAS
+Torino,resto della provincia,2020,1373036,ISTAT POSAS
+Torino,comune,2021,858205,ISTAT POSAS
+Torino,citta metropolitana/provincia,2021,2219206,ISTAT POSAS
+Torino,resto della provincia,2021,1361001,ISTAT POSAS
+Torino,comune,2022,848748,ISTAT POSAS
+Torino,citta metropolitana/provincia,2022,2208370,ISTAT POSAS
+Torino,resto della provincia,2022,1359622,ISTAT POSAS
+Torino,comune,2023,847398,ISTAT POSAS
+Torino,citta metropolitana/provincia,2023,2204632,ISTAT POSAS
+Torino,resto della provincia,2023,1357234,ISTAT POSAS
+Torino,comune,2024,851199,ISTAT POSAS
+Torino,citta metropolitana/provincia,2024,2204837,ISTAT POSAS
+Torino,resto della provincia,2024,1353638,ISTAT POSAS
+Torino,comune,2025,853196,ISTAT POSAS
+Torino,citta metropolitana/provincia,2025,2204276,ISTAT POSAS
+Torino,resto della provincia,2025,1351080,ISTAT POSAS
+Torino,comune,2026,855654,ISTAT POSAS (stima)
+Torino,citta metropolitana/provincia,2026,2204779,ISTAT POSAS (stima)
+Torino,resto della provincia,2026,1349125,ISTAT POSAS (stima)
+Roma,comune,2002,2545977,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2002,3705022,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2002,1159045,ISTAT ricostruzione intercensuaria
+Roma,comune,2003,2544815,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2003,3720338,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2003,1175523,ISTAT ricostruzione intercensuaria
+Roma,comune,2004,2552415,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2004,3754711,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2004,1202296,ISTAT ricostruzione intercensuaria
+Roma,comune,2005,2566690,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2005,3796934,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2005,1230244,ISTAT ricostruzione intercensuaria
+Roma,comune,2006,2565386,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2006,3824411,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2006,1259025,ISTAT ricostruzione intercensuaria
+Roma,comune,2007,2586029,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2007,3863032,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2007,1277003,ISTAT ricostruzione intercensuaria
+Roma,comune,2008,2604557,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2008,3914771,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2008,1310214,ISTAT ricostruzione intercensuaria
+Roma,comune,2009,2614065,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2009,3964507,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2009,1350442,ISTAT ricostruzione intercensuaria
+Roma,comune,2010,2636341,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2010,4008077,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2010,1371736,ISTAT ricostruzione intercensuaria
+Roma,comune,2011,2657058,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2011,4048608,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2011,1391550,ISTAT ricostruzione intercensuaria
+Roma,comune,2012,2677229,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2012,4085141,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2012,1407912,ISTAT ricostruzione intercensuaria
+Roma,comune,2013,2724565,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2013,4149642,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2013,1425077,ISTAT ricostruzione intercensuaria
+Roma,comune,2014,2760303,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2014,4194085,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2014,1433782,ISTAT ricostruzione intercensuaria
+Roma,comune,2015,2776835,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2015,4216217,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2015,1439382,ISTAT ricostruzione intercensuaria
+Roma,comune,2016,2794353,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2016,4236445,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2016,1442092,ISTAT ricostruzione intercensuaria
+Roma,comune,2017,2810118,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2017,4254033,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2017,1443915,ISTAT ricostruzione intercensuaria
+Roma,comune,2018,2815541,ISTAT ricostruzione intercensuaria
+Roma,citta metropolitana/provincia,2018,4259443,ISTAT ricostruzione intercensuaria
+Roma,resto della provincia,2018,1443902,ISTAT ricostruzione intercensuaria
+Roma,comune,2019,2820219,ISTAT POSAS
+Roma,citta metropolitana/provincia,2019,4263542,ISTAT POSAS
+Roma,resto della provincia,2019,1443323,ISTAT POSAS
+Roma,comune,2020,2808293,ISTAT POSAS
+Roma,citta metropolitana/provincia,2020,4253314,ISTAT POSAS
+Roma,resto della provincia,2020,1445021,ISTAT POSAS
+Roma,comune,2021,2770226,ISTAT POSAS
+Roma,citta metropolitana/provincia,2021,4231451,ISTAT POSAS
+Roma,resto della provincia,2021,1461225,ISTAT POSAS
+Roma,comune,2022,2749031,ISTAT POSAS
+Roma,citta metropolitana/provincia,2022,4216874,ISTAT POSAS
+Roma,resto della provincia,2022,1467843,ISTAT POSAS
+Roma,comune,2023,2755309,ISTAT POSAS
+Roma,citta metropolitana/provincia,2023,4227059,ISTAT POSAS
+Roma,resto della provincia,2023,1471750,ISTAT POSAS
+Roma,comune,2024,2751747,ISTAT POSAS
+Roma,citta metropolitana/provincia,2024,4225409,ISTAT POSAS
+Roma,resto della provincia,2024,1473662,ISTAT POSAS
+Roma,comune,2025,2747290,ISTAT POSAS
+Roma,citta metropolitana/provincia,2025,4222648,ISTAT POSAS
+Roma,resto della provincia,2025,1475358,ISTAT POSAS
+Roma,comune,2026,2745062,ISTAT POSAS (stima)
+Roma,citta metropolitana/provincia,2026,4224901,ISTAT POSAS (stima)
+Roma,resto della provincia,2026,1479839,ISTAT POSAS (stima)
+Bologna,comune,2002,370797,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2002,915218,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2002,544421,ISTAT ricostruzione intercensuaria
+Bologna,comune,2003,368226,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2003,919839,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2003,551613,ISTAT ricostruzione intercensuaria
+Bologna,comune,2004,368211,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2004,927109,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2004,558898,ISTAT ricostruzione intercensuaria
+Bologna,comune,2005,368544,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2005,935493,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2005,566949,ISTAT ricostruzione intercensuaria
+Bologna,comune,2006,367427,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2006,940326,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2006,572899,ISTAT ricostruzione intercensuaria
+Bologna,comune,2007,366325,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2007,945206,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2007,578881,ISTAT ricostruzione intercensuaria
+Bologna,comune,2008,365983,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2008,955086,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2008,589103,ISTAT ricostruzione intercensuaria
+Bologna,comune,2009,368624,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2009,966533,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2009,597909,ISTAT ricostruzione intercensuaria
+Bologna,comune,2010,370755,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2010,973567,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2010,602812,ISTAT ricostruzione intercensuaria
+Bologna,comune,2011,373618,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2011,979999,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2011,606381,ISTAT ricostruzione intercensuaria
+Bologna,comune,2012,376024,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2012,985902,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2012,609878,ISTAT ricostruzione intercensuaria
+Bologna,comune,2013,379984,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2013,993332,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2013,613348,ISTAT ricostruzione intercensuaria
+Bologna,comune,2014,383255,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2014,998967,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2014,615712,ISTAT ricostruzione intercensuaria
+Bologna,comune,2015,385190,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2015,1002098,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2015,616908,ISTAT ricostruzione intercensuaria
+Bologna,comune,2016,387025,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2016,1005022,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2016,617997,ISTAT ricostruzione intercensuaria
+Bologna,comune,2017,389819,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2017,1009831,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2017,620012,ISTAT ricostruzione intercensuaria
+Bologna,comune,2018,390956,ISTAT ricostruzione intercensuaria
+Bologna,citta metropolitana/provincia,2018,1012550,ISTAT ricostruzione intercensuaria
+Bologna,resto della provincia,2018,621594,ISTAT ricostruzione intercensuaria
+Bologna,comune,2019,393248,ISTAT POSAS
+Bologna,citta metropolitana/provincia,2019,1017551,ISTAT POSAS
+Bologna,resto della provincia,2019,624303,ISTAT POSAS
+Bologna,comune,2020,395416,ISTAT POSAS
+Bologna,citta metropolitana/provincia,2020,1021501,ISTAT POSAS
+Bologna,resto della provincia,2020,626085,ISTAT POSAS
+Bologna,comune,2021,391686,ISTAT POSAS
+Bologna,citta metropolitana/provincia,2021,1015608,ISTAT POSAS
+Bologna,resto della provincia,2021,623922,ISTAT POSAS
+Bologna,comune,2022,387842,ISTAT POSAS
+Bologna,citta metropolitana/provincia,2022,1010812,ISTAT POSAS
+Bologna,resto della provincia,2022,622970,ISTAT POSAS
+Bologna,comune,2023,389200,ISTAT POSAS
+Bologna,citta metropolitana/provincia,2023,1014124,ISTAT POSAS
+Bologna,resto della provincia,2023,624924,ISTAT POSAS
+Bologna,comune,2024,390098,ISTAT POSAS
+Bologna,citta metropolitana/provincia,2024,1017536,ISTAT POSAS
+Bologna,resto della provincia,2024,627438,ISTAT POSAS
+Bologna,comune,2025,390151,ISTAT POSAS
+Bologna,citta metropolitana/provincia,2025,1020193,ISTAT POSAS
+Bologna,resto della provincia,2025,630042,ISTAT POSAS
+Bologna,comune,2026,391473,ISTAT POSAS (stima)
+Bologna,citta metropolitana/provincia,2026,1024290,ISTAT POSAS (stima)
+Bologna,resto della provincia,2026,632817,ISTAT POSAS (stima)
+Firenze,comune,2002,356018,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2002,934404,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2002,578386,ISTAT ricostruzione intercensuaria
+Firenze,comune,2003,354478,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2003,937151,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2003,582673,ISTAT ricostruzione intercensuaria
+Firenze,comune,2004,355105,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2004,944177,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2004,589072,ISTAT ricostruzione intercensuaria
+Firenze,comune,2005,356955,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2005,951997,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2005,595042,ISTAT ricostruzione intercensuaria
+Firenze,comune,2006,356449,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2006,954130,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2006,597681,ISTAT ricostruzione intercensuaria
+Firenze,comune,2007,356420,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2007,957756,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2007,601336,ISTAT ricostruzione intercensuaria
+Firenze,comune,2008,355747,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2008,964323,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2008,608576,ISTAT ricostruzione intercensuaria
+Firenze,comune,2009,357684,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2009,972638,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2009,614954,ISTAT ricostruzione intercensuaria
+Firenze,comune,2010,362526,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2010,981089,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2010,618563,ISTAT ricostruzione intercensuaria
+Firenze,comune,2011,365681,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2011,987954,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2011,622273,ISTAT ricostruzione intercensuaria
+Firenze,comune,2012,367164,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2012,991721,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2012,624557,ISTAT ricostruzione intercensuaria
+Firenze,comune,2013,371650,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2013,999027,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2013,627377,ISTAT ricostruzione intercensuaria
+Firenze,comune,2014,375126,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2014,1003893,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2014,628767,ISTAT ricostruzione intercensuaria
+Firenze,comune,2015,376841,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2015,1005814,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2015,628973,ISTAT ricostruzione intercensuaria
+Firenze,comune,2016,377395,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2016,1005359,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2016,627964,ISTAT ricostruzione intercensuaria
+Firenze,comune,2017,377277,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2017,1005824,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2017,628547,ISTAT ricostruzione intercensuaria
+Firenze,comune,2018,373991,ISTAT ricostruzione intercensuaria
+Firenze,citta metropolitana/provincia,2018,1002913,ISTAT ricostruzione intercensuaria
+Firenze,resto della provincia,2018,628922,ISTAT ricostruzione intercensuaria
+Firenze,comune,2019,369885,ISTAT POSAS
+Firenze,citta metropolitana/provincia,2019,998976,ISTAT POSAS
+Firenze,resto della provincia,2019,629091,ISTAT POSAS
+Firenze,comune,2020,366927,ISTAT POSAS
+Firenze,citta metropolitana/provincia,2020,995517,ISTAT POSAS
+Firenze,resto della provincia,2020,628590,ISTAT POSAS
+Firenze,comune,2021,368419,ISTAT POSAS
+Firenze,citta metropolitana/provincia,2021,998431,ISTAT POSAS
+Firenze,resto della provincia,2021,630012,ISTAT POSAS
+Firenze,comune,2022,361619,ISTAT POSAS
+Firenze,citta metropolitana/provincia,2022,987260,ISTAT POSAS
+Firenze,resto della provincia,2022,625641,ISTAT POSAS
+Firenze,comune,2023,362742,ISTAT POSAS
+Firenze,citta metropolitana/provincia,2023,988194,ISTAT POSAS
+Firenze,resto della provincia,2023,625452,ISTAT POSAS
+Firenze,comune,2024,362613,ISTAT POSAS
+Firenze,citta metropolitana/provincia,2024,988785,ISTAT POSAS
+Firenze,resto della provincia,2024,626172,ISTAT POSAS
+Firenze,comune,2025,361705,ISTAT POSAS
+Firenze,citta metropolitana/provincia,2025,988068,ISTAT POSAS
+Firenze,resto della provincia,2025,626363,ISTAT POSAS
+Firenze,comune,2026,361625,ISTAT POSAS (stima)
+Firenze,citta metropolitana/provincia,2026,988494,ISTAT POSAS (stima)
+Firenze,resto della provincia,2026,626869,ISTAT POSAS (stima)
+Napoli,comune,2002,1002659,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2002,3059401,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2002,2056742,ISTAT ricostruzione intercensuaria
+Napoli,comune,2003,998398,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2003,3060521,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2003,2062123,ISTAT ricostruzione intercensuaria
+Napoli,comune,2004,991705,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2004,3069540,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2004,2077835,ISTAT ricostruzione intercensuaria
+Napoli,comune,2005,988141,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2005,3076816,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2005,2088675,ISTAT ricostruzione intercensuaria
+Napoli,comune,2006,978744,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2006,3072876,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2006,2094132,ISTAT ricostruzione intercensuaria
+Napoli,comune,2007,971251,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2007,3070651,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2007,2099400,ISTAT ricostruzione intercensuaria
+Napoli,comune,2008,971693,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2008,3074086,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2008,2102393,ISTAT ricostruzione intercensuaria
+Napoli,comune,2009,964314,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2009,3068657,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2009,2104343,ISTAT ricostruzione intercensuaria
+Napoli,comune,2010,965996,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2010,3076550,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2010,2110554,ISTAT ricostruzione intercensuaria
+Napoli,comune,2011,963214,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2011,3081165,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2011,2117951,ISTAT ricostruzione intercensuaria
+Napoli,comune,2012,961773,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2012,3081729,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2012,2119956,ISTAT ricostruzione intercensuaria
+Napoli,comune,2013,962435,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2013,3079037,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2013,2116602,ISTAT ricostruzione intercensuaria
+Napoli,comune,2014,964313,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2014,3078259,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2014,2113946,ISTAT ricostruzione intercensuaria
+Napoli,comune,2015,963521,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2015,3075600,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2015,2112079,ISTAT ricostruzione intercensuaria
+Napoli,comune,2016,961011,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2016,3071681,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2016,2110670,ISTAT ricostruzione intercensuaria
+Napoli,comune,2017,959433,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2017,3065231,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2017,2105798,ISTAT ricostruzione intercensuaria
+Napoli,comune,2018,957571,ISTAT ricostruzione intercensuaria
+Napoli,citta metropolitana/provincia,2018,3060023,ISTAT ricostruzione intercensuaria
+Napoli,resto della provincia,2018,2102452,ISTAT ricostruzione intercensuaria
+Napoli,comune,2019,954318,ISTAT POSAS
+Napoli,citta metropolitana/provincia,2019,3048194,ISTAT POSAS
+Napoli,resto della provincia,2019,2093876,ISTAT POSAS
+Napoli,comune,2020,948850,ISTAT POSAS
+Napoli,citta metropolitana/provincia,2020,3034410,ISTAT POSAS
+Napoli,resto della provincia,2020,2085560,ISTAT POSAS
+Napoli,comune,2021,922094,ISTAT POSAS
+Napoli,citta metropolitana/provincia,2021,2986745,ISTAT POSAS
+Napoli,resto della provincia,2021,2064651,ISTAT POSAS
+Napoli,comune,2022,921142,ISTAT POSAS
+Napoli,citta metropolitana/provincia,2022,2988376,ISTAT POSAS
+Napoli,resto della provincia,2022,2067234,ISTAT POSAS
+Napoli,comune,2023,917510,ISTAT POSAS
+Napoli,citta metropolitana/provincia,2023,2980338,ISTAT POSAS
+Napoli,resto della provincia,2023,2062828,ISTAT POSAS
+Napoli,comune,2024,913704,ISTAT POSAS
+Napoli,citta metropolitana/provincia,2024,2970974,ISTAT POSAS
+Napoli,resto della provincia,2024,2057270,ISTAT POSAS
+Napoli,comune,2025,909013,ISTAT POSAS
+Napoli,citta metropolitana/provincia,2025,2963633,ISTAT POSAS
+Napoli,resto della provincia,2025,2054620,ISTAT POSAS
+Napoli,comune,2026,905050,ISTAT POSAS (stima)
+Napoli,citta metropolitana/provincia,2026,2954847,ISTAT POSAS (stima)
+Napoli,resto della provincia,2026,2049797,ISTAT POSAS (stima)
+Venezia,comune,2002,270985,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2002,809661,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2002,538676,ISTAT ricostruzione intercensuaria
+Venezia,comune,2003,268852,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2003,811539,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2003,542687,ISTAT ricostruzione intercensuaria
+Venezia,comune,2004,268515,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2004,817736,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2004,549221,ISTAT ricostruzione intercensuaria
+Venezia,comune,2005,267519,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2005,822555,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2005,555036,ISTAT ricostruzione intercensuaria
+Venezia,comune,2006,265793,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2006,825268,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2006,559475,ISTAT ricostruzione intercensuaria
+Venezia,comune,2007,264494,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2007,828852,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2007,564358,ISTAT ricostruzione intercensuaria
+Venezia,comune,2008,264297,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2008,836440,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2008,572143,ISTAT ricostruzione intercensuaria
+Venezia,comune,2009,265045,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2009,844667,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2009,579622,ISTAT ricostruzione intercensuaria
+Venezia,comune,2010,265507,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2010,848803,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2010,583296,ISTAT ricostruzione intercensuaria
+Venezia,comune,2011,265366,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2011,852008,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2011,586642,ISTAT ricostruzione intercensuaria
+Venezia,comune,2012,264384,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2012,853311,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2012,588927,ISTAT ricostruzione intercensuaria
+Venezia,comune,2013,263939,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2013,854270,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2013,590331,ISTAT ricostruzione intercensuaria
+Venezia,comune,2014,263515,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2014,854685,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2014,591170,ISTAT ricostruzione intercensuaria
+Venezia,comune,2015,262970,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2015,854245,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2015,591275,ISTAT ricostruzione intercensuaria
+Venezia,comune,2016,262102,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2016,852177,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2016,590075,ISTAT ricostruzione intercensuaria
+Venezia,comune,2017,261138,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2017,851353,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2017,590215,ISTAT ricostruzione intercensuaria
+Venezia,comune,2018,260585,ISTAT ricostruzione intercensuaria
+Venezia,citta metropolitana/provincia,2018,850607,ISTAT ricostruzione intercensuaria
+Venezia,resto della provincia,2018,590022,ISTAT ricostruzione intercensuaria
+Venezia,comune,2019,259961,ISTAT POSAS
+Venezia,citta metropolitana/provincia,2019,851057,ISTAT POSAS
+Venezia,resto della provincia,2019,591096,ISTAT POSAS
+Venezia,comune,2020,258685,ISTAT POSAS
+Venezia,citta metropolitana/provincia,2020,848829,ISTAT POSAS
+Venezia,resto della provincia,2020,590144,ISTAT POSAS
+Venezia,comune,2021,256083,ISTAT POSAS
+Venezia,citta metropolitana/provincia,2021,843545,ISTAT POSAS
+Venezia,resto della provincia,2021,587462,ISTAT POSAS
+Venezia,comune,2022,251944,ISTAT POSAS
+Venezia,citta metropolitana/provincia,2022,836916,ISTAT POSAS
+Venezia,resto della provincia,2022,584972,ISTAT POSAS
+Venezia,comune,2023,250913,ISTAT POSAS
+Venezia,citta metropolitana/provincia,2023,835895,ISTAT POSAS
+Venezia,resto della provincia,2023,584982,ISTAT POSAS
+Venezia,comune,2024,250290,ISTAT POSAS
+Venezia,citta metropolitana/provincia,2024,835405,ISTAT POSAS
+Venezia,resto della provincia,2024,585115,ISTAT POSAS
+Venezia,comune,2025,249490,ISTAT POSAS
+Venezia,citta metropolitana/provincia,2025,834306,ISTAT POSAS
+Venezia,resto della provincia,2025,584816,ISTAT POSAS
+Venezia,comune,2026,249385,ISTAT POSAS (stima)
+Venezia,citta metropolitana/provincia,2026,834077,ISTAT POSAS (stima)
+Venezia,resto della provincia,2026,584692,ISTAT POSAS (stima)
+Padova,comune,2002,204458,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2002,849661,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2002,645203,ISTAT ricostruzione intercensuaria
+Padova,comune,2003,204533,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2003,855563,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2003,651030,ISTAT ricostruzione intercensuaria
+Padova,comune,2004,205866,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2004,867709,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2004,661843,ISTAT ricostruzione intercensuaria
+Padova,comune,2005,206766,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2005,878268,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2005,671502,ISTAT ricostruzione intercensuaria
+Padova,comune,2006,206551,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2006,885912,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2006,679361,ISTAT ricostruzione intercensuaria
+Padova,comune,2007,205391,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2007,892194,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2007,686803,ISTAT ricostruzione intercensuaria
+Padova,comune,2008,205392,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2008,903768,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2008,698376,ISTAT ricostruzione intercensuaria
+Padova,comune,2009,207340,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2009,914158,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2009,706818,ISTAT ricostruzione intercensuaria
+Padova,comune,2010,208234,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2010,919669,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2010,711435,ISTAT ricostruzione intercensuaria
+Padova,comune,2011,209216,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2011,924305,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2011,715089,ISTAT ricostruzione intercensuaria
+Padova,comune,2012,208465,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2012,927041,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2012,718576,ISTAT ricostruzione intercensuaria
+Padova,comune,2013,208389,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2013,930818,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2013,722429,ISTAT ricostruzione intercensuaria
+Padova,comune,2014,208736,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2014,932899,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2014,724163,ISTAT ricostruzione intercensuaria
+Padova,comune,2015,209959,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2015,934138,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2015,724179,ISTAT ricostruzione intercensuaria
+Padova,comune,2016,209269,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2016,932928,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2016,723659,ISTAT ricostruzione intercensuaria
+Padova,comune,2017,208573,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2017,931890,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2017,723317,ISTAT ricostruzione intercensuaria
+Padova,comune,2018,209425,ISTAT ricostruzione intercensuaria
+Padova,citta metropolitana/provincia,2018,932464,ISTAT ricostruzione intercensuaria
+Padova,resto della provincia,2018,723039,ISTAT ricostruzione intercensuaria
+Padova,comune,2019,209995,ISTAT POSAS
+Padova,citta metropolitana/provincia,2019,933867,ISTAT POSAS
+Padova,resto della provincia,2019,723872,ISTAT POSAS
+Padova,comune,2020,210077,ISTAT POSAS
+Padova,citta metropolitana/provincia,2020,933700,ISTAT POSAS
+Padova,resto della provincia,2020,723623,ISTAT POSAS
+Padova,comune,2021,209730,ISTAT POSAS
+Padova,citta metropolitana/provincia,2021,932629,ISTAT POSAS
+Padova,resto della provincia,2021,722899,ISTAT POSAS
+Padova,comune,2022,206651,ISTAT POSAS
+Padova,citta metropolitana/provincia,2022,929198,ISTAT POSAS
+Padova,resto della provincia,2022,722547,ISTAT POSAS
+Padova,comune,2023,207112,ISTAT POSAS
+Padova,citta metropolitana/provincia,2023,930349,ISTAT POSAS
+Padova,resto della provincia,2023,723237,ISTAT POSAS
+Padova,comune,2024,207502,ISTAT POSAS
+Padova,citta metropolitana/provincia,2024,931607,ISTAT POSAS
+Padova,resto della provincia,2024,724105,ISTAT POSAS
+Padova,comune,2025,207412,ISTAT POSAS
+Padova,citta metropolitana/provincia,2025,932284,ISTAT POSAS
+Padova,resto della provincia,2025,724872,ISTAT POSAS
+Padova,comune,2026,208202,ISTAT POSAS (stima)
+Padova,citta metropolitana/provincia,2026,934540,ISTAT POSAS (stima)
+Padova,resto della provincia,2026,726338,ISTAT POSAS (stima)
+Bari,comune,2002,316714,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2002,1218338,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2002,901624,ISTAT ricostruzione intercensuaria
+Bari,comune,2003,316505,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2003,1221455,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2003,904950,ISTAT ricostruzione intercensuaria
+Bari,comune,2004,316964,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2004,1226897,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2004,909933,ISTAT ricostruzione intercensuaria
+Bari,comune,2005,319046,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2005,1233973,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2005,914927,ISTAT ricostruzione intercensuaria
+Bari,comune,2006,319420,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2006,1237283,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2006,917863,ISTAT ricostruzione intercensuaria
+Bari,comune,2007,318506,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2007,1239946,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2007,921440,ISTAT ricostruzione intercensuaria
+Bari,comune,2008,317345,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2008,1244048,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2008,926703,ISTAT ricostruzione intercensuaria
+Bari,comune,2009,316741,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2009,1247513,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2009,930772,ISTAT ricostruzione intercensuaria
+Bari,comune,2010,317177,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2010,1251412,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2010,934235,ISTAT ricostruzione intercensuaria
+Bari,comune,2011,318574,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2011,1257549,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2011,938975,ISTAT ricostruzione intercensuaria
+Bari,comune,2012,318304,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2012,1259733,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2012,941429,ISTAT ricostruzione intercensuaria
+Bari,comune,2013,317837,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2013,1258054,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2013,940217,ISTAT ricostruzione intercensuaria
+Bari,comune,2014,318513,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2014,1256495,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2014,937982,ISTAT ricostruzione intercensuaria
+Bari,comune,2015,318031,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2015,1253461,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2015,935430,ISTAT ricostruzione intercensuaria
+Bari,comune,2016,318234,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2016,1249699,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2016,931465,ISTAT ricostruzione intercensuaria
+Bari,comune,2017,316893,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2017,1245190,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2017,928297,ISTAT ricostruzione intercensuaria
+Bari,comune,2018,316758,ISTAT ricostruzione intercensuaria
+Bari,citta metropolitana/provincia,2018,1240589,ISTAT ricostruzione intercensuaria
+Bari,resto della provincia,2018,923831,ISTAT ricostruzione intercensuaria
+Bari,comune,2019,316491,ISTAT POSAS
+Bari,citta metropolitana/provincia,2019,1234997,ISTAT POSAS
+Bari,resto della provincia,2019,918506,ISTAT POSAS
+Bari,comune,2020,315284,ISTAT POSAS
+Bari,citta metropolitana/provincia,2020,1230205,ISTAT POSAS
+Bari,resto della provincia,2020,914921,ISTAT POSAS
+Bari,comune,2021,317205,ISTAT POSAS
+Bari,citta metropolitana/provincia,2021,1230158,ISTAT POSAS
+Bari,resto della provincia,2021,912953,ISTAT POSAS
+Bari,comune,2022,315948,ISTAT POSAS
+Bari,citta metropolitana/provincia,2022,1226784,ISTAT POSAS
+Bari,resto della provincia,2022,910836,ISTAT POSAS
+Bari,comune,2023,316736,ISTAT POSAS
+Bari,citta metropolitana/provincia,2023,1225048,ISTAT POSAS
+Bari,resto della provincia,2023,908312,ISTAT POSAS
+Bari,comune,2024,316226,ISTAT POSAS
+Bari,citta metropolitana/provincia,2024,1221682,ISTAT POSAS
+Bari,resto della provincia,2024,905456,ISTAT POSAS
+Bari,comune,2025,315831,ISTAT POSAS
+Bari,citta metropolitana/provincia,2025,1219545,ISTAT POSAS
+Bari,resto della provincia,2025,903714,ISTAT POSAS
+Bari,comune,2026,316248,ISTAT POSAS (stima)
+Bari,citta metropolitana/provincia,2026,1218073,ISTAT POSAS (stima)
+Bari,resto della provincia,2026,901825,ISTAT POSAS (stima)
+Palermo,comune,2002,687042,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2002,1236098,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2002,549056,ISTAT ricostruzione intercensuaria
+Palermo,comune,2003,683691,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2003,1235279,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2003,551588,ISTAT ricostruzione intercensuaria
+Palermo,comune,2004,680528,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2004,1235747,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2004,555219,ISTAT ricostruzione intercensuaria
+Palermo,comune,2005,676597,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2005,1236807,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2005,560210,ISTAT ricostruzione intercensuaria
+Palermo,comune,2006,673091,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2006,1237529,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2006,564438,ISTAT ricostruzione intercensuaria
+Palermo,comune,2007,669017,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2007,1239981,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2007,570964,ISTAT ricostruzione intercensuaria
+Palermo,comune,2008,665788,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2008,1243180,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2008,577392,ISTAT ricostruzione intercensuaria
+Palermo,comune,2009,662726,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2009,1245961,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2009,583235,ISTAT ricostruzione intercensuaria
+Palermo,comune,2010,659691,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2010,1248936,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2010,589245,ISTAT ricostruzione intercensuaria
+Palermo,comune,2011,659924,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2011,1253450,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2011,593526,ISTAT ricostruzione intercensuaria
+Palermo,comune,2012,658443,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2012,1254504,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2012,596061,ISTAT ricostruzione intercensuaria
+Palermo,comune,2013,659395,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2013,1256056,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2013,596661,ISTAT ricostruzione intercensuaria
+Palermo,comune,2014,661599,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2014,1256483,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2014,594884,ISTAT ricostruzione intercensuaria
+Palermo,comune,2015,661091,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2015,1255334,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2015,594243,ISTAT ricostruzione intercensuaria
+Palermo,comune,2016,659196,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2016,1250836,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2016,591640,ISTAT ricostruzione intercensuaria
+Palermo,comune,2017,658575,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2017,1246163,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2017,587588,ISTAT ricostruzione intercensuaria
+Palermo,comune,2018,655533,ISTAT ricostruzione intercensuaria
+Palermo,citta metropolitana/provincia,2018,1238675,ISTAT ricostruzione intercensuaria
+Palermo,resto della provincia,2018,583142,ISTAT ricostruzione intercensuaria
+Palermo,comune,2019,652720,ISTAT POSAS
+Palermo,citta metropolitana/provincia,2019,1231602,ISTAT POSAS
+Palermo,resto della provincia,2019,578882,ISTAT POSAS
+Palermo,comune,2020,647422,ISTAT POSAS
+Palermo,citta metropolitana/provincia,2020,1222988,ISTAT POSAS
+Palermo,resto della provincia,2020,575566,ISTAT POSAS
+Palermo,comune,2021,637885,ISTAT POSAS
+Palermo,citta metropolitana/provincia,2021,1208819,ISTAT POSAS
+Palermo,resto della provincia,2021,570934,ISTAT POSAS
+Palermo,comune,2022,635439,ISTAT POSAS
+Palermo,citta metropolitana/provincia,2022,1208991,ISTAT POSAS
+Palermo,resto della provincia,2022,573552,ISTAT POSAS
+Palermo,comune,2023,632499,ISTAT POSAS
+Palermo,citta metropolitana/provincia,2023,1204189,ISTAT POSAS
+Palermo,resto della provincia,2023,571690,ISTAT POSAS
+Palermo,comune,2024,630427,ISTAT POSAS
+Palermo,citta metropolitana/provincia,2024,1200253,ISTAT POSAS
+Palermo,resto della provincia,2024,569826,ISTAT POSAS
+Palermo,comune,2025,628693,ISTAT POSAS
+Palermo,citta metropolitana/provincia,2025,1198738,ISTAT POSAS
+Palermo,resto della provincia,2025,570045,ISTAT POSAS
+Palermo,comune,2026,626273,ISTAT POSAS (stima)
+Palermo,citta metropolitana/provincia,2026,1195307,ISTAT POSAS (stima)
+Palermo,resto della provincia,2026,569034,ISTAT POSAS (stima)
+Genova,comune,2002,610366,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2002,877419,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2002,267053,ISTAT ricostruzione intercensuaria
+Genova,comune,2003,606064,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2003,873868,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2003,267804,ISTAT ricostruzione intercensuaria
+Genova,comune,2004,603936,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2004,873352,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2004,269416,ISTAT ricostruzione intercensuaria
+Genova,comune,2005,608185,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2005,877535,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2005,269350,ISTAT ricostruzione intercensuaria
+Genova,comune,2006,606103,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2006,875282,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2006,269179,ISTAT ricostruzione intercensuaria
+Genova,comune,2007,602492,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2007,872587,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2007,270095,ISTAT ricostruzione intercensuaria
+Genova,comune,2008,597569,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2008,869169,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2008,271600,ISTAT ricostruzione intercensuaria
+Genova,comune,2009,598438,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2009,870576,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2009,272138,ISTAT ricostruzione intercensuaria
+Genova,comune,2010,597639,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2010,869560,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2010,271921,ISTAT ricostruzione intercensuaria
+Genova,comune,2011,596364,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2011,868956,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2011,272592,ISTAT ricostruzione intercensuaria
+Genova,comune,2012,595212,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2012,867082,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2012,271870,ISTAT ricostruzione intercensuaria
+Genova,comune,2013,594134,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2013,865118,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2013,270984,ISTAT ricostruzione intercensuaria
+Genova,comune,2014,590478,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2014,860560,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2014,270082,ISTAT ricostruzione intercensuaria
+Genova,comune,2015,584649,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2015,853201,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2015,268552,ISTAT ricostruzione intercensuaria
+Genova,comune,2016,579877,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2016,846211,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2016,266334,ISTAT ricostruzione intercensuaria
+Genova,comune,2017,576915,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2017,842249,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2017,265334,ISTAT ricostruzione intercensuaria
+Genova,comune,2018,572320,ISTAT ricostruzione intercensuaria
+Genova,citta metropolitana/provincia,2018,836148,ISTAT ricostruzione intercensuaria
+Genova,resto della provincia,2018,263828,ISTAT ricostruzione intercensuaria
+Genova,comune,2019,569184,ISTAT POSAS
+Genova,citta metropolitana/provincia,2019,831172,ISTAT POSAS
+Genova,resto della provincia,2019,261988,ISTAT POSAS
+Genova,comune,2020,565752,ISTAT POSAS
+Genova,citta metropolitana/provincia,2020,826194,ISTAT POSAS
+Genova,resto della provincia,2020,260442,ISTAT POSAS
+Genova,comune,2021,566410,ISTAT POSAS
+Genova,citta metropolitana/provincia,2021,823612,ISTAT POSAS
+Genova,resto della provincia,2021,257202,ISTAT POSAS
+Genova,comune,2022,561203,ISTAT POSAS
+Genova,citta metropolitana/provincia,2022,817402,ISTAT POSAS
+Genova,resto della provincia,2022,256199,ISTAT POSAS
+Genova,comune,2023,561191,ISTAT POSAS
+Genova,citta metropolitana/provincia,2023,816606,ISTAT POSAS
+Genova,resto della provincia,2023,255415,ISTAT POSAS
+Genova,comune,2024,562422,ISTAT POSAS
+Genova,citta metropolitana/provincia,2024,817628,ISTAT POSAS
+Genova,resto della provincia,2024,255206,ISTAT POSAS
+Genova,comune,2025,564080,ISTAT POSAS
+Genova,citta metropolitana/provincia,2025,818812,ISTAT POSAS
+Genova,resto della provincia,2025,254732,ISTAT POSAS
+Genova,comune,2026,566247,ISTAT POSAS (stima)
+Genova,citta metropolitana/provincia,2026,820691,ISTAT POSAS (stima)
+Genova,resto della provincia,2026,254444,ISTAT POSAS (stima)

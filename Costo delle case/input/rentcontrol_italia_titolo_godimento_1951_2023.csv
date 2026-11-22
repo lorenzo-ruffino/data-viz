@@ -1,0 +1,9 @@
+anno,unita,proprieta_n,affitto_n,altro_titolo_n,totale_n,proprieta_pct,affitto_pct,altro_titolo_pct,abitazioni_non_occupate_n,fonte,url
+1951,abitazioni occupate da residenti,4300636,5241091,1214394,10756121,40.0,48.7,11.3,654564,"Istat, Sommario di statistiche storiche 1861-2010, cap. 15, tav. 15.1 e 15.2",https://www.istat.it/wp-content/uploads/2019/03/cap_15.pdf
+1961,abitazioni occupate da residenti,5971868,6075896,983854,13031618,45.8,46.6,7.5,1182049,"Istat, Sommario di statistiche storiche 1861-2010, cap. 15, tav. 15.1 e 15.2",https://www.istat.it/wp-content/uploads/2019/03/cap_15.pdf
+1971,abitazioni occupate da residenti,7766566,6768906,765955,15301427,50.8,44.2,5.0,2132545,"Istat, Sommario di statistiche storiche 1861-2010, cap. 15, tav. 15.1 e 15.2",https://www.istat.it/wp-content/uploads/2019/03/cap_15.pdf
+1981,abitazioni occupate da residenti,10333197,6224994,983561,17541752,58.9,35.5,5.6,4395471,"Istat, Sommario di statistiche storiche 1861-2010, cap. 15, tav. 15.1 e 15.2",https://www.istat.it/wp-content/uploads/2019/03/cap_15.pdf
+1991,abitazioni occupate da residenti,13419121,4999829,1316963,19735913,68.0,25.3,6.7,5292609,"Istat, Sommario di statistiche storiche 1861-2010, cap. 15, tav. 15.1 e 15.2",https://www.istat.it/wp-content/uploads/2019/03/cap_15.pdf
+2001,abitazioni occupate da residenti,15453656,4327618,1872014,21653288,71.4,20.0,8.6,5638705,"Istat, Sommario di statistiche storiche 1861-2010, cap. 15, tav. 15.1 e 15.2",https://www.istat.it/wp-content/uploads/2019/03/cap_15.pdf
+2011,famiglie,17666209,,,,72.1,18.0,,,"Istat, Censimento delle abitazioni 2011, nota di diffusione 20/12/2013",https://www.istat.it/it/files/2013/12/Nota-diffusione_delle_abitazioni20122013.pdf
+2023,famiglie,,,,,73.9,19.6,6.5,,"Istat, Abitazioni occupate - Anni 2021-2023 (censimento permanente), comunicato febbraio 2026",https://www.istat.it/comunicato-stampa/abitazioni-occupate/

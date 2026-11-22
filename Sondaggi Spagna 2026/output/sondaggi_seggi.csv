@@ -1,0 +1,584 @@
+serie,nome,istituto,data,seggi,peso,effetto_istituto
+destra,PP e Vox,Hamalgama Métrica,2025-01-01,193,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2025-01-01,157,1,-5.6
+destra,PP e Vox,EM-Analytics,2025-01-03,183,1,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-01-03,167,1,2.7
+destra,PP e Vox,Celeste-Tel,2025-01-09,190,1,3.2
+sinistra,PSOE e alleati,Celeste-Tel,2025-01-09,160,1,-2.4
+destra,PP e Vox,EM-Analytics,2025-01-14,181,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-01-14,168,0.707,2.7
+destra,PP e Vox,DYM,2025-01-18,186,1,-0.6
+destra,PP e Vox,GAD3,2025-01-19,195,1,1.4
+sinistra,PSOE e alleati,GAD3,2025-01-19,155,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-01-21,182,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-01-21,168,0.577,2.7
+destra,PP e Vox,Target Point,2025-01-23,192,1,-0.4
+destra,PP e Vox,Sigma Dos,2025-01-27,191,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2025-01-27,158,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-01-28,184,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-01-28,166,0.577,2.7
+destra,PP e Vox,Hamalgama Métrica,2025-01-29,194,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2025-01-29,156,1,-5.6
+destra,PP e Vox,EM-Analytics,2025-02-04,183,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-02-04,166,0.577,2.7
+destra,PP e Vox,NC Report,2025-02-05,193,1,6.4
+sinistra,PSOE e alleati,NC Report,2025-02-05,157,1,-5.1
+destra,PP e Vox,EM-Analytics,2025-02-10,187,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-02-10,163,0.707,2.7
+destra,PP e Vox,SocioMétrica,2025-02-13,187,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2025-02-13,161,1,-2.6
+destra,PP e Vox,Celeste-Tel,2025-02-14,190,1,3.2
+sinistra,PSOE e alleati,Celeste-Tel,2025-02-14,160,1,-2.4
+destra,PP e Vox,EM-Analytics,2025-02-18,189,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-02-18,161,0.707,2.7
+destra,PP e Vox,Target Point,2025-02-20,187,1,-0.4
+destra,PP e Vox,EM-Analytics,2025-02-25,185,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-02-25,165,0.577,2.7
+destra,PP e Vox,Hamalgama Métrica,2025-02-26,193,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2025-02-26,157,1,-5.6
+destra,PP e Vox,Sigma Dos,2025-03-01,189,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2025-03-01,160,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-03-04,183,0.577,-2.2
+destra,PP e Vox,GESOP,2025-03-04,188,1,-5.5
+sinistra,PSOE e alleati,EM-Analytics,2025-03-04,167,0.577,2.7
+destra,PP e Vox,NC Report,2025-03-05,190.5,1,6.4
+sinistra,PSOE e alleati,NC Report,2025-03-05,161,1,-5.1
+destra,PP e Vox,EM-Analytics,2025-03-11,185,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-03-11,165,0.577,2.7
+destra,PP e Vox,DYM,2025-03-14,185.5,1,-0.6
+destra,PP e Vox,Celeste-Tel,2025-03-17,190,1,3.2
+sinistra,PSOE e alleati,Celeste-Tel,2025-03-17,160,1,-2.4
+destra,PP e Vox,EM-Analytics,2025-03-18,183,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-03-18,167,0.577,2.7
+destra,PP e Vox,SocioMétrica,2025-03-20,190,1,2.8
+destra,PP e Vox,Target Point,2025-03-20,184.5,1,-0.4
+sinistra,PSOE e alleati,SocioMétrica,2025-03-20,158,1,-2.6
+destra,PP e Vox,EM-Analytics,2025-03-25,182,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-03-25,168,0.577,2.7
+destra,PP e Vox,Data10,2025-03-27,193,1,5
+destra,PP e Vox,EM-Analytics,2025-04-01,180,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-04-01,170,0.577,2.7
+destra,PP e Vox,EM-Analytics,2025-04-07,183,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-04-07,167,0.707,2.7
+destra,PP e Vox,Sigma Dos,2025-04-09,188,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2025-04-09,162,1,-0.8
+destra,PP e Vox,Hamalgama Métrica,2025-04-12,193,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2025-04-12,157,1,-5.6
+destra,PP e Vox,EM-Analytics,2025-04-15,181,0.707,-2.2
+destra,PP e Vox,NC Report,2025-04-15,189,1,6.4
+sinistra,PSOE e alleati,EM-Analytics,2025-04-15,169,0.707,2.7
+sinistra,PSOE e alleati,NC Report,2025-04-15,161,1,-5.1
+destra,PP e Vox,EM-Analytics,2025-04-22,182,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-04-22,168,0.577,2.7
+destra,PP e Vox,SocioMétrica,2025-04-23,191,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2025-04-23,158,1,-2.6
+destra,PP e Vox,Target Point,2025-04-24,188,1,-0.4
+destra,PP e Vox,EM-Analytics,2025-04-29,179,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-04-29,171,0.577,2.7
+destra,PP e Vox,Celeste-Tel,2025-05-02,188,1,3.2
+sinistra,PSOE e alleati,Celeste-Tel,2025-05-02,162,1,-2.4
+destra,PP e Vox,EM-Analytics,2025-05-06,182,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-05-06,168,0.577,2.7
+destra,PP e Vox,Sigma Dos,2025-05-09,189,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2025-05-09,161,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-05-13,183,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-05-13,167,0.577,2.7
+destra,PP e Vox,DYM,2025-05-16,186.5,1,-0.6
+destra,PP e Vox,Ipsos,2025-05-18,188,1,-1.8
+sinistra,PSOE e alleati,Ipsos,2025-05-18,162,1,1.6
+destra,PP e Vox,EM-Analytics,2025-05-20,182,0.577,-2.2
+destra,PP e Vox,SocioMétrica,2025-05-20,190,1,2.8
+sinistra,PSOE e alleati,EM-Analytics,2025-05-20,168,0.577,2.7
+sinistra,PSOE e alleati,SocioMétrica,2025-05-20,160,1,-2.6
+destra,PP e Vox,Hamalgama Métrica,2025-05-21,193,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2025-05-21,157,1,-5.6
+destra,PP e Vox,Target Point,2025-05-22,185,1,-0.4
+destra,PP e Vox,EM-Analytics,2025-05-23,188,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-05-23,162,0.707,2.7
+destra,PP e Vox,GAD3,2025-05-28,194,1,1.4
+sinistra,PSOE e alleati,GAD3,2025-05-28,156,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-06-03,187,1,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-06-03,163,1,2.7
+destra,PP e Vox,GESOP,2025-06-11,192,1,-5.5
+destra,PP e Vox,EM-Analytics,2025-06-12,198,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-06-12,152,0.707,2.7
+destra,PP e Vox,EM-Analytics,2025-06-16,202,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-06-16,145,0.577,2.7
+destra,PP e Vox,DYM,2025-06-17,191.5,1,-0.6
+destra,PP e Vox,SocioMétrica,2025-06-19,197,1,2.8
+destra,PP e Vox,Target Point,2025-06-19,197,1,-0.4
+sinistra,PSOE e alleati,SocioMétrica,2025-06-19,151,1,-2.6
+destra,PP e Vox,NC Report,2025-06-20,201.5,1,6.4
+sinistra,PSOE e alleati,NC Report,2025-06-20,147,1,-5.1
+destra,PP e Vox,EM-Analytics,2025-06-23,206,0.577,-2.2
+destra,PP e Vox,Sigma Dos,2025-06-23,197,1,0.1
+sinistra,PSOE e alleati,EM-Analytics,2025-06-23,144,0.577,2.7
+sinistra,PSOE e alleati,Sigma Dos,2025-06-23,153,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-06-30,209,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-06-30,141,0.707,2.7
+destra,PP e Vox,EM-Analytics,2025-07-08,203,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-07-08,147,0.707,2.7
+destra,PP e Vox,Target Point,2025-07-09,199,1,-0.4
+destra,PP e Vox,Celeste-Tel,2025-07-12,203,1,3.2
+destra,PP e Vox,DYM,2025-07-12,195,1,-0.6
+sinistra,PSOE e alleati,Celeste-Tel,2025-07-12,147,1,-2.4
+destra,PP e Vox,EM-Analytics,2025-07-14,203,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-07-14,147,0.577,2.7
+destra,PP e Vox,Hamalgama Métrica,2025-07-16,204,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2025-07-16,146,1,-5.6
+destra,PP e Vox,EM-Analytics,2025-07-18,202,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-07-18,148,0.577,2.7
+destra,PP e Vox,SocioMétrica,2025-07-22,208,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2025-07-22,140,1,-2.6
+destra,PP e Vox,EM-Analytics,2025-07-25,200,0.707,-2.2
+destra,PP e Vox,Sigma Dos,2025-07-25,200,1,0.1
+sinistra,PSOE e alleati,EM-Analytics,2025-07-25,150,0.707,2.7
+sinistra,PSOE e alleati,Sigma Dos,2025-07-25,150,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-08-03,200,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-08-03,150,0.707,2.7
+destra,PP e Vox,EM-Analytics,2025-08-09,200,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-08-09,150,0.577,2.7
+destra,PP e Vox,EM-Analytics,2025-08-11,194,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-08-11,155,0.707,2.7
+destra,PP e Vox,Sigma Dos,2025-08-24,198,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2025-08-24,152,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-08-25,194,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-08-25,155,0.707,2.7
+destra,PP e Vox,SocioMétrica,2025-08-27,204,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2025-08-27,146,1,-2.6
+destra,PP e Vox,EM-Analytics,2025-09-01,193,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-09-01,156,0.707,2.7
+destra,PP e Vox,Demoscopia y Servicios,2025-09-03,206,1,4.7
+destra,PP e Vox,NC Report,2025-09-03,205,1,6.4
+sinistra,PSOE e alleati,Demoscopia y Servicios,2025-09-03,144,1,-4.2
+sinistra,PSOE e alleati,NC Report,2025-09-03,144,1,-5.1
+destra,PP e Vox,Hamalgama Métrica,2025-09-06,207,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2025-09-06,143,1,-5.6
+destra,PP e Vox,GAD3,2025-09-08,198,1,1.4
+sinistra,PSOE e alleati,GAD3,2025-09-08,152,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-09-09,194,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-09-09,155,0.707,2.7
+destra,PP e Vox,Celeste-Tel,2025-09-10,202,1,3.2
+destra,PP e Vox,Target Point,2025-09-10,194.5,1,-0.4
+sinistra,PSOE e alleati,Celeste-Tel,2025-09-10,148,1,-2.4
+destra,PP e Vox,DYM,2025-09-12,195,1,-0.6
+destra,PP e Vox,EM-Analytics,2025-09-12,196,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-09-12,153,0.707,2.7
+destra,PP e Vox,EM-Analytics,2025-09-23,199,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-09-23,151,0.707,2.7
+destra,PP e Vox,Sigma Dos,2025-09-24,200,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2025-09-24,149,1,-0.8
+destra,PP e Vox,Opina 360,2025-09-27,185,1,-7
+sinistra,PSOE e alleati,Opina 360,2025-09-27,164.5,1,7.7
+destra,PP e Vox,EM-Analytics,2025-09-30,200,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-09-30,150,0.577,2.7
+destra,PP e Vox,NC Report,2025-10-02,206,1,6.4
+sinistra,PSOE e alleati,NC Report,2025-10-02,145,1,-5.1
+destra,PP e Vox,GESOP,2025-10-06,189,1,-5.5
+destra,PP e Vox,EM-Analytics,2025-10-07,200,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-10-07,150,0.577,2.7
+destra,PP e Vox,SocioMétrica,2025-10-08,203,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2025-10-08,147,1,-2.6
+destra,PP e Vox,EM-Analytics,2025-10-14,196,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-10-14,154,0.577,2.7
+destra,PP e Vox,EM-Analytics,2025-10-21,195,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-10-21,155,0.577,2.7
+destra,PP e Vox,EM-Analytics,2025-10-28,195,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-10-28,155,0.577,2.7
+destra,PP e Vox,Hamalgama Métrica,2025-10-31,208,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2025-10-31,142,1,-5.6
+destra,PP e Vox,Opina 360,2025-11-02,192,1,-7
+destra,PP e Vox,Sigma Dos,2025-11-02,200,1,0.1
+sinistra,PSOE e alleati,Opina 360,2025-11-02,157.5,1,7.7
+sinistra,PSOE e alleati,Sigma Dos,2025-11-02,149,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-11-04,196,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-11-04,154,0.577,2.7
+destra,PP e Vox,SocioMétrica,2025-11-07,203,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2025-11-07,147,1,-2.6
+destra,PP e Vox,EM-Analytics,2025-11-11,196,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-11-11,154,0.577,2.7
+destra,PP e Vox,NC Report,2025-11-12,204,1,6.4
+sinistra,PSOE e alleati,NC Report,2025-11-12,146,1,-5.1
+destra,PP e Vox,DYM,2025-11-13,196.5,1,-0.6
+destra,PP e Vox,EM-Analytics,2025-11-18,195,0.577,-2.2
+destra,PP e Vox,Target Point,2025-11-18,192,1,-0.4
+sinistra,PSOE e alleati,EM-Analytics,2025-11-18,155,0.577,2.7
+destra,PP e Vox,EM-Analytics,2025-11-25,195,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-11-25,155,0.577,2.7
+destra,PP e Vox,Sigma Dos,2025-11-30,201,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2025-11-30,147,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-12-02,198,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-12-02,152,0.577,2.7
+destra,PP e Vox,SocioMétrica,2025-12-06,204,0.707,2.8
+destra,PP e Vox,SocioMétrica,2025-12-06,205,0.707,2.8
+sinistra,PSOE e alleati,SocioMétrica,2025-12-06,143,0.707,-2.6
+sinistra,PSOE e alleati,SocioMétrica,2025-12-06,145,0.707,-2.6
+destra,PP e Vox,EM-Analytics,2025-12-09,197,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-12-09,153,0.577,2.7
+destra,PP e Vox,EM-Analytics,2025-12-15,200,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-12-15,150,0.707,2.7
+destra,PP e Vox,EM-Analytics,2025-12-24,204,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-12-24,146,0.707,2.7
+destra,PP e Vox,Sigma Dos,2025-12-25,200,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2025-12-25,148,1,-0.8
+destra,PP e Vox,EM-Analytics,2025-12-30,205,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2025-12-30,145,0.577,2.7
+destra,PP e Vox,EM-Analytics,2026-01-05,204,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-01-05,146,0.707,2.7
+destra,PP e Vox,NC Report,2026-01-07,208,1,6.4
+sinistra,PSOE e alleati,NC Report,2026-01-07,143.5,1,-5.1
+destra,PP e Vox,SocioMétrica,2026-01-08,205,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-01-08,145,1,-2.6
+destra,PP e Vox,EM-Analytics,2026-01-13,205,0.707,-2.2
+destra,PP e Vox,GESOP,2026-01-13,193,1,-5.5
+sinistra,PSOE e alleati,EM-Analytics,2026-01-13,145,0.707,2.7
+destra,PP e Vox,Target Point,2026-01-14,196,1,-0.4
+destra,PP e Vox,EM-Analytics,2026-01-19,204,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-01-19,146,0.707,2.7
+destra,PP e Vox,DYM,2026-01-23,200.5,1,-0.6
+destra,PP e Vox,EM-Analytics,2026-01-27,204,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-01-27,146,0.707,2.7
+destra,PP e Vox,Sigma Dos,2026-01-28,201,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-01-28,147,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-02-03,203,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-02-03,147,0.577,2.7
+destra,PP e Vox,EM-Analytics,2026-02-06,203,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-02-06,147,0.707,2.7
+destra,PP e Vox,Data10,2026-02-10,206,1,5
+sinistra,PSOE e alleati,Data10,2026-02-10,144,1,-4.9
+destra,PP e Vox,NC Report,2026-02-11,209,1,6.4
+sinistra,PSOE e alleati,NC Report,2026-02-11,140,1,-5.1
+destra,PP e Vox,SocioMétrica,2026-02-12,207,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-02-12,143,1,-2.6
+destra,PP e Vox,EM-Analytics,2026-02-14,204,1,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-02-14,146,1,2.7
+destra,PP e Vox,Target Point,2026-02-18,201.5,1,-0.4
+destra,PP e Vox,Ateneo del Dato,2026-02-20,194.5,1,-1.5
+destra,PP e Vox,EM-Analytics,2026-02-24,205,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-02-24,145,0.577,2.7
+destra,PP e Vox,Sigma Dos,2026-02-25,200,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-02-25,149,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-03-02,201,0.5,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-03-02,149,0.5,2.7
+destra,PP e Vox,EM-Analytics,2026-03-03,199,0.5,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-03-03,151,0.5,2.7
+destra,PP e Vox,EM-Analytics,2026-03-06,199,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-03-06,151,0.577,2.7
+destra,PP e Vox,EM-Analytics,2026-03-18,200,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-03-18,150,0.707,2.7
+destra,PP e Vox,SocioMétrica,2026-03-20,203,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-03-20,147,1,-2.6
+destra,PP e Vox,DYM,2026-03-21,200,1,-0.6
+destra,PP e Vox,EM-Analytics,2026-03-21,199,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-03-21,151,0.707,2.7
+destra,PP e Vox,Sigma Dos,2026-03-23,198,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-03-23,151,1,-0.8
+destra,PP e Vox,Target Point,2026-03-25,195.5,1,-0.4
+destra,PP e Vox,EM-Analytics,2026-03-31,190,0.707,-2.2
+destra,PP e Vox,Ipsos,2026-03-31,194,1,-1.8
+sinistra,PSOE e alleati,EM-Analytics,2026-03-31,160,0.707,2.7
+sinistra,PSOE e alleati,Ipsos,2026-03-31,154,1,1.6
+destra,PP e Vox,EM-Analytics,2026-04-07,192,0.577,-2.2
+destra,PP e Vox,NC Report,2026-04-07,205,1,6.4
+sinistra,PSOE e alleati,EM-Analytics,2026-04-07,158,0.577,2.7
+sinistra,PSOE e alleati,NC Report,2026-04-07,145.5,1,-5.1
+destra,PP e Vox,EM-Analytics,2026-04-14,192,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-04-14,158,0.577,2.7
+destra,PP e Vox,SocioMétrica,2026-04-16,200,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-04-16,149,1,-2.6
+destra,PP e Vox,EM-Analytics,2026-04-18,192,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-04-18,158,0.577,2.7
+destra,PP e Vox,Ateneo del Dato,2026-04-24,201,1,-1.5
+destra,PP e Vox,EM-Analytics,2026-04-25,193,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-04-25,157,0.707,2.7
+destra,PP e Vox,Sigma Dos,2026-04-26,196,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-04-26,153,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-05-04,190,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-05-04,160,0.707,2.7
+destra,PP e Vox,EM-Analytics,2026-05-08,192,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-05-08,158,0.707,2.7
+destra,PP e Vox,EM-Analytics,2026-05-20,190,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-05-20,157,0.707,2.7
+destra,PP e Vox,DYM,2026-05-21,201,1,-0.6
+destra,PP e Vox,EM-Analytics,2026-05-26,190,0.577,-2.2
+destra,PP e Vox,NC Report,2026-05-26,209.5,1,6.4
+sinistra,PSOE e alleati,EM-Analytics,2026-05-26,157,0.577,2.7
+sinistra,PSOE e alleati,NC Report,2026-05-26,140.5,1,-5.1
+destra,PP e Vox,GAD3,2026-05-27,201,1,1.4
+destra,PP e Vox,Target Point,2026-05-27,204,1,-0.4
+sinistra,PSOE e alleati,GAD3,2026-05-27,148,1,-0.8
+sinistra,PSOE e alleati,Target Point,2026-05-27,144,1,-0.8
+destra,PP e Vox,SocioMétrica,2026-05-29,208,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-05-29,140,1,-2.6
+destra,PP e Vox,EM-Analytics,2026-05-30,194,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-05-30,153,0.707,2.7
+destra,PP e Vox,Sigma Dos,2026-06-06,201,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-06-06,146,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-06-08,196,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-06-08,151,0.707,2.7
+destra,PP e Vox,EM-Analytics,2026-06-15,198,0.5,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-06-15,149,0.5,2.7
+destra,PP e Vox,Target Point,2026-06-17,203,1,-0.4
+sinistra,PSOE e alleati,Target Point,2026-06-17,146.5,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-06-19,199,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-06-19,148,0.577,2.7
+destra,PP e Vox,EM-Analytics,2026-06-22,199,0.577,-2.2
+destra,PP e Vox,Ipsos,2026-06-22,196,1,-1.8
+sinistra,PSOE e alleati,EM-Analytics,2026-06-22,148,0.577,2.7
+sinistra,PSOE e alleati,Ipsos,2026-06-22,151,1,1.6
+destra,PP e Vox,NC Report,2026-06-28,209,1,6.4
+sinistra,PSOE e alleati,NC Report,2026-06-28,138,1,-5.1
+destra,PP e Vox,EM-Analytics,2026-06-30,200,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-06-30,147,0.707,2.7
+destra,PP e Vox,EM-Analytics,2026-07-03,198,0.707,-2.2
+destra,PP e Vox,Hamalgama Métrica,2026-07-03,210,1,6.9
+destra,PP e Vox,SocioMétrica,2026-07-03,206,1,2.8
+sinistra,PSOE e alleati,EM-Analytics,2026-07-03,149,0.707,2.7
+sinistra,PSOE e alleati,Hamalgama Métrica,2026-07-03,140,1,-5.6
+sinistra,PSOE e alleati,SocioMétrica,2026-07-03,143,1,-2.6
+destra,PP e Vox,GESOP,2026-07-07,191,1,-5.5
+destra,PP e Vox,ODEC,2026-07-09,195,1,-3.5
+sinistra,PSOE e alleati,ODEC,2026-07-09,155,1,5.5
+destra,PP e Vox,EM-Analytics,2026-07-12,200,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-07-12,147,0.577,2.7
+destra,PP e Vox,Sigma Dos,2026-07-13,201,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-07-13,146,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-07-16,200,0.5,-2.2
+destra,PP e Vox,Target Point,2026-07-16,204,1,-0.4
+sinistra,PSOE e alleati,EM-Analytics,2026-07-16,147,0.5,2.7
+sinistra,PSOE e alleati,Target Point,2026-07-16,145,1,-0.8
+destra,PP e Vox,DYM,2026-07-17,203,1,-0.6
+destra,PP e Vox,EM-Analytics,2026-07-19,200,0.447,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-07-19,146,0.447,2.7
+destra,PP e Vox,EM-Analytics,2026-07-22,200,0.5,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-07-22,147,0.5,2.7
+destra,PP e Vox,EM-Analytics,2026-07-26,200,0.577,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-07-26,147,0.577,2.7
+destra,PP e Vox,NC Report,2026-08-02,209,1,6.4
+sinistra,PSOE e alleati,NC Report,2026-08-02,140.5,1,-5.1
+destra,PP e Vox,SocioMétrica,2026-08-05,207,1,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-08-05,142,1,-2.6
+destra,PP e Vox,EM-Analytics,2026-08-06,199,1,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-08-06,148,1,2.7
+destra,PP e Vox,Sigma Dos,2026-08-23,205,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-08-23,139,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-08-24,200,1,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-08-24,147,1,2.7
+destra,PP e Vox,Data10,2026-08-26,209,1,5
+sinistra,PSOE e alleati,Data10,2026-08-26,140,1,-4.9
+destra,PP e Vox,GAD3,2026-09-02,203,1,1.4
+destra,PP e Vox,NC Report,2026-09-02,212,1,6.4
+sinistra,PSOE e alleati,GAD3,2026-09-02,146,1,-0.8
+sinistra,PSOE e alleati,NC Report,2026-09-02,136.5,1,-5.1
+destra,PP e Vox,Hamalgama Métrica,2026-09-04,213,1,6.9
+sinistra,PSOE e alleati,Hamalgama Métrica,2026-09-04,137,1,-5.6
+destra,PP e Vox,EM-Analytics,2026-09-05,201,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-09-05,146,0.707,2.7
+destra,PP e Vox,EM-Analytics,2026-09-09,200,0.707,-2.2
+destra,PP e Vox,Target Point,2026-09-09,202,1,-0.4
+sinistra,PSOE e alleati,EM-Analytics,2026-09-09,147,0.707,2.7
+destra,PP e Vox,Celeste-Tel,2026-09-18,210,1,3.2
+destra,PP e Vox,DYM,2026-09-18,205.5,1,-0.6
+sinistra,PSOE e alleati,Celeste-Tel,2026-09-18,140,1,-2.4
+destra,PP e Vox,EM-Analytics,2026-09-20,202,1,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-09-20,145,1,2.7
+destra,PP e Vox,SocioMétrica,2026-09-25,208,0.5,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-09-25,140,0.5,-2.6
+destra,PP e Vox,Sigma Dos,2026-09-26,204,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-09-26,141,1,-0.8
+destra,PP e Vox,SocioMétrica,2026-09-28,200,0.408,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-09-28,148,0.447,-2.6
+destra,PP e Vox,Ateneo del Dato,2026-09-30,201.5,1,-1.5
+destra,PP e Vox,Winston,2026-09-30,205,1,-0.2
+sinistra,PSOE e alleati,Winston,2026-09-30,145,1,0.2
+destra,PP e Vox,SocioMétrica,2026-10-01,203,0.378,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-10-01,145,0.408,-2.6
+destra,PP e Vox,Data10,2026-10-02,204,1,5
+destra,PP e Vox,EM-Analytics,2026-10-02,199,0.707,-2.2
+destra,PP e Vox,SocioMétrica,2026-10-02,206,0.378,2.8
+sinistra,PSOE e alleati,Data10,2026-10-02,146,1,-4.9
+sinistra,PSOE e alleati,EM-Analytics,2026-10-02,148,0.707,2.7
+sinistra,PSOE e alleati,SocioMétrica,2026-10-02,143,0.408,-2.6
+destra,PP e Vox,NC Report,2026-10-03,210.5,1,6.4
+sinistra,PSOE e alleati,NC Report,2026-10-03,140,1,-5.1
+destra,PP e Vox,Sigma Dos,2026-10-04,204,0.707,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-10-04,145,0.707,-0.8
+destra,PP e Vox,SocioMétrica,2026-10-05,202,0.378,2.8
+destra,PP e Vox,SocioMétrica,2026-10-05,206,0.378,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-10-05,145,0.408,-2.6
+destra,PP e Vox,DYM,2026-10-06,204,1,-0.6
+destra,PP e Vox,Hamalgama Métrica,2026-10-06,213,1,6.9
+destra,PP e Vox,IMOP,2026-10-06,201,1,-0.6
+sinistra,PSOE e alleati,Hamalgama Métrica,2026-10-06,137,1,-5.6
+sinistra,PSOE e alleati,IMOP,2026-10-06,148,1,1.2
+destra,PP e Vox,40dB,2026-10-07,201,1,-1.1
+destra,PP e Vox,EM-Analytics,2026-10-07,199,0.707,-2.2
+destra,PP e Vox,GAD3,2026-10-07,198,1,1.4
+destra,PP e Vox,GESOP,2026-10-07,193,1,-5.5
+destra,PP e Vox,Sigma Dos,2026-10-07,201,0.707,0.1
+destra,PP e Vox,Target Point,2026-10-07,202,1,-0.4
+sinistra,PSOE e alleati,40dB,2026-10-07,150,1,3.4
+sinistra,PSOE e alleati,EM-Analytics,2026-10-07,148,0.707,2.7
+sinistra,PSOE e alleati,GAD3,2026-10-07,151,1,-0.8
+sinistra,PSOE e alleati,Sigma Dos,2026-10-07,148,0.707,-0.8
+sinistra,PSOE e alleati,Target Point,2026-10-07,146.5,1,-0.8
+destra,PP e Vox,SocioMétrica,2026-10-08,199,0.408,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-10-08,148,0.447,-2.6
+destra,PP e Vox,SocioMétrica,2026-10-10,206,0.5,2.8
+sinistra,PSOE e alleati,SocioMétrica,2026-10-10,142,0.577,-2.6
+destra,PP e Vox,IMOP,2026-10-14,195,1,-0.6
+sinistra,PSOE e alleati,IMOP,2026-10-14,154,1,1.2
+destra,PP e Vox,Sigma Dos,2026-10-15,195.5,1,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-10-15,150,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-10-16,196,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-10-16,151,0.707,2.7
+destra,PP e Vox,EM-Analytics,2026-10-20,194,0.707,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-10-20,154,0.707,2.7
+destra,PP e Vox,Ateneo del Dato,2026-10-21,197,1,-1.5
+destra,PP e Vox,Winston,2026-10-22,191,1,-0.2
+sinistra,PSOE e alleati,Winston,2026-10-22,156,1,0.2
+destra,PP e Vox,NC Report,2026-10-23,208,0.707,6.4
+sinistra,PSOE e alleati,NC Report,2026-10-23,140,0.707,-5.1
+destra,PP e Vox,Hamalgama Métrica,2026-10-25,207,1,6.9
+destra,PP e Vox,NC Report,2026-10-27,208,0.577,6.4
+sinistra,PSOE e alleati,NC Report,2026-10-27,141,0.577,-5.1
+destra,PP e Vox,EM-Analytics,2026-10-29,197,0.5,-2.2
+destra,PP e Vox,Sigma Dos,2026-10-29,202,0.707,0.1
+destra,PP e Vox,Target Point,2026-10-29,203,1,-0.4
+destra,PP e Vox,YouGov,2026-10-29,193,1,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-10-29,151,0.5,2.7
+sinistra,PSOE e alleati,Sigma Dos,2026-10-29,145,0.707,-0.8
+sinistra,PSOE e alleati,YouGov,2026-10-29,154,1,2.3
+destra,PP e Vox,SW Demoscopia,2026-10-30,178.5,0.258,-20.4
+sinistra,PSOE e alleati,SW Demoscopia,2026-10-30,168.5,0.258,20.5
+destra,PP e Vox,Celeste-Tel,2026-10-31,204,1,3.2
+destra,PP e Vox,SW Demoscopia,2026-10-31,179,0.25,-20.4
+destra,PP e Vox,SW Demoscopia,2026-10-31,176.5,0.25,-20.4
+sinistra,PSOE e alleati,Celeste-Tel,2026-10-31,143,1,-2.4
+sinistra,PSOE e alleati,SW Demoscopia,2026-10-31,168.5,0.258,20.5
+sinistra,PSOE e alleati,SW Demoscopia,2026-10-31,169.5,0.258,20.5
+destra,PP e Vox,SW Demoscopia,2026-11-01,177,0.25,-20.4
+destra,PP e Vox,SW Demoscopia,2026-11-01,178.5,0.25,-20.4
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-01,169.5,0.258,20.5
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-01,168.5,0.258,20.5
+destra,PP e Vox,Data10,2026-11-02,205,1,5
+destra,PP e Vox,EM-Analytics,2026-11-02,197,0.5,-2.2
+destra,PP e Vox,SW Demoscopia,2026-11-02,175.5,0.25,-20.4
+destra,PP e Vox,SW Demoscopia,2026-11-02,177.5,0.25,-20.4
+destra,PP e Vox,Sigma Dos,2026-11-02,200,0.447,0.1
+sinistra,PSOE e alleati,Data10,2026-11-02,140,1,-4.9
+sinistra,PSOE e alleati,EM-Analytics,2026-11-02,151,0.5,2.7
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-02,171.5,0.258,20.5
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-02,169.5,0.258,20.5
+sinistra,PSOE e alleati,Sigma Dos,2026-11-02,146.5,0.447,-0.8
+destra,PP e Vox,40dB,2026-11-03,193.5,1,-1.1
+destra,PP e Vox,Ateneo del Dato,2026-11-03,193,1,-1.5
+destra,PP e Vox,EM-Analytics,2026-11-03,197,0.408,-2.2
+destra,PP e Vox,NC Report,2026-11-03,207,0.577,6.4
+destra,PP e Vox,SW Demoscopia,2026-11-03,175.5,0.25,-20.4
+destra,PP e Vox,SW Demoscopia,2026-11-03,175,0.25,-20.4
+sinistra,PSOE e alleati,40dB,2026-11-03,154.5,1,3.4
+sinistra,PSOE e alleati,EM-Analytics,2026-11-03,151,0.408,2.7
+sinistra,PSOE e alleati,NC Report,2026-11-03,140,0.577,-5.1
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-03,172,0.258,20.5
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-03,172,0.258,20.5
+destra,PP e Vox,EM-Analytics,2026-11-04,192,0.354,-2.2
+destra,PP e Vox,GAD3,2026-11-04,199,1,1.4
+destra,PP e Vox,IMOP,2026-11-04,196,0.707,-0.6
+destra,PP e Vox,SW Demoscopia,2026-11-04,174.5,0.25,-20.4
+destra,PP e Vox,SW Demoscopia,2026-11-04,175,0.25,-20.4
+sinistra,PSOE e alleati,EM-Analytics,2026-11-04,155,0.354,2.7
+sinistra,PSOE e alleati,GAD3,2026-11-04,148,1,-0.8
+sinistra,PSOE e alleati,IMOP,2026-11-04,150,0.707,1.2
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-04,172,0.258,20.5
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-04,172.5,0.258,20.5
+destra,PP e Vox,DYM,2026-11-05,201.5,1,-0.6
+destra,PP e Vox,SW Demoscopia,2026-11-05,174.5,0.25,-20.4
+destra,PP e Vox,SW Demoscopia,2026-11-05,174.5,0.25,-20.4
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-05,172,0.258,20.5
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-05,171.5,0.258,20.5
+destra,PP e Vox,SW Demoscopia,2026-11-06,176,0.25,-20.4
+destra,PP e Vox,SW Demoscopia,2026-11-06,175,0.25,-20.4
+destra,PP e Vox,Winston,2026-11-06,198,1,-0.2
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-06,171,0.258,20.5
+sinistra,PSOE e alleati,SW Demoscopia,2026-11-06,172,0.258,20.5
+sinistra,PSOE e alleati,Winston,2026-11-06,147,1,0.2
+destra,PP e Vox,SW Demoscopia,2026-11-07,175,0.258,-20.4
+destra,PP e Vox,Sigma Dos,2026-11-07,194.5,0.378,0.1
+destra,PP e Vox,Sigma Dos,2026-11-07,195.5,0.378,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-11-07,149.5,0.378,-0.8
+sinistra,PSOE e alleati,Sigma Dos,2026-11-07,148.5,0.378,-0.8
+destra,PP e Vox,Sigma Dos,2026-11-08,193.5,0.354,0.1
+sinistra,PSOE e alleati,Sigma Dos,2026-11-08,150,0.354,-0.8
+destra,PP e Vox,NC Report,2026-11-09,205,0.707,6.4
+sinistra,PSOE e alleati,NC Report,2026-11-09,145.5,0.707,-5.1
+destra,PP e Vox,EM-Analytics,2026-11-10,190,0.302,-2.2
+destra,PP e Vox,EM-Analytics,2026-11-10,190,0.302,-2.2
+sinistra,PSOE e alleati,EM-Analytics,2026-11-10,157,0.302,2.7
+sinistra,PSOE e alleati,EM-Analytics,2026-11-10,157,0.302,2.7
+destra,PP e Vox,40dB,2026-11-11,192.5,0.333,-1.1
+destra,PP e Vox,40dB,2026-11-11,196,0.333,-1.1
+destra,PP e Vox,Data10,2026-11-11,204,0.5,5
+destra,PP e Vox,EM-Analytics,2026-11-11,191,0.316,-2.2
+destra,PP e Vox,EM-Analytics,2026-11-11,190,0.316,-2.2
+destra,PP e Vox,IMOP,2026-11-11,194,0.707,-0.6
+destra,PP e Vox,Sondaxe,2026-11-11,195,0.378,0.5
+sinistra,PSOE e alleati,40dB,2026-11-11,155,0.333,3.4
+sinistra,PSOE e alleati,40dB,2026-11-11,152.5,0.333,3.4
+sinistra,PSOE e alleati,Data10,2026-11-11,142,1,-4.9
+sinistra,PSOE e alleati,EM-Analytics,2026-11-11,156,0.316,2.7
+sinistra,PSOE e alleati,EM-Analytics,2026-11-11,157,0.316,2.7
+sinistra,PSOE e alleati,IMOP,2026-11-11,152,0.707,1.2
+sinistra,PSOE e alleati,Sondaxe,2026-11-11,152,0.378,1
+destra,PP e Vox,40dB,2026-11-12,191,0.333,-1.1
+destra,PP e Vox,40dB,2026-11-12,192.5,0.333,-1.1
+destra,PP e Vox,EM-Analytics,2026-11-12,188,0.333,-2.2
+destra,PP e Vox,EM-Analytics,2026-11-12,189,0.333,-2.2
+destra,PP e Vox,Sigma Dos,2026-11-12,191.5,0.354,0.1
+destra,PP e Vox,Sondaxe,2026-11-12,192,0.378,0.5
+destra,PP e Vox,Target Point,2026-11-12,193,1,-0.4
+sinistra,PSOE e alleati,40dB,2026-11-12,157,0.333,3.4
+sinistra,PSOE e alleati,40dB,2026-11-12,156,0.333,3.4
+sinistra,PSOE e alleati,EM-Analytics,2026-11-12,159,0.333,2.7
+sinistra,PSOE e alleati,EM-Analytics,2026-11-12,158,0.333,2.7
+sinistra,PSOE e alleati,Sigma Dos,2026-11-12,150,0.354,-0.8
+sinistra,PSOE e alleati,Sondaxe,2026-11-12,155,0.378,1
+sinistra,PSOE e alleati,Target Point,2026-11-12,154,1,-0.8
+destra,PP e Vox,EM-Analytics,2026-11-13,187,0.333,-2.2
+destra,PP e Vox,EM-Analytics,2026-11-13,188,0.333,-2.2
+destra,PP e Vox,Sigma Dos,2026-11-13,190.5,0.354,0.1
+destra,PP e Vox,Sondaxe,2026-11-13,191,0.378,0.5
+sinistra,PSOE e alleati,EM-Analytics,2026-11-13,159,0.333,2.7
+sinistra,PSOE e alleati,EM-Analytics,2026-11-13,158,0.333,2.7
+sinistra,PSOE e alleati,Sigma Dos,2026-11-13,149.5,0.354,-0.8
+sinistra,PSOE e alleati,Sondaxe,2026-11-13,155,0.378,1
+destra,PP e Vox,40dB,2026-11-14,190,0.333,-1.1
+destra,PP e Vox,EM-Analytics,2026-11-14,185,0.333,-2.2
+destra,PP e Vox,Sigma Dos,2026-11-14,190.5,0.354,0.1
+destra,PP e Vox,Sondaxe,2026-11-14,192,0.378,0.5
+sinistra,PSOE e alleati,40dB,2026-11-14,158,0.333,3.4
+sinistra,PSOE e alleati,EM-Analytics,2026-11-14,161,0.333,2.7
+sinistra,PSOE e alleati,Sigma Dos,2026-11-14,150.5,0.354,-0.8
+sinistra,PSOE e alleati,Sondaxe,2026-11-14,154,0.378,1
+destra,PP e Vox,40dB,2026-11-15,189,0.333,-1.1
+destra,PP e Vox,Data10,2026-11-15,196,0.447,5
+destra,PP e Vox,Sigma Dos,2026-11-15,189.5,0.408,0.1
+destra,PP e Vox,Sondaxe,2026-11-15,190,0.378,0.5
+sinistra,PSOE e alleati,40dB,2026-11-15,159,0.333,3.4
+sinistra,PSOE e alleati,Sigma Dos,2026-11-15,153,0.408,-0.8
+sinistra,PSOE e alleati,Sondaxe,2026-11-15,156,0.378,1
+destra,PP e Vox,40dB,2026-11-16,191,0.333,-1.1
+destra,PP e Vox,Sigma Dos,2026-11-16,187.5,0.447,0.1
+destra,PP e Vox,Sondaxe,2026-11-16,193,0.378,0.5
+sinistra,PSOE e alleati,40dB,2026-11-16,155.5,0.333,3.4
+sinistra,PSOE e alleati,Sigma Dos,2026-11-16,155,0.447,-0.8
+sinistra,PSOE e alleati,Sondaxe,2026-11-16,154,0.378,1
+destra,PP e Vox,40dB,2026-11-17,192,0.333,-1.1
+destra,PP e Vox,Data10,2026-11-17,195,0.447,5
+destra,PP e Vox,Data10,2026-11-17,197,0.447,5
+destra,PP e Vox,Sondaxe,2026-11-17,195,0.378,0.5
+sinistra,PSOE e alleati,40dB,2026-11-17,155,0.333,3.4
+sinistra,PSOE e alleati,Sondaxe,2026-11-17,153,0.378,1
+destra,PP e Vox,40dB,2026-11-18,187,0.333,-1.1
+sinistra,PSOE e alleati,40dB,2026-11-18,161,0.333,3.4
+destra,PP e Vox,Data10,2026-11-19,199,0.5,5

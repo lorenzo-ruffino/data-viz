@@ -1,0 +1,1681 @@
+geo,anno,modo,quota
+AT,2010,TRN_BUS_TOT_AVD,20.8
+AT,2010,auto,79.2
+AT,2010,autobus e pullman,9.8
+AT,2010,treno,11.1
+AT,2011,TRN_BUS_TOT_AVD,21.3
+AT,2011,auto,78.7
+AT,2011,autobus e pullman,9.9
+AT,2011,treno,11.4
+AT,2012,TRN_BUS_TOT_AVD,21.8
+AT,2012,auto,78.2
+AT,2012,autobus e pullman,10
+AT,2012,treno,11.8
+AT,2013,TRN_BUS_TOT_AVD,22.2
+AT,2013,auto,77.8
+AT,2013,autobus e pullman,9.9
+AT,2013,treno,12.3
+AT,2014,TRN_BUS_TOT_AVD,22.1
+AT,2014,auto,77.9
+AT,2014,autobus e pullman,9.9
+AT,2014,treno,12.2
+AT,2015,TRN_BUS_TOT_AVD,21.9
+AT,2015,auto,78.1
+AT,2015,autobus e pullman,9.9
+AT,2015,treno,12.1
+AT,2016,TRN_BUS_TOT_AVD,22
+AT,2016,auto,78
+AT,2016,autobus e pullman,9.9
+AT,2016,treno,12.1
+AT,2017,TRN_BUS_TOT_AVD,22
+AT,2017,auto,78
+AT,2017,autobus e pullman,10
+AT,2017,treno,12
+AT,2018,TRN_BUS_TOT_AVD,21.5
+AT,2018,auto,78.5
+AT,2018,autobus e pullman,9.1
+AT,2018,treno,12.4
+AT,2019,TRN_BUS_TOT_AVD,21.4
+AT,2019,auto,78.6
+AT,2019,autobus e pullman,8.9
+AT,2019,treno,12.4
+AT,2020,TRN_BUS_TOT_AVD,18
+AT,2020,auto,82
+AT,2020,autobus e pullman,9.2
+AT,2020,treno,8.8
+AT,2021,TRN_BUS_TOT_AVD,18.2
+AT,2021,auto,81.8
+AT,2021,autobus e pullman,8.9
+AT,2021,treno,9.3
+AT,2022,TRN_BUS_TOT_AVD,22.1
+AT,2022,auto,77.9
+AT,2022,autobus e pullman,9.5
+AT,2022,treno,12.6
+AT,2023,TRN_BUS_TOT_AVD,23.1
+AT,2023,auto,76.9
+AT,2023,autobus e pullman,9.5
+AT,2023,treno,13.6
+AT,2024,TRN_BUS_TOT_AVD,23.8
+AT,2024,auto,76.2
+AT,2024,autobus e pullman,10.1
+AT,2024,treno,13.7
+BE,2010,TRN_BUS_TOT_AVD,19.8
+BE,2010,auto,80.2
+BE,2010,autobus e pullman,12.3
+BE,2010,treno,7.5
+BE,2011,TRN_BUS_TOT_AVD,20.5
+BE,2011,auto,79.5
+BE,2011,autobus e pullman,12.8
+BE,2011,treno,7.7
+BE,2012,TRN_BUS_TOT_AVD,19.9
+BE,2012,auto,80.1
+BE,2012,autobus e pullman,12.4
+BE,2012,treno,7.5
+BE,2013,TRN_BUS_TOT_AVD,22.8
+BE,2013,auto,77.2
+BE,2013,autobus e pullman,15.1
+BE,2013,treno,7.7
+BE,2014,TRN_BUS_TOT_AVD,19.6
+BE,2014,auto,80.4
+BE,2014,autobus e pullman,11.5
+BE,2014,treno,8.2
+BE,2015,TRN_BUS_TOT_AVD,18.9
+BE,2015,auto,81.1
+BE,2015,autobus e pullman,10.9
+BE,2015,treno,8
+BE,2016,TRN_BUS_TOT_AVD,18.2
+BE,2016,auto,81.8
+BE,2016,autobus e pullman,10.5
+BE,2016,treno,7.7
+BE,2017,TRN_BUS_TOT_AVD,18.2
+BE,2017,auto,81.8
+BE,2017,autobus e pullman,10.2
+BE,2017,treno,7.9
+BE,2018,TRN_BUS_TOT_AVD,19.1
+BE,2018,auto,80.9
+BE,2018,autobus e pullman,10.2
+BE,2018,treno,8.9
+BE,2019,TRN_BUS_TOT_AVD,19.3
+BE,2019,auto,80.7
+BE,2019,autobus e pullman,10.3
+BE,2019,treno,9
+BE,2020,TRN_BUS_TOT_AVD,15.5
+BE,2020,auto,84.5
+BE,2020,autobus e pullman,8.2
+BE,2020,treno,7.3
+BE,2021,TRN_BUS_TOT_AVD,15.1
+BE,2021,auto,84.9
+BE,2021,autobus e pullman,8.1
+BE,2021,treno,6.9
+BE,2022,TRN_BUS_TOT_AVD,18.8
+BE,2022,auto,81.2
+BE,2022,autobus e pullman,9.6
+BE,2022,treno,9.2
+BE,2023,TRN_BUS_TOT_AVD,19.6
+BE,2023,auto,80.4
+BE,2023,autobus e pullman,10.3
+BE,2023,treno,9.4
+BE,2024,TRN_BUS_TOT_AVD,20.5
+BE,2024,auto,79.5
+BE,2024,autobus e pullman,10.8
+BE,2024,treno,9.7
+BG,2010,TRN_BUS_TOT_AVD,20
+BG,2010,auto,80
+BG,2010,autobus e pullman,16.4
+BG,2010,treno,3.6
+BG,2011,TRN_BUS_TOT_AVD,19.4
+BG,2011,auto,80.6
+BG,2011,autobus e pullman,15.9
+BG,2011,treno,3.5
+BG,2012,TRN_BUS_TOT_AVD,17.9
+BG,2012,auto,82.1
+BG,2012,autobus e pullman,14.8
+BG,2012,treno,3.1
+BG,2013,TRN_BUS_TOT_AVD,17
+BG,2013,auto,83
+BG,2013,autobus e pullman,14
+BG,2013,treno,2.9
+BG,2014,TRN_BUS_TOT_AVD,17.7
+BG,2014,auto,82.3
+BG,2014,autobus e pullman,15.1
+BG,2014,treno,2.6
+BG,2015,TRN_BUS_TOT_AVD,16.9
+BG,2015,auto,83.1
+BG,2015,autobus e pullman,14.6
+BG,2015,treno,2.3
+BG,2016,TRN_BUS_TOT_AVD,16.3
+BG,2016,auto,83.7
+BG,2016,autobus e pullman,14.1
+BG,2016,treno,2.2
+BG,2017,TRN_BUS_TOT_AVD,15.2
+BG,2017,auto,84.8
+BG,2017,autobus e pullman,13.1
+BG,2017,treno,2.1
+BG,2018,TRN_BUS_TOT_AVD,14.2
+BG,2018,auto,85.8
+BG,2018,autobus e pullman,12
+BG,2018,treno,2.2
+BG,2019,TRN_BUS_TOT_AVD,15.3
+BG,2019,auto,84.7
+BG,2019,autobus e pullman,13
+BG,2019,treno,2.2
+BG,2020,TRN_BUS_TOT_AVD,10.6
+BG,2020,auto,89.4
+BG,2020,autobus e pullman,8.6
+BG,2020,treno,2
+BG,2021,TRN_BUS_TOT_AVD,10.1
+BG,2021,auto,89.9
+BG,2021,autobus e pullman,8
+BG,2021,treno,2.1
+BG,2022,TRN_BUS_TOT_AVD,13.1
+BG,2022,auto,86.9
+BG,2022,autobus e pullman,10.6
+BG,2022,treno,2.5
+BG,2023,TRN_BUS_TOT_AVD,11.2
+BG,2023,auto,88.8
+BG,2023,autobus e pullman,8.8
+BG,2023,treno,2.4
+BG,2024,TRN_BUS_TOT_AVD,11.2
+BG,2024,auto,88.8
+BG,2024,autobus e pullman,9
+BG,2024,treno,2.2
+CY,2010,TRN_BUS_TOT_AVD,17.9
+CY,2010,auto,82.1
+CY,2010,autobus e pullman,17.9
+CY,2010,treno,NA
+CY,2011,TRN_BUS_TOT_AVD,18.3
+CY,2011,auto,81.7
+CY,2011,autobus e pullman,18.3
+CY,2011,treno,NA
+CY,2012,TRN_BUS_TOT_AVD,18.7
+CY,2012,auto,81.3
+CY,2012,autobus e pullman,18.7
+CY,2012,treno,NA
+CY,2013,TRN_BUS_TOT_AVD,18.5
+CY,2013,auto,81.5
+CY,2013,autobus e pullman,18.5
+CY,2013,treno,NA
+CY,2014,TRN_BUS_TOT_AVD,18.2
+CY,2014,auto,81.8
+CY,2014,autobus e pullman,18.2
+CY,2014,treno,NA
+CY,2015,TRN_BUS_TOT_AVD,18.7
+CY,2015,auto,81.3
+CY,2015,autobus e pullman,18.7
+CY,2015,treno,NA
+CY,2016,TRN_BUS_TOT_AVD,18.6
+CY,2016,auto,81.4
+CY,2016,autobus e pullman,18.6
+CY,2016,treno,NA
+CY,2017,TRN_BUS_TOT_AVD,19
+CY,2017,auto,81
+CY,2017,autobus e pullman,19
+CY,2017,treno,NA
+CY,2018,TRN_BUS_TOT_AVD,18.9
+CY,2018,auto,81.1
+CY,2018,autobus e pullman,18.9
+CY,2018,treno,NA
+CY,2019,TRN_BUS_TOT_AVD,18.5
+CY,2019,auto,81.5
+CY,2019,autobus e pullman,18.5
+CY,2019,treno,NA
+CY,2020,TRN_BUS_TOT_AVD,12.7
+CY,2020,auto,87.3
+CY,2020,autobus e pullman,12.7
+CY,2020,treno,NA
+CY,2021,TRN_BUS_TOT_AVD,12.7
+CY,2021,auto,87.3
+CY,2021,autobus e pullman,12.7
+CY,2021,treno,NA
+CY,2022,TRN_BUS_TOT_AVD,15.6
+CY,2022,auto,84.4
+CY,2022,autobus e pullman,15.6
+CY,2022,treno,NA
+CY,2023,TRN_BUS_TOT_AVD,16.5
+CY,2023,auto,83.5
+CY,2023,autobus e pullman,16.5
+CY,2023,treno,NA
+CY,2024,TRN_BUS_TOT_AVD,17.2
+CY,2024,auto,82.8
+CY,2024,autobus e pullman,17.2
+CY,2024,treno,NA
+CZ,2010,TRN_BUS_TOT_AVD,26.5
+CZ,2010,auto,73.5
+CZ,2010,autobus e pullman,18.9
+CZ,2010,treno,7.6
+CZ,2011,TRN_BUS_TOT_AVD,24.7
+CZ,2011,auto,75.3
+CZ,2011,autobus e pullman,17
+CZ,2011,treno,7.7
+CZ,2012,TRN_BUS_TOT_AVD,25.2
+CZ,2012,auto,74.8
+CZ,2012,autobus e pullman,16.8
+CZ,2012,treno,8.4
+CZ,2013,TRN_BUS_TOT_AVD,25.6
+CZ,2013,auto,74.4
+CZ,2013,autobus e pullman,17
+CZ,2013,treno,8.6
+CZ,2014,TRN_BUS_TOT_AVD,27.2
+CZ,2014,auto,72.8
+CZ,2014,autobus e pullman,18.8
+CZ,2014,treno,8.4
+CZ,2015,TRN_BUS_TOT_AVD,25
+CZ,2015,auto,75
+CZ,2015,autobus e pullman,16.3
+CZ,2015,treno,8.7
+CZ,2016,TRN_BUS_TOT_AVD,24.7
+CZ,2016,auto,75.3
+CZ,2016,autobus e pullman,15.6
+CZ,2016,treno,9.1
+CZ,2017,TRN_BUS_TOT_AVD,25.3
+CZ,2017,auto,74.7
+CZ,2017,autobus e pullman,15.8
+CZ,2017,treno,9.5
+CZ,2018,TRN_BUS_TOT_AVD,25.3
+CZ,2018,auto,74.7
+CZ,2018,autobus e pullman,15.5
+CZ,2018,treno,9.8
+CZ,2019,TRN_BUS_TOT_AVD,25
+CZ,2019,auto,75
+CZ,2019,autobus e pullman,14.9
+CZ,2019,treno,10
+CZ,2020,TRN_BUS_TOT_AVD,18.3
+CZ,2020,auto,81.7
+CZ,2020,autobus e pullman,10.5
+CZ,2020,treno,7.8
+CZ,2021,TRN_BUS_TOT_AVD,15
+CZ,2021,auto,85
+CZ,2021,autobus e pullman,8.5
+CZ,2021,treno,6.5
+CZ,2022,TRN_BUS_TOT_AVD,18.8
+CZ,2022,auto,81.2
+CZ,2022,autobus e pullman,10.5
+CZ,2022,treno,8.4
+CZ,2023,TRN_BUS_TOT_AVD,19.5
+CZ,2023,auto,80.5
+CZ,2023,autobus e pullman,10.5
+CZ,2023,treno,9
+CZ,2024,TRN_BUS_TOT_AVD,18.8
+CZ,2024,auto,81.2
+CZ,2024,autobus e pullman,9.9
+CZ,2024,treno,8.8
+DE,2010,TRN_BUS_TOT_AVD,15.3
+DE,2010,auto,84.7
+DE,2010,autobus e pullman,7.4
+DE,2010,treno,7.9
+DE,2011,TRN_BUS_TOT_AVD,15.7
+DE,2011,auto,84.3
+DE,2011,autobus e pullman,7.3
+DE,2011,treno,8.4
+DE,2012,TRN_BUS_TOT_AVD,15.8
+DE,2012,auto,84.2
+DE,2012,autobus e pullman,7.1
+DE,2012,treno,8.8
+DE,2013,TRN_BUS_TOT_AVD,15.5
+DE,2013,auto,84.5
+DE,2013,autobus e pullman,7.2
+DE,2013,treno,8.3
+DE,2014,TRN_BUS_TOT_AVD,15.5
+DE,2014,auto,84.5
+DE,2014,autobus e pullman,7.2
+DE,2014,treno,8.3
+DE,2015,TRN_BUS_TOT_AVD,15.6
+DE,2015,auto,84.4
+DE,2015,autobus e pullman,7.4
+DE,2015,treno,8.2
+DE,2016,TRN_BUS_TOT_AVD,15.7
+DE,2016,auto,84.3
+DE,2016,autobus e pullman,7.3
+DE,2016,treno,8.4
+DE,2017,TRN_BUS_TOT_AVD,16
+DE,2017,auto,84
+DE,2017,autobus e pullman,7.3
+DE,2017,treno,8.7
+DE,2018,TRN_BUS_TOT_AVD,16.1
+DE,2018,auto,83.9
+DE,2018,autobus e pullman,7.2
+DE,2018,treno,8.9
+DE,2019,TRN_BUS_TOT_AVD,16.7
+DE,2019,auto,83.3
+DE,2019,autobus e pullman,7.4
+DE,2019,treno,9.3
+DE,2020,TRN_BUS_TOT_AVD,11.2
+DE,2020,auto,88.8
+DE,2020,autobus e pullman,4.8
+DE,2020,treno,6.3
+DE,2021,TRN_BUS_TOT_AVD,11.2
+DE,2021,auto,88.8
+DE,2021,autobus e pullman,4.9
+DE,2021,treno,6.3
+DE,2022,TRN_BUS_TOT_AVD,15.4
+DE,2022,auto,84.6
+DE,2022,autobus e pullman,6.1
+DE,2022,treno,9.3
+DE,2023,TRN_BUS_TOT_AVD,16.5
+DE,2023,auto,83.5
+DE,2023,autobus e pullman,6.5
+DE,2023,treno,9.9
+DE,2024,TRN_BUS_TOT_AVD,15.9
+DE,2024,auto,84.1
+DE,2024,autobus e pullman,5.3
+DE,2024,treno,10.6
+DK,2010,TRN_BUS_TOT_AVD,20.3
+DK,2010,auto,79.7
+DK,2010,autobus e pullman,10.5
+DK,2010,treno,9.8
+DK,2011,TRN_BUS_TOT_AVD,20
+DK,2011,auto,80
+DK,2011,autobus e pullman,10.1
+DK,2011,treno,10
+DK,2012,TRN_BUS_TOT_AVD,20.1
+DK,2012,auto,79.9
+DK,2012,autobus e pullman,9.8
+DK,2012,treno,10.2
+DK,2013,TRN_BUS_TOT_AVD,18.2
+DK,2013,auto,81.8
+DK,2013,autobus e pullman,8.9
+DK,2013,treno,9.3
+DK,2014,TRN_BUS_TOT_AVD,17.6
+DK,2014,auto,82.4
+DK,2014,autobus e pullman,8.9
+DK,2014,treno,8.8
+DK,2015,TRN_BUS_TOT_AVD,17.4
+DK,2015,auto,82.6
+DK,2015,autobus e pullman,8.9
+DK,2015,treno,8.5
+DK,2016,TRN_BUS_TOT_AVD,17
+DK,2016,auto,83
+DK,2016,autobus e pullman,9
+DK,2016,treno,8
+DK,2017,TRN_BUS_TOT_AVD,16.9
+DK,2017,auto,83.1
+DK,2017,autobus e pullman,9.1
+DK,2017,treno,7.8
+DK,2018,TRN_BUS_TOT_AVD,16.5
+DK,2018,auto,83.5
+DK,2018,autobus e pullman,8.9
+DK,2018,treno,7.6
+DK,2019,TRN_BUS_TOT_AVD,16
+DK,2019,auto,84
+DK,2019,autobus e pullman,8.5
+DK,2019,treno,7.5
+DK,2020,TRN_BUS_TOT_AVD,11.7
+DK,2020,auto,88.3
+DK,2020,autobus e pullman,6.3
+DK,2020,treno,5.4
+DK,2021,TRN_BUS_TOT_AVD,11.9
+DK,2021,auto,88.1
+DK,2021,autobus e pullman,6.4
+DK,2021,treno,5.5
+DK,2022,TRN_BUS_TOT_AVD,17.2
+DK,2022,auto,82.8
+DK,2022,autobus e pullman,10.1
+DK,2022,treno,7.1
+DK,2023,TRN_BUS_TOT_AVD,16.7
+DK,2023,auto,83.3
+DK,2023,autobus e pullman,9.4
+DK,2023,treno,7.3
+DK,2024,TRN_BUS_TOT_AVD,16.9
+DK,2024,auto,83.1
+DK,2024,autobus e pullman,9.2
+DK,2024,treno,7.7
+EE,2010,TRN_BUS_TOT_AVD,16.4
+EE,2010,auto,83.6
+EE,2010,autobus e pullman,14.4
+EE,2010,treno,2
+EE,2011,TRN_BUS_TOT_AVD,15.9
+EE,2011,auto,84.1
+EE,2011,autobus e pullman,14
+EE,2011,treno,2
+EE,2012,TRN_BUS_TOT_AVD,16.4
+EE,2012,auto,83.6
+EE,2012,autobus e pullman,14.6
+EE,2012,treno,1.8
+EE,2013,TRN_BUS_TOT_AVD,18.3
+EE,2013,auto,81.7
+EE,2013,autobus e pullman,16.4
+EE,2013,treno,1.9
+EE,2014,TRN_BUS_TOT_AVD,17.4
+EE,2014,auto,82.6
+EE,2014,autobus e pullman,15.3
+EE,2014,treno,2.2
+EE,2015,TRN_BUS_TOT_AVD,19.4
+EE,2015,auto,80.6
+EE,2015,autobus e pullman,17.3
+EE,2015,treno,2.1
+EE,2016,TRN_BUS_TOT_AVD,22.4
+EE,2016,auto,77.6
+EE,2016,autobus e pullman,20.2
+EE,2016,treno,2.2
+EE,2017,TRN_BUS_TOT_AVD,21.9
+EE,2017,auto,78.1
+EE,2017,autobus e pullman,19.4
+EE,2017,treno,2.5
+EE,2018,TRN_BUS_TOT_AVD,21.9
+EE,2018,auto,78.1
+EE,2018,autobus e pullman,19.1
+EE,2018,treno,2.8
+EE,2019,TRN_BUS_TOT_AVD,22.5
+EE,2019,auto,77.5
+EE,2019,autobus e pullman,20
+EE,2019,treno,2.5
+EE,2020,TRN_BUS_TOT_AVD,12
+EE,2020,auto,88
+EE,2020,autobus e pullman,10
+EE,2020,treno,1.9
+EE,2021,TRN_BUS_TOT_AVD,11.4
+EE,2021,auto,88.6
+EE,2021,autobus e pullman,9.3
+EE,2021,treno,2.1
+EE,2022,TRN_BUS_TOT_AVD,15.7
+EE,2022,auto,84.3
+EE,2022,autobus e pullman,13.1
+EE,2022,treno,2.6
+EE,2023,TRN_BUS_TOT_AVD,18
+EE,2023,auto,82
+EE,2023,autobus e pullman,15.5
+EE,2023,treno,2.6
+EE,2024,TRN_BUS_TOT_AVD,14
+EE,2024,auto,86
+EE,2024,autobus e pullman,11.5
+EE,2024,treno,2.5
+EL,2010,TRN_BUS_TOT_AVD,18.4
+EL,2010,auto,81.6
+EL,2010,autobus e pullman,17.3
+EL,2010,treno,1.1
+EL,2011,TRN_BUS_TOT_AVD,18.4
+EL,2011,auto,81.6
+EL,2011,autobus e pullman,17.6
+EL,2011,treno,0.8
+EL,2012,TRN_BUS_TOT_AVD,18.4
+EL,2012,auto,81.6
+EL,2012,autobus e pullman,17.7
+EL,2012,treno,0.7
+EL,2013,TRN_BUS_TOT_AVD,18.7
+EL,2013,auto,81.3
+EL,2013,autobus e pullman,17.8
+EL,2013,treno,0.9
+EL,2014,TRN_BUS_TOT_AVD,18.6
+EL,2014,auto,81.4
+EL,2014,autobus e pullman,17.7
+EL,2014,treno,0.9
+EL,2015,TRN_BUS_TOT_AVD,18.6
+EL,2015,auto,81.4
+EL,2015,autobus e pullman,17.5
+EL,2015,treno,1
+EL,2016,TRN_BUS_TOT_AVD,18.1
+EL,2016,auto,81.9
+EL,2016,autobus e pullman,17.1
+EL,2016,treno,1
+EL,2017,TRN_BUS_TOT_AVD,17.5
+EL,2017,auto,82.5
+EL,2017,autobus e pullman,16.6
+EL,2017,treno,0.9
+EL,2018,TRN_BUS_TOT_AVD,17.3
+EL,2018,auto,82.7
+EL,2018,autobus e pullman,16.4
+EL,2018,treno,0.9
+EL,2019,TRN_BUS_TOT_AVD,17
+EL,2019,auto,83
+EL,2019,autobus e pullman,16
+EL,2019,treno,1
+EL,2020,TRN_BUS_TOT_AVD,13.3
+EL,2020,auto,86.7
+EL,2020,autobus e pullman,12.7
+EL,2020,treno,0.6
+EL,2021,TRN_BUS_TOT_AVD,12.9
+EL,2021,auto,87.1
+EL,2021,autobus e pullman,12.3
+EL,2021,treno,0.6
+EL,2022,TRN_BUS_TOT_AVD,15.4
+EL,2022,auto,84.6
+EL,2022,autobus e pullman,14.4
+EL,2022,treno,0.9
+EL,2023,TRN_BUS_TOT_AVD,15.2
+EL,2023,auto,84.8
+EL,2023,autobus e pullman,14.7
+EL,2023,treno,0.5
+EL,2024,TRN_BUS_TOT_AVD,15.9
+EL,2024,auto,84.1
+EL,2024,autobus e pullman,15.3
+EL,2024,treno,0.6
+ES,2010,TRN_BUS_TOT_AVD,17.7
+ES,2010,auto,82.3
+ES,2010,autobus e pullman,12.3
+ES,2010,treno,5.4
+ES,2011,TRN_BUS_TOT_AVD,19.1
+ES,2011,auto,80.9
+ES,2011,autobus e pullman,13.5
+ES,2011,treno,5.6
+ES,2012,TRN_BUS_TOT_AVD,19.3
+ES,2012,auto,80.7
+ES,2012,autobus e pullman,13.7
+ES,2012,treno,5.6
+ES,2013,TRN_BUS_TOT_AVD,19.3
+ES,2013,auto,80.7
+ES,2013,autobus e pullman,13.2
+ES,2013,treno,6.1
+ES,2014,TRN_BUS_TOT_AVD,17.3
+ES,2014,auto,82.7
+ES,2014,autobus e pullman,10.6
+ES,2014,treno,6.7
+ES,2015,TRN_BUS_TOT_AVD,18.6
+ES,2015,auto,81.4
+ES,2015,autobus e pullman,11.9
+ES,2015,treno,6.7
+ES,2016,TRN_BUS_TOT_AVD,18.4
+ES,2016,auto,81.6
+ES,2016,autobus e pullman,11.8
+ES,2016,treno,6.6
+ES,2017,TRN_BUS_TOT_AVD,14.8
+ES,2017,auto,85.2
+ES,2017,autobus e pullman,7.8
+ES,2017,treno,7
+ES,2018,TRN_BUS_TOT_AVD,15.1
+ES,2018,auto,84.9
+ES,2018,autobus e pullman,8
+ES,2018,treno,7.1
+ES,2019,TRN_BUS_TOT_AVD,15.4
+ES,2019,auto,84.6
+ES,2019,autobus e pullman,8.2
+ES,2019,treno,7.1
+ES,2020,TRN_BUS_TOT_AVD,10.5
+ES,2020,auto,89.5
+ES,2020,autobus e pullman,6.4
+ES,2020,treno,4.1
+ES,2021,TRN_BUS_TOT_AVD,12.6
+ES,2021,auto,87.4
+ES,2021,autobus e pullman,8
+ES,2021,treno,4.6
+ES,2022,TRN_BUS_TOT_AVD,16
+ES,2022,auto,84
+ES,2022,autobus e pullman,9.3
+ES,2022,treno,6.7
+ES,2023,TRN_BUS_TOT_AVD,18.1
+ES,2023,auto,81.9
+ES,2023,autobus e pullman,10
+ES,2023,treno,8.2
+ES,2024,TRN_BUS_TOT_AVD,19.2
+ES,2024,auto,80.8
+ES,2024,autobus e pullman,10.4
+ES,2024,treno,8.8
+EU27_2020,2010,TRN_BUS_TOT_AVD,19.7
+EU27_2020,2010,auto,80.3
+EU27_2020,2010,autobus e pullman,11
+EU27_2020,2010,treno,8.7
+EU27_2020,2011,TRN_BUS_TOT_AVD,20
+EU27_2020,2011,auto,80
+EU27_2020,2011,autobus e pullman,11
+EU27_2020,2011,treno,9
+EU27_2020,2012,TRN_BUS_TOT_AVD,20.4
+EU27_2020,2012,auto,79.6
+EU27_2020,2012,autobus e pullman,11.2
+EU27_2020,2012,treno,9.2
+EU27_2020,2013,TRN_BUS_TOT_AVD,17.9
+EU27_2020,2013,auto,82.1
+EU27_2020,2013,autobus e pullman,10.3
+EU27_2020,2013,treno,7.6
+EU27_2020,2014,TRN_BUS_TOT_AVD,17.5
+EU27_2020,2014,auto,82.5
+EU27_2020,2014,autobus e pullman,9.9
+EU27_2020,2014,treno,7.6
+EU27_2020,2015,TRN_BUS_TOT_AVD,17.4
+EU27_2020,2015,auto,82.6
+EU27_2020,2015,autobus e pullman,9.9
+EU27_2020,2015,treno,7.6
+EU27_2020,2016,TRN_BUS_TOT_AVD,17.3
+EU27_2020,2016,auto,82.7
+EU27_2020,2016,autobus e pullman,9.8
+EU27_2020,2016,treno,7.6
+EU27_2020,2017,TRN_BUS_TOT_AVD,17
+EU27_2020,2017,auto,83
+EU27_2020,2017,autobus e pullman,9.4
+EU27_2020,2017,treno,7.6
+EU27_2020,2018,TRN_BUS_TOT_AVD,17.1
+EU27_2020,2018,auto,82.9
+EU27_2020,2018,autobus e pullman,9.3
+EU27_2020,2018,treno,7.7
+EU27_2020,2019,TRN_BUS_TOT_AVD,17.3
+EU27_2020,2019,auto,82.7
+EU27_2020,2019,autobus e pullman,9.4
+EU27_2020,2019,treno,7.9
+EU27_2020,2020,TRN_BUS_TOT_AVD,12.8
+EU27_2020,2020,auto,87.2
+EU27_2020,2020,autobus e pullman,7.4
+EU27_2020,2020,treno,5.5
+EU27_2020,2021,TRN_BUS_TOT_AVD,13.3
+EU27_2020,2021,auto,86.7
+EU27_2020,2021,autobus e pullman,7.6
+EU27_2020,2021,treno,5.7
+EU27_2020,2022,TRN_BUS_TOT_AVD,16.5
+EU27_2020,2022,auto,83.5
+EU27_2020,2022,autobus e pullman,8.5
+EU27_2020,2022,treno,8
+EU27_2020,2023,TRN_BUS_TOT_AVD,17.3
+EU27_2020,2023,auto,82.7
+EU27_2020,2023,autobus e pullman,8.8
+EU27_2020,2023,treno,8.5
+EU27_2020,2024,TRN_BUS_TOT_AVD,17.5
+EU27_2020,2024,auto,82.5
+EU27_2020,2024,autobus e pullman,8.6
+EU27_2020,2024,treno,8.9
+FI,2010,TRN_BUS_TOT_AVD,15.1
+FI,2010,auto,84.9
+FI,2010,autobus e pullman,9.9
+FI,2010,treno,5.2
+FI,2011,TRN_BUS_TOT_AVD,14.9
+FI,2011,auto,85.1
+FI,2011,autobus e pullman,9.8
+FI,2011,treno,5
+FI,2012,TRN_BUS_TOT_AVD,15.1
+FI,2012,auto,84.9
+FI,2012,autobus e pullman,9.8
+FI,2012,treno,5.3
+FI,2013,TRN_BUS_TOT_AVD,15.1
+FI,2013,auto,84.9
+FI,2013,autobus e pullman,9.8
+FI,2013,treno,5.3
+FI,2014,TRN_BUS_TOT_AVD,14.8
+FI,2014,auto,85.2
+FI,2014,autobus e pullman,9.8
+FI,2014,treno,5
+FI,2015,TRN_BUS_TOT_AVD,15
+FI,2015,auto,85
+FI,2015,autobus e pullman,9.7
+FI,2015,treno,5.3
+FI,2016,TRN_BUS_TOT_AVD,15.4
+FI,2016,auto,84.6
+FI,2016,autobus e pullman,10.5
+FI,2016,treno,4.9
+FI,2017,TRN_BUS_TOT_AVD,15.8
+FI,2017,auto,84.2
+FI,2017,autobus e pullman,10.4
+FI,2017,treno,5.4
+FI,2018,TRN_BUS_TOT_AVD,15.8
+FI,2018,auto,84.2
+FI,2018,autobus e pullman,10.1
+FI,2018,treno,5.7
+FI,2019,TRN_BUS_TOT_AVD,16.1
+FI,2019,auto,83.9
+FI,2019,autobus e pullman,9.9
+FI,2019,treno,6.2
+FI,2020,TRN_BUS_TOT_AVD,13
+FI,2020,auto,87
+FI,2020,autobus e pullman,9.2
+FI,2020,treno,3.8
+FI,2021,TRN_BUS_TOT_AVD,12.3
+FI,2021,auto,87.7
+FI,2021,autobus e pullman,8.3
+FI,2021,treno,4
+FI,2022,TRN_BUS_TOT_AVD,15.8
+FI,2022,auto,84.2
+FI,2022,autobus e pullman,9.4
+FI,2022,treno,6.4
+FI,2023,TRN_BUS_TOT_AVD,17
+FI,2023,auto,83
+FI,2023,autobus e pullman,9.9
+FI,2023,treno,7.1
+FI,2024,TRN_BUS_TOT_AVD,17.4
+FI,2024,auto,82.6
+FI,2024,autobus e pullman,10
+FI,2024,treno,7.4
+FR,2010,TRN_BUS_TOT_AVD,99.1
+FR,2010,auto,0.9
+FR,2010,autobus e pullman,0.1
+FR,2010,treno,99.1
+FR,2011,TRN_BUS_TOT_AVD,99.2
+FR,2011,auto,0.8
+FR,2011,autobus e pullman,0.1
+FR,2011,treno,99.1
+FR,2012,TRN_BUS_TOT_AVD,99.1
+FR,2012,auto,0.9
+FR,2012,autobus e pullman,0.1
+FR,2012,treno,99.1
+FR,2013,TRN_BUS_TOT_AVD,15.6
+FR,2013,auto,84.4
+FR,2013,autobus e pullman,5.5
+FR,2013,treno,10.1
+FR,2014,TRN_BUS_TOT_AVD,15.4
+FR,2014,auto,84.6
+FR,2014,autobus e pullman,5.6
+FR,2014,treno,9.9
+FR,2015,TRN_BUS_TOT_AVD,15.5
+FR,2015,auto,84.5
+FR,2015,autobus e pullman,5.6
+FR,2015,treno,9.9
+FR,2016,TRN_BUS_TOT_AVD,15.4
+FR,2016,auto,84.6
+FR,2016,autobus e pullman,5.6
+FR,2016,treno,9.8
+FR,2017,TRN_BUS_TOT_AVD,15.4
+FR,2017,auto,84.6
+FR,2017,autobus e pullman,5.6
+FR,2017,treno,9.8
+FR,2018,TRN_BUS_TOT_AVD,15.2
+FR,2018,auto,84.8
+FR,2018,autobus e pullman,5.7
+FR,2018,treno,9.5
+FR,2019,TRN_BUS_TOT_AVD,15.6
+FR,2019,auto,84.4
+FR,2019,autobus e pullman,5.7
+FR,2019,treno,9.9
+FR,2020,TRN_BUS_TOT_AVD,12.1
+FR,2020,auto,87.9
+FR,2020,autobus e pullman,4.9
+FR,2020,treno,7.3
+FR,2021,TRN_BUS_TOT_AVD,13.3
+FR,2021,auto,86.7
+FR,2021,autobus e pullman,4.8
+FR,2021,treno,8.5
+FR,2022,TRN_BUS_TOT_AVD,15.4
+FR,2022,auto,84.6
+FR,2022,autobus e pullman,4.9
+FR,2022,treno,10.4
+FR,2023,TRN_BUS_TOT_AVD,16.2
+FR,2023,auto,83.8
+FR,2023,autobus e pullman,5.1
+FR,2023,treno,11.1
+FR,2024,TRN_BUS_TOT_AVD,17.4
+FR,2024,auto,82.6
+FR,2024,autobus e pullman,5.9
+FR,2024,treno,11.6
+HR,2010,TRN_BUS_TOT_AVD,16.3
+HR,2010,auto,83.7
+HR,2010,autobus e pullman,10.7
+HR,2010,treno,5.6
+HR,2011,TRN_BUS_TOT_AVD,15.4
+HR,2011,auto,84.6
+HR,2011,autobus e pullman,10.5
+HR,2011,treno,4.9
+HR,2012,TRN_BUS_TOT_AVD,14.2
+HR,2012,auto,85.8
+HR,2012,autobus e pullman,10.7
+HR,2012,treno,3.5
+HR,2013,TRN_BUS_TOT_AVD,14.5
+HR,2013,auto,85.5
+HR,2013,autobus e pullman,11.5
+HR,2013,treno,3.1
+HR,2014,TRN_BUS_TOT_AVD,14.9
+HR,2014,auto,85.1
+HR,2014,autobus e pullman,11.9
+HR,2014,treno,3
+HR,2015,TRN_BUS_TOT_AVD,14.1
+HR,2015,auto,85.9
+HR,2015,autobus e pullman,11
+HR,2015,treno,3.1
+HR,2016,TRN_BUS_TOT_AVD,15
+HR,2016,auto,85
+HR,2016,autobus e pullman,12.3
+HR,2016,treno,2.7
+HR,2017,TRN_BUS_TOT_AVD,15.7
+HR,2017,auto,84.3
+HR,2017,autobus e pullman,13.4
+HR,2017,treno,2.4
+HR,2018,TRN_BUS_TOT_AVD,15.2
+HR,2018,auto,84.8
+HR,2018,autobus e pullman,12.7
+HR,2018,treno,2.5
+HR,2019,TRN_BUS_TOT_AVD,15.8
+HR,2019,auto,84.2
+HR,2019,autobus e pullman,13.4
+HR,2019,treno,2.4
+HR,2020,TRN_BUS_TOT_AVD,11.1
+HR,2020,auto,88.9
+HR,2020,autobus e pullman,9.1
+HR,2020,treno,2
+HR,2021,TRN_BUS_TOT_AVD,11.2
+HR,2021,auto,88.8
+HR,2021,autobus e pullman,9.2
+HR,2021,treno,2.1
+HR,2022,TRN_BUS_TOT_AVD,14.5
+HR,2022,auto,85.5
+HR,2022,autobus e pullman,11.6
+HR,2022,treno,2.9
+HR,2023,TRN_BUS_TOT_AVD,16.1
+HR,2023,auto,83.9
+HR,2023,autobus e pullman,12.2
+HR,2023,treno,4
+HR,2024,TRN_BUS_TOT_AVD,17
+HR,2024,auto,83
+HR,2024,autobus e pullman,13
+HR,2024,treno,4
+HU,2010,TRN_BUS_TOT_AVD,31.5
+HU,2010,auto,68.5
+HU,2010,autobus e pullman,21.5
+HU,2010,treno,10
+HU,2011,TRN_BUS_TOT_AVD,31.7
+HU,2011,auto,68.3
+HU,2011,autobus e pullman,21.5
+HU,2011,treno,10.2
+HU,2012,TRN_BUS_TOT_AVD,32.4
+HU,2012,auto,67.6
+HU,2012,autobus e pullman,22.3
+HU,2012,treno,10.1
+HU,2013,TRN_BUS_TOT_AVD,31.7
+HU,2013,auto,68.3
+HU,2013,autobus e pullman,21.4
+HU,2013,treno,10.3
+HU,2014,TRN_BUS_TOT_AVD,31.4
+HU,2014,auto,68.6
+HU,2014,autobus e pullman,21.3
+HU,2014,treno,10
+HU,2015,TRN_BUS_TOT_AVD,30.5
+HU,2015,auto,69.5
+HU,2015,autobus e pullman,20.9
+HU,2015,treno,9.7
+HU,2016,TRN_BUS_TOT_AVD,30.8
+HU,2016,auto,69.2
+HU,2016,autobus e pullman,21.5
+HU,2016,treno,9.2
+HU,2017,TRN_BUS_TOT_AVD,30
+HU,2017,auto,70
+HU,2017,autobus e pullman,21.1
+HU,2017,treno,8.9
+HU,2018,TRN_BUS_TOT_AVD,28.1
+HU,2018,auto,71.9
+HU,2018,autobus e pullman,19.3
+HU,2018,treno,8.7
+HU,2019,TRN_BUS_TOT_AVD,27.1
+HU,2019,auto,72.9
+HU,2019,autobus e pullman,18.6
+HU,2019,treno,8.4
+HU,2020,TRN_BUS_TOT_AVD,21.2
+HU,2020,auto,78.8
+HU,2020,autobus e pullman,15.3
+HU,2020,treno,6
+HU,2021,TRN_BUS_TOT_AVD,20.7
+HU,2021,auto,79.3
+HU,2021,autobus e pullman,14.3
+HU,2021,treno,6.4
+HU,2022,TRN_BUS_TOT_AVD,23.8
+HU,2022,auto,76.2
+HU,2022,autobus e pullman,15.6
+HU,2022,treno,8.2
+HU,2023,TRN_BUS_TOT_AVD,24.5
+HU,2023,auto,75.5
+HU,2023,autobus e pullman,14.5
+HU,2023,treno,10
+HU,2024,TRN_BUS_TOT_AVD,33.1
+HU,2024,auto,66.9
+HU,2024,autobus e pullman,19
+HU,2024,treno,14
+IE,2010,TRN_BUS_TOT_AVD,17.4
+IE,2010,auto,82.6
+IE,2010,autobus e pullman,14.5
+IE,2010,treno,2.9
+IE,2011,TRN_BUS_TOT_AVD,17.4
+IE,2011,auto,82.6
+IE,2011,autobus e pullman,14.6
+IE,2011,treno,2.9
+IE,2012,TRN_BUS_TOT_AVD,17.2
+IE,2012,auto,82.8
+IE,2012,autobus e pullman,14.4
+IE,2012,treno,2.8
+IE,2013,TRN_BUS_TOT_AVD,16.8
+IE,2013,auto,83.2
+IE,2013,autobus e pullman,14.1
+IE,2013,treno,2.7
+IE,2014,TRN_BUS_TOT_AVD,17.7
+IE,2014,auto,82.3
+IE,2014,autobus e pullman,14.7
+IE,2014,treno,3
+IE,2015,TRN_BUS_TOT_AVD,16.7
+IE,2015,auto,83.3
+IE,2015,autobus e pullman,13.7
+IE,2015,treno,3.1
+IE,2016,TRN_BUS_TOT_AVD,16.6
+IE,2016,auto,83.4
+IE,2016,autobus e pullman,13.6
+IE,2016,treno,3
+IE,2017,TRN_BUS_TOT_AVD,17.4
+IE,2017,auto,82.6
+IE,2017,autobus e pullman,14.3
+IE,2017,treno,3.1
+IE,2018,TRN_BUS_TOT_AVD,18.3
+IE,2018,auto,81.7
+IE,2018,autobus e pullman,15
+IE,2018,treno,3.3
+IE,2019,TRN_BUS_TOT_AVD,18.2
+IE,2019,auto,81.8
+IE,2019,autobus e pullman,14.9
+IE,2019,treno,3.3
+IE,2020,TRN_BUS_TOT_AVD,13.9
+IE,2020,auto,86.1
+IE,2020,autobus e pullman,12.5
+IE,2020,treno,1.4
+IE,2021,TRN_BUS_TOT_AVD,14.3
+IE,2021,auto,85.7
+IE,2021,autobus e pullman,13
+IE,2021,treno,1.4
+IE,2022,TRN_BUS_TOT_AVD,15.4
+IE,2022,auto,84.6
+IE,2022,autobus e pullman,12.8
+IE,2022,treno,2.6
+IE,2023,TRN_BUS_TOT_AVD,21.4
+IE,2023,auto,78.6
+IE,2023,autobus e pullman,18.5
+IE,2023,treno,2.9
+IE,2024,TRN_BUS_TOT_AVD,22.1
+IE,2024,auto,77.9
+IE,2024,autobus e pullman,19
+IE,2024,treno,3.1
+IT,2010,TRN_BUS_TOT_AVD,18.3
+IT,2010,auto,81.7
+IT,2010,autobus e pullman,12.8
+IT,2010,treno,5.5
+IT,2011,TRN_BUS_TOT_AVD,18.9
+IT,2011,auto,81.1
+IT,2011,autobus e pullman,13.2
+IT,2011,treno,5.7
+IT,2012,TRN_BUS_TOT_AVD,21.1
+IT,2012,auto,78.9
+IT,2012,autobus e pullman,14.7
+IT,2012,treno,6.4
+IT,2013,TRN_BUS_TOT_AVD,20.3
+IT,2013,auto,79.7
+IT,2013,autobus e pullman,14.1
+IT,2013,treno,6.3
+IT,2014,TRN_BUS_TOT_AVD,19.2
+IT,2014,auto,80.8
+IT,2014,autobus e pullman,12.9
+IT,2014,treno,6.3
+IT,2015,TRN_BUS_TOT_AVD,18.6
+IT,2015,auto,81.4
+IT,2015,autobus e pullman,12.3
+IT,2015,treno,6.3
+IT,2016,TRN_BUS_TOT_AVD,18
+IT,2016,auto,82
+IT,2016,autobus e pullman,11.9
+IT,2016,treno,6.1
+IT,2017,TRN_BUS_TOT_AVD,17.3
+IT,2017,auto,82.7
+IT,2017,autobus e pullman,11.4
+IT,2017,treno,5.9
+IT,2018,TRN_BUS_TOT_AVD,18
+IT,2018,auto,82
+IT,2018,autobus e pullman,11.7
+IT,2018,treno,6.3
+IT,2019,TRN_BUS_TOT_AVD,18
+IT,2019,auto,82
+IT,2019,autobus e pullman,11.7
+IT,2019,treno,6.3
+IT,2020,TRN_BUS_TOT_AVD,15
+IT,2020,auto,85
+IT,2020,autobus e pullman,10.9
+IT,2020,treno,4.1
+IT,2021,TRN_BUS_TOT_AVD,15.3
+IT,2021,auto,84.7
+IT,2021,autobus e pullman,11.3
+IT,2021,treno,4
+IT,2022,TRN_BUS_TOT_AVD,18.3
+IT,2022,auto,81.7
+IT,2022,autobus e pullman,12
+IT,2022,treno,6.3
+IT,2023,TRN_BUS_TOT_AVD,18
+IT,2023,auto,82
+IT,2023,autobus e pullman,11.4
+IT,2023,treno,6.7
+IT,2024,TRN_BUS_TOT_AVD,16.7
+IT,2024,auto,83.3
+IT,2024,autobus e pullman,9.7
+IT,2024,treno,7
+LT,2010,TRN_BUS_TOT_AVD,8.3
+LT,2010,auto,91.7
+LT,2010,autobus e pullman,7.6
+LT,2010,treno,0.7
+LT,2011,TRN_BUS_TOT_AVD,9.2
+LT,2011,auto,90.8
+LT,2011,autobus e pullman,8.3
+LT,2011,treno,0.8
+LT,2012,TRN_BUS_TOT_AVD,8.1
+LT,2012,auto,91.9
+LT,2012,autobus e pullman,7.3
+LT,2012,treno,0.7
+LT,2013,TRN_BUS_TOT_AVD,8.6
+LT,2013,auto,91.4
+LT,2013,autobus e pullman,7.8
+LT,2013,treno,0.8
+LT,2014,TRN_BUS_TOT_AVD,11.7
+LT,2014,auto,88.3
+LT,2014,autobus e pullman,10.8
+LT,2014,treno,1
+LT,2015,TRN_BUS_TOT_AVD,10.8
+LT,2015,auto,89.2
+LT,2015,autobus e pullman,9.9
+LT,2015,treno,0.9
+LT,2016,TRN_BUS_TOT_AVD,10.1
+LT,2016,auto,89.9
+LT,2016,autobus e pullman,9.1
+LT,2016,treno,1
+LT,2017,TRN_BUS_TOT_AVD,8.9
+LT,2017,auto,91.1
+LT,2017,autobus e pullman,8
+LT,2017,treno,0.9
+LT,2018,TRN_BUS_TOT_AVD,9.6
+LT,2018,auto,90.4
+LT,2018,autobus e pullman,8.5
+LT,2018,treno,1.1
+LT,2019,TRN_BUS_TOT_AVD,9.4
+LT,2019,auto,90.6
+LT,2019,autobus e pullman,8.4
+LT,2019,treno,1
+LT,2020,TRN_BUS_TOT_AVD,5.8
+LT,2020,auto,94.2
+LT,2020,autobus e pullman,5.1
+LT,2020,treno,0.8
+LT,2021,TRN_BUS_TOT_AVD,5.3
+LT,2021,auto,94.7
+LT,2021,autobus e pullman,4.5
+LT,2021,treno,0.9
+LT,2022,TRN_BUS_TOT_AVD,7.1
+LT,2022,auto,92.9
+LT,2022,autobus e pullman,6
+LT,2022,treno,1.1
+LT,2023,TRN_BUS_TOT_AVD,7.9
+LT,2023,auto,92.1
+LT,2023,autobus e pullman,6.8
+LT,2023,treno,1
+LT,2024,TRN_BUS_TOT_AVD,9
+LT,2024,auto,91
+LT,2024,autobus e pullman,7.9
+LT,2024,treno,1.1
+LU,2010,TRN_BUS_TOT_AVD,16.5
+LU,2010,auto,83.5
+LU,2010,autobus e pullman,12.1
+LU,2010,treno,4.5
+LU,2011,TRN_BUS_TOT_AVD,16.9
+LU,2011,auto,83.1
+LU,2011,autobus e pullman,12.5
+LU,2011,treno,4.4
+LU,2012,TRN_BUS_TOT_AVD,17
+LU,2012,auto,83
+LU,2012,autobus e pullman,12.4
+LU,2012,treno,4.6
+LU,2013,TRN_BUS_TOT_AVD,17.2
+LU,2013,auto,82.8
+LU,2013,autobus e pullman,12.4
+LU,2013,treno,4.8
+LU,2014,TRN_BUS_TOT_AVD,16.4
+LU,2014,auto,83.6
+LU,2014,autobus e pullman,12.2
+LU,2014,treno,4.3
+LU,2015,TRN_BUS_TOT_AVD,17.1
+LU,2015,auto,82.9
+LU,2015,autobus e pullman,12.4
+LU,2015,treno,4.7
+LU,2016,TRN_BUS_TOT_AVD,16.9
+LU,2016,auto,83.1
+LU,2016,autobus e pullman,12.3
+LU,2016,treno,4.6
+LU,2017,TRN_BUS_TOT_AVD,17.1
+LU,2017,auto,82.9
+LU,2017,autobus e pullman,12.4
+LU,2017,treno,4.7
+LU,2018,TRN_BUS_TOT_AVD,17.1
+LU,2018,auto,82.9
+LU,2018,autobus e pullman,12.4
+LU,2018,treno,4.7
+LU,2019,TRN_BUS_TOT_AVD,17.4
+LU,2019,auto,82.6
+LU,2019,autobus e pullman,12.6
+LU,2019,treno,4.8
+LU,2020,TRN_BUS_TOT_AVD,13.4
+LU,2020,auto,86.6
+LU,2020,autobus e pullman,10.2
+LU,2020,treno,3.3
+LU,2021,TRN_BUS_TOT_AVD,13.7
+LU,2021,auto,86.3
+LU,2021,autobus e pullman,10.2
+LU,2021,treno,3.5
+LU,2022,TRN_BUS_TOT_AVD,16.9
+LU,2022,auto,83.1
+LU,2022,autobus e pullman,12.8
+LU,2022,treno,4.1
+LU,2023,TRN_BUS_TOT_AVD,18.4
+LU,2023,auto,81.6
+LU,2023,autobus e pullman,13.4
+LU,2023,treno,5
+LU,2024,TRN_BUS_TOT_AVD,20
+LU,2024,auto,80
+LU,2024,autobus e pullman,14.6
+LU,2024,treno,5.4
+LV,2010,TRN_BUS_TOT_AVD,21.8
+LV,2010,auto,78.2
+LV,2010,autobus e pullman,17.1
+LV,2010,treno,4.7
+LV,2011,TRN_BUS_TOT_AVD,23.8
+LV,2011,auto,76.2
+LV,2011,autobus e pullman,18.9
+LV,2011,treno,4.9
+LV,2012,TRN_BUS_TOT_AVD,23.1
+LV,2012,auto,76.9
+LV,2012,autobus e pullman,18.3
+LV,2012,treno,4.8
+LV,2013,TRN_BUS_TOT_AVD,22.7
+LV,2013,auto,77.3
+LV,2013,autobus e pullman,18
+LV,2013,treno,4.7
+LV,2014,TRN_BUS_TOT_AVD,21
+LV,2014,auto,79
+LV,2014,autobus e pullman,17
+LV,2014,treno,4
+LV,2015,TRN_BUS_TOT_AVD,19.3
+LV,2015,auto,80.7
+LV,2015,autobus e pullman,15.8
+LV,2015,treno,3.5
+LV,2016,TRN_BUS_TOT_AVD,18.5
+LV,2016,auto,81.5
+LV,2016,autobus e pullman,15.1
+LV,2016,treno,3.4
+LV,2017,TRN_BUS_TOT_AVD,17.3
+LV,2017,auto,82.7
+LV,2017,autobus e pullman,14
+LV,2017,treno,3.3
+LV,2018,TRN_BUS_TOT_AVD,17.3
+LV,2018,auto,82.7
+LV,2018,autobus e pullman,13.9
+LV,2018,treno,3.4
+LV,2019,TRN_BUS_TOT_AVD,17.2
+LV,2019,auto,82.8
+LV,2019,autobus e pullman,13.7
+LV,2019,treno,3.4
+LV,2020,TRN_BUS_TOT_AVD,12.3
+LV,2020,auto,87.7
+LV,2020,autobus e pullman,9.9
+LV,2020,treno,2.5
+LV,2021,TRN_BUS_TOT_AVD,11.5
+LV,2021,auto,88.5
+LV,2021,autobus e pullman,9.1
+LV,2021,treno,2.4
+LV,2022,TRN_BUS_TOT_AVD,15.3
+LV,2022,auto,84.7
+LV,2022,autobus e pullman,11.7
+LV,2022,treno,3.6
+LV,2023,TRN_BUS_TOT_AVD,15.8
+LV,2023,auto,84.2
+LV,2023,autobus e pullman,11.9
+LV,2023,treno,3.8
+LV,2024,TRN_BUS_TOT_AVD,16.5
+LV,2024,auto,83.5
+LV,2024,autobus e pullman,12.2
+LV,2024,treno,4.3
+MT,2010,TRN_BUS_TOT_AVD,18.5
+MT,2010,auto,81.5
+MT,2010,autobus e pullman,18.5
+MT,2010,treno,NA
+MT,2011,TRN_BUS_TOT_AVD,17.6
+MT,2011,auto,82.4
+MT,2011,autobus e pullman,17.6
+MT,2011,treno,NA
+MT,2012,TRN_BUS_TOT_AVD,17.5
+MT,2012,auto,82.5
+MT,2012,autobus e pullman,17.5
+MT,2012,treno,NA
+MT,2013,TRN_BUS_TOT_AVD,17
+MT,2013,auto,83
+MT,2013,autobus e pullman,17
+MT,2013,treno,NA
+MT,2014,TRN_BUS_TOT_AVD,16.9
+MT,2014,auto,83.1
+MT,2014,autobus e pullman,16.9
+MT,2014,treno,NA
+MT,2015,TRN_BUS_TOT_AVD,17.7
+MT,2015,auto,82.3
+MT,2015,autobus e pullman,17.7
+MT,2015,treno,NA
+MT,2016,TRN_BUS_TOT_AVD,17.4
+MT,2016,auto,82.6
+MT,2016,autobus e pullman,17.4
+MT,2016,treno,NA
+MT,2017,TRN_BUS_TOT_AVD,17.5
+MT,2017,auto,82.5
+MT,2017,autobus e pullman,17.5
+MT,2017,treno,NA
+MT,2018,TRN_BUS_TOT_AVD,17.5
+MT,2018,auto,82.5
+MT,2018,autobus e pullman,17.5
+MT,2018,treno,NA
+MT,2019,TRN_BUS_TOT_AVD,18.2
+MT,2019,auto,81.8
+MT,2019,autobus e pullman,18.2
+MT,2019,treno,NA
+MT,2020,TRN_BUS_TOT_AVD,13.9
+MT,2020,auto,86.1
+MT,2020,autobus e pullman,13.9
+MT,2020,treno,NA
+MT,2021,TRN_BUS_TOT_AVD,14.1
+MT,2021,auto,85.9
+MT,2021,autobus e pullman,14.1
+MT,2021,treno,NA
+MT,2022,TRN_BUS_TOT_AVD,17.1
+MT,2022,auto,82.9
+MT,2022,autobus e pullman,17.1
+MT,2022,treno,NA
+MT,2023,TRN_BUS_TOT_AVD,18
+MT,2023,auto,82
+MT,2023,autobus e pullman,18
+MT,2023,treno,NA
+MT,2024,TRN_BUS_TOT_AVD,19.7
+MT,2024,auto,80.3
+MT,2024,autobus e pullman,19.7
+MT,2024,treno,NA
+NL,2010,TRN_BUS_TOT_AVD,13.5
+NL,2010,auto,86.5
+NL,2010,autobus e pullman,3.4
+NL,2010,treno,10.1
+NL,2011,TRN_BUS_TOT_AVD,13.9
+NL,2011,auto,86.1
+NL,2011,autobus e pullman,3.5
+NL,2011,treno,10.4
+NL,2012,TRN_BUS_TOT_AVD,13.8
+NL,2012,auto,86.2
+NL,2012,autobus e pullman,3.2
+NL,2012,treno,10.6
+NL,2013,TRN_BUS_TOT_AVD,14
+NL,2013,auto,86
+NL,2013,autobus e pullman,2.7
+NL,2013,treno,11.3
+NL,2014,TRN_BUS_TOT_AVD,14.5
+NL,2014,auto,85.5
+NL,2014,autobus e pullman,2.7
+NL,2014,treno,11.8
+NL,2015,TRN_BUS_TOT_AVD,13.8
+NL,2015,auto,86.2
+NL,2015,autobus e pullman,3
+NL,2015,treno,10.8
+NL,2016,TRN_BUS_TOT_AVD,14
+NL,2016,auto,86
+NL,2016,autobus e pullman,3
+NL,2016,treno,11
+NL,2017,TRN_BUS_TOT_AVD,14.3
+NL,2017,auto,85.7
+NL,2017,autobus e pullman,2.9
+NL,2017,treno,11.4
+NL,2018,TRN_BUS_TOT_AVD,14.4
+NL,2018,auto,85.6
+NL,2018,autobus e pullman,3.2
+NL,2018,treno,11.2
+NL,2019,TRN_BUS_TOT_AVD,14.4
+NL,2019,auto,85.6
+NL,2019,autobus e pullman,3.2
+NL,2019,treno,11.2
+NL,2020,TRN_BUS_TOT_AVD,9.9
+NL,2020,auto,90.1
+NL,2020,autobus e pullman,2.1
+NL,2020,treno,7.8
+NL,2021,TRN_BUS_TOT_AVD,10.6
+NL,2021,auto,89.4
+NL,2021,autobus e pullman,2.3
+NL,2021,treno,8.4
+NL,2022,TRN_BUS_TOT_AVD,14.5
+NL,2022,auto,85.5
+NL,2022,autobus e pullman,2.9
+NL,2022,treno,11.6
+NL,2023,TRN_BUS_TOT_AVD,14.7
+NL,2023,auto,85.3
+NL,2023,autobus e pullman,2.7
+NL,2023,treno,12
+NL,2024,TRN_BUS_TOT_AVD,14
+NL,2024,auto,86
+NL,2024,autobus e pullman,3
+NL,2024,treno,11
+PL,2010,TRN_BUS_TOT_AVD,23.9
+PL,2010,auto,76.1
+PL,2010,autobus e pullman,16.8
+PL,2010,treno,7.1
+PL,2011,TRN_BUS_TOT_AVD,22.6
+PL,2011,auto,77.4
+PL,2011,autobus e pullman,15.7
+PL,2011,treno,6.9
+PL,2012,TRN_BUS_TOT_AVD,23.2
+PL,2012,auto,76.8
+PL,2012,autobus e pullman,16
+PL,2012,treno,7.2
+PL,2013,TRN_BUS_TOT_AVD,22
+PL,2013,auto,78
+PL,2013,autobus e pullman,15.2
+PL,2013,treno,6.7
+PL,2014,TRN_BUS_TOT_AVD,21.8
+PL,2014,auto,78.2
+PL,2014,autobus e pullman,15.5
+PL,2014,treno,6.3
+PL,2015,TRN_BUS_TOT_AVD,21.3
+PL,2015,auto,78.7
+PL,2015,autobus e pullman,14.6
+PL,2015,treno,6.7
+PL,2016,TRN_BUS_TOT_AVD,20.7
+PL,2016,auto,79.3
+PL,2016,autobus e pullman,13.7
+PL,2016,treno,7.1
+PL,2017,TRN_BUS_TOT_AVD,20.3
+PL,2017,auto,79.7
+PL,2017,autobus e pullman,13
+PL,2017,treno,7.3
+PL,2018,TRN_BUS_TOT_AVD,19.6
+PL,2018,auto,80.4
+PL,2018,autobus e pullman,12.2
+PL,2018,treno,7.4
+PL,2019,TRN_BUS_TOT_AVD,20
+PL,2019,auto,80
+PL,2019,autobus e pullman,12.5
+PL,2019,treno,7.6
+PL,2020,TRN_BUS_TOT_AVD,12.4
+PL,2020,auto,87.6
+PL,2020,autobus e pullman,7.5
+PL,2020,treno,4.9
+PL,2021,TRN_BUS_TOT_AVD,13.7
+PL,2021,auto,86.3
+PL,2021,autobus e pullman,7.9
+PL,2021,treno,5.9
+PL,2022,TRN_BUS_TOT_AVD,17.3
+PL,2022,auto,82.7
+PL,2022,autobus e pullman,9.1
+PL,2022,treno,8.2
+PL,2023,TRN_BUS_TOT_AVD,17.9
+PL,2023,auto,82.1
+PL,2023,autobus e pullman,9.4
+PL,2023,treno,8.5
+PL,2024,TRN_BUS_TOT_AVD,19
+PL,2024,auto,81
+PL,2024,autobus e pullman,9.8
+PL,2024,treno,9.2
+PT,2010,TRN_BUS_TOT_AVD,10.9
+PT,2010,auto,89.1
+PT,2010,autobus e pullman,6.5
+PT,2010,treno,4.4
+PT,2011,TRN_BUS_TOT_AVD,9.7
+PT,2011,auto,90.3
+PT,2011,autobus e pullman,5.1
+PT,2011,treno,4.6
+PT,2012,TRN_BUS_TOT_AVD,9.5
+PT,2012,auto,90.5
+PT,2012,autobus e pullman,5.3
+PT,2012,treno,4.2
+PT,2013,TRN_BUS_TOT_AVD,9.3
+PT,2013,auto,90.7
+PT,2013,autobus e pullman,5.3
+PT,2013,treno,4
+PT,2014,TRN_BUS_TOT_AVD,9
+PT,2014,auto,91
+PT,2014,autobus e pullman,4.8
+PT,2014,treno,4.2
+PT,2015,TRN_BUS_TOT_AVD,10
+PT,2015,auto,90
+PT,2015,autobus e pullman,5.8
+PT,2015,treno,4.2
+PT,2016,TRN_BUS_TOT_AVD,9.6
+PT,2016,auto,90.4
+PT,2016,autobus e pullman,5.3
+PT,2016,treno,4.3
+PT,2017,TRN_BUS_TOT_AVD,10.4
+PT,2017,auto,89.6
+PT,2017,autobus e pullman,6
+PT,2017,treno,4.4
+PT,2018,TRN_BUS_TOT_AVD,10.5
+PT,2018,auto,89.5
+PT,2018,autobus e pullman,6.3
+PT,2018,treno,4.3
+PT,2019,TRN_BUS_TOT_AVD,10.7
+PT,2019,auto,89.3
+PT,2019,autobus e pullman,6.1
+PT,2019,treno,4.6
+PT,2020,TRN_BUS_TOT_AVD,7
+PT,2020,auto,93
+PT,2020,autobus e pullman,4.2
+PT,2020,treno,2.8
+PT,2021,TRN_BUS_TOT_AVD,8.7
+PT,2021,auto,91.3
+PT,2021,autobus e pullman,5.7
+PT,2021,treno,2.9
+PT,2022,TRN_BUS_TOT_AVD,11.6
+PT,2022,auto,88.4
+PT,2022,autobus e pullman,7.6
+PT,2022,treno,4
+PT,2023,TRN_BUS_TOT_AVD,11.8
+PT,2023,auto,88.2
+PT,2023,autobus e pullman,7.5
+PT,2023,treno,4.2
+PT,2024,TRN_BUS_TOT_AVD,12.7
+PT,2024,auto,87.3
+PT,2024,autobus e pullman,8.2
+PT,2024,treno,4.6
+RO,2010,TRN_BUS_TOT_AVD,22
+RO,2010,auto,78
+RO,2010,autobus e pullman,16.3
+RO,2010,treno,5.6
+RO,2011,TRN_BUS_TOT_AVD,21.5
+RO,2011,auto,78.5
+RO,2011,autobus e pullman,16.2
+RO,2011,treno,5.3
+RO,2012,TRN_BUS_TOT_AVD,21.8
+RO,2012,auto,78.2
+RO,2012,autobus e pullman,17.2
+RO,2012,treno,4.6
+RO,2013,TRN_BUS_TOT_AVD,21.1
+RO,2013,auto,78.9
+RO,2013,autobus e pullman,16.8
+RO,2013,treno,4.3
+RO,2014,TRN_BUS_TOT_AVD,21.5
+RO,2014,auto,78.5
+RO,2014,autobus e pullman,16.9
+RO,2014,treno,4.6
+RO,2015,TRN_BUS_TOT_AVD,22.1
+RO,2015,auto,77.9
+RO,2015,autobus e pullman,17.6
+RO,2015,treno,4.5
+RO,2016,TRN_BUS_TOT_AVD,21.7
+RO,2016,auto,78.3
+RO,2016,autobus e pullman,17.6
+RO,2016,treno,4.1
+RO,2017,TRN_BUS_TOT_AVD,22.2
+RO,2017,auto,77.8
+RO,2017,autobus e pullman,17.7
+RO,2017,treno,4.5
+RO,2018,TRN_BUS_TOT_AVD,21.2
+RO,2018,auto,78.8
+RO,2018,autobus e pullman,17
+RO,2018,treno,4.2
+RO,2019,TRN_BUS_TOT_AVD,21.1
+RO,2019,auto,78.9
+RO,2019,autobus e pullman,16.9
+RO,2019,treno,4.2
+RO,2020,TRN_BUS_TOT_AVD,17.4
+RO,2020,auto,82.6
+RO,2020,autobus e pullman,14.3
+RO,2020,treno,3.1
+RO,2021,TRN_BUS_TOT_AVD,17
+RO,2021,auto,83
+RO,2021,autobus e pullman,13.7
+RO,2021,treno,3.3
+RO,2022,TRN_BUS_TOT_AVD,17.6
+RO,2022,auto,82.4
+RO,2022,autobus e pullman,13.6
+RO,2022,treno,4.1
+RO,2023,TRN_BUS_TOT_AVD,18.7
+RO,2023,auto,81.3
+RO,2023,autobus e pullman,14.7
+RO,2023,treno,4
+RO,2024,TRN_BUS_TOT_AVD,17.9
+RO,2024,auto,82.1
+RO,2024,autobus e pullman,14.1
+RO,2024,treno,3.8
+SE,2010,TRN_BUS_TOT_AVD,16.6
+SE,2010,auto,83.4
+SE,2010,autobus e pullman,7.2
+SE,2010,treno,9.4
+SE,2011,TRN_BUS_TOT_AVD,16.2
+SE,2011,auto,83.8
+SE,2011,autobus e pullman,7.4
+SE,2011,treno,8.7
+SE,2012,TRN_BUS_TOT_AVD,16.4
+SE,2012,auto,83.6
+SE,2012,autobus e pullman,7.3
+SE,2012,treno,9.1
+SE,2013,TRN_BUS_TOT_AVD,16.6
+SE,2013,auto,83.4
+SE,2013,autobus e pullman,7.5
+SE,2013,treno,9.1
+SE,2014,TRN_BUS_TOT_AVD,16.5
+SE,2014,auto,83.5
+SE,2014,autobus e pullman,7.3
+SE,2014,treno,9.2
+SE,2015,TRN_BUS_TOT_AVD,16.8
+SE,2015,auto,83.2
+SE,2015,autobus e pullman,7.3
+SE,2015,treno,9.5
+SE,2016,TRN_BUS_TOT_AVD,19.5
+SE,2016,auto,80.5
+SE,2016,autobus e pullman,8.5
+SE,2016,treno,11
+SE,2017,TRN_BUS_TOT_AVD,19.6
+SE,2017,auto,80.4
+SE,2017,autobus e pullman,8.4
+SE,2017,treno,11.2
+SE,2018,TRN_BUS_TOT_AVD,19.6
+SE,2018,auto,80.4
+SE,2018,autobus e pullman,8.3
+SE,2018,treno,11.3
+SE,2019,TRN_BUS_TOT_AVD,20.5
+SE,2019,auto,79.5
+SE,2019,autobus e pullman,8.4
+SE,2019,treno,12.2
+SE,2020,TRN_BUS_TOT_AVD,16
+SE,2020,auto,84
+SE,2020,autobus e pullman,8.4
+SE,2020,treno,7.6
+SE,2021,TRN_BUS_TOT_AVD,15.9
+SE,2021,auto,84.1
+SE,2021,autobus e pullman,8.3
+SE,2021,treno,7.5
+SE,2022,TRN_BUS_TOT_AVD,19
+SE,2022,auto,81
+SE,2022,autobus e pullman,8
+SE,2022,treno,11
+SE,2023,TRN_BUS_TOT_AVD,18.1
+SE,2023,auto,81.9
+SE,2023,autobus e pullman,7.6
+SE,2023,treno,10.5
+SE,2024,TRN_BUS_TOT_AVD,19.3
+SE,2024,auto,80.7
+SE,2024,autobus e pullman,8
+SE,2024,treno,11.3
+SI,2010,TRN_BUS_TOT_AVD,13.2
+SI,2010,auto,86.8
+SI,2010,autobus e pullman,10.8
+SI,2010,treno,2.5
+SI,2011,TRN_BUS_TOT_AVD,13.4
+SI,2011,auto,86.6
+SI,2011,autobus e pullman,11
+SI,2011,treno,2.3
+SI,2012,TRN_BUS_TOT_AVD,13.3
+SI,2012,auto,86.7
+SI,2012,autobus e pullman,11.1
+SI,2012,treno,2.3
+SI,2013,TRN_BUS_TOT_AVD,13.7
+SI,2013,auto,86.3
+SI,2013,autobus e pullman,11.4
+SI,2013,treno,2.3
+SI,2014,TRN_BUS_TOT_AVD,13.7
+SI,2014,auto,86.3
+SI,2014,autobus e pullman,11.6
+SI,2014,treno,2.1
+SI,2015,TRN_BUS_TOT_AVD,13.9
+SI,2015,auto,86.1
+SI,2015,autobus e pullman,11.8
+SI,2015,treno,2.1
+SI,2016,TRN_BUS_TOT_AVD,13.9
+SI,2016,auto,86.1
+SI,2016,autobus e pullman,11.9
+SI,2016,treno,2
+SI,2017,TRN_BUS_TOT_AVD,13.5
+SI,2017,auto,86.5
+SI,2017,autobus e pullman,11.7
+SI,2017,treno,1.8
+SI,2018,TRN_BUS_TOT_AVD,13.5
+SI,2018,auto,86.5
+SI,2018,autobus e pullman,11.7
+SI,2018,treno,1.8
+SI,2019,TRN_BUS_TOT_AVD,13.3
+SI,2019,auto,86.7
+SI,2019,autobus e pullman,11.6
+SI,2019,treno,1.8
+SI,2020,TRN_BUS_TOT_AVD,10
+SI,2020,auto,90
+SI,2020,autobus e pullman,8.6
+SI,2020,treno,1.4
+SI,2021,TRN_BUS_TOT_AVD,11.6
+SI,2021,auto,88.4
+SI,2021,autobus e pullman,9.5
+SI,2021,treno,2.1
+SI,2022,TRN_BUS_TOT_AVD,13.9
+SI,2022,auto,86.1
+SI,2022,autobus e pullman,11.6
+SI,2022,treno,2.4
+SI,2023,TRN_BUS_TOT_AVD,14.5
+SI,2023,auto,85.5
+SI,2023,autobus e pullman,11.9
+SI,2023,treno,2.6
+SI,2024,TRN_BUS_TOT_AVD,15
+SI,2024,auto,85
+SI,2024,autobus e pullman,12
+SI,2024,treno,3
+SK,2010,TRN_BUS_TOT_AVD,22.2
+SK,2010,auto,77.8
+SK,2010,autobus e pullman,15.5
+SK,2010,treno,6.7
+SK,2011,TRN_BUS_TOT_AVD,22.6
+SK,2011,auto,77.4
+SK,2011,autobus e pullman,15.6
+SK,2011,treno,7
+SK,2012,TRN_BUS_TOT_AVD,22.2
+SK,2012,auto,77.8
+SK,2012,autobus e pullman,15.1
+SK,2012,treno,7.1
+SK,2013,TRN_BUS_TOT_AVD,21.9
+SK,2013,auto,78.1
+SK,2013,autobus e pullman,14.7
+SK,2013,treno,7.2
+SK,2014,TRN_BUS_TOT_AVD,22.4
+SK,2014,auto,77.6
+SK,2014,autobus e pullman,15.1
+SK,2014,treno,7.4
+SK,2015,TRN_BUS_TOT_AVD,25.1
+SK,2015,auto,74.9
+SK,2015,autobus e pullman,15.8
+SK,2015,treno,9.3
+SK,2016,TRN_BUS_TOT_AVD,25.4
+SK,2016,auto,74.6
+SK,2016,autobus e pullman,16
+SK,2016,treno,9.3
+SK,2017,TRN_BUS_TOT_AVD,24.5
+SK,2017,auto,75.5
+SK,2017,autobus e pullman,14.4
+SK,2017,treno,10.1
+SK,2018,TRN_BUS_TOT_AVD,24.2
+SK,2018,auto,75.8
+SK,2018,autobus e pullman,14.1
+SK,2018,treno,10.1
+SK,2019,TRN_BUS_TOT_AVD,24.3
+SK,2019,auto,75.7
+SK,2019,autobus e pullman,13.8
+SK,2019,treno,10.5
+SK,2020,TRN_BUS_TOT_AVD,18.9
+SK,2020,auto,81.1
+SK,2020,autobus e pullman,11.9
+SK,2020,treno,7
+SK,2021,TRN_BUS_TOT_AVD,16.7
+SK,2021,auto,83.3
+SK,2021,autobus e pullman,10.6
+SK,2021,treno,6.1
+SK,2022,TRN_BUS_TOT_AVD,21
+SK,2022,auto,79
+SK,2022,autobus e pullman,12.2
+SK,2022,treno,8.8
+SK,2023,TRN_BUS_TOT_AVD,21.7
+SK,2023,auto,78.3
+SK,2023,autobus e pullman,12.5
+SK,2023,treno,9.2
+SK,2024,TRN_BUS_TOT_AVD,21.5
+SK,2024,auto,78.5
+SK,2024,autobus e pullman,12.4
+SK,2024,treno,9.1

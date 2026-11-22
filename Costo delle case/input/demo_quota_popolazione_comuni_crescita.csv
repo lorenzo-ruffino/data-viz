@@ -1,0 +1,13 @@
+unita,periodo,n_in_crescita,n_totale,quota_pop_fine_periodo_in_crescita,quota_pop_inizio_periodo_in_crescita
+comuni,2002-2026,3537,7890,0.6277,0.5767
+comuni,2002-2014,4726,7890,0.754,0.727
+comuni,2014-2026,1839,7890,0.3406,0.321
+comuni,2019-2026,2226,7890,0.3165,0.304
+province storiche,2002-2026,58,107,0.6408,0.6079
+province storiche,2002-2014,84,107,0.8687,0.858
+province storiche,2014-2026,20,107,0.3275,0.3146
+province storiche,2019-2026,25,107,0.2886,0.2823
+capoluoghi di provincia,2002-2026,59,109,0.5911,0.5578
+capoluoghi di provincia,2002-2014,77,109,0.7128,0.6934
+capoluoghi di provincia,2014-2026,28,109,0.2618,0.2503
+capoluoghi di provincia,2019-2026,21,109,0.1253,0.1212

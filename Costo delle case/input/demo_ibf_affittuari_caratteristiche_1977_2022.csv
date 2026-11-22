@@ -1,0 +1,541 @@
+anno,pesi,variabile,modalita,quota_famiglie_in_affitto_pct
+1977,confronto storico,Sesso,maschi,44.6
+1978,confronto storico,Sesso,maschi,42.7
+1979,confronto storico,Sesso,maschi,39.6
+1980,confronto storico,Sesso,maschi,36.5
+1981,confronto storico,Sesso,maschi,40.4
+1982,confronto storico,Sesso,maschi,35.2
+1983,confronto storico,Sesso,maschi,32.5
+1984,confronto storico,Sesso,maschi,31.4
+1986,confronto storico,Sesso,maschi,32
+1987,confronto storico,Sesso,maschi,30.1
+1989,confronto storico,Sesso,maschi,27.7
+1991,confronto storico,Sesso,maschi,23.4
+1993,confronto storico,Sesso,maschi,24.5
+1995,confronto storico,Sesso,maschi,23
+1998,confronto storico,Sesso,maschi,21.3
+2000,confronto storico,Sesso,maschi,20.3
+2002,confronto storico,Sesso,maschi,20.5
+2004,confronto storico,Sesso,maschi,21.6
+2006,confronto storico,Sesso,maschi,20.7
+2008,confronto storico,Sesso,maschi,20.4
+2010,confronto storico,Sesso,maschi,21.2
+2012,confronto storico,Sesso,maschi,20.9
+2014,confronto storico,Sesso,maschi,19.7
+2016,confronto storico,Sesso,maschi,20.2
+2020,confronto storico,Sesso,maschi,20.2
+2022,confronto storico,Sesso,maschi,18.2
+2022,nuovo disegno,Sesso,maschi,17.4
+1977,confronto storico,Sesso,femmine,46.1
+1978,confronto storico,Sesso,femmine,38.1
+1979,confronto storico,Sesso,femmine,44.1
+1980,confronto storico,Sesso,femmine,37.2
+1981,confronto storico,Sesso,femmine,45.3
+1982,confronto storico,Sesso,femmine,35.9
+1983,confronto storico,Sesso,femmine,38.4
+1984,confronto storico,Sesso,femmine,29.3
+1986,confronto storico,Sesso,femmine,29.9
+1987,confronto storico,Sesso,femmine,26.5
+1989,confronto storico,Sesso,femmine,28.1
+1991,confronto storico,Sesso,femmine,27.4
+1993,confronto storico,Sesso,femmine,26
+1995,confronto storico,Sesso,femmine,25.4
+1998,confronto storico,Sesso,femmine,26.3
+2000,confronto storico,Sesso,femmine,22.5
+2002,confronto storico,Sesso,femmine,21.8
+2004,confronto storico,Sesso,femmine,21.8
+2006,confronto storico,Sesso,femmine,21.8
+2008,confronto storico,Sesso,femmine,23.9
+2010,confronto storico,Sesso,femmine,22.4
+2012,confronto storico,Sesso,femmine,24.8
+2014,confronto storico,Sesso,femmine,22.5
+2016,confronto storico,Sesso,femmine,20.7
+2020,confronto storico,Sesso,femmine,18.9
+2022,confronto storico,Sesso,femmine,17.3
+2022,nuovo disegno,Sesso,femmine,16.7
+1977,confronto storico,Età,fino a 30 anni,59.6
+1978,confronto storico,Età,fino a 30 anni,54
+1979,confronto storico,Età,fino a 30 anni,48.1
+1980,confronto storico,Età,fino a 30 anni,48.5
+1981,confronto storico,Età,fino a 30 anni,48.3
+1982,confronto storico,Età,fino a 30 anni,44.2
+1983,confronto storico,Età,fino a 30 anni,43
+1984,confronto storico,Età,fino a 30 anni,42.2
+1986,confronto storico,Età,fino a 30 anni,46
+1987,confronto storico,Età,fino a 30 anni,38.9
+1989,confronto storico,Età,fino a 30 anni,39
+1991,confronto storico,Età,fino a 30 anni,29.1
+1993,confronto storico,Età,fino a 30 anni,31.6
+1995,confronto storico,Età,fino a 30 anni,29.7
+1998,confronto storico,Età,fino a 30 anni,29.7
+2000,confronto storico,Età,fino a 30 anni,30.2
+2002,confronto storico,Età,fino a 30 anni,32.3
+2004,confronto storico,Età,fino a 30 anni,35.9
+2006,confronto storico,Età,fino a 30 anni,38.5
+2008,confronto storico,Età,fino a 30 anni,41.5
+2010,confronto storico,Età,fino a 30 anni,39.4
+2012,confronto storico,Età,fino a 30 anni,42.7
+2014,confronto storico,Età,fino a 30 anni,36.1
+2016,confronto storico,Età,fino a 30 anni,39.2
+2020,confronto storico,Età,fino a 30 anni,22.6
+2022,confronto storico,Età,fino a 30 anni,36.4
+2022,nuovo disegno,Età,fino a 30 anni,35.7
+1977,confronto storico,Età,da 31 a 40 anni,53.4
+1978,confronto storico,Età,da 31 a 40 anni,50.9
+1979,confronto storico,Età,da 31 a 40 anni,47.5
+1980,confronto storico,Età,da 31 a 40 anni,45.6
+1981,confronto storico,Età,da 31 a 40 anni,49.8
+1982,confronto storico,Età,da 31 a 40 anni,41.1
+1983,confronto storico,Età,da 31 a 40 anni,43.1
+1984,confronto storico,Età,da 31 a 40 anni,39.4
+1986,confronto storico,Età,da 31 a 40 anni,40.9
+1987,confronto storico,Età,da 31 a 40 anni,39.3
+1989,confronto storico,Età,da 31 a 40 anni,32.3
+1991,confronto storico,Età,da 31 a 40 anni,29.5
+1993,confronto storico,Età,da 31 a 40 anni,30.8
+1995,confronto storico,Età,da 31 a 40 anni,27.1
+1998,confronto storico,Età,da 31 a 40 anni,28.4
+2000,confronto storico,Età,da 31 a 40 anni,29
+2002,confronto storico,Età,da 31 a 40 anni,26.5
+2004,confronto storico,Età,da 31 a 40 anni,28.6
+2006,confronto storico,Età,da 31 a 40 anni,28.1
+2008,confronto storico,Età,da 31 a 40 anni,33.8
+2010,confronto storico,Età,da 31 a 40 anni,31.7
+2012,confronto storico,Età,da 31 a 40 anni,32.2
+2014,confronto storico,Età,da 31 a 40 anni,32.3
+2016,confronto storico,Età,da 31 a 40 anni,35.8
+2020,confronto storico,Età,da 31 a 40 anni,32.3
+2022,confronto storico,Età,da 31 a 40 anni,28.4
+2022,nuovo disegno,Età,da 31 a 40 anni,25.2
+1977,confronto storico,Età,da 41 a 50 anni,44.8
+1978,confronto storico,Età,da 41 a 50 anni,41.9
+1979,confronto storico,Età,da 41 a 50 anni,36.5
+1980,confronto storico,Età,da 41 a 50 anni,37.5
+1981,confronto storico,Età,da 41 a 50 anni,40.3
+1982,confronto storico,Età,da 41 a 50 anni,35.6
+1983,confronto storico,Età,da 41 a 50 anni,30.5
+1984,confronto storico,Età,da 41 a 50 anni,30.1
+1986,confronto storico,Età,da 41 a 50 anni,30.3
+1987,confronto storico,Età,da 41 a 50 anni,29.1
+1989,confronto storico,Età,da 41 a 50 anni,28.5
+1991,confronto storico,Età,da 41 a 50 anni,26.1
+1993,confronto storico,Età,da 41 a 50 anni,22.7
+1995,confronto storico,Età,da 41 a 50 anni,23.1
+1998,confronto storico,Età,da 41 a 50 anni,22.1
+2000,confronto storico,Età,da 41 a 50 anni,22.7
+2002,confronto storico,Età,da 41 a 50 anni,22.2
+2004,confronto storico,Età,da 41 a 50 anni,23.7
+2006,confronto storico,Età,da 41 a 50 anni,21.4
+2008,confronto storico,Età,da 41 a 50 anni,22.2
+2010,confronto storico,Età,da 41 a 50 anni,22.8
+2012,confronto storico,Età,da 41 a 50 anni,26.4
+2014,confronto storico,Età,da 41 a 50 anni,23.2
+2016,confronto storico,Età,da 41 a 50 anni,23.3
+2020,confronto storico,Età,da 41 a 50 anni,24.5
+2022,confronto storico,Età,da 41 a 50 anni,24.5
+2022,nuovo disegno,Età,da 41 a 50 anni,22.3
+1977,confronto storico,Età,da 51 a 65 anni,34.6
+1978,confronto storico,Età,da 51 a 65 anni,34.8
+1979,confronto storico,Età,da 51 a 65 anni,35.7
+1980,confronto storico,Età,da 51 a 65 anni,30.8
+1981,confronto storico,Età,da 51 a 65 anni,36.7
+1982,confronto storico,Età,da 51 a 65 anni,29.5
+1983,confronto storico,Età,da 51 a 65 anni,28.6
+1984,confronto storico,Età,da 51 a 65 anni,24.2
+1986,confronto storico,Età,da 51 a 65 anni,25.7
+1987,confronto storico,Età,da 51 a 65 anni,24.2
+1989,confronto storico,Età,da 51 a 65 anni,23
+1991,confronto storico,Età,da 51 a 65 anni,21.3
+1993,confronto storico,Età,da 51 a 65 anni,20.7
+1995,confronto storico,Età,da 51 a 65 anni,20.8
+1998,confronto storico,Età,da 51 a 65 anni,20.1
+2000,confronto storico,Età,da 51 a 65 anni,16.4
+2002,confronto storico,Età,da 51 a 65 anni,16.4
+2004,confronto storico,Età,da 51 a 65 anni,18
+2006,confronto storico,Età,da 51 a 65 anni,16.8
+2008,confronto storico,Età,da 51 a 65 anni,15.8
+2010,confronto storico,Età,da 51 a 65 anni,17.2
+2012,confronto storico,Età,da 51 a 65 anni,17
+2014,confronto storico,Età,da 51 a 65 anni,16.3
+2016,confronto storico,Età,da 51 a 65 anni,15.9
+2020,confronto storico,Età,da 51 a 65 anni,17.6
+2022,confronto storico,Età,da 51 a 65 anni,15
+2022,nuovo disegno,Età,da 51 a 65 anni,14.5
+1977,confronto storico,Età,oltre 65 anni,36.2
+1978,confronto storico,Età,oltre 65 anni,32.2
+1979,confronto storico,Età,oltre 65 anni,37.4
+1980,confronto storico,Età,oltre 65 anni,25.7
+1981,confronto storico,Età,oltre 65 anni,34.7
+1982,confronto storico,Età,oltre 65 anni,30.8
+1983,confronto storico,Età,oltre 65 anni,28.2
+1984,confronto storico,Età,oltre 65 anni,25.6
+1986,confronto storico,Età,oltre 65 anni,23.5
+1987,confronto storico,Età,oltre 65 anni,21.6
+1989,confronto storico,Età,oltre 65 anni,22.1
+1991,confronto storico,Età,oltre 65 anni,19.8
+1993,confronto storico,Età,oltre 65 anni,23.4
+1995,confronto storico,Età,oltre 65 anni,22.2
+1998,confronto storico,Età,oltre 65 anni,19.2
+2000,confronto storico,Età,oltre 65 anni,14.9
+2002,confronto storico,Età,oltre 65 anni,16.7
+2004,confronto storico,Età,oltre 65 anni,15
+2006,confronto storico,Età,oltre 65 anni,15.3
+2008,confronto storico,Età,oltre 65 anni,13.3
+2010,confronto storico,Età,oltre 65 anni,14.6
+2012,confronto storico,Età,oltre 65 anni,15
+2014,confronto storico,Età,oltre 65 anni,15.1
+2016,confronto storico,Età,oltre 65 anni,13.4
+2020,confronto storico,Età,oltre 65 anni,14.1
+2022,confronto storico,Età,oltre 65 anni,11.8
+2022,nuovo disegno,Età,oltre 65 anni,12.2
+1977,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,45.5
+1978,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,41.7
+1979,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,41.5
+1980,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,37.3
+1981,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,41.4
+1982,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,35.6
+1983,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,34.6
+1984,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,31.8
+1986,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,32.4
+1987,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,30.9
+1989,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,28.1
+1991,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,23.8
+1993,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,26.8
+1995,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,25.4
+1998,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,24.4
+2000,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,22.3
+2002,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,23.2
+2004,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,23.7
+2006,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,23.8
+2008,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,24.6
+2010,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,25.6
+2012,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,26.8
+2014,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,24.6
+2016,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,25.1
+2020,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,24.2
+2022,confronto storico,Titolo di studio,licenza di scuola secondaria inferiore,22.6
+2022,nuovo disegno,Titolo di studio,licenza di scuola secondaria inferiore,22.1
+1977,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,46.4
+1978,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,45.8
+1979,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,39.8
+1980,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,36.5
+1981,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,41.9
+1982,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,37.2
+1983,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,33.6
+1984,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,30.5
+1986,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,30.5
+1987,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,27
+1989,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,27.8
+1991,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,26.5
+1993,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,21.8
+1995,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,21.4
+1998,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,19.2
+2000,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,18.8
+2002,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,16.8
+2004,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,18.1
+2006,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,16.9
+2008,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,17.8
+2010,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,16.3
+2012,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,16.5
+2014,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,16.6
+2016,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,14.4
+2020,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,14.1
+2022,confronto storico,Titolo di studio,diploma di scuola secondaria superiore,14.6
+2022,nuovo disegno,Titolo di studio,diploma di scuola secondaria superiore,13.7
+1977,confronto storico,Titolo di studio,laurea,29.8
+1978,confronto storico,Titolo di studio,laurea,35.1
+1979,confronto storico,Titolo di studio,laurea,28.9
+1980,confronto storico,Titolo di studio,laurea,30.9
+1981,confronto storico,Titolo di studio,laurea,38.5
+1982,confronto storico,Titolo di studio,laurea,26.6
+1983,confronto storico,Titolo di studio,laurea,24.9
+1984,confronto storico,Titolo di studio,laurea,24.6
+1986,confronto storico,Titolo di studio,laurea,22
+1987,confronto storico,Titolo di studio,laurea,19.4
+1989,confronto storico,Titolo di studio,laurea,25.6
+1991,confronto storico,Titolo di studio,laurea,23.7
+1993,confronto storico,Titolo di studio,laurea,16.6
+1995,confronto storico,Titolo di studio,laurea,13.5
+1998,confronto storico,Titolo di studio,laurea,20.2
+2000,confronto storico,Titolo di studio,laurea,15.4
+2002,confronto storico,Titolo di studio,laurea,14
+2004,confronto storico,Titolo di studio,laurea,17.1
+2006,confronto storico,Titolo di studio,laurea,14.5
+2008,confronto storico,Titolo di studio,laurea,12.7
+2010,confronto storico,Titolo di studio,laurea,13.7
+2012,confronto storico,Titolo di studio,laurea,13.6
+2014,confronto storico,Titolo di studio,laurea,11.4
+2016,confronto storico,Titolo di studio,laurea,11.5
+2020,confronto storico,Titolo di studio,laurea,13.5
+2022,confronto storico,Titolo di studio,laurea,10
+2022,nuovo disegno,Titolo di studio,laurea,9
+1977,confronto storico,Condizione professionale,lavoratore dipendente,52.7
+1978,confronto storico,Condizione professionale,lavoratore dipendente,49.1
+1979,confronto storico,Condizione professionale,lavoratore dipendente,45.9
+1980,confronto storico,Condizione professionale,lavoratore dipendente,44.7
+1981,confronto storico,Condizione professionale,lavoratore dipendente,46.9
+1982,confronto storico,Condizione professionale,lavoratore dipendente,41.2
+1983,confronto storico,Condizione professionale,lavoratore dipendente,39.5
+1984,confronto storico,Condizione professionale,lavoratore dipendente,36.4
+1986,confronto storico,Condizione professionale,lavoratore dipendente,39.2
+1987,confronto storico,Condizione professionale,lavoratore dipendente,34.8
+1989,confronto storico,Condizione professionale,lavoratore dipendente,32.1
+1991,confronto storico,Condizione professionale,lavoratore dipendente,28.1
+1993,confronto storico,Condizione professionale,lavoratore dipendente,27.9
+1995,confronto storico,Condizione professionale,lavoratore dipendente,26.6
+1998,confronto storico,Condizione professionale,lavoratore dipendente,25.5
+2000,confronto storico,Condizione professionale,lavoratore dipendente,25.9
+2002,confronto storico,Condizione professionale,lavoratore dipendente,26
+2004,confronto storico,Condizione professionale,lavoratore dipendente,28.1
+2006,confronto storico,Condizione professionale,lavoratore dipendente,26
+2008,confronto storico,Condizione professionale,lavoratore dipendente,29.3
+2010,confronto storico,Condizione professionale,lavoratore dipendente,27.6
+2012,confronto storico,Condizione professionale,lavoratore dipendente,28.9
+2014,confronto storico,Condizione professionale,lavoratore dipendente,25.2
+2016,confronto storico,Condizione professionale,lavoratore dipendente,25.5
+2020,confronto storico,Condizione professionale,lavoratore dipendente,24.8
+2022,confronto storico,Condizione professionale,lavoratore dipendente,23
+2022,nuovo disegno,Condizione professionale,lavoratore dipendente,21.5
+1977,confronto storico,Condizione professionale,lavoratore indipendente,27.5
+1978,confronto storico,Condizione professionale,lavoratore indipendente,26.7
+1979,confronto storico,Condizione professionale,lavoratore indipendente,25.8
+1980,confronto storico,Condizione professionale,lavoratore indipendente,24.3
+1981,confronto storico,Condizione professionale,lavoratore indipendente,29.8
+1982,confronto storico,Condizione professionale,lavoratore indipendente,21.9
+1983,confronto storico,Condizione professionale,lavoratore indipendente,21.2
+1984,confronto storico,Condizione professionale,lavoratore indipendente,23
+1986,confronto storico,Condizione professionale,lavoratore indipendente,22.5
+1987,confronto storico,Condizione professionale,lavoratore indipendente,22.5
+1989,confronto storico,Condizione professionale,lavoratore indipendente,24.2
+1991,confronto storico,Condizione professionale,lavoratore indipendente,21.2
+1993,confronto storico,Condizione professionale,lavoratore indipendente,19.5
+1995,confronto storico,Condizione professionale,lavoratore indipendente,17.4
+1998,confronto storico,Condizione professionale,lavoratore indipendente,21
+2000,confronto storico,Condizione professionale,lavoratore indipendente,17.7
+2002,confronto storico,Condizione professionale,lavoratore indipendente,15.6
+2004,confronto storico,Condizione professionale,lavoratore indipendente,17.6
+2006,confronto storico,Condizione professionale,lavoratore indipendente,17.9
+2008,confronto storico,Condizione professionale,lavoratore indipendente,14.3
+2010,confronto storico,Condizione professionale,lavoratore indipendente,16.5
+2012,confronto storico,Condizione professionale,lavoratore indipendente,15.1
+2014,confronto storico,Condizione professionale,lavoratore indipendente,15.8
+2016,confronto storico,Condizione professionale,lavoratore indipendente,13.6
+2020,confronto storico,Condizione professionale,lavoratore indipendente,12.2
+2022,confronto storico,Condizione professionale,lavoratore indipendente,10.7
+2022,nuovo disegno,Condizione professionale,lavoratore indipendente,9.9
+1977,confronto storico,Condizione professionale,condizione non professionale,38.4
+1978,confronto storico,Condizione professionale,condizione non professionale,36.3
+1979,confronto storico,Condizione professionale,condizione non professionale,39.2
+1980,confronto storico,Condizione professionale,condizione non professionale,28.4
+1981,confronto storico,Condizione professionale,condizione non professionale,36.2
+1982,confronto storico,Condizione professionale,condizione non professionale,31.1
+1983,confronto storico,Condizione professionale,condizione non professionale,30.9
+1984,confronto storico,Condizione professionale,condizione non professionale,26
+1986,confronto storico,Condizione professionale,condizione non professionale,24.4
+1987,confronto storico,Condizione professionale,condizione non professionale,24
+1989,confronto storico,Condizione professionale,condizione non professionale,23.2
+1991,confronto storico,Condizione professionale,condizione non professionale,21
+1993,confronto storico,Condizione professionale,condizione non professionale,23.3
+1995,confronto storico,Condizione professionale,condizione non professionale,22.7
+1998,confronto storico,Condizione professionale,condizione non professionale,20.6
+2000,confronto storico,Condizione professionale,condizione non professionale,16.8
+2002,confronto storico,Condizione professionale,condizione non professionale,17.3
+2004,confronto storico,Condizione professionale,condizione non professionale,15.8
+2006,confronto storico,Condizione professionale,condizione non professionale,16.2
+2008,confronto storico,Condizione professionale,condizione non professionale,14.7
+2010,confronto storico,Condizione professionale,condizione non professionale,16.3
+2012,confronto storico,Condizione professionale,condizione non professionale,17
+2014,confronto storico,Condizione professionale,condizione non professionale,17.1
+2016,confronto storico,Condizione professionale,condizione non professionale,16.6
+2020,confronto storico,Condizione professionale,condizione non professionale,16.9
+2022,confronto storico,Condizione professionale,condizione non professionale,14.5
+2022,nuovo disegno,Condizione professionale,condizione non professionale,14.7
+1977,confronto storico,Paese di origine,non rilevato,44.8
+1978,confronto storico,Paese di origine,non rilevato,41.9
+1979,confronto storico,Paese di origine,non rilevato,40.4
+1980,confronto storico,Paese di origine,non rilevato,36.7
+1981,confronto storico,Paese di origine,non rilevato,41.3
+1982,confronto storico,Paese di origine,non rilevato,35.3
+1983,confronto storico,Paese di origine,non rilevato,33.7
+1984,confronto storico,Paese di origine,non rilevato,30.9
+1986,confronto storico,Paese di origine,non rilevato,31.5
+1987,confronto storico,Paese di origine,non rilevato,29.3
+1989,confronto storico,Paese di origine,non rilevato,
+1991,confronto storico,Paese di origine,non rilevato,
+1993,confronto storico,Paese di origine,non rilevato,
+1995,confronto storico,Paese di origine,non rilevato,
+1998,confronto storico,Paese di origine,non rilevato,
+2000,confronto storico,Paese di origine,non rilevato,
+2002,confronto storico,Paese di origine,non rilevato,
+2004,confronto storico,Paese di origine,non rilevato,
+2006,confronto storico,Paese di origine,non rilevato,
+2008,confronto storico,Paese di origine,non rilevato,
+2010,confronto storico,Paese di origine,non rilevato,
+2012,confronto storico,Paese di origine,non rilevato,
+2014,confronto storico,Paese di origine,non rilevato,
+2016,confronto storico,Paese di origine,non rilevato,
+2020,confronto storico,Paese di origine,non rilevato,
+2022,confronto storico,Paese di origine,non rilevato,
+2022,nuovo disegno,Paese di origine,non rilevato,
+1977,confronto storico,Paese di origine,Italia,
+1978,confronto storico,Paese di origine,Italia,
+1979,confronto storico,Paese di origine,Italia,
+1980,confronto storico,Paese di origine,Italia,
+1981,confronto storico,Paese di origine,Italia,
+1982,confronto storico,Paese di origine,Italia,
+1983,confronto storico,Paese di origine,Italia,
+1984,confronto storico,Paese di origine,Italia,
+1986,confronto storico,Paese di origine,Italia,
+1987,confronto storico,Paese di origine,Italia,
+1989,confronto storico,Paese di origine,Italia,27.6
+1991,confronto storico,Paese di origine,Italia,24.4
+1993,confronto storico,Paese di origine,Italia,24.8
+1995,confronto storico,Paese di origine,Italia,23.5
+1998,confronto storico,Paese di origine,Italia,22.3
+2000,confronto storico,Paese di origine,Italia,20.2
+2002,confronto storico,Paese di origine,Italia,19.5
+2004,confronto storico,Paese di origine,Italia,19.7
+2006,confronto storico,Paese di origine,Italia,18.4
+2008,confronto storico,Paese di origine,Italia,17.4
+2010,confronto storico,Paese di origine,Italia,17.2
+2012,confronto storico,Paese di origine,Italia,17.5
+2014,confronto storico,Paese di origine,Italia,16.8
+2016,confronto storico,Paese di origine,Italia,16
+2020,confronto storico,Paese di origine,Italia,16
+2022,confronto storico,Paese di origine,Italia,14
+2022,nuovo disegno,Paese di origine,Italia,13.6
+1977,confronto storico,Paese di origine,estero,
+1978,confronto storico,Paese di origine,estero,
+1979,confronto storico,Paese di origine,estero,
+1980,confronto storico,Paese di origine,estero,
+1981,confronto storico,Paese di origine,estero,
+1982,confronto storico,Paese di origine,estero,
+1983,confronto storico,Paese di origine,estero,
+1984,confronto storico,Paese di origine,estero,
+1986,confronto storico,Paese di origine,estero,
+1987,confronto storico,Paese di origine,estero,
+1989,confronto storico,Paese di origine,estero,46.9
+1991,confronto storico,Paese di origine,estero,33.3
+1993,confronto storico,Paese di origine,estero,31.8
+1995,confronto storico,Paese di origine,estero,34.3
+1998,confronto storico,Paese di origine,estero,44.1
+2000,confronto storico,Paese di origine,estero,47.3
+2002,confronto storico,Paese di origine,estero,55.9
+2004,confronto storico,Paese di origine,estero,67.6
+2006,confronto storico,Paese di origine,estero,68.7
+2008,confronto storico,Paese di origine,estero,71.1
+2010,confronto storico,Paese di origine,estero,66.1
+2012,confronto storico,Paese di origine,estero,66.6
+2014,confronto storico,Paese di origine,estero,61.3
+2016,confronto storico,Paese di origine,estero,64.2
+2020,confronto storico,Paese di origine,estero,65.6
+2022,confronto storico,Paese di origine,estero,63.7
+2022,nuovo disegno,Paese di origine,estero,60.9
+1977,confronto storico,Area geografica,Nord,51.2
+1978,confronto storico,Area geografica,Nord,46.3
+1979,confronto storico,Area geografica,Nord,47.3
+1980,confronto storico,Area geografica,Nord,42.1
+1981,confronto storico,Area geografica,Nord,46.5
+1982,confronto storico,Area geografica,Nord,42.1
+1983,confronto storico,Area geografica,Nord,39.1
+1984,confronto storico,Area geografica,Nord,34.2
+1986,confronto storico,Area geografica,Nord,34.6
+1987,confronto storico,Area geografica,Nord,31.7
+1989,confronto storico,Area geografica,Nord,32.6
+1991,confronto storico,Area geografica,Nord,27.7
+1993,confronto storico,Area geografica,Nord,27
+1995,confronto storico,Area geografica,Nord,24.9
+1998,confronto storico,Area geografica,Nord,24
+2000,confronto storico,Area geografica,Nord,21.6
+2002,confronto storico,Area geografica,Nord,21.5
+2004,confronto storico,Area geografica,Nord,23.6
+2006,confronto storico,Area geografica,Nord,24.3
+2008,confronto storico,Area geografica,Nord,23
+2010,confronto storico,Area geografica,Nord,22.6
+2012,confronto storico,Area geografica,Nord,26.4
+2014,confronto storico,Area geografica,Nord,23.1
+2016,confronto storico,Area geografica,Nord,24.1
+2020,confronto storico,Area geografica,Nord,20.5
+2022,confronto storico,Area geografica,Nord,19.7
+2022,nuovo disegno,Area geografica,Nord,18.7
+1977,confronto storico,Area geografica,Centro,37.1
+1978,confronto storico,Area geografica,Centro,39.6
+1979,confronto storico,Area geografica,Centro,33.3
+1980,confronto storico,Area geografica,Centro,29.9
+1981,confronto storico,Area geografica,Centro,38.9
+1982,confronto storico,Area geografica,Centro,27.3
+1983,confronto storico,Area geografica,Centro,30.4
+1984,confronto storico,Area geografica,Centro,26.4
+1986,confronto storico,Area geografica,Centro,22.4
+1987,confronto storico,Area geografica,Centro,25.5
+1989,confronto storico,Area geografica,Centro,26.8
+1991,confronto storico,Area geografica,Centro,23.3
+1993,confronto storico,Area geografica,Centro,24.2
+1995,confronto storico,Area geografica,Centro,22.4
+1998,confronto storico,Area geografica,Centro,24.4
+2000,confronto storico,Area geografica,Centro,23.5
+2002,confronto storico,Area geografica,Centro,20.4
+2004,confronto storico,Area geografica,Centro,17.2
+2006,confronto storico,Area geografica,Centro,16.2
+2008,confronto storico,Area geografica,Centro,18
+2010,confronto storico,Area geografica,Centro,19.5
+2012,confronto storico,Area geografica,Centro,16.7
+2014,confronto storico,Area geografica,Centro,17.2
+2016,confronto storico,Area geografica,Centro,15.9
+2020,confronto storico,Area geografica,Centro,16.8
+2022,confronto storico,Area geografica,Centro,15.1
+2022,nuovo disegno,Area geografica,Centro,14.5
+1977,confronto storico,Area geografica,Sud e Isole,40
+1978,confronto storico,Area geografica,Sud e Isole,36.8
+1979,confronto storico,Area geografica,Sud e Isole,33.9
+1980,confronto storico,Area geografica,Sud e Isole,32
+1981,confronto storico,Area geografica,Sud e Isole,34.9
+1982,confronto storico,Area geografica,Sud e Isole,30.1
+1983,confronto storico,Area geografica,Sud e Isole,27.7
+1984,confronto storico,Area geografica,Sud e Isole,28.6
+1986,confronto storico,Area geografica,Sud e Isole,32.2
+1987,confronto storico,Area geografica,Sud e Isole,28.1
+1989,confronto storico,Area geografica,Sud e Isole,21.2
+1991,confronto storico,Area geografica,Sud e Isole,20.5
+1993,confronto storico,Area geografica,Sud e Isole,22.1
+1995,confronto storico,Area geografica,Sud e Isole,22.6
+1998,confronto storico,Area geografica,Sud e Isole,20.1
+2000,confronto storico,Area geografica,Sud e Isole,18.4
+2002,confronto storico,Area geografica,Sud e Isole,20.3
+2004,confronto storico,Area geografica,Sud e Isole,21.7
+2006,confronto storico,Area geografica,Sud e Isole,19.1
+2008,confronto storico,Area geografica,Sud e Isole,21.4
+2010,confronto storico,Area geografica,Sud e Isole,21.3
+2012,confronto storico,Area geografica,Sud e Isole,19.4
+2014,confronto storico,Area geografica,Sud e Isole,19.3
+2016,confronto storico,Area geografica,Sud e Isole,17.8
+2020,confronto storico,Area geografica,Sud e Isole,20.4
+2022,confronto storico,Area geografica,Sud e Isole,17
+2022,nuovo disegno,Area geografica,Sud e Isole,16.6
+1977,confronto storico,Totale,Totale,44.8
+1978,confronto storico,Totale,Totale,41.9
+1979,confronto storico,Totale,Totale,40.4
+1980,confronto storico,Totale,Totale,36.7
+1981,confronto storico,Totale,Totale,41.3
+1982,confronto storico,Totale,Totale,35.3
+1983,confronto storico,Totale,Totale,33.7
+1984,confronto storico,Totale,Totale,30.9
+1986,confronto storico,Totale,Totale,31.5
+1987,confronto storico,Totale,Totale,29.3
+1989,confronto storico,Totale,Totale,27.8
+1991,confronto storico,Totale,Totale,24.5
+1993,confronto storico,Totale,Totale,24.9
+1995,confronto storico,Totale,Totale,23.7
+1998,confronto storico,Totale,Totale,22.8
+2000,confronto storico,Totale,Totale,20.9
+2002,confronto storico,Totale,Totale,20.9
+2004,confronto storico,Totale,Totale,21.7
+2006,confronto storico,Totale,Totale,21
+2008,confronto storico,Totale,Totale,21.5
+2010,confronto storico,Totale,Totale,21.6
+2012,confronto storico,Totale,Totale,22.3
+2014,confronto storico,Totale,Totale,20.7
+2016,confronto storico,Totale,Totale,20.4
+2020,confronto storico,Totale,Totale,19.7
+2022,confronto storico,Totale,Totale,17.9
+2022,nuovo disegno,Totale,Totale,17.2

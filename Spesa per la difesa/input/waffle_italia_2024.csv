@@ -1,0 +1,13 @@
+voce,miliardi_euro,quota_spesa_totale_pct,quadrati_su_1000,colore,fonte
+Protezione sociale (di cui pensioni di vecchiaia 306,4),468.1,42.2,422,grigio,Eurostat gov_10a_exp 2024
+Servizi generali (di cui interessi sul debito 87,8),170.4,15.4,154,grigio,Eurostat gov_10a_exp 2024
+Sanità,146.1,13.2,132,grigio,Eurostat gov_10a_exp 2024
+Affari economici,112.4,10.1,101,grigio,Eurostat gov_10a_exp 2024
+Istruzione,89.2,8.0,80,grigio,Eurostat gov_10a_exp 2024
+Ordine pubblico e sicurezza,39.1,3.5,35,grigio,Eurostat gov_10a_exp 2024
+Ambiente,19.8,1.8,18,grigio,Eurostat gov_10a_exp 2024
+Cultura e tempo libero,18.8,1.7,17,grigio,Eurostat gov_10a_exp 2024
+Abitazioni e territorio,17.0,1.5,15,grigio,Eurostat gov_10a_exp 2024
+Difesa - stipendi e altre spese correnti,19.0,1.7,17,blu,Eurostat gov_10a_exp 2024 (GF02 TE meno P51G)
+Difesa - investimenti fissi (armamenti mezzi infrastrutture),9.3,0.8,8,blu scuro/arancio,Eurostat gov_10a_exp 2024 (GF02 P51G)
+TOTALE,1109.2,100,1000,,Eurostat gov_10a_exp 2024

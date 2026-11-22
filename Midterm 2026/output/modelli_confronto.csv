@@ -1,0 +1,15 @@
+modello,id,camera,p,fa
+Focus America,fa,Camera,98.11,TRUE
+Focus America,fa,Senato,79.49000000000001,TRUE
+Silver Bulletin,silver,Camera,96,FALSE
+Silver Bulletin,silver,Senato,80.13,FALSE
+Economist,econ,Camera,94.34,FALSE
+Economist,econ,Senato,53.6,FALSE
+50+1,fifty,Camera,98.50999999999999,FALSE
+50+1,fifty,Senato,77.06,FALSE
+VoteHub,votehub,Camera,88.44,FALSE
+VoteHub,votehub,Senato,63.31,FALSE
+Split Ticket,split,Camera,91.77,FALSE
+Split Ticket,split,Senato,72.34,FALSE
+Decision Desk HQ,ddhq,Camera,84,FALSE
+Decision Desk HQ,ddhq,Senato,64,FALSE

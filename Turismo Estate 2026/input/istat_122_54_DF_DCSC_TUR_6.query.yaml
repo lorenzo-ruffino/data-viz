@@ -1,0 +1,19 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 122_54_DF_DCSC_TUR_6
+description: Tipo di località
+filters:
+  FREQ:
+    value: M
+    description: ''
+  REF_AREA:
+    value: IT
+    description: ''
+  ADJUSTMENT:
+    value: N
+    description: ''
+start_period: 2019-01
+end_period: null
+last_n: null
+first_n: null

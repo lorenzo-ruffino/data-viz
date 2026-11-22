@@ -1,0 +1,19 @@
+territorio,codice,anno,indicatore,valore
+Milano (comune),015146,2019,abitazioni totali,805022
+Milano (comune),015146,2021,abitazioni totali,809990
+Milano (comune),015146,2023,abitazioni totali,827648
+Milano (comune),015146,2019,abitazioni occupate,720524
+Milano (comune),015146,2021,abitazioni occupate,700586
+Milano (comune),015146,2023,abitazioni occupate,722273
+Milano (comune),015146,2019,abitazioni non occupate,84498
+Milano (comune),015146,2021,abitazioni non occupate,109404
+Milano (comune),015146,2023,abitazioni non occupate,105375
+Città metropolitana di Milano,ITC45,2019,abitazioni totali,1719714
+Città metropolitana di Milano,ITC45,2021,abitazioni totali,1727347
+Città metropolitana di Milano,ITC45,2023,abitazioni totali,1753393
+Città metropolitana di Milano,ITC45,2019,abitazioni occupate,1517266
+Città metropolitana di Milano,ITC45,2021,abitazioni occupate,1512673
+Città metropolitana di Milano,ITC45,2023,abitazioni occupate,1546656
+Città metropolitana di Milano,ITC45,2019,abitazioni non occupate,202448
+Città metropolitana di Milano,ITC45,2021,abitazioni non occupate,214674
+Città metropolitana di Milano,ITC45,2023,abitazioni non occupate,206737

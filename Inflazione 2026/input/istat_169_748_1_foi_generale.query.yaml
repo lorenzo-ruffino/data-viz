@@ -1,0 +1,16 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 169_748_DF_DCSP_FOI1B2025_1
+description: Foi - mensili dal 2026 (base 2025) - Ecoicop 2
+filters:
+  REF_AREA:
+    value: IT
+    description: ''
+  ECOICOP_2:
+    value: 00+00ST
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

@@ -1,0 +1,23 @@
+provider: eurostat
+provider_url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1
+agency_id: ESTAT
+dataset: TOUR_OCC_NIN2DC
+description: Nights spent at tourist accommodation establishments by degree of urbanisation
+  and coastal/non-coastal area and NUTS 2 region
+filters:
+  freq:
+    value: A
+    description: ''
+  unit:
+    value: NR
+    description: ''
+  nace_r2:
+    value: I551-I553
+    description: ''
+  geo:
+    value: IT
+    description: ''
+start_period: '2015'
+end_period: null
+last_n: null
+first_n: null

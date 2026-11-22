@@ -1,0 +1,17 @@
+anno,personale_mln,esercizio_mln,investimento_mln,totale_mln,tipo,fonte
+2008,9110.1,2663.2,3635.0,15408.3,legge di bilancio,DPP 2013-2015 p. I-4
+2009,9566.3,1887.9,2885.3,14339.5,legge di bilancio,DPP 2013-2015 p. I-4
+2010,9347.1,1760.4,3187.4,14295.0,legge di bilancio,DPP 2013-2015 p. I-4
+2011,9462.3,1444.2,3453.7,14360.2,legge di bilancio,DPP 2013-2015 p. I-4
+2012,9612.6,1522.5,2478.2,13613.3,legge di bilancio,DPP 2013-2015 p. I-4
+2013,9683.2,1334.6,3395.2,14413.0,legge di bilancio,DPP 2013-2015 p. I-4
+2017,9798.6,1271.5,2140.2,13210.3,derivato dalle variazioni 2018/2017,DPP 2018-2020 (2018: +2.8/+11.6/+7.7 per cento)
+2018,10073.0,1419.0,2305.0,13797.0,legge di bilancio,Dossier Camera DI0117 fig. 5 (dati DPP)
+2019,10366.2,1746.4,1869.9,13982.5,legge di bilancio,Dossier Camera DI0117 fig. 5
+2020,10365.9,2146.8,2810.7,15323.4,legge di bilancio,Dossier Camera DI0117 fig. 5
+2021,10488.4,2284.0,4036.6,16809.0,legge di bilancio,Dossier Camera DI0117 fig. 5
+2022,10604.3,2070.2,5421.0,18095.5,legge di bilancio,Dossier Camera DI0117 fig. 5
+2023,11118.8,2336.6,6100.5,19555.9,legge di bilancio,Dossier Camera DI0117 fig. 5
+2024,11123.5,2221.6,7503.5,20848.6,legge di bilancio,Dossier Camera DI0117 fig. 5
+2025,,2302.3,,22485.0,legge di bilancio,DPP 2025-2027 p. 92-96
+2026,11764,2574,9350,23687,legislazione vigente (ddl 2027),startmag su ddl 2027 (non tabella primaria)

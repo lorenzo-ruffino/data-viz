@@ -1,0 +1,113 @@
+geo,urbanizzazione,pendolari_migliaia,minuti_medi,quota_30_e_piu,quota_45_e_piu,quota_60_e_piu
+LU,aree rurali,72.7,31,52.5,22.4,10.2
+LV,aree rurali,280.3,33,49.4,27.2,15.2
+BE,aree rurali,604.7,29,43.5,20.6,11.5
+HU,aree rurali,1318,27,42.3,15.7,9.9
+IE,aree rurali,716.5,27,38.7,18.5,11.6
+CZ,aree rurali,1776.5,26,37.8,15.7,9.2
+RO,aree rurali,2698.6,25,36.5,13.8,7.3
+SI,aree rurali,380,24,36.5,14.7,8.4
+DK,aree rurali,977.1,26,36,17.3,9.6
+NL,aree rurali,806.7,26,35.7,17.9,9.6
+BG,aree rurali,740.6,24,34.7,11.6,6.9
+SE,aree rurali,1339.9,26,34.6,16,9.6
+SK,aree rurali,1024.7,24,34,10.4,5.9
+DE,aree rurali,7799.7,25,33.5,13.7,8
+LT,aree rurali,506.3,23,33.4,9.4,6.5
+PL,aree rurali,5115.8,23,33.2,9.7,6.3
+CY,aree rurali,71.7,23,33.1,NA,NA
+EE,aree rurali,204.6,24,33,14.9,8.3
+FR,aree rurali,8572.5,24,33,13.3,6.9
+EU27_2020,aree rurali,47164.7,24,32.4,12.8,7.5
+AT,aree rurali,1592.1,23,32.1,15,8.7
+HR,aree rurali,523.8,23,31.9,11.3,6.7
+FI,aree rurali,669.6,22,31.2,13.5,5.6
+ES,aree rurali,2196.1,21,27.8,12.6,8.3
+IT,aree rurali,5216.4,20,25.5,10.3,7.2
+PT,aree rurali,939.2,17,19.7,6.7,4
+EL,aree rurali,1013.5,14,9.1,2,1
+MT,aree rurali,7,31,NA,NA,NA
+LV,città,411.6,34,58.8,20.2,13.1
+HU,città,1352.5,32,58.3,21,10.4
+RO,città,2594.2,30,54.9,15.4,4.5
+CZ,città,1569,30,52.9,19.2,7.9
+BG,città,1603.8,28,52.3,13.1,4.2
+IE,città,707.3,29,47.1,20.6,12.4
+AT,città,1249.2,28,46.7,18.4,7.7
+PL,città,5580.2,27,44.8,12.1,6.7
+HR,città,501.7,27,44.6,18,7.2
+FR,città,10883,28,43.2,20.3,10.4
+DE,città,13582.5,28,42.1,18.2,10.2
+EU27_2020,città,72587.1,27,41.9,16.9,9.3
+SE,città,1768.4,27,41.9,18.1,8.2
+BE,città,1371.8,28,41.3,18.5,10.3
+NL,città,4641.6,28,40.1,20.3,11.7
+ES,città,10017,27,39.2,16.8,11.5
+DK,città,935.5,26,39,14.7,6.7
+FI,città,997.2,25,38.7,12.6,5
+MT,città,117.5,24,37.7,14,5.6
+LT,città,647.7,24,35.2,5,2.6
+PT,città,1970,24,35,15.5,9.6
+IT,città,7398.7,24,34.9,14.6,9.7
+EL,città,1438.3,24,34.5,11.4,4.8
+LU,città,44.7,24,34.5,NA,NA
+SK,città,526.2,23,31.5,6.8,3.5
+EE,città,298.7,23,31.4,8.4,4.4
+SI,città,174.5,21,25.9,6.9,4.3
+CY,città,204.4,19,17.4,5.1,2.5
+LU,piccole città e sobborghi,80.6,31,50.9,24.4,11.7
+LV,piccole città e sobborghi,193.4,32,49.5,23.5,13.5
+MT,piccole città e sobborghi,115.7,27,43.7,19.7,10.2
+BE,piccole città e sobborghi,2445.6,28,42,21.1,12.4
+DK,piccole città e sobborghi,727.7,27,41,19.1,9.9
+HU,piccole città e sobborghi,1462.7,28,39,18.2,13
+RO,piccole città e sobborghi,1964,26,36.8,12.9,5.9
+NL,piccole città e sobborghi,2675.8,25,35.8,17.7,9
+IE,piccole città e sobborghi,414.1,26,35.3,18.4,12.8
+SE,piccole città e sobborghi,1797.6,26,35.1,16.6,10.2
+DE,piccole città e sobborghi,15922.5,25,34.4,14.7,8.2
+FR,piccole città e sobborghi,5350.9,25,33.3,16,9.3
+CZ,piccole città e sobborghi,1689.7,25,33.1,13.5,9.2
+EU27_2020,piccole città e sobborghi,62205.4,24,31.6,13.6,8.2
+HR,piccole città e sobborghi,490.9,23,31.6,12.2,8.4
+SI,piccole città e sobborghi,317.1,22,31.4,11.1,6.1
+PL,piccole città e sobborghi,4181.8,23,30.9,11.3,8
+EE,piccole città e sobborghi,117.5,22,30.4,11.4,6
+AT,piccole città e sobborghi,1315,21,29.3,13.1,6.5
+ES,piccole città e sobborghi,6030.8,22,28.3,12.1,8.1
+BG,piccole città e sobborghi,773.5,22,26.6,7,4.1
+FI,piccole città e sobborghi,719.3,21,26.2,10.9,5.7
+IT,piccole città e sobborghi,9635.7,20,25.1,10.5,7.4
+SK,piccole città e sobborghi,874.7,21,23.5,7.8,5.2
+EL,piccole città e sobborghi,1176.4,19,22.7,7.7,3.3
+PT,piccole città e sobborghi,1443.3,18,20.4,7.7,5
+LT,piccole città e sobborghi,172.6,21,20.3,NA,4.1
+CY,piccole città e sobborghi,116.4,18,16.4,NA,NA
+LV,totale,885.3,33,53.8,23.1,13.9
+LU,totale,198.1,29,47.8,19.9,9.3
+HU,totale,4133.2,29,46.4,18.3,11.2
+RO,totale,7256.9,27,43.2,14.1,5.9
+BE,totale,4422.1,28,42,20.2,11.6
+BG,totale,3117.9,26,41.8,11.2,4.8
+IE,totale,1837.8,28,41.2,19.3,12.2
+CZ,totale,5035.2,27,40.9,16,8.8
+MT,totale,240.2,26,40.7,17.1,8.2
+DK,totale,2640.2,26,38.4,16.9,8.7
+NL,totale,8124.1,27,38.2,19.2,10.6
+FR,totale,24806.5,26,37.6,17,9
+SE,totale,4905.8,26,37.4,17,9.3
+DE,totale,37304.7,26,37,15.7,8.9
+PL,totale,14877.8,24,36.9,11,6.9
+HR,totale,1516.4,24,36,13.8,7.4
+EU27_2020,totale,181957.2,25,35.9,14.7,8.5
+AT,totale,4156.3,24,35.6,15.4,7.7
+ES,totale,18244,25,34.2,14.8,10
+FI,totale,2386.1,23,32.8,12.3,5.4
+SI,totale,871.7,23,32.6,11.8,6.7
+LT,totale,1326.6,23,32.5,6.7,4.3
+EE,totale,620.7,23,31.8,11.1,6
+SK,totale,2425.6,23,29.7,8.7,5.1
+IT,totale,22250.7,21,28.5,11.8,8.1
+PT,totale,4352.5,21,26.8,11,6.9
+EL,totale,3628.1,20,23.6,7.6,3.2
+CY,totale,392.5,19,20,6.2,2.8

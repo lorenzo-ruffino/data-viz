@@ -1,0 +1,193 @@
+citta,motivo,variabile,modalita,stima_pendolari,quota_perc
+Milano,studio,mezzo,treno,53282,49.9
+Milano,studio,mezzo,tram,2020,1.9
+Milano,studio,mezzo,metropolitana,16046,15.0
+Milano,studio,mezzo,"autobus urbano, filobus",5457,5.1
+Milano,studio,mezzo,"corriera, autobus extraurbano",6784,6.4
+Milano,studio,mezzo,autobus aziendale o scolastico,644,0.6
+Milano,studio,mezzo,auto (conducente),6631,6.2
+Milano,studio,mezzo,auto (passeggero),10912,10.2
+Milano,studio,mezzo,"moto, motorino, scooter",1949,1.8
+Milano,studio,mezzo,bicicletta,619,0.6
+Milano,studio,mezzo,altro mezzo,158,0.1
+Milano,studio,mezzo,a piedi,2225,2.1
+Milano,studio,tempo,fino a 15 minuti,2760,2.6
+Milano,studio,tempo,16-30 minuti,13973,13.1
+Milano,studio,tempo,31-60 minuti,47573,44.6
+Milano,studio,tempo,oltre 60 minuti,42422,39.7
+Milano,lavoro,mezzo,treno,88297,24.0
+Milano,lavoro,mezzo,tram,3997,1.1
+Milano,lavoro,mezzo,metropolitana,42003,11.4
+Milano,lavoro,mezzo,"autobus urbano, filobus",6522,1.8
+Milano,lavoro,mezzo,"corriera, autobus extraurbano",11589,3.1
+Milano,lavoro,mezzo,autobus aziendale o scolastico,1280,0.3
+Milano,lavoro,mezzo,auto (conducente),168202,45.7
+Milano,lavoro,mezzo,auto (passeggero),17213,4.7
+Milano,lavoro,mezzo,"moto, motorino, scooter",17710,4.8
+Milano,lavoro,mezzo,bicicletta,4629,1.3
+Milano,lavoro,mezzo,altro mezzo,1247,0.3
+Milano,lavoro,mezzo,a piedi,5266,1.4
+Milano,lavoro,tempo,fino a 15 minuti,14572,4.0
+Milano,lavoro,tempo,16-30 minuti,67305,18.3
+Milano,lavoro,tempo,31-60 minuti,170259,46.3
+Milano,lavoro,tempo,oltre 60 minuti,115816,31.5
+Roma,studio,mezzo,treno,27398,50.2
+Roma,studio,mezzo,tram,95,0.2
+Roma,studio,mezzo,metropolitana,831,1.5
+Roma,studio,mezzo,"autobus urbano, filobus",3600,6.6
+Roma,studio,mezzo,"corriera, autobus extraurbano",6539,12.0
+Roma,studio,mezzo,autobus aziendale o scolastico,390,0.7
+Roma,studio,mezzo,auto (conducente),5826,10.7
+Roma,studio,mezzo,auto (passeggero),8813,16.1
+Roma,studio,mezzo,"moto, motorino, scooter",615,1.1
+Roma,studio,mezzo,bicicletta,12,0.0
+Roma,studio,mezzo,altro mezzo,98,0.2
+Roma,studio,mezzo,a piedi,393,0.7
+Roma,studio,tempo,fino a 15 minuti,1193,2.2
+Roma,studio,tempo,16-30 minuti,4684,8.6
+Roma,studio,tempo,31-60 minuti,16547,30.3
+Roma,studio,tempo,oltre 60 minuti,32185,58.9
+Roma,lavoro,mezzo,treno,61403,25.8
+Roma,lavoro,mezzo,tram,127,0.1
+Roma,lavoro,mezzo,metropolitana,2663,1.1
+Roma,lavoro,mezzo,"autobus urbano, filobus",4615,1.9
+Roma,lavoro,mezzo,"corriera, autobus extraurbano",13372,5.6
+Roma,lavoro,mezzo,autobus aziendale o scolastico,2747,1.2
+Roma,lavoro,mezzo,auto (conducente),128936,54.2
+Roma,lavoro,mezzo,auto (passeggero),12931,5.4
+Roma,lavoro,mezzo,"moto, motorino, scooter",8544,3.6
+Roma,lavoro,mezzo,bicicletta,200,0.1
+Roma,lavoro,mezzo,altro mezzo,699,0.3
+Roma,lavoro,mezzo,a piedi,1705,0.7
+Roma,lavoro,tempo,fino a 15 minuti,5788,2.4
+Roma,lavoro,tempo,16-30 minuti,27349,11.5
+Roma,lavoro,tempo,31-60 minuti,88760,37.3
+Roma,lavoro,tempo,oltre 60 minuti,116044,48.8
+Torino,studio,mezzo,treno,13182,29.2
+Torino,studio,mezzo,tram,542,1.2
+Torino,studio,mezzo,metropolitana,2554,5.6
+Torino,studio,mezzo,"autobus urbano, filobus",8392,18.6
+Torino,studio,mezzo,"corriera, autobus extraurbano",6890,15.2
+Torino,studio,mezzo,autobus aziendale o scolastico,231,0.5
+Torino,studio,mezzo,auto (conducente),4592,10.2
+Torino,studio,mezzo,auto (passeggero),7825,17.3
+Torino,studio,mezzo,"moto, motorino, scooter",323,0.7
+Torino,studio,mezzo,bicicletta,52,0.1
+Torino,studio,mezzo,altro mezzo,23,0.1
+Torino,studio,mezzo,a piedi,603,1.3
+Torino,studio,tempo,fino a 15 minuti,2122,4.7
+Torino,studio,tempo,16-30 minuti,8159,18.0
+Torino,studio,tempo,31-60 minuti,20370,45.1
+Torino,studio,tempo,oltre 60 minuti,14557,32.2
+Torino,lavoro,mezzo,treno,14027,10.4
+Torino,lavoro,mezzo,tram,813,0.6
+Torino,lavoro,mezzo,metropolitana,3948,2.9
+Torino,lavoro,mezzo,"autobus urbano, filobus",6991,5.2
+Torino,lavoro,mezzo,"corriera, autobus extraurbano",5704,4.2
+Torino,lavoro,mezzo,autobus aziendale o scolastico,584,0.4
+Torino,lavoro,mezzo,auto (conducente),91238,67.8
+Torino,lavoro,mezzo,auto (passeggero),6139,4.6
+Torino,lavoro,mezzo,"moto, motorino, scooter",2728,2.0
+Torino,lavoro,mezzo,bicicletta,782,0.6
+Torino,lavoro,mezzo,altro mezzo,429,0.3
+Torino,lavoro,mezzo,a piedi,1125,0.8
+Torino,lavoro,tempo,fino a 15 minuti,11203,8.3
+Torino,lavoro,tempo,16-30 minuti,45280,33.7
+Torino,lavoro,tempo,31-60 minuti,57878,43.0
+Torino,lavoro,tempo,oltre 60 minuti,20146,15.0
+Napoli,studio,mezzo,treno,30161,39.9
+Napoli,studio,mezzo,tram,107,0.1
+Napoli,studio,mezzo,metropolitana,8750,11.6
+Napoli,studio,mezzo,"autobus urbano, filobus",10414,13.8
+Napoli,studio,mezzo,"corriera, autobus extraurbano",6921,9.2
+Napoli,studio,mezzo,autobus aziendale o scolastico,1262,1.7
+Napoli,studio,mezzo,auto (conducente),5154,6.8
+Napoli,studio,mezzo,auto (passeggero),8870,11.7
+Napoli,studio,mezzo,"moto, motorino, scooter",1032,1.4
+Napoli,studio,mezzo,bicicletta,25,0.0
+Napoli,studio,mezzo,altro mezzo,1067,1.4
+Napoli,studio,mezzo,a piedi,1756,2.3
+Napoli,studio,tempo,fino a 15 minuti,4344,5.8
+Napoli,studio,tempo,16-30 minuti,11367,15.1
+Napoli,studio,tempo,31-60 minuti,31170,41.3
+Napoli,studio,tempo,oltre 60 minuti,28639,37.9
+Napoli,lavoro,mezzo,treno,17331,14.3
+Napoli,lavoro,mezzo,tram,66,0.1
+Napoli,lavoro,mezzo,metropolitana,4764,3.9
+Napoli,lavoro,mezzo,"autobus urbano, filobus",5585,4.6
+Napoli,lavoro,mezzo,"corriera, autobus extraurbano",4991,4.1
+Napoli,lavoro,mezzo,autobus aziendale o scolastico,581,0.5
+Napoli,lavoro,mezzo,auto (conducente),71357,59.1
+Napoli,lavoro,mezzo,auto (passeggero),7976,6.6
+Napoli,lavoro,mezzo,"moto, motorino, scooter",5129,4.2
+Napoli,lavoro,mezzo,bicicletta,200,0.2
+Napoli,lavoro,mezzo,altro mezzo,1356,1.1
+Napoli,lavoro,mezzo,a piedi,1476,1.2
+Napoli,lavoro,tempo,fino a 15 minuti,9821,8.1
+Napoli,lavoro,tempo,16-30 minuti,42005,34.8
+Napoli,lavoro,tempo,31-60 minuti,47133,39.0
+Napoli,lavoro,tempo,oltre 60 minuti,21851,18.1
+Bologna,studio,mezzo,treno,8914,39.7
+Bologna,studio,mezzo,tram,180,0.8
+Bologna,studio,mezzo,metropolitana,0,0.0
+Bologna,studio,mezzo,"autobus urbano, filobus",2727,12.1
+Bologna,studio,mezzo,"corriera, autobus extraurbano",4740,21.1
+Bologna,studio,mezzo,autobus aziendale o scolastico,128,0.6
+Bologna,studio,mezzo,auto (conducente),1519,6.8
+Bologna,studio,mezzo,auto (passeggero),3388,15.1
+Bologna,studio,mezzo,"moto, motorino, scooter",690,3.1
+Bologna,studio,mezzo,bicicletta,57,0.3
+Bologna,studio,mezzo,altro mezzo,27,0.1
+Bologna,studio,mezzo,a piedi,99,0.4
+Bologna,studio,tempo,fino a 15 minuti,1086,4.8
+Bologna,studio,tempo,16-30 minuti,4113,18.3
+Bologna,studio,tempo,31-60 minuti,9558,42.5
+Bologna,studio,tempo,oltre 60 minuti,7710,34.3
+Bologna,lavoro,mezzo,treno,10634,14.6
+Bologna,lavoro,mezzo,tram,161,0.2
+Bologna,lavoro,mezzo,metropolitana,0,0.0
+Bologna,lavoro,mezzo,"autobus urbano, filobus",3022,4.2
+Bologna,lavoro,mezzo,"corriera, autobus extraurbano",3495,4.8
+Bologna,lavoro,mezzo,autobus aziendale o scolastico,268,0.4
+Bologna,lavoro,mezzo,auto (conducente),47658,65.6
+Bologna,lavoro,mezzo,auto (passeggero),3084,4.2
+Bologna,lavoro,mezzo,"moto, motorino, scooter",3174,4.4
+Bologna,lavoro,mezzo,bicicletta,574,0.8
+Bologna,lavoro,mezzo,altro mezzo,306,0.4
+Bologna,lavoro,mezzo,a piedi,274,0.4
+Bologna,lavoro,tempo,fino a 15 minuti,6846,9.4
+Bologna,lavoro,tempo,16-30 minuti,24403,33.6
+Bologna,lavoro,tempo,31-60 minuti,29454,40.5
+Bologna,lavoro,tempo,oltre 60 minuti,11947,16.4
+Firenze,studio,mezzo,treno,12477,42.6
+Firenze,studio,mezzo,tram,833,2.8
+Firenze,studio,mezzo,metropolitana,7,0.0
+Firenze,studio,mezzo,"autobus urbano, filobus",2926,10.0
+Firenze,studio,mezzo,"corriera, autobus extraurbano",3461,11.8
+Firenze,studio,mezzo,autobus aziendale o scolastico,216,0.7
+Firenze,studio,mezzo,auto (conducente),2692,9.2
+Firenze,studio,mezzo,auto (passeggero),3770,12.9
+Firenze,studio,mezzo,"moto, motorino, scooter",2726,9.3
+Firenze,studio,mezzo,bicicletta,45,0.2
+Firenze,studio,mezzo,altro mezzo,15,0.1
+Firenze,studio,mezzo,a piedi,150,0.5
+Firenze,studio,tempo,fino a 15 minuti,1712,5.8
+Firenze,studio,tempo,16-30 minuti,5669,19.3
+Firenze,studio,tempo,31-60 minuti,12866,43.9
+Firenze,studio,tempo,oltre 60 minuti,9071,30.9
+Firenze,lavoro,mezzo,treno,15901,20.5
+Firenze,lavoro,mezzo,tram,1400,1.8
+Firenze,lavoro,mezzo,metropolitana,25,0.0
+Firenze,lavoro,mezzo,"autobus urbano, filobus",2782,3.6
+Firenze,lavoro,mezzo,"corriera, autobus extraurbano",3324,4.3
+Firenze,lavoro,mezzo,autobus aziendale o scolastico,235,0.3
+Firenze,lavoro,mezzo,auto (conducente),40456,52.2
+Firenze,lavoro,mezzo,auto (passeggero),2815,3.6
+Firenze,lavoro,mezzo,"moto, motorino, scooter",9484,12.2
+Firenze,lavoro,mezzo,bicicletta,493,0.6
+Firenze,lavoro,mezzo,altro mezzo,249,0.3
+Firenze,lavoro,mezzo,a piedi,293,0.4
+Firenze,lavoro,tempo,fino a 15 minuti,6601,8.5
+Firenze,lavoro,tempo,16-30 minuti,24698,31.9
+Firenze,lavoro,tempo,31-60 minuti,32187,41.6
+Firenze,lavoro,tempo,oltre 60 minuti,13970,18.0

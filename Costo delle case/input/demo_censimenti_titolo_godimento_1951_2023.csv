@@ -1,0 +1,9 @@
+anno,unita,proprieta,affitto,altro_titolo,totale,quota_proprieta_pct,quota_affitto_pct,quota_altro_pct,fonte
+1951,censimento (abitazioni occupate da residenti),4300636,5241091,1214394,10756121,40.0,48.7,11.3,"ISTAT, Sommario di statistiche storiche, Tav. 15.2"
+1961,censimento (abitazioni occupate da residenti),5971868,6075896,983854,13031618,45.8,46.6,7.5,"ISTAT, Sommario di statistiche storiche, Tav. 15.2"
+1971,censimento (abitazioni occupate da residenti),7766566,6768906,765955,15301427,50.8,44.2,5.0,"ISTAT, Sommario di statistiche storiche, Tav. 15.2"
+1981,censimento (abitazioni occupate da residenti),10333197,6224994,983561,17541752,58.9,35.5,5.6,"ISTAT, Sommario di statistiche storiche, Tav. 15.2"
+1991,censimento (abitazioni occupate da residenti),13419121,4999829,1316963,19735913,68.0,25.3,6.7,"ISTAT, Sommario di statistiche storiche, Tav. 15.2"
+2001,censimento (abitazioni occupate da residenti),15453656,4327618,1872014,21653288,71.4,20.0,8.6,"ISTAT, Sommario di statistiche storiche, Tav. 15.2"
+2021,censimento permanente (famiglie),,5073753,,26133640,,19.4,,"ISTAT, censimento permanente 2021, DF_DCSS_HUDW_1_COM"
+2023,censimento permanente (famiglie),,,,,73.9,19.6,6.5,"ISTAT, Abitazioni occupate - Anni 2021-2023 (11/2/2026), Prospetto 2"

@@ -1,0 +1,10 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 168_760_DF_DCSP_IPCA1B2015_3
+description: Classi di spesa
+filters: {}
+start_period: null
+end_period: null
+last_n: null
+first_n: null

@@ -1,0 +1,19 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 122_54_DF_DCSC_TUR_10
+description: Tipo di località e paese di residenza
+filters:
+  FREQ:
+    value: A
+    description: ''
+  REF_AREA:
+    value: IT
+    description: ''
+  ADJUSTMENT:
+    value: N
+    description: ''
+start_period: '2008'
+end_period: null
+last_n: null
+first_n: null

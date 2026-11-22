@@ -1,0 +1,13 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 168_761_DF_DCSP_IPCA1B2025_2
+description: Aggregati speciali (5 cifre)
+filters:
+  MEASURE:
+    value: 4+7
+    description: ''
+start_period: null
+end_period: null
+last_n: null
+first_n: null

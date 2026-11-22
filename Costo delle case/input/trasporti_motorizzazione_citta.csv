@@ -1,0 +1,16 @@
+citta,auto_per_1000_ab,anno,perimetro,fonte
+Catania,824,2024,comune,"ISTAT, Dati ambientali nelle città 2024 (dataflow 609_1_DF_DCCV_URBANENV_12, CPASCAR1000) - https://www.istat.it/comunicato-stampa/ambiente-urbano-anno-2024/"
+Roma,646,2024,comune,"ISTAT, Dati ambientali nelle città 2024 (dataflow 609_1_DF_DCCV_URBANENV_12, CPASCAR1000) - https://www.istat.it/comunicato-stampa/ambiente-urbano-anno-2024/"
+Torino,650,2024,comune,"ISTAT, Dati ambientali nelle città 2024 (dataflow 609_1_DF_DCCV_URBANENV_12, CPASCAR1000) - https://www.istat.it/comunicato-stampa/ambiente-urbano-anno-2024/"
+Napoli,629,2024,comune,"ISTAT, Dati ambientali nelle città 2024 (dataflow 609_1_DF_DCCV_URBANENV_12, CPASCAR1000) - https://www.istat.it/comunicato-stampa/ambiente-urbano-anno-2024/"
+Bologna,557,2024,comune,"ISTAT, Dati ambientali nelle città 2024 (dataflow 609_1_DF_DCCV_URBANENV_12, CPASCAR1000) - https://www.istat.it/comunicato-stampa/ambiente-urbano-anno-2024/"
+Milano,519,2024,comune,"ISTAT, Dati ambientali nelle città 2024 (dataflow 609_1_DF_DCCV_URBANENV_12, CPASCAR1000) - https://www.istat.it/comunicato-stampa/ambiente-urbano-anno-2024/"
+Genova,489,2024,comune,"ISTAT, Dati ambientali nelle città 2024 (dataflow 609_1_DF_DCCV_URBANENV_12, CPASCAR1000) - https://www.istat.it/comunicato-stampa/ambiente-urbano-anno-2024/"
+Media capoluoghi metropolitani,612,2024,comuni capoluogo,"ISTAT, Dati ambientali nelle città 2024 (dataflow 609_1_DF_DCCV_URBANENV_12, CPASCAR1000) - https://www.istat.it/comunicato-stampa/ambiente-urbano-anno-2024/"
+Madrid,397,2024,greater city,"Eurostat, Urban Audit urb_ctran, indicatore TT1057I"
+Parigi,352,2023,greater city,"Eurostat, Urban Audit urb_ctran, indicatore TT1057I"
+Monaco di Baviera,346,2023,città,"Eurostat, Urban Audit urb_ctran, indicatore TT1057I"
+Barcellona,336,2023,"greater city (2024: 279, serie discontinua)","Eurostat, Urban Audit urb_ctran, indicatore TT1057I"
+Berlino,283,2023,città,"Eurostat, Urban Audit urb_ctran, indicatore TT1057I"
+Berlino,275,2025,"città, solo auto private (334 con aziendali)",Amt für Statistik Berlin-Brandenburg via Berliner Morgenpost 2026 - https://www.morgenpost.de/berlin/article412306798/
+Londra,283,2018,città (Greater London),"Eurostat, Urban Audit urb_ctran, indicatore TT1057I"

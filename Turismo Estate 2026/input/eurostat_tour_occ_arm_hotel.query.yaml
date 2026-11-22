@@ -1,0 +1,19 @@
+provider: eurostat
+provider_url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1
+agency_id: ESTAT
+dataset: TOUR_OCC_ARM
+description: Arrivals at tourist accommodation establishments - monthly data
+filters:
+  freq:
+    value: M
+    description: ''
+  unit:
+    value: NR
+    description: ''
+  nace_r2:
+    value: I551
+    description: ''
+start_period: 2000-01
+end_period: null
+last_n: null
+first_n: null

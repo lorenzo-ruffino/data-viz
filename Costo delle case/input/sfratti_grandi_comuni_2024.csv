@@ -1,0 +1,21 @@
+comune,codice_istat,provvedimenti_comune_2024,di_cui_morosita_2024,famiglie_2021,famiglie_in_affitto_2021,quota_famiglie_in_affitto,provvedimenti_per_1000_famiglie_affitto,morosita_per_1000_famiglie_affitto,richieste_esecuzione_provincia_2024,sfratti_eseguiti_provincia_2024,nota_qualita
+Italia,IT,40158,30041,26133640,5073753,19.4,7.91,5.92,81054,21337,
+Roma,058091,3721,2943,1308556,307620,23.5,12.1,9.57,4041,1724,
+Milano,015146,1028,740,713971,231364,32.4,4.44,3.2,14084,1597,
+Torino,001272,1371,1136,429338,126138,29.4,10.87,9.01,3748,1620,
+Napoli,063049,1968,1354,371612,137621,37.0,14.3,9.84,3512,1115,
+Genova,010025,694,592,286661,64800,22.6,10.71,9.14,1653,525,
+Palermo,082053,1096,14,262608,61251,23.3,17.89,0.23,1745,343,quota anomala di 'necessità del locatore': probabile errore di classificazione del motivo
+Bologna,037006,164,106,207332,61248,29.5,2.68,1.73,2827,416,
+Firenze,048017,303,204,184328,43903,23.8,6.9,4.65,2340,454,
+Bari,072006,368,292,137972,32515,23.6,11.32,8.98,3037,366,
+Catania,087015,0,0,132302,29262,22.1,0.0,0.0,0,0,richieste di esecuzione e sfratti eseguiti pari a zero: dato mancante; nessun provvedimento attribuito al capoluogo: dato mancante
+Venezia,027042,0,0,125504,31773,25.3,0.0,0.0,1650,497,provvedimenti inferiori agli sfratti eseguiti: possibile rilevazione incompleta dei provvedimenti; nessun provvedimento attribuito al capoluogo: dato mancante
+Verona,023091,278,168,123673,37526,30.3,7.41,4.48,1174,362,
+Trieste,032006,239,149,104382,27492,26.3,8.69,5.42,509,132,
+Padova,028060,145,108,101733,26613,26.2,5.45,4.06,431,309,
+Messina,083048,96,82,99033,22676,22.9,4.23,3.62,238,73,
+Brescia,017029,214,157,94439,30503,32.3,7.02,5.15,2112,543,
+Parma,034027,193,153,92054,25971,28.2,7.43,5.89,962,249,
+Modena,036023,165,101,84932,23410,27.6,7.05,4.31,1395,330,
+Prato,100005,140,116,80595,18795,23.3,7.45,6.17,671,218,provvedimenti inferiori agli sfratti eseguiti: possibile rilevazione incompleta dei provvedimenti

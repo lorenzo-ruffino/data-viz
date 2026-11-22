@@ -1,0 +1,615 @@
+istituto,data,cand,candidato,validi,effetto_istituto,corretto
+Ideia,2026-04-05,caiado,Caiado,7.18,0.78,6.41
+Ideia,2026-04-05,flavio,Flávio Bolsonaro,40.88,-0.03,40.91
+Ideia,2026-04-05,lula,Lula,44.64,-0.88,45.52
+Ideia,2026-04-05,santos,Renan Santos,3.31,-0.43,3.74
+Ideia,2026-04-05,zema,Zema,3.31,0.01,3.3
+Datafolha,2026-04-08,caiado,Caiado,5.81,0.04,5.77
+Datafolha,2026-04-08,flavio,Flávio Bolsonaro,40.7,-0.66,41.35
+Datafolha,2026-04-08,lula,Lula,45.35,-0.22,45.57
+Datafolha,2026-04-08,santos,Renan Santos,2.33,-0.68,3
+Datafolha,2026-04-08,zema,Zema,4.65,0.14,4.51
+Futura,2026-04-09,caiado,Caiado,5.43,0.58,4.85
+Futura,2026-04-09,cury,Cury,1.47,0.05,1.42
+Futura,2026-04-09,flavio,Flávio Bolsonaro,42.19,1.21,40.98
+Futura,2026-04-09,lula,Lula,45.02,-1.13,46.15
+Futura,2026-04-09,santos,Renan Santos,1.58,-0.89,2.48
+Futura,2026-04-09,zema,Zema,3.28,0.04,3.24
+MDA,2026-04-10,caiado,Caiado,5.7,-0.11,5.81
+MDA,2026-04-10,flavio,Flávio Bolsonaro,37.42,-3.08,40.51
+MDA,2026-04-10,lula,Lula,48.57,3.25,45.32
+MDA,2026-04-10,santos,Renan Santos,2.23,-0.93,3.16
+MDA,2026-04-10,zema,Zema,4.09,0.22,3.87
+Quaest,2026-04-11,caiado,Caiado,7.14,0.01,7.14
+Quaest,2026-04-11,cury,Cury,2.38,0.57,1.81
+Quaest,2026-04-11,flavio,Flávio Bolsonaro,38.1,-1.21,39.31
+Quaest,2026-04-11,lula,Lula,44.05,1.52,42.53
+Quaest,2026-04-11,santos,Renan Santos,2.38,-0.32,2.7
+Quaest,2026-04-11,zema,Zema,3.57,-0.24,3.81
+AtlasIntel,2026-04-24,caiado,Caiado,3.32,-1.72,5.04
+AtlasIntel,2026-04-24,cury,Cury,1.11,-1.16,2.27
+AtlasIntel,2026-04-24,flavio,Flávio Bolsonaro,39.94,0.44,39.5
+AtlasIntel,2026-04-24,lula,Lula,46.88,1.72,45.17
+AtlasIntel,2026-04-24,santos,Renan Santos,5.33,1.98,3.35
+AtlasIntel,2026-04-24,zema,Zema,3.12,-0.22,3.34
+Nexus,2026-04-25,caiado,Caiado,3.26,0.63,2.63
+Nexus,2026-04-25,cury,Cury,2.17,0.25,1.92
+Nexus,2026-04-25,flavio,Flávio Bolsonaro,39.13,0.08,39.06
+Nexus,2026-04-25,lula,Lula,44.57,-0.42,44.98
+Nexus,2026-04-25,santos,Renan Santos,3.26,-0.46,3.72
+Nexus,2026-04-25,zema,Zema,4.35,0.05,4.29
+Ideia,2026-05-03,caiado,Caiado,6.16,0.78,5.38
+Real Time,2026-05-03,caiado,Caiado,5.62,0.18,5.44
+Ideia,2026-05-03,cury,Cury,1.65,0.53,1.12
+Real Time,2026-05-03,cury,Cury,1.12,0.12,1
+Ideia,2026-05-03,flavio,Flávio Bolsonaro,39.6,-0.03,39.63
+Real Time,2026-05-03,flavio,Flávio Bolsonaro,38.2,-1.77,39.97
+Ideia,2026-05-03,lula,Lula,44,-0.88,44.88
+Real Time,2026-05-03,lula,Lula,44.94,-1.14,46.09
+Ideia,2026-05-03,santos,Renan Santos,1.54,-0.43,1.97
+Real Time,2026-05-03,santos,Renan Santos,3.37,1.77,1.6
+Ideia,2026-05-03,zema,Zema,3.3,0.01,3.29
+Real Time,2026-05-03,zema,Zema,4.49,-0.03,4.52
+Futura,2026-05-06,caiado,Caiado,4.87,0.58,4.28
+Futura,2026-05-06,cury,Cury,1.55,0.05,1.5
+Futura,2026-05-06,flavio,Flávio Bolsonaro,39.93,1.21,38.72
+Futura,2026-05-06,lula,Lula,42.37,-1.13,43.49
+Futura,2026-05-06,santos,Renan Santos,1.66,-0.89,2.55
+Futura,2026-05-06,zema,Zema,3.98,0.04,3.94
+Quaest,2026-05-09,caiado,Caiado,4.71,0.01,4.7
+Quaest,2026-05-09,cury,Cury,1.18,0.57,0.6
+Quaest,2026-05-09,flavio,Flávio Bolsonaro,38.82,-1.21,40.04
+Quaest,2026-05-09,lula,Lula,45.88,1.52,44.37
+Quaest,2026-05-09,santos,Renan Santos,2.35,-0.32,2.67
+Quaest,2026-05-09,zema,Zema,4.71,-0.24,4.95
+Vox Brasil,2026-05-10,caiado,Caiado,5.06,0.96,4.1
+Vox Brasil,2026-05-10,cury,Cury,0.94,-1.13,2.07
+Vox Brasil,2026-05-10,flavio,Flávio Bolsonaro,44.47,1.27,43.2
+Vox Brasil,2026-05-10,lula,Lula,41.29,-0.18,41.47
+Vox Brasil,2026-05-10,santos,Renan Santos,2.12,-1.06,3.18
+Vox Brasil,2026-05-10,zema,Zema,5.29,0.63,4.67
+Datafolha,2026-05-12,caiado,Caiado,3.41,0.04,3.37
+Datafolha,2026-05-12,cury,Cury,2.27,0.48,1.79
+Datafolha,2026-05-12,flavio,Flávio Bolsonaro,39.77,-0.66,40.43
+Datafolha,2026-05-12,lula,Lula,43.18,-0.22,43.4
+Datafolha,2026-05-12,santos,Renan Santos,2.27,-0.68,2.95
+Datafolha,2026-05-12,zema,Zema,3.41,0.14,3.27
+AtlasIntel,2026-05-15,caiado,Caiado,2.79,-1.72,4.51
+AtlasIntel,2026-05-15,cury,Cury,0.41,-1.16,1.58
+AtlasIntel,2026-05-15,flavio,Flávio Bolsonaro,35.47,0.44,35.03
+AtlasIntel,2026-05-15,lula,Lula,48.6,1.72,46.89
+AtlasIntel,2026-05-15,santos,Renan Santos,7.14,1.98,5.16
+AtlasIntel,2026-05-15,zema,Zema,5.38,-0.22,5.6
+Futura,2026-05-17,caiado,Caiado,3.69,0.58,3.11
+Futura,2026-05-17,cury,Cury,1.01,0.05,0.96
+Futura,2026-05-17,flavio,Flávio Bolsonaro,39.82,1.21,38.61
+Futura,2026-05-17,lula,Lula,47.76,-1.13,48.89
+Futura,2026-05-17,santos,Renan Santos,1.9,-0.89,2.8
+Futura,2026-05-17,zema,Zema,4.36,0.04,4.32
+Vox Brasil,2026-05-18,caiado,Caiado,6.88,0.96,5.93
+Vox Brasil,2026-05-18,cury,Cury,0.35,-1.13,1.48
+Vox Brasil,2026-05-18,flavio,Flávio Bolsonaro,37.46,1.27,36.18
+Vox Brasil,2026-05-18,lula,Lula,48.42,-0.18,48.6
+Vox Brasil,2026-05-18,santos,Renan Santos,1.75,-1.06,2.81
+Vox Brasil,2026-05-18,zema,Zema,4.78,0.63,4.16
+Datafolha,2026-05-21,caiado,Caiado,4.55,0.04,4.5
+Datafolha,2026-05-21,cury,Cury,2.27,0.48,1.79
+Datafolha,2026-05-21,flavio,Flávio Bolsonaro,35.23,-0.66,35.88
+Datafolha,2026-05-21,lula,Lula,45.45,-0.22,45.67
+Datafolha,2026-05-21,santos,Renan Santos,3.41,-0.68,4.09
+Datafolha,2026-05-21,zema,Zema,3.41,0.14,3.27
+Indexa,2026-05-23,caiado,Caiado,6.1,0.9,5.2
+Nexus,2026-05-23,caiado,Caiado,5.49,0.63,4.86
+Indexa,2026-05-23,cury,Cury,0,-0.44,0.44
+Nexus,2026-05-23,cury,Cury,1.1,0.25,0.85
+Indexa,2026-05-23,flavio,Flávio Bolsonaro,36.59,-0.45,37.03
+Nexus,2026-05-23,flavio,Flávio Bolsonaro,38.46,0.08,38.39
+Indexa,2026-05-23,lula,Lula,47.56,1.64,45.92
+Nexus,2026-05-23,lula,Lula,43.96,-0.42,44.37
+Indexa,2026-05-23,santos,Renan Santos,2.44,-0.62,3.06
+Nexus,2026-05-23,santos,Renan Santos,3.3,-0.46,3.76
+Indexa,2026-05-23,zema,Zema,3.66,-0.19,3.85
+Nexus,2026-05-23,zema,Zema,4.4,0.05,4.34
+Ideia,2026-05-25,caiado,Caiado,6.52,0.78,5.74
+Ideia,2026-05-25,flavio,Flávio Bolsonaro,37.32,-0.03,37.35
+Ideia,2026-05-25,lula,Lula,45.62,-0.88,46.5
+Ideia,2026-05-25,santos,Renan Santos,2.49,-0.43,2.92
+Ideia,2026-05-25,zema,Zema,2.84,0.01,2.83
+PoderData,2026-05-26,caiado,Caiado,3.3,-0.84,4.13
+PoderData,2026-05-26,cury,Cury,3.3,1.53,1.77
+PoderData,2026-05-26,flavio,Flávio Bolsonaro,38.46,0.49,37.97
+PoderData,2026-05-26,lula,Lula,43.96,-1.7,45.65
+PoderData,2026-05-26,santos,Renan Santos,3.3,-0.42,3.72
+PoderData,2026-05-26,zema,Zema,4.4,0,4.4
+Real Time,2026-05-29,caiado,Caiado,6.45,0.18,6.27
+Real Time,2026-05-29,cury,Cury,1.08,0.12,0.95
+Real Time,2026-05-29,flavio,Flávio Bolsonaro,33.33,-1.77,35.1
+Real Time,2026-05-29,lula,Lula,40.86,-1.14,42
+Real Time,2026-05-29,santos,Renan Santos,6.45,1.77,4.69
+Real Time,2026-05-29,zema,Zema,4.3,-0.03,4.33
+Vox Brasil,2026-06-02,caiado,Caiado,7.28,0.96,6.32
+Vox Brasil,2026-06-02,cury,Cury,0.53,-1.13,1.65
+Vox Brasil,2026-06-02,flavio,Flávio Bolsonaro,35.44,1.27,34.17
+Vox Brasil,2026-06-02,lula,Lula,44.41,-0.18,44.59
+Vox Brasil,2026-06-02,santos,Renan Santos,3.27,-1.06,4.33
+Vox Brasil,2026-06-02,zema,Zema,5.38,0.63,4.75
+Quaest,2026-06-06,caiado,Caiado,3.7,0.01,3.7
+Quaest,2026-06-06,cury,Cury,1.23,0.57,0.66
+Quaest,2026-06-06,flavio,Flávio Bolsonaro,35.8,-1.21,37.01
+Quaest,2026-06-06,lula,Lula,48.15,1.52,46.63
+Quaest,2026-06-06,santos,Renan Santos,3.7,-0.32,4.03
+Quaest,2026-06-06,zema,Zema,2.47,-0.24,2.71
+Futura,2026-06-10,caiado,Caiado,5,0.58,4.42
+Futura,2026-06-10,cury,Cury,1,0.05,0.95
+Futura,2026-06-10,flavio,Flávio Bolsonaro,37.89,1.21,36.68
+Futura,2026-06-10,lula,Lula,46.22,-1.13,47.35
+Futura,2026-06-10,santos,Renan Santos,2.56,-0.89,3.45
+Futura,2026-06-10,zema,Zema,3.89,0.04,3.84
+MDA,2026-06-12,caiado,Caiado,4.7,-0.11,4.81
+MDA,2026-06-12,cury,Cury,2.12,0.16,1.95
+MDA,2026-06-12,flavio,Flávio Bolsonaro,33.14,-3.08,36.22
+MDA,2026-06-12,lula,Lula,49.12,3.25,45.86
+MDA,2026-06-12,santos,Renan Santos,2.35,-0.93,3.28
+MDA,2026-06-12,zema,Zema,3.29,0.22,3.07
+Nexus,2026-06-13,caiado,Caiado,4.35,0.63,3.72
+Nexus,2026-06-13,cury,Cury,2.17,0.25,1.92
+Nexus,2026-06-13,flavio,Flávio Bolsonaro,35.87,0.08,35.79
+Nexus,2026-06-13,lula,Lula,45.65,-0.42,46.07
+Nexus,2026-06-13,santos,Renan Santos,4.35,-0.46,4.81
+Nexus,2026-06-13,zema,Zema,2.17,0.05,2.12
+Datafolha,2026-06-17,caiado,Caiado,3.37,0.04,3.33
+Datafolha,2026-06-17,cury,Cury,2.25,0.48,1.77
+Datafolha,2026-06-17,flavio,Flávio Bolsonaro,34.83,-0.66,35.49
+Datafolha,2026-06-17,lula,Lula,46.07,-0.22,46.29
+Datafolha,2026-06-17,santos,Renan Santos,3.37,-0.68,4.05
+Datafolha,2026-06-17,zema,Zema,2.25,0.14,2.11
+Indexa,2026-06-19,caiado,Caiado,5.81,0.9,4.92
+Indexa,2026-06-19,cury,Cury,1.16,-0.44,1.6
+Indexa,2026-06-19,flavio,Flávio Bolsonaro,36.05,-0.45,36.49
+Indexa,2026-06-19,lula,Lula,48.84,1.64,47.19
+Indexa,2026-06-19,santos,Renan Santos,3.49,-0.62,4.11
+Indexa,2026-06-19,zema,Zema,3.49,-0.19,3.68
+PoderData,2026-06-22,caiado,Caiado,4.35,-0.84,5.19
+PoderData,2026-06-22,cury,Cury,3.26,1.53,1.73
+PoderData,2026-06-22,flavio,Flávio Bolsonaro,39.13,0.49,38.64
+PoderData,2026-06-22,lula,Lula,43.48,-1.7,45.18
+PoderData,2026-06-22,santos,Renan Santos,4.35,-0.42,4.77
+PoderData,2026-06-22,zema,Zema,3.26,0,3.26
+Vox Brasil,2026-06-24,caiado,Caiado,5.95,0.96,4.99
+Vox Brasil,2026-06-24,cury,Cury,0.82,-1.13,1.94
+Vox Brasil,2026-06-24,flavio,Flávio Bolsonaro,37.57,1.27,36.3
+Vox Brasil,2026-06-24,lula,Lula,44.69,-0.18,44.87
+Vox Brasil,2026-06-24,santos,Renan Santos,2.92,-1.06,3.98
+Vox Brasil,2026-06-24,zema,Zema,3.27,0.63,2.64
+Nexus,2026-06-27,caiado,Caiado,5.43,0.63,4.8
+Nexus,2026-06-27,cury,Cury,1.09,0.25,0.83
+Nexus,2026-06-27,flavio,Flávio Bolsonaro,36.96,0.08,36.88
+Nexus,2026-06-27,lula,Lula,45.65,-0.42,46.07
+Nexus,2026-06-27,santos,Renan Santos,4.35,-0.46,4.81
+Nexus,2026-06-27,zema,Zema,3.26,0.05,3.21
+AtlasIntel,2026-06-28,caiado,Caiado,2.94,-1.72,4.65
+AtlasIntel,2026-06-28,cury,Cury,0.51,-1.16,1.67
+AtlasIntel,2026-06-28,flavio,Flávio Bolsonaro,37.04,0.44,36.6
+AtlasIntel,2026-06-28,lula,Lula,46.86,1.72,45.15
+AtlasIntel,2026-06-28,santos,Renan Santos,7.89,1.98,5.91
+AtlasIntel,2026-06-28,zema,Zema,2.02,-0.22,2.24
+Ideia,2026-07-04,caiado,Caiado,4.63,0.78,3.85
+Ideia,2026-07-04,cury,Cury,1.74,0.53,1.2
+Ideia,2026-07-04,flavio,Flávio Bolsonaro,37.04,-0.03,37.07
+Ideia,2026-07-04,lula,Lula,46.76,-0.88,47.64
+Ideia,2026-07-04,santos,Renan Santos,2.31,-0.43,2.74
+Ideia,2026-07-04,zema,Zema,2.89,0.01,2.88
+Futura,2026-07-09,caiado,Caiado,5.48,0.58,4.89
+Futura,2026-07-09,cury,Cury,1.2,0.05,1.16
+Futura,2026-07-09,flavio,Flávio Bolsonaro,40.31,1.21,39.09
+Futura,2026-07-09,lula,Lula,43.92,-1.13,45.05
+Futura,2026-07-09,santos,Renan Santos,2.85,-0.89,3.74
+Futura,2026-07-09,zema,Zema,4.05,0.04,4.01
+Quaest,2026-07-11,caiado,Caiado,4.94,0.01,4.93
+Nexus,2026-07-11,caiado,Caiado,5.49,0.63,4.86
+Quaest,2026-07-11,cury,Cury,1.23,0.57,0.66
+Nexus,2026-07-11,cury,Cury,2.2,0.25,1.94
+Quaest,2026-07-11,flavio,Flávio Bolsonaro,34.57,-1.21,35.78
+Nexus,2026-07-11,flavio,Flávio Bolsonaro,37.36,0.08,37.29
+Quaest,2026-07-11,lula,Lula,49.38,1.52,47.87
+Nexus,2026-07-11,lula,Lula,43.96,-0.42,44.37
+Quaest,2026-07-11,santos,Renan Santos,3.7,-0.32,4.03
+Nexus,2026-07-11,santos,Renan Santos,4.4,-0.46,4.86
+Quaest,2026-07-11,zema,Zema,2.47,-0.24,2.71
+Nexus,2026-07-11,zema,Zema,4.4,0.05,4.34
+PoderData,2026-07-13,caiado,Caiado,4.44,-0.84,5.28
+PoderData,2026-07-13,cury,Cury,3.33,1.53,1.8
+PoderData,2026-07-13,flavio,Flávio Bolsonaro,37.78,0.49,37.29
+PoderData,2026-07-13,lula,Lula,44.44,-1.7,46.14
+PoderData,2026-07-13,santos,Renan Santos,6.67,-0.42,7.09
+PoderData,2026-07-13,zema,Zema,4.44,0,4.45
+Indexa,2026-07-17,caiado,Caiado,7.06,0.9,6.16
+Indexa,2026-07-17,cury,Cury,1.18,-0.44,1.61
+Indexa,2026-07-17,flavio,Flávio Bolsonaro,35.29,-0.45,35.74
+Indexa,2026-07-17,lula,Lula,48.24,1.64,46.59
+Indexa,2026-07-17,santos,Renan Santos,3.53,-0.62,4.15
+Indexa,2026-07-17,zema,Zema,3.53,-0.19,3.72
+Real Time,2026-07-19,caiado,Caiado,7.45,0.18,7.27
+Real Time,2026-07-19,cury,Cury,1.06,0.12,0.94
+Real Time,2026-07-19,flavio,Flávio Bolsonaro,35.11,-1.77,36.88
+Real Time,2026-07-19,lula,Lula,42.55,-1.14,43.7
+Real Time,2026-07-19,santos,Renan Santos,9.57,1.77,7.81
+Real Time,2026-07-19,zema,Zema,2.13,-0.03,2.16
+Datafolha,2026-07-22,caiado,Caiado,4.49,0.04,4.45
+Datafolha,2026-07-22,cury,Cury,2.25,0.48,1.77
+Datafolha,2026-07-22,flavio,Flávio Bolsonaro,35.96,-0.66,36.61
+Datafolha,2026-07-22,lula,Lula,44.94,-0.22,45.16
+Datafolha,2026-07-22,santos,Renan Santos,3.37,-0.68,4.05
+Datafolha,2026-07-22,zema,Zema,3.37,0.14,3.23
+AtlasIntel,2026-07-24,caiado,Caiado,3.15,-1.72,4.87
+AtlasIntel,2026-07-24,cury,Cury,1.63,-1.16,2.79
+AtlasIntel,2026-07-24,flavio,Flávio Bolsonaro,36.38,0.44,35.94
+AtlasIntel,2026-07-24,lula,Lula,45.63,1.72,43.91
+AtlasIntel,2026-07-24,santos,Renan Santos,7.93,1.98,5.95
+AtlasIntel,2026-07-24,zema,Zema,2.85,-0.22,3.07
+Nexus,2026-07-25,caiado,Caiado,6.52,0.63,5.89
+Nexus,2026-07-25,cury,Cury,2.17,0.25,1.92
+Nexus,2026-07-25,flavio,Flávio Bolsonaro,35.87,0.08,35.79
+Nexus,2026-07-25,lula,Lula,45.65,-0.42,46.07
+Nexus,2026-07-25,santos,Renan Santos,5.43,-0.46,5.9
+Nexus,2026-07-25,zema,Zema,3.26,0.05,3.21
+PoderData,2026-07-27,caiado,Caiado,5.49,-0.84,6.33
+Vox Brasil,2026-07-27,caiado,Caiado,6.24,0.96,5.29
+PoderData,2026-07-27,cury,Cury,3.3,1.53,1.77
+Vox Brasil,2026-07-27,cury,Cury,1.25,-1.13,2.38
+PoderData,2026-07-27,flavio,Flávio Bolsonaro,38.46,0.49,37.97
+Vox Brasil,2026-07-27,flavio,Flávio Bolsonaro,35.41,1.27,34.14
+PoderData,2026-07-27,lula,Lula,45.05,-1.7,46.75
+Vox Brasil,2026-07-27,lula,Lula,45.97,-0.18,46.15
+PoderData,2026-07-27,santos,Renan Santos,4.4,-0.42,4.82
+Vox Brasil,2026-07-27,santos,Renan Santos,3.41,-1.06,4.47
+PoderData,2026-07-27,zema,Zema,3.3,0,3.3
+Vox Brasil,2026-07-27,zema,Zema,3.63,0.63,3
+Quaest,2026-08-01,caiado,Caiado,4.88,0.01,4.87
+Ideia,2026-08-01,caiado,Caiado,6.06,0.78,5.29
+Nexus,2026-08-01,caiado,Caiado,5.38,0.63,4.74
+Quaest,2026-08-01,cury,Cury,1.22,0.57,0.65
+Ideia,2026-08-01,cury,Cury,1.81,0.53,1.27
+Nexus,2026-08-01,cury,Cury,1.08,0.25,0.82
+Quaest,2026-08-01,flavio,Flávio Bolsonaro,36.59,-1.21,37.8
+Ideia,2026-08-01,flavio,Flávio Bolsonaro,37.23,-0.03,37.26
+Nexus,2026-08-01,flavio,Flávio Bolsonaro,39.78,0.08,39.71
+Quaest,2026-08-01,lula,Lula,47.56,1.52,46.04
+Ideia,2026-08-01,lula,Lula,45.74,-0.88,46.62
+Nexus,2026-08-01,lula,Lula,44.09,-0.42,44.5
+Quaest,2026-08-01,santos,Renan Santos,4.88,-0.32,5.2
+Ideia,2026-08-01,santos,Renan Santos,5,-0.43,5.43
+Nexus,2026-08-01,santos,Renan Santos,4.3,-0.46,4.76
+Quaest,2026-08-01,zema,Zema,2.44,-0.24,2.68
+Ideia,2026-08-01,zema,Zema,2.77,0.01,2.75
+Nexus,2026-08-01,zema,Zema,3.23,0.05,3.17
+Futura,2026-08-05,caiado,Caiado,6.63,0.58,6.04
+Palver,2026-08-05,caiado,Caiado,2.02,-2.35,4.37
+Futura,2026-08-05,cury,Cury,1.35,0.05,1.3
+Palver,2026-08-05,cury,Cury,0,-2.5,2.5
+Futura,2026-08-05,flavio,Flávio Bolsonaro,38.31,1.21,37.1
+Palver,2026-08-05,flavio,Flávio Bolsonaro,40.4,2.58,37.82
+Futura,2026-08-05,lula,Lula,43.6,-1.13,44.72
+Palver,2026-08-05,lula,Lula,44.44,-0.52,44.96
+Futura,2026-08-05,santos,Renan Santos,4.04,-0.89,4.94
+Palver,2026-08-05,santos,Renan Santos,10.1,4.5,5.6
+Futura,2026-08-05,zema,Zema,4.04,0.04,4
+Palver,2026-08-05,zema,Zema,1.01,-0.57,1.58
+MDA,2026-08-07,caiado,Caiado,4.65,-0.11,4.76
+MDA,2026-08-07,cury,Cury,1.4,0.16,1.23
+MDA,2026-08-07,flavio,Flávio Bolsonaro,33.37,-3.08,36.46
+MDA,2026-08-07,lula,Lula,49.3,3.25,46.05
+MDA,2026-08-07,santos,Renan Santos,3.26,-0.93,4.18
+MDA,2026-08-07,zema,Zema,3.84,0.22,3.62
+Nexus,2026-08-08,caiado,Caiado,5.43,0.63,4.8
+Nexus,2026-08-08,cury,Cury,1.09,0.25,0.83
+Nexus,2026-08-08,flavio,Flávio Bolsonaro,38.04,0.08,37.97
+Nexus,2026-08-08,lula,Lula,43.48,-0.42,43.89
+Nexus,2026-08-08,santos,Renan Santos,4.35,-0.46,4.81
+Nexus,2026-08-08,zema,Zema,3.26,0.05,3.21
+PoderData,2026-08-10,caiado,Caiado,4.26,-0.84,5.09
+PoderData,2026-08-10,cury,Cury,3.19,1.53,1.66
+PoderData,2026-08-10,flavio,Flávio Bolsonaro,37.23,0.49,36.75
+PoderData,2026-08-10,lula,Lula,43.62,-1.7,45.31
+PoderData,2026-08-10,santos,Renan Santos,4.26,-0.42,4.68
+PoderData,2026-08-10,zema,Zema,3.19,0,3.2
+Quaest,2026-08-11,caiado,Caiado,4.88,0.01,4.87
+Quaest,2026-08-11,cury,Cury,2.44,0.57,1.87
+Quaest,2026-08-11,flavio,Flávio Bolsonaro,37.8,-1.21,39.02
+Quaest,2026-08-11,lula,Lula,46.34,1.52,44.82
+Quaest,2026-08-11,santos,Renan Santos,4.88,-0.32,5.2
+Quaest,2026-08-11,zema,Zema,2.44,-0.24,2.68
+Nexus,2026-08-15,caiado,Caiado,5.38,0.63,4.74
+Nexus,2026-08-15,cury,Cury,1.08,0.25,0.82
+Nexus,2026-08-15,flavio,Flávio Bolsonaro,38.71,0.08,38.63
+Nexus,2026-08-15,lula,Lula,44.09,-0.42,44.5
+Nexus,2026-08-15,santos,Renan Santos,4.3,-0.46,4.76
+Nexus,2026-08-15,zema,Zema,4.3,0.05,4.25
+Datafolha,2026-08-19,caiado,Caiado,5.56,0.04,5.51
+Datafolha,2026-08-19,cury,Cury,2.22,0.48,1.74
+Datafolha,2026-08-19,flavio,Flávio Bolsonaro,36.67,-0.66,37.32
+Datafolha,2026-08-19,lula,Lula,43.33,-0.22,43.55
+Datafolha,2026-08-19,santos,Renan Santos,4.44,-0.68,5.12
+Datafolha,2026-08-19,zema,Zema,3.33,0.14,3.19
+Indexa,2026-08-21,caiado,Caiado,5.95,0.9,5.05
+Indexa,2026-08-21,cury,Cury,1.19,-0.44,1.63
+Indexa,2026-08-21,flavio,Flávio Bolsonaro,40.48,-0.45,40.92
+Indexa,2026-08-21,lula,Lula,46.43,1.64,44.78
+Indexa,2026-08-21,santos,Renan Santos,4.76,-0.62,5.38
+Indexa,2026-08-21,zema,Zema,1.19,-0.19,1.38
+Nexus,2026-08-22,caiado,Caiado,5.43,0.63,4.8
+Nexus,2026-08-22,cury,Cury,2.17,0.25,1.92
+Nexus,2026-08-22,flavio,Flávio Bolsonaro,40.22,0.08,40.14
+Nexus,2026-08-22,lula,Lula,44.57,-0.42,44.98
+Nexus,2026-08-22,santos,Renan Santos,3.26,-0.46,3.72
+Nexus,2026-08-22,zema,Zema,3.26,0.05,3.21
+PoderData,2026-08-24,caiado,Caiado,4.3,-0.84,5.14
+PoderData,2026-08-24,cury,Cury,4.3,1.53,2.77
+PoderData,2026-08-24,flavio,Flávio Bolsonaro,37.63,0.49,37.15
+PoderData,2026-08-24,lula,Lula,40.86,-1.7,42.56
+PoderData,2026-08-24,santos,Renan Santos,4.3,-0.42,4.72
+PoderData,2026-08-24,zema,Zema,2.15,0,2.15
+Vox Brasil,2026-08-26,caiado,Caiado,5.57,0.96,4.62
+Vox Brasil,2026-08-26,cury,Cury,2.9,-1.13,4.03
+Vox Brasil,2026-08-26,flavio,Flávio Bolsonaro,38.8,1.27,37.52
+Vox Brasil,2026-08-26,lula,Lula,41.36,-0.18,41.54
+Vox Brasil,2026-08-26,santos,Renan Santos,3.68,-1.06,4.74
+Vox Brasil,2026-08-26,zema,Zema,3.12,0.63,2.49
+AtlasIntel,2026-08-27,caiado,Caiado,3.31,-1.72,5.03
+AtlasIntel,2026-08-27,cury,Cury,7.82,-1.16,8.99
+AtlasIntel,2026-08-27,flavio,Flávio Bolsonaro,33.8,0.44,33.36
+AtlasIntel,2026-08-27,lula,Lula,43.53,1.72,41.82
+AtlasIntel,2026-08-27,santos,Renan Santos,7.62,1.98,5.64
+AtlasIntel,2026-08-27,zema,Zema,1,-0.22,1.22
+Futura,2026-08-29,caiado,Caiado,3.73,0.58,3.14
+Real Time,2026-08-29,caiado,Caiado,4.26,0.18,4.08
+Nexus,2026-08-29,caiado,Caiado,5.32,0.63,4.69
+Futura,2026-08-29,cury,Cury,10.54,0.05,10.5
+Real Time,2026-08-29,cury,Cury,11.7,0.12,11.58
+Nexus,2026-08-29,cury,Cury,11.7,0.25,11.45
+Futura,2026-08-29,flavio,Flávio Bolsonaro,35.78,1.21,34.57
+Real Time,2026-08-29,flavio,Flávio Bolsonaro,31.91,-1.77,33.69
+Nexus,2026-08-29,flavio,Flávio Bolsonaro,35.11,0.08,35.03
+Futura,2026-08-29,lula,Lula,41.21,-1.13,42.34
+Real Time,2026-08-29,lula,Lula,40.43,-1.14,41.57
+Nexus,2026-08-29,lula,Lula,41.49,-0.42,41.91
+Futura,2026-08-29,santos,Renan Santos,2.98,-0.89,3.88
+Real Time,2026-08-29,santos,Renan Santos,7.45,1.77,5.68
+Nexus,2026-08-29,santos,Renan Santos,3.19,-0.46,3.65
+Futura,2026-08-29,zema,Zema,1.7,0.04,1.66
+Real Time,2026-08-29,zema,Zema,2.13,-0.03,2.16
+Nexus,2026-08-29,zema,Zema,1.06,0.05,1.01
+PoderData,2026-08-31,caiado,Caiado,2.15,-0.84,2.99
+Quaest,2026-08-31,caiado,Caiado,1.22,0.01,1.21
+PoderData,2026-08-31,cury,Cury,10.75,1.53,9.22
+Quaest,2026-08-31,cury,Cury,12.2,0.57,11.62
+PoderData,2026-08-31,flavio,Flávio Bolsonaro,36.56,0.49,36.07
+Quaest,2026-08-31,flavio,Flávio Bolsonaro,35.37,-1.21,36.58
+PoderData,2026-08-31,lula,Lula,39.78,-1.7,41.48
+Quaest,2026-08-31,lula,Lula,45.12,1.52,43.6
+PoderData,2026-08-31,santos,Renan Santos,3.23,-0.42,3.65
+Quaest,2026-08-31,santos,Renan Santos,3.66,-0.32,3.98
+PoderData,2026-08-31,zema,Zema,1.08,0,1.08
+Quaest,2026-08-31,zema,Zema,1.22,-0.24,1.46
+Datafolha,2026-09-01,caiado,Caiado,4.4,0.04,4.35
+Datafolha,2026-09-01,cury,Cury,8.79,0.48,8.31
+Datafolha,2026-09-01,flavio,Flávio Bolsonaro,36.26,-0.66,36.92
+Datafolha,2026-09-01,lula,Lula,41.76,-0.22,41.98
+Datafolha,2026-09-01,santos,Renan Santos,3.3,-0.68,3.97
+Datafolha,2026-09-01,zema,Zema,2.2,0.14,2.06
+Quaest,2026-09-04,caiado,Caiado,3.66,0.01,3.65
+Quaest,2026-09-04,cury,Cury,9.76,0.57,9.18
+Quaest,2026-09-04,flavio,Flávio Bolsonaro,35.37,-1.21,36.58
+Quaest,2026-09-04,lula,Lula,43.9,1.52,42.39
+Quaest,2026-09-04,santos,Renan Santos,3.66,-0.32,3.98
+Quaest,2026-09-04,zema,Zema,2.44,-0.24,2.68
+Palver,2026-09-05,caiado,Caiado,1.02,-2.35,3.37
+Ideia,2026-09-05,caiado,Caiado,4.22,0.78,3.45
+Nexus,2026-09-05,caiado,Caiado,4.21,0.63,3.58
+Palver,2026-09-05,cury,Cury,4.08,-2.5,6.58
+Ideia,2026-09-05,cury,Cury,6.97,0.53,6.44
+Nexus,2026-09-05,cury,Cury,9.47,0.25,9.22
+Palver,2026-09-05,flavio,Flávio Bolsonaro,39.8,2.58,37.21
+Ideia,2026-09-05,flavio,Flávio Bolsonaro,39.39,-0.03,39.42
+Nexus,2026-09-05,flavio,Flávio Bolsonaro,36.84,0.08,36.77
+Palver,2026-09-05,lula,Lula,40.82,-0.52,41.33
+Ideia,2026-09-05,lula,Lula,40.55,-0.88,41.43
+Nexus,2026-09-05,lula,Lula,41.05,-0.42,41.47
+Palver,2026-09-05,santos,Renan Santos,11.22,4.5,6.72
+Ideia,2026-09-05,santos,Renan Santos,4.22,-0.43,4.65
+Nexus,2026-09-05,santos,Renan Santos,4.21,-0.46,4.67
+Palver,2026-09-05,zema,Zema,1.02,-0.57,1.59
+Ideia,2026-09-05,zema,Zema,1.58,0.01,1.57
+Nexus,2026-09-05,zema,Zema,1.05,0.05,1
+AtlasIntel,2026-09-06,caiado,Caiado,1.11,-1.72,2.83
+AtlasIntel,2026-09-06,cury,Cury,6.67,-1.16,7.83
+AtlasIntel,2026-09-06,flavio,Flávio Bolsonaro,37.78,0.44,37.34
+AtlasIntel,2026-09-06,lula,Lula,43.43,1.72,41.72
+AtlasIntel,2026-09-06,santos,Renan Santos,6.57,1.98,4.59
+AtlasIntel,2026-09-06,zema,Zema,2.12,-0.22,2.34
+Futura,2026-09-07,caiado,Caiado,4.8,0.58,4.21
+PoderData,2026-09-07,caiado,Caiado,2.08,-0.84,2.92
+Futura,2026-09-07,cury,Cury,6.98,0.05,6.93
+PoderData,2026-09-07,cury,Cury,10.42,1.53,8.89
+Futura,2026-09-07,flavio,Flávio Bolsonaro,36.64,1.21,35.43
+PoderData,2026-09-07,flavio,Flávio Bolsonaro,37.5,0.49,37.01
+Futura,2026-09-07,lula,Lula,42.75,-1.13,43.87
+PoderData,2026-09-07,lula,Lula,39.58,-1.7,41.28
+Futura,2026-09-07,santos,Renan Santos,4.69,-0.89,5.58
+PoderData,2026-09-07,santos,Renan Santos,3.12,-0.42,3.55
+Futura,2026-09-07,zema,Zema,0.76,0.04,0.72
+PoderData,2026-09-07,zema,Zema,1.04,0,1.05
+Datafolha,2026-09-09,caiado,Caiado,4.44,0.04,4.4
+Datafolha,2026-09-09,cury,Cury,6.67,0.48,6.19
+Datafolha,2026-09-09,flavio,Flávio Bolsonaro,38.89,-0.66,39.55
+Datafolha,2026-09-09,lula,Lula,43.33,-0.22,43.55
+Datafolha,2026-09-09,santos,Renan Santos,3.33,-0.68,4.01
+Datafolha,2026-09-09,zema,Zema,2.22,0.14,2.08
+Quaest,2026-09-11,caiado,Caiado,4.82,0.01,4.81
+Indexa,2026-09-11,caiado,Caiado,4.65,0.9,3.75
+MDA,2026-09-11,caiado,Caiado,3.47,-0.11,3.58
+Quaest,2026-09-11,cury,Cury,8.43,0.57,7.86
+Indexa,2026-09-11,cury,Cury,6.98,-0.44,7.41
+MDA,2026-09-11,cury,Cury,6.94,0.16,6.77
+Quaest,2026-09-11,flavio,Flávio Bolsonaro,37.35,-1.21,38.56
+Indexa,2026-09-11,flavio,Flávio Bolsonaro,39.53,-0.45,39.98
+MDA,2026-09-11,flavio,Flávio Bolsonaro,35.14,-3.08,38.23
+Quaest,2026-09-11,lula,Lula,43.37,1.52,41.86
+Indexa,2026-09-11,lula,Lula,44.19,1.64,42.54
+MDA,2026-09-11,lula,Lula,46.82,3.25,43.57
+Quaest,2026-09-11,santos,Renan Santos,4.82,-0.32,5.14
+Indexa,2026-09-11,santos,Renan Santos,3.49,-0.62,4.11
+MDA,2026-09-11,santos,Renan Santos,3.12,-0.93,4.05
+Quaest,2026-09-11,zema,Zema,1.2,-0.24,1.45
+Indexa,2026-09-11,zema,Zema,1.16,-0.19,1.35
+MDA,2026-09-11,zema,Zema,1.16,0.22,0.94
+Nexus,2026-09-12,caiado,Caiado,5.32,0.63,4.69
+Nexus,2026-09-12,cury,Cury,6.38,0.25,6.13
+Nexus,2026-09-12,flavio,Flávio Bolsonaro,39.36,0.08,39.29
+Nexus,2026-09-12,lula,Lula,44.68,-0.42,45.1
+Nexus,2026-09-12,santos,Renan Santos,2.13,-0.46,2.59
+Nexus,2026-09-12,zema,Zema,1.06,0.05,1.01
+AtlasIntel,2026-09-13,caiado,Caiado,1.74,-1.72,3.45
+Futura,2026-09-13,caiado,Caiado,4.79,0.58,4.21
+AtlasIntel,2026-09-13,cury,Cury,3.58,-1.16,4.74
+Futura,2026-09-13,cury,Cury,6.92,0.05,6.87
+AtlasIntel,2026-09-13,flavio,Flávio Bolsonaro,42.59,0.44,42.15
+Futura,2026-09-13,flavio,Flávio Bolsonaro,40.15,1.21,38.94
+AtlasIntel,2026-09-13,lula,Lula,45.05,1.72,43.33
+Futura,2026-09-13,lula,Lula,40.79,-1.13,41.91
+AtlasIntel,2026-09-13,santos,Renan Santos,5.21,1.98,3.23
+Futura,2026-09-13,santos,Renan Santos,3.62,-0.89,4.52
+AtlasIntel,2026-09-13,zema,Zema,1.12,-0.22,1.34
+Futura,2026-09-13,zema,Zema,1.06,0.04,1.02
+PoderData,2026-09-14,caiado,Caiado,3.19,-0.84,4.03
+PoderData,2026-09-14,cury,Cury,8.51,1.53,6.98
+PoderData,2026-09-14,flavio,Flávio Bolsonaro,38.3,0.49,37.81
+PoderData,2026-09-14,lula,Lula,39.36,-1.7,41.06
+PoderData,2026-09-14,santos,Renan Santos,3.19,-0.42,3.61
+PoderData,2026-09-14,zema,Zema,1.06,0,1.07
+Datafolha,2026-09-15,caiado,Caiado,4.4,0.04,4.35
+Datafolha,2026-09-15,cury,Cury,6.59,0.48,6.11
+Datafolha,2026-09-15,flavio,Flávio Bolsonaro,39.56,-0.66,40.22
+Datafolha,2026-09-15,lula,Lula,42.86,-0.22,43.08
+Datafolha,2026-09-15,santos,Renan Santos,3.3,-0.68,3.97
+Datafolha,2026-09-15,zema,Zema,2.2,0.14,2.06
+Palver,2026-09-17,caiado,Caiado,1.01,-2.35,3.36
+Palver,2026-09-17,cury,Cury,2.02,-2.5,4.52
+Palver,2026-09-17,flavio,Flávio Bolsonaro,42.42,2.58,39.84
+Palver,2026-09-17,lula,Lula,41.41,-0.52,41.93
+Palver,2026-09-17,santos,Renan Santos,11.11,4.5,6.61
+Palver,2026-09-17,zema,Zema,1.01,-0.57,1.58
+Quaest,2026-09-18,caiado,Caiado,4.71,0.01,4.7
+Quaest,2026-09-18,cury,Cury,7.06,0.57,6.49
+Quaest,2026-09-18,flavio,Flávio Bolsonaro,38.82,-1.21,40.04
+Quaest,2026-09-18,lula,Lula,43.53,1.52,42.01
+Quaest,2026-09-18,santos,Renan Santos,3.53,-0.32,3.85
+Quaest,2026-09-18,zema,Zema,1.18,-0.24,1.42
+AtlasIntel,2026-09-19,caiado,Caiado,1.32,-1.72,3.03
+Nexus,2026-09-19,caiado,Caiado,5.32,0.63,4.69
+AtlasIntel,2026-09-19,cury,Cury,2.13,-1.16,3.29
+Nexus,2026-09-19,cury,Cury,6.38,0.25,6.13
+AtlasIntel,2026-09-19,flavio,Flávio Bolsonaro,43.93,0.44,43.49
+Nexus,2026-09-19,flavio,Flávio Bolsonaro,39.36,0.08,39.29
+AtlasIntel,2026-09-19,lula,Lula,46.36,1.72,44.64
+Nexus,2026-09-19,lula,Lula,42.55,-0.42,42.97
+AtlasIntel,2026-09-19,santos,Renan Santos,4.55,1.98,2.57
+Nexus,2026-09-19,santos,Renan Santos,3.19,-0.46,3.65
+AtlasIntel,2026-09-19,zema,Zema,0.91,-0.22,1.13
+Nexus,2026-09-19,zema,Zema,1.06,0.05,1.01
+Futura,2026-09-21,caiado,Caiado,6.02,0.58,5.43
+PoderData,2026-09-21,caiado,Caiado,2.13,-0.84,2.96
+Palver,2026-09-21,caiado,Caiado,1.02,-2.35,3.37
+Real Time,2026-09-21,caiado,Caiado,2.13,0.18,1.95
+Futura,2026-09-21,cury,Cury,5.91,0.05,5.87
+PoderData,2026-09-21,cury,Cury,6.38,1.53,4.85
+Palver,2026-09-21,cury,Cury,2.04,-2.5,4.54
+Real Time,2026-09-21,cury,Cury,6.38,0.12,6.26
+Futura,2026-09-21,flavio,Flávio Bolsonaro,42.66,1.21,41.45
+PoderData,2026-09-21,flavio,Flávio Bolsonaro,41.49,0.49,41
+Palver,2026-09-21,flavio,Flávio Bolsonaro,43.88,2.58,41.3
+Real Time,2026-09-21,flavio,Flávio Bolsonaro,39.36,-1.77,41.13
+Futura,2026-09-21,lula,Lula,40.55,-1.13,41.67
+PoderData,2026-09-21,lula,Lula,43.62,-1.7,45.31
+Palver,2026-09-21,lula,Lula,43.88,-0.52,44.4
+Real Time,2026-09-21,lula,Lula,43.62,-1.14,44.76
+Futura,2026-09-21,santos,Renan Santos,2.53,-0.89,3.43
+PoderData,2026-09-21,santos,Renan Santos,3.19,-0.42,3.61
+Palver,2026-09-21,santos,Renan Santos,8.16,4.5,3.66
+Real Time,2026-09-21,santos,Renan Santos,6.38,1.77,4.62
+Futura,2026-09-21,zema,Zema,0.95,0.04,0.91
+PoderData,2026-09-21,zema,Zema,1.06,0,1.07
+Palver,2026-09-21,zema,Zema,1.02,-0.57,1.59
+Real Time,2026-09-21,zema,Zema,1.06,-0.03,1.09
+Datafolha,2026-09-23,caiado,Caiado,4.3,0.04,4.26
+Datafolha,2026-09-23,cury,Cury,5.38,0.48,4.9
+Datafolha,2026-09-23,flavio,Flávio Bolsonaro,38.71,-0.66,39.37
+Datafolha,2026-09-23,lula,Lula,43.01,-0.22,43.23
+Datafolha,2026-09-23,santos,Renan Santos,3.23,-0.68,3.9
+Datafolha,2026-09-23,zema,Zema,1.08,0.14,0.94
+AtlasIntel,2026-09-25,caiado,Caiado,1.84,-1.72,3.55
+Quaest,2026-09-25,caiado,Caiado,4.71,0.01,4.7
+Palver,2026-09-25,caiado,Caiado,1.02,-2.35,3.37
+AtlasIntel,2026-09-25,cury,Cury,2.04,-1.16,3.21
+Quaest,2026-09-25,cury,Cury,4.71,0.57,4.13
+Palver,2026-09-25,cury,Cury,1.02,-2.5,3.52
+AtlasIntel,2026-09-25,flavio,Flávio Bolsonaro,43.11,0.44,42.66
+Quaest,2026-09-25,flavio,Flávio Bolsonaro,40,-1.21,41.21
+Palver,2026-09-25,flavio,Flávio Bolsonaro,44.9,2.58,42.32
+AtlasIntel,2026-09-25,lula,Lula,46.27,1.72,44.56
+Quaest,2026-09-25,lula,Lula,45.88,1.52,44.37
+Palver,2026-09-25,lula,Lula,44.9,-0.52,45.42
+AtlasIntel,2026-09-25,santos,Renan Santos,5.31,1.98,3.33
+Quaest,2026-09-25,santos,Renan Santos,3.53,-0.32,3.85
+Palver,2026-09-25,santos,Renan Santos,8.16,4.5,3.66
+AtlasIntel,2026-09-25,zema,Zema,0.92,-0.22,1.14
+Quaest,2026-09-25,zema,Zema,1.18,-0.24,1.42
+Palver,2026-09-25,zema,Zema,1.02,-0.57,1.59
+Ideia,2026-09-26,caiado,Caiado,4.5,0.78,3.72
+Nexus,2026-09-26,caiado,Caiado,5.26,0.63,4.63
+Ideia,2026-09-26,cury,Cury,6.85,0.53,6.32
+Nexus,2026-09-26,cury,Cury,5.26,0.25,5.01
+Ideia,2026-09-26,flavio,Flávio Bolsonaro,39.26,-0.03,39.29
+Nexus,2026-09-26,flavio,Flávio Bolsonaro,38.95,0.08,38.87
+Ideia,2026-09-26,lula,Lula,40.29,-0.88,41.17
+Nexus,2026-09-26,lula,Lula,44.21,-0.42,44.63
+Ideia,2026-09-26,santos,Renan Santos,4.6,-0.43,5.03
+Nexus,2026-09-26,santos,Renan Santos,4.21,-0.46,4.67
+Ideia,2026-09-26,zema,Zema,3.58,0.01,3.57
+Nexus,2026-09-26,zema,Zema,1.05,0.05,1
+Futura,2026-09-27,caiado,Caiado,4.21,0.58,3.63
+Vox Brasil,2026-09-27,caiado,Caiado,4.24,0.96,3.28
+Futura,2026-09-27,cury,Cury,4,0.05,3.95
+Vox Brasil,2026-09-27,cury,Cury,2.45,-1.13,3.58
+Futura,2026-09-27,flavio,Flávio Bolsonaro,44.42,1.21,43.21
+Vox Brasil,2026-09-27,flavio,Flávio Bolsonaro,42.14,1.27,40.87
+Futura,2026-09-27,lula,Lula,41.47,-1.13,42.6
+Vox Brasil,2026-09-27,lula,Lula,46.15,-0.18,46.33
+Futura,2026-09-27,santos,Renan Santos,3.37,-0.89,4.26
+Vox Brasil,2026-09-27,santos,Renan Santos,3.01,-1.06,4.07
+Futura,2026-09-27,zema,Zema,1.68,0.04,1.64
+Vox Brasil,2026-09-27,zema,Zema,2.01,0.63,1.38
+Real Time,2026-09-28,caiado,Caiado,3.19,0.18,3.01
+Indexa,2026-09-28,caiado,Caiado,4.49,0.9,3.6
+Real Time,2026-09-28,cury,Cury,3.19,0.12,3.07
+Indexa,2026-09-28,cury,Cury,4.49,-0.44,4.93
+Real Time,2026-09-28,flavio,Flávio Bolsonaro,41.49,-1.77,43.26
+Indexa,2026-09-28,flavio,Flávio Bolsonaro,38.2,-0.45,38.65
+Real Time,2026-09-28,lula,Lula,45.74,-1.14,46.89
+Indexa,2026-09-28,lula,Lula,43.82,1.64,42.18
+Real Time,2026-09-28,santos,Renan Santos,4.26,1.77,2.49
+Indexa,2026-09-28,santos,Renan Santos,3.37,-0.62,3.99
+Real Time,2026-09-28,zema,Zema,1.06,-0.03,1.09
+Indexa,2026-09-28,zema,Zema,1.12,-0.19,1.31
+Datafolha,2026-09-29,caiado,Caiado,3.23,0.04,3.18
+Datafolha,2026-09-29,cury,Cury,4.3,0.48,3.82
+Datafolha,2026-09-29,flavio,Flávio Bolsonaro,40.86,-0.66,41.52
+Datafolha,2026-09-29,lula,Lula,45.16,-0.22,45.38
+Datafolha,2026-09-29,santos,Renan Santos,3.23,-0.68,3.9
+Datafolha,2026-09-29,zema,Zema,1.08,0.14,0.94
+Vox Brasil,2026-09-30,caiado,Caiado,3.67,0.96,2.72
+Vox Brasil,2026-09-30,cury,Cury,1.34,-1.13,2.46
+Vox Brasil,2026-09-30,flavio,Flávio Bolsonaro,45.88,1.27,44.61
+Vox Brasil,2026-09-30,lula,Lula,44.99,-0.18,45.17
+Vox Brasil,2026-09-30,santos,Renan Santos,2.45,-1.06,3.51
+Vox Brasil,2026-09-30,zema,Zema,1.45,0.63,0.82

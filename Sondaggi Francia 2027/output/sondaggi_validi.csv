@@ -1,0 +1,346 @@
+serie,nome,istituto,data,pct,n,peso,effetto_istituto,corretto
+attal,Attal,Harris Interactive,2026-07-07,8,1582,1,0.1,7.9
+dupontaignan,Dupont-Aignan,Harris Interactive,2026-07-07,1,1582,1,0.03,0.97
+glucksmann,Glucksmann,Harris Interactive,2026-07-07,10,1582,1,-0.09,10.09
+lepen,Le Pen,Harris Interactive,2026-07-07,35,1582,1,0.28,34.72
+melenchon,Mélenchon,Harris Interactive,2026-07-07,16,1582,1,0.68,15.32
+philippe,Philippe,Harris Interactive,2026-07-07,14,1582,1,-0.18,14.18
+retailleau,Retailleau,Harris Interactive,2026-07-07,7,1582,1,0.06,6.94
+roussel,Roussel,Harris Interactive,2026-07-07,2,1582,1,-0.13,2.13
+tondelier,Tondelier,Harris Interactive,2026-07-07,2,1582,1,-0.65,2.65
+zemmour,Zemmour,Harris Interactive,2026-07-07,4,1582,1,0.53,3.47
+attal,Attal,OpinionWay,2026-07-08,7,963,1,-0.09,7.09
+glucksmann,Glucksmann,OpinionWay,2026-07-08,9,963,1,0.03,8.97
+lepen,Le Pen,OpinionWay,2026-07-08,35,963,1,0.18,34.82
+melenchon,Mélenchon,OpinionWay,2026-07-08,13,963,1,-0.27,13.27
+philippe,Philippe,OpinionWay,2026-07-08,18,963,1,0.61,17.39
+retailleau,Retailleau,OpinionWay,2026-07-08,8,963,1,0.04,7.96
+roussel,Roussel,OpinionWay,2026-07-08,2,963,1,-0.15,2.15
+tondelier,Tondelier,OpinionWay,2026-07-08,5,963,1,-0.21,5.21
+zemmour,Zemmour,OpinionWay,2026-07-08,3,963,1,-0.18,3.18
+attal,Attal,Elabe,2026-07-09,7.5,1503,1,-0.07,7.57
+attal,Attal,Verian,2026-07-09,8,1047,1,0.06,7.94
+dupontaignan,Dupont-Aignan,Elabe,2026-07-09,1.5,1503,1,0.31,1.19
+glucksmann,Glucksmann,Elabe,2026-07-09,8.5,1503,1,0.29,8.21
+glucksmann,Glucksmann,Verian,2026-07-09,11,1047,1,0.62,10.38
+lepen,Le Pen,Elabe,2026-07-09,35,1503,1,-0.35,35.35
+lepen,Le Pen,Verian,2026-07-09,37,1047,1,0.31,36.69
+melenchon,Mélenchon,Elabe,2026-07-09,14.5,1503,1,-0.05,14.55
+melenchon,Mélenchon,Verian,2026-07-09,15,1047,1,0.06,14.94
+philippe,Philippe,Elabe,2026-07-09,14,1503,1,-0.1,14.1
+philippe,Philippe,Verian,2026-07-09,17,1047,1,0.9,16.1
+retailleau,Retailleau,Elabe,2026-07-09,8.5,1503,1,0.21,8.29
+retailleau,Retailleau,Verian,2026-07-09,7,1047,1,-0.1,7.1
+roussel,Roussel,Elabe,2026-07-09,2.5,1503,1,-0.01,2.51
+roussel,Roussel,Verian,2026-07-09,2,1047,1,-0.05,2.05
+tondelier,Tondelier,Elabe,2026-07-09,4,1503,1,0.07,3.93
+zemmour,Zemmour,Elabe,2026-07-09,3,1503,1,-0.19,3.19
+zemmour,Zemmour,Verian,2026-07-09,3,1047,1,-0.07,3.07
+attal,Attal,Harris Interactive,2026-08-18,8,1764,1,0.1,7.9
+dupontaignan,Dupont-Aignan,Harris Interactive,2026-08-18,2,1764,1,0.03,1.97
+glucksmann,Glucksmann,Harris Interactive,2026-08-18,10,1764,1,-0.09,10.09
+lepen,Le Pen,Harris Interactive,2026-08-18,35,1764,1,0.28,34.72
+melenchon,Mélenchon,Harris Interactive,2026-08-18,16,1764,1,0.68,15.32
+philippe,Philippe,Harris Interactive,2026-08-18,14,1764,1,-0.18,14.18
+retailleau,Retailleau,Harris Interactive,2026-08-18,6,1764,1,0.06,5.94
+roussel,Roussel,Harris Interactive,2026-08-18,2,1764,1,-0.13,2.13
+tondelier,Tondelier,Harris Interactive,2026-08-18,3,1764,1,-0.65,3.65
+zemmour,Zemmour,Harris Interactive,2026-08-18,3,1764,1,0.53,2.47
+attal,Attal,Ifop,2026-08-24,8,1598,1,0.1,7.9
+dupontaignan,Dupont-Aignan,Ifop,2026-08-24,1.5,1598,1,-0.29,1.79
+glucksmann,Glucksmann,Ifop,2026-08-24,11,1598,1,-0.72,11.72
+lepen,Le Pen,Ifop,2026-08-24,33,1598,1,-0.36,33.36
+melenchon,Mélenchon,Ifop,2026-08-24,16,1598,1,-0.04,16.04
+philippe,Philippe,Ifop,2026-08-24,14.5,1598,1,0,14.5
+retailleau,Retailleau,Ifop,2026-08-24,6,1598,1,-0.67,6.67
+roussel,Roussel,Ifop,2026-08-24,3,1598,1,0.13,2.87
+tondelier,Tondelier,Ifop,2026-08-24,3,1598,1,-0.25,3.25
+zemmour,Zemmour,Ifop,2026-08-24,3.5,1598,1,-0.17,3.67
+attal,Attal,Ipsos,2026-09-01,7.5,1500,0.707,-0.24,7.74
+dupontaignan,Dupont-Aignan,Ipsos,2026-09-01,2,1500,0.707,0.01,1.99
+glucksmann,Glucksmann,Ipsos,2026-09-01,11.5,1500,0.707,0.55,10.95
+lepen,Le Pen,Ipsos,2026-09-01,34,1500,0.707,-0.21,34.21
+melenchon,Mélenchon,Ipsos,2026-09-01,15,1500,0.707,0.01,14.99
+philippe,Philippe,Ipsos,2026-09-01,14.5,1500,0.707,0.23,14.27
+retailleau,Retailleau,Ipsos,2026-09-01,6,1500,0.707,0.17,5.83
+roussel,Roussel,Ipsos,2026-09-01,2.5,1500,0.707,0.14,2.36
+tondelier,Tondelier,Ipsos,2026-09-01,3.5,1500,0.707,0.35,3.15
+zemmour,Zemmour,Ipsos,2026-09-01,3,1500,0.707,0.04,2.96
+attal,Attal,OpinionWay,2026-09-02,7,1003,0.577,-0.09,7.09
+glucksmann,Glucksmann,OpinionWay,2026-09-02,11,1003,0.577,0.03,10.97
+lepen,Le Pen,OpinionWay,2026-09-02,34,1003,0.577,0.18,33.82
+melenchon,Mélenchon,OpinionWay,2026-09-02,17,1003,0.577,-0.27,17.27
+philippe,Philippe,OpinionWay,2026-09-02,15,1003,0.577,0.61,14.39
+retailleau,Retailleau,OpinionWay,2026-09-02,7,1003,0.577,0.04,6.96
+roussel,Roussel,OpinionWay,2026-09-02,2,1003,0.577,-0.15,2.15
+tondelier,Tondelier,OpinionWay,2026-09-02,3,1003,0.577,-0.21,3.21
+zemmour,Zemmour,OpinionWay,2026-09-02,3,1003,0.577,-0.18,3.18
+attal,Attal,Ipsos,2026-09-06,6,13060,0.707,-0.24,6.24
+dupontaignan,Dupont-Aignan,Ipsos,2026-09-06,2,13060,0.707,0.01,1.99
+glucksmann,Glucksmann,Ipsos,2026-09-06,11.5,13060,0.707,0.55,10.95
+lepen,Le Pen,Ipsos,2026-09-06,33,13060,0.707,-0.21,33.21
+melenchon,Mélenchon,Ipsos,2026-09-06,15.5,13060,0.707,0.01,15.49
+philippe,Philippe,Ipsos,2026-09-06,14,13060,0.707,0.23,13.77
+retailleau,Retailleau,Ipsos,2026-09-06,7,13060,0.707,0.17,6.83
+roussel,Roussel,Ipsos,2026-09-06,2.5,13060,0.707,0.14,2.36
+tondelier,Tondelier,Ipsos,2026-09-06,4,13060,0.707,0.35,3.65
+zemmour,Zemmour,Ipsos,2026-09-06,4,13060,0.707,0.04,3.96
+attal,Attal,OpinionWay,2026-09-08,8,1001,0.577,-0.09,8.09
+dupontaignan,Dupont-Aignan,OpinionWay,2026-09-08,2,1001,0.707,-0.2,2.2
+glucksmann,Glucksmann,OpinionWay,2026-09-08,9,1001,0.577,0.03,8.97
+lepen,Le Pen,OpinionWay,2026-09-08,34,1001,0.577,0.18,33.82
+melenchon,Mélenchon,OpinionWay,2026-09-08,15,1001,0.577,-0.27,15.27
+philippe,Philippe,OpinionWay,2026-09-08,15,1001,0.577,0.61,14.39
+retailleau,Retailleau,OpinionWay,2026-09-08,8,1001,0.577,0.04,7.96
+roussel,Roussel,OpinionWay,2026-09-08,2,1001,0.577,-0.15,2.15
+tondelier,Tondelier,OpinionWay,2026-09-08,3,1001,0.577,-0.21,3.21
+zemmour,Zemmour,OpinionWay,2026-09-08,4,1001,0.577,-0.18,4.18
+attal,Attal,Harris Interactive,2026-09-09,8,2052,1,0.1,7.9
+attal,Attal,OpinionWay,2026-09-09,7,1001,0.577,-0.09,7.09
+dupontaignan,Dupont-Aignan,Harris Interactive,2026-09-09,2,2052,1,0.03,1.97
+dupontaignan,Dupont-Aignan,OpinionWay,2026-09-09,2,1001,0.707,-0.2,2.2
+glucksmann,Glucksmann,Harris Interactive,2026-09-09,9,2052,1,-0.09,9.09
+glucksmann,Glucksmann,OpinionWay,2026-09-09,9,1001,0.577,0.03,8.97
+lepen,Le Pen,Harris Interactive,2026-09-09,33,2052,1,0.28,32.72
+lepen,Le Pen,OpinionWay,2026-09-09,34,1001,0.577,0.18,33.82
+lisnard,Lisnard,OpinionWay,2026-09-09,2,1001,1,-0.08,2.08
+melenchon,Mélenchon,Harris Interactive,2026-09-09,16,2052,1,0.68,15.32
+melenchon,Mélenchon,OpinionWay,2026-09-09,17,1001,0.577,-0.27,17.27
+philippe,Philippe,Harris Interactive,2026-09-09,14,2052,1,-0.18,14.18
+philippe,Philippe,OpinionWay,2026-09-09,15,1001,0.577,0.61,14.39
+retailleau,Retailleau,Harris Interactive,2026-09-09,7,2052,1,0.06,6.94
+retailleau,Retailleau,OpinionWay,2026-09-09,7,1001,0.577,0.04,6.96
+roussel,Roussel,Harris Interactive,2026-09-09,2,2052,1,-0.13,2.13
+roussel,Roussel,OpinionWay,2026-09-09,2,1001,0.577,-0.15,2.15
+tondelier,Tondelier,Harris Interactive,2026-09-09,3,2052,1,-0.65,3.65
+tondelier,Tondelier,OpinionWay,2026-09-09,3,1001,0.577,-0.21,3.21
+zemmour,Zemmour,Harris Interactive,2026-09-09,5,2052,1,0.53,4.47
+zemmour,Zemmour,OpinionWay,2026-09-09,2,1001,0.577,-0.18,2.18
+attal,Attal,YouGov,2026-09-19,9,1103,1,0.23,8.77
+dupontaignan,Dupont-Aignan,YouGov,2026-09-19,2,1103,1,0.14,1.86
+glucksmann,Glucksmann,YouGov,2026-09-19,8,1103,1,-0.61,8.61
+lepen,Le Pen,YouGov,2026-09-19,34,1103,1,0.11,33.89
+melenchon,Mélenchon,YouGov,2026-09-19,17,1103,1,-0.25,17.25
+philippe,Philippe,YouGov,2026-09-19,12,1103,1,-2.67,14.67
+retailleau,Retailleau,YouGov,2026-09-19,8,1103,1,0.13,7.87
+roussel,Roussel,YouGov,2026-09-19,2,1103,1,0.08,1.92
+tondelier,Tondelier,YouGov,2026-09-19,3,1103,1,0.78,2.22
+zemmour,Zemmour,YouGov,2026-09-19,6,1103,1,0.15,5.85
+attal,Attal,Harris Interactive,2026-09-23,5,1974,1,0.1,4.9
+dupontaignan,Dupont-Aignan,Harris Interactive,2026-09-23,2,1974,1,0.03,1.97
+glucksmann,Glucksmann,Harris Interactive,2026-09-23,10,1974,1,-0.09,10.09
+lepen,Le Pen,Harris Interactive,2026-09-23,35,1974,1,0.28,34.72
+melenchon,Mélenchon,Harris Interactive,2026-09-23,17,1974,1,0.68,16.32
+philippe,Philippe,Harris Interactive,2026-09-23,13,1974,1,-0.18,13.18
+retailleau,Retailleau,Harris Interactive,2026-09-23,7,1974,1,0.06,6.94
+roussel,Roussel,Harris Interactive,2026-09-23,2,1974,1,-0.13,2.13
+tondelier,Tondelier,Harris Interactive,2026-09-23,3,1974,1,-0.65,3.65
+zemmour,Zemmour,Harris Interactive,2026-09-23,5,1974,1,0.53,4.47
+attal,Attal,Ifop,2026-09-27,7,1393,1,0.1,6.9
+dupontaignan,Dupont-Aignan,Ifop,2026-09-27,1,1393,1,-0.29,1.29
+glucksmann,Glucksmann,Ifop,2026-09-27,9,1393,1,-0.72,9.72
+lepen,Le Pen,Ifop,2026-09-27,31,1393,1,-0.36,31.36
+lisnard,Lisnard,Ifop,2026-09-27,3.5,1393,1,0.02,3.48
+melenchon,Mélenchon,Ifop,2026-09-27,14,1393,1,-0.04,14.04
+philippe,Philippe,Ifop,2026-09-27,15,1393,1,0,15
+retailleau,Retailleau,Ifop,2026-09-27,5,1393,1,-0.67,5.67
+roussel,Roussel,Ifop,2026-09-27,2,1393,1,0.13,1.87
+tondelier,Tondelier,Ifop,2026-09-27,3,1393,1,-0.25,3.25
+zemmour,Zemmour,Ifop,2026-09-27,4,1393,1,-0.17,4.17
+attal,Attal,Harris Interactive,2026-10-06,5,2004,1,0.1,4.9
+dupontaignan,Dupont-Aignan,Harris Interactive,2026-10-06,2,2004,1,0.03,1.97
+glucksmann,Glucksmann,Harris Interactive,2026-10-06,10,2004,1,-0.09,10.09
+lepen,Le Pen,Harris Interactive,2026-10-06,35,2004,1,0.28,34.72
+melenchon,Mélenchon,Harris Interactive,2026-10-06,18,2004,1,0.68,17.32
+philippe,Philippe,Harris Interactive,2026-10-06,13,2004,1,-0.18,13.18
+retailleau,Retailleau,Harris Interactive,2026-10-06,7,2004,1,0.06,6.94
+roussel,Roussel,Harris Interactive,2026-10-06,2,2004,1,-0.13,2.13
+tondelier,Tondelier,Harris Interactive,2026-10-06,2,2004,1,-0.65,2.65
+zemmour,Zemmour,Harris Interactive,2026-10-06,5,2004,1,0.53,4.47
+attal,Attal,Ifop,2026-10-13,5,1525,0.707,0.1,4.9
+attal,Attal,OpinionWay,2026-10-13,5,1043,0.707,-0.09,5.09
+attal,Attal,OpinionWay,2026-10-13,7,1043,0.707,-0.09,7.09
+attal,Attal,YouGov,2026-10-13,6,1094,1,0.23,5.77
+dupontaignan,Dupont-Aignan,Ifop,2026-10-13,1,1525,0.707,-0.29,1.29
+dupontaignan,Dupont-Aignan,OpinionWay,2026-10-13,1,1043,0.707,-0.2,1.2
+dupontaignan,Dupont-Aignan,OpinionWay,2026-10-13,2,1043,0.707,-0.2,2.2
+dupontaignan,Dupont-Aignan,YouGov,2026-10-13,2,1094,1,0.14,1.86
+glucksmann,Glucksmann,Ifop,2026-10-13,11.5,1525,0.707,-0.72,12.22
+glucksmann,Glucksmann,OpinionWay,2026-10-13,13,1043,0.707,0.03,12.97
+glucksmann,Glucksmann,OpinionWay,2026-10-13,13,1043,0.707,0.03,12.97
+glucksmann,Glucksmann,YouGov,2026-10-13,12,1094,1,-0.61,12.61
+lepen,Le Pen,Ifop,2026-10-13,32,1525,0.707,-0.36,32.36
+lepen,Le Pen,OpinionWay,2026-10-13,35,1043,0.707,0.18,34.82
+lepen,Le Pen,OpinionWay,2026-10-13,35,1043,0.707,0.18,34.82
+lepen,Le Pen,YouGov,2026-10-13,35,1094,1,0.11,34.89
+lisnard,Lisnard,Ifop,2026-10-13,6,1525,0.707,0.02,5.98
+lisnard,Lisnard,OpinionWay,2026-10-13,4,1043,1,-0.08,4.08
+lisnard,Lisnard,YouGov,2026-10-13,4,1094,1,-0.16,4.16
+melenchon,Mélenchon,Ifop,2026-10-13,16,1525,0.707,-0.04,16.04
+melenchon,Mélenchon,OpinionWay,2026-10-13,15,1043,0.707,-0.27,15.27
+melenchon,Mélenchon,OpinionWay,2026-10-13,14,1043,0.707,-0.27,14.27
+melenchon,Mélenchon,YouGov,2026-10-13,13,1094,1,-0.25,13.25
+philippe,Philippe,Ifop,2026-10-13,13,1525,0.707,0,13
+philippe,Philippe,OpinionWay,2026-10-13,12,1043,0.707,0.61,11.39
+philippe,Philippe,OpinionWay,2026-10-13,12,1043,0.707,0.61,11.39
+philippe,Philippe,YouGov,2026-10-13,8,1094,1,-2.67,10.67
+retailleau,Retailleau,Ifop,2026-10-13,5,1525,0.707,-0.67,5.67
+retailleau,Retailleau,OpinionWay,2026-10-13,6,1043,0.707,0.04,5.96
+retailleau,Retailleau,OpinionWay,2026-10-13,7,1043,0.707,0.04,6.96
+retailleau,Retailleau,YouGov,2026-10-13,5,1094,1,0.13,4.87
+roussel,Roussel,Ifop,2026-10-13,2,1525,0.707,0.13,1.87
+roussel,Roussel,OpinionWay,2026-10-13,1,1043,0.707,-0.15,1.15
+roussel,Roussel,OpinionWay,2026-10-13,3,1043,0.707,-0.15,3.15
+roussel,Roussel,YouGov,2026-10-13,2,1094,1,0.08,1.92
+tondelier,Tondelier,Ifop,2026-10-13,2,1525,0.707,-0.25,2.25
+tondelier,Tondelier,OpinionWay,2026-10-13,2,1043,0.707,-0.21,2.21
+tondelier,Tondelier,OpinionWay,2026-10-13,3,1043,0.707,-0.21,3.21
+tondelier,Tondelier,YouGov,2026-10-13,5,1094,1,0.78,4.22
+zemmour,Zemmour,Ifop,2026-10-13,3,1525,0.707,-0.17,3.17
+zemmour,Zemmour,OpinionWay,2026-10-13,5,1043,0.707,-0.18,5.18
+zemmour,Zemmour,OpinionWay,2026-10-13,4,1043,0.707,-0.18,4.18
+zemmour,Zemmour,YouGov,2026-10-13,4,1094,1,0.15,3.85
+attal,Attal,Elabe,2026-10-15,4.5,1701,1,-0.07,4.57
+dupontaignan,Dupont-Aignan,Elabe,2026-10-15,3,1701,1,0.31,2.69
+glucksmann,Glucksmann,Elabe,2026-10-15,15.5,1701,1,0.29,15.21
+lepen,Le Pen,Elabe,2026-10-15,32.5,1701,1,-0.35,32.85
+melenchon,Mélenchon,Elabe,2026-10-15,15.5,1701,1,-0.05,15.55
+philippe,Philippe,Elabe,2026-10-15,13.5,1701,1,-0.1,13.6
+retailleau,Retailleau,Elabe,2026-10-15,7.5,1701,1,0.21,7.29
+roussel,Roussel,Elabe,2026-10-15,1.5,1701,1,-0.01,1.51
+tondelier,Tondelier,Elabe,2026-10-15,2.5,1701,1,0.07,2.43
+zemmour,Zemmour,Elabe,2026-10-15,3.5,1701,1,-0.19,3.69
+attal,Attal,Ifop,2026-10-18,4,1928,0.707,0.1,3.9
+dupontaignan,Dupont-Aignan,Ifop,2026-10-18,1.5,1928,0.707,-0.29,1.79
+glucksmann,Glucksmann,Ifop,2026-10-18,12,1928,0.707,-0.72,12.72
+lepen,Le Pen,Ifop,2026-10-18,34,1928,0.707,-0.36,34.36
+lisnard,Lisnard,Ifop,2026-10-18,5.5,1928,0.707,0.02,5.48
+melenchon,Mélenchon,Ifop,2026-10-18,15,1928,0.707,-0.04,15.04
+philippe,Philippe,Ifop,2026-10-18,12,1928,0.707,0,12
+retailleau,Retailleau,Ifop,2026-10-18,5.5,1928,0.707,-0.67,6.17
+roussel,Roussel,Ifop,2026-10-18,2,1928,0.707,0.13,1.87
+tondelier,Tondelier,Ifop,2026-10-18,2.5,1928,0.707,-0.25,2.75
+zemmour,Zemmour,Ifop,2026-10-18,3,1928,0.707,-0.17,3.17
+attal,Attal,Harris Interactive,2026-10-20,5,2094,1,0.1,4.9
+dupontaignan,Dupont-Aignan,Harris Interactive,2026-10-20,2,2094,1,0.03,1.97
+glucksmann,Glucksmann,Harris Interactive,2026-10-20,12,2094,1,-0.09,12.09
+lepen,Le Pen,Harris Interactive,2026-10-20,35,2094,1,0.28,34.72
+melenchon,Mélenchon,Harris Interactive,2026-10-20,17,2094,1,0.68,16.32
+philippe,Philippe,Harris Interactive,2026-10-20,13,2094,1,-0.18,13.18
+retailleau,Retailleau,Harris Interactive,2026-10-20,6,2094,1,0.06,5.94
+roussel,Roussel,Harris Interactive,2026-10-20,1,2094,1,-0.13,1.13
+tondelier,Tondelier,Harris Interactive,2026-10-20,2,2094,1,-0.65,2.65
+zemmour,Zemmour,Harris Interactive,2026-10-20,6,2094,1,0.53,5.47
+attal,Attal,Ipsos,2026-10-21,4,1500,1,-0.24,4.24
+attal,Attal,OpinionWay,2026-10-21,4,973,1,-0.09,4.09
+dupontaignan,Dupont-Aignan,Ipsos,2026-10-21,1.5,1500,1,0.01,1.49
+dupontaignan,Dupont-Aignan,OpinionWay,2026-10-21,1,973,1,-0.2,1.2
+glucksmann,Glucksmann,Ipsos,2026-10-21,13,1500,1,0.55,12.45
+glucksmann,Glucksmann,OpinionWay,2026-10-21,13,973,1,0.03,12.97
+lepen,Le Pen,Ipsos,2026-10-21,33.5,1500,1,-0.21,33.71
+lepen,Le Pen,OpinionWay,2026-10-21,36,973,1,0.18,35.82
+lisnard,Lisnard,OpinionWay,2026-10-21,6,973,1,-0.08,6.08
+melenchon,Mélenchon,Ipsos,2026-10-21,17,1500,1,0.01,16.99
+melenchon,Mélenchon,OpinionWay,2026-10-21,16,973,1,-0.27,16.27
+philippe,Philippe,Ipsos,2026-10-21,13,1500,1,0.23,12.77
+philippe,Philippe,OpinionWay,2026-10-21,12,973,1,0.61,11.39
+retailleau,Retailleau,Ipsos,2026-10-21,7.5,1500,1,0.17,7.33
+retailleau,Retailleau,OpinionWay,2026-10-21,6,973,1,0.04,5.96
+roussel,Roussel,Ipsos,2026-10-21,2,1500,1,0.14,1.86
+roussel,Roussel,OpinionWay,2026-10-21,1,973,1,-0.15,1.15
+tondelier,Tondelier,Ipsos,2026-10-21,3.5,1500,1,0.35,3.15
+tondelier,Tondelier,OpinionWay,2026-10-21,1,973,1,-0.21,1.21
+zemmour,Zemmour,Ipsos,2026-10-21,4.5,1500,1,0.04,4.46
+zemmour,Zemmour,OpinionWay,2026-10-21,4,973,1,-0.18,4.18
+attal,Attal,Ifop,2026-10-28,5,1928,1,0.1,4.9
+dupontaignan,Dupont-Aignan,Ifop,2026-10-28,1.5,1928,1,-0.29,1.79
+glucksmann,Glucksmann,Ifop,2026-10-28,10,1928,1,-0.72,10.72
+lepen,Le Pen,Ifop,2026-10-28,35,1928,1,-0.36,35.36
+lisnard,Lisnard,Ifop,2026-10-28,7,1928,1,0.02,6.98
+melenchon,Mélenchon,Ifop,2026-10-28,18,1928,1,-0.04,18.04
+philippe,Philippe,Ifop,2026-10-28,9.5,1928,1,0,9.5
+retailleau,Retailleau,Ifop,2026-10-28,4,1928,1,-0.67,4.67
+roussel,Roussel,Ifop,2026-10-28,2,1928,1,0.13,1.87
+tondelier,Tondelier,Ifop,2026-10-28,3,1928,1,-0.25,3.25
+zemmour,Zemmour,Ifop,2026-10-28,4.5,1928,1,-0.17,4.67
+attal,Attal,Harris Interactive,2026-11-04,6,2101,1,0.1,5.9
+dupontaignan,Dupont-Aignan,Harris Interactive,2026-11-04,2,2101,1,0.03,1.97
+glucksmann,Glucksmann,Harris Interactive,2026-11-04,11,2101,1,-0.09,11.09
+lepen,Le Pen,Harris Interactive,2026-11-04,36,2101,1,0.28,35.72
+melenchon,Mélenchon,Harris Interactive,2026-11-04,18,2101,1,0.68,17.32
+philippe,Philippe,Harris Interactive,2026-11-04,11,2101,1,-0.18,11.18
+retailleau,Retailleau,Harris Interactive,2026-11-04,7,2101,1,0.06,6.94
+roussel,Roussel,Harris Interactive,2026-11-04,2,2101,1,-0.13,2.13
+tondelier,Tondelier,Harris Interactive,2026-11-04,2,2101,1,-0.65,2.65
+zemmour,Zemmour,Harris Interactive,2026-11-04,4,2101,1,0.53,3.47
+attal,Attal,OpinionWay,2026-11-09,4,982,0.707,-0.09,4.09
+dupontaignan,Dupont-Aignan,OpinionWay,2026-11-09,1,982,0.707,-0.2,1.2
+glucksmann,Glucksmann,OpinionWay,2026-11-09,11,982,0.707,0.03,10.97
+lepen,Le Pen,OpinionWay,2026-11-09,34,982,0.707,0.18,33.82
+lisnard,Lisnard,OpinionWay,2026-11-09,10,982,0.707,-0.08,10.08
+melenchon,Mélenchon,OpinionWay,2026-11-09,17,982,0.707,-0.27,17.27
+philippe,Philippe,OpinionWay,2026-11-09,11,982,0.707,0.61,10.39
+retailleau,Retailleau,OpinionWay,2026-11-09,4,982,0.707,0.04,3.96
+roussel,Roussel,OpinionWay,2026-11-09,1,982,0.707,-0.15,1.15
+tondelier,Tondelier,OpinionWay,2026-11-09,3,982,0.707,-0.21,3.21
+zemmour,Zemmour,OpinionWay,2026-11-09,3,982,0.707,-0.18,3.18
+attal,Attal,OpinionWay,2026-11-11,3,964,0.707,-0.09,3.09
+dupontaignan,Dupont-Aignan,OpinionWay,2026-11-11,2,964,0.707,-0.2,2.2
+glucksmann,Glucksmann,OpinionWay,2026-11-11,10,964,0.707,0.03,9.97
+lepen,Le Pen,OpinionWay,2026-11-11,31,964,0.707,0.18,30.82
+lisnard,Lisnard,OpinionWay,2026-11-11,9,964,0.707,-0.08,9.08
+melenchon,Mélenchon,OpinionWay,2026-11-11,16,964,0.707,-0.27,16.27
+philippe,Philippe,OpinionWay,2026-11-11,12,964,0.707,0.61,11.39
+retailleau,Retailleau,OpinionWay,2026-11-11,4,964,0.707,0.04,3.96
+riner,Riner,OpinionWay,2026-11-11,4,964,1,-0.01,4.01
+roussel,Roussel,OpinionWay,2026-11-11,2,964,0.707,-0.15,2.15
+tondelier,Tondelier,OpinionWay,2026-11-11,3,964,0.707,-0.21,3.21
+zemmour,Zemmour,OpinionWay,2026-11-11,3,964,0.707,-0.18,3.18
+attal,Attal,Elabe,2026-11-12,4,1391,1,-0.07,4.07
+dupontaignan,Dupont-Aignan,Elabe,2026-11-12,2,1391,1,0.31,1.69
+glucksmann,Glucksmann,Elabe,2026-11-12,10.5,1391,1,0.29,10.21
+lepen,Le Pen,Elabe,2026-11-12,31,1391,1,-0.35,31.35
+lisnard,Lisnard,Elabe,2026-11-12,8,1391,1,-0.21,8.21
+melenchon,Mélenchon,Elabe,2026-11-12,17,1391,1,-0.05,17.05
+philippe,Philippe,Elabe,2026-11-12,9.5,1391,1,-0.1,9.6
+retailleau,Retailleau,Elabe,2026-11-12,4,1391,1,0.21,3.79
+riner,Riner,Elabe,2026-11-12,4.5,1391,1,0.18,4.32
+roussel,Roussel,Elabe,2026-11-12,1.5,1391,1,-0.01,1.51
+tondelier,Tondelier,Elabe,2026-11-12,3,1391,1,0.07,2.93
+zemmour,Zemmour,Elabe,2026-11-12,3,1391,1,-0.19,3.19
+attal,Attal,Ifop,2026-11-14,4.5,1690,1,0.1,4.4
+attal,Attal,YouGov,2026-11-14,4,952,1,0.23,3.77
+dupontaignan,Dupont-Aignan,Ifop,2026-11-14,1.5,1690,1,-0.29,1.79
+dupontaignan,Dupont-Aignan,YouGov,2026-11-14,2,952,1,0.14,1.86
+glucksmann,Glucksmann,Ifop,2026-11-14,8,1690,1,-0.72,8.72
+glucksmann,Glucksmann,YouGov,2026-11-14,9,952,1,-0.61,9.61
+lepen,Le Pen,Ifop,2026-11-14,32,1690,1,-0.36,32.36
+lepen,Le Pen,YouGov,2026-11-14,32,952,1,0.11,31.89
+lisnard,Lisnard,Ifop,2026-11-14,8,1690,1,0.02,7.98
+lisnard,Lisnard,YouGov,2026-11-14,9,952,1,-0.16,9.16
+melenchon,Mélenchon,Ifop,2026-11-14,17,1690,1,-0.04,17.04
+melenchon,Mélenchon,YouGov,2026-11-14,17,952,1,-0.25,17.25
+philippe,Philippe,Ifop,2026-11-14,10,1690,1,0,10
+philippe,Philippe,YouGov,2026-11-14,7,952,1,-2.67,9.67
+retailleau,Retailleau,Ifop,2026-11-14,4,1690,1,-0.67,4.67
+retailleau,Retailleau,YouGov,2026-11-14,6,952,1,0.13,5.87
+riner,Riner,Ifop,2026-11-14,4,1690,1,0.04,3.96
+riner,Riner,YouGov,2026-11-14,3,952,1,-0.28,3.28
+roussel,Roussel,Ifop,2026-11-14,1.5,1690,1,0.13,1.37
+roussel,Roussel,YouGov,2026-11-14,2,952,1,0.08,1.92
+tondelier,Tondelier,Ifop,2026-11-14,2,1690,1,-0.25,2.25
+tondelier,Tondelier,YouGov,2026-11-14,5,952,1,0.78,4.22
+zemmour,Zemmour,Ifop,2026-11-14,3,1690,1,-0.17,3.17
+zemmour,Zemmour,YouGov,2026-11-14,3,952,1,0.15,2.85
+attal,Attal,Harris Interactive,2026-11-18,4,2088,1,0.1,3.9
+dupontaignan,Dupont-Aignan,Harris Interactive,2026-11-18,1,2088,1,0.03,0.97
+glucksmann,Glucksmann,Harris Interactive,2026-11-18,11,2088,1,-0.09,11.09
+lepen,Le Pen,Harris Interactive,2026-11-18,31,2088,1,0.28,30.72
+lisnard,Lisnard,Harris Interactive,2026-11-18,11,2088,1,0.51,10.49
+melenchon,Mélenchon,Harris Interactive,2026-11-18,18,2088,1,0.68,17.32
+philippe,Philippe,Harris Interactive,2026-11-18,9,2088,1,-0.18,9.18
+retailleau,Retailleau,Harris Interactive,2026-11-18,4,2088,1,0.06,3.94
+riner,Riner,Harris Interactive,2026-11-18,4,2088,1,0.04,3.96
+roussel,Roussel,Harris Interactive,2026-11-18,1,2088,1,-0.13,1.13
+tondelier,Tondelier,Harris Interactive,2026-11-18,1,2088,1,-0.65,1.65
+zemmour,Zemmour,Harris Interactive,2026-11-18,4,2088,1,0.53,3.47

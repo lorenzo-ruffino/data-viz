@@ -1,0 +1,41 @@
+variabile,modalita,proprieta,affitto,riscatto,altro_titolo,totale
+Sesso,maschi,75.8,17.4,0.2,6.7,100
+Sesso,femmine,71.6,16.7,0.5,11.2,100
+Età,fino a 34 anni,52,30.5,,17.5,100
+Età,da 35 a 44 anni,63,26.1,0,10.9,100
+Età,da 45 a 54 anni,73.8,18.4,0.1,7.7,100
+Età,da 55 a 64 anni,79.4,13.5,0.6,6.5,100
+Età,oltre 64 anni,80.6,12.3,0.4,6.7,100
+Titolo di studio,fino alla licenza di scuola secondaria inferiore,69.3,22.1,0.2,8.3,100
+Titolo di studio,diploma di scuola secondaria superiore,76.9,13.7,0.5,8.8,100
+Titolo di studio,laurea,83.9,9,0,7.1,100
+Settore,agricoltura,67.2,12.7,,20.1,100
+Settore,industria,71.9,20.2,,7.9,100
+Settore,"P.A., servizi pubblici",80.3,12.3,0.2,7.2,100
+Settore,altri settori,70,21.5,0.3,8.1,100
+Settore,nessun settore,77,14.7,0.4,8,100
+Condizione professionale,lavoratore dipendente,69.6,21.5,0.3,8.6,100
+Condizione professionale,lavoratore indipendente,82.1,9.9,0.1,8,100
+Condizione professionale,pensionati,80.8,11.9,0.3,7,100
+Condizione professionale,inoccupati non pensionati,45.2,37.9,0.6,16.3,100
+Numero di componenti,1 componente,66.6,20.5,0.5,12.5,100
+Numero di componenti,2 componenti,80.9,13.8,0.1,5.1,100
+Numero di componenti,3 componenti,77.7,14.5,0.5,7.4,100
+Numero di componenti,4 componenti,79.4,14.8,0,5.8,100
+Numero di componenti,5+ componenti,60.2,30.5,0,9.2,100
+Quinti di famiglie rispetto al reddito netto familiare (**),1 quinto,43,42.3,0.4,14.3,100
+Quinti di famiglie rispetto al reddito netto familiare (**),2 quinto,69.1,19.7,0.7,10.5,100
+Quinti di famiglie rispetto al reddito netto familiare (**),3 quinto,79.4,13.3,0.2,7.1,100
+Quinti di famiglie rispetto al reddito netto familiare (**),4 quinto,86.1,7.6,0.2,6.1,100
+Quinti di famiglie rispetto al reddito netto familiare (**),5 quinto,93.7,3,0,3.4,100
+Area geografica,Nord,74.3,18.7,0.1,6.9,100
+Area geografica,Centro,77.6,14.5,0.5,7.4,100
+Area geografica,Sud e Isole,72.1,16.6,0.5,10.9,100
+Paese di origine,Italia,77.9,13.6,0.3,8.2,100
+Paese di origine,Estero,30.1,60.9,,9,100
+Classe di superficie,Fino a 60 mq,38.9,46.8,0.3,14,100
+Classe di superficie,da 60 a 80 mq,61.3,28.3,0.6,9.9,100
+Classe di superficie,da 80 a 100 mq,78.5,13.1,0.2,8.2,100
+Classe di superficie,da 100 a 120 mq,84.7,8.7,0.1,6.6,100
+Classe di superficie,oltre 120 mq,93,1.8,0.2,4.9,100
+Totale,Totale,74.3,17.2,0.3,8.3,100

@@ -1,0 +1,20 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 167_745_DF_DCSP_NIC1B2025_6
+description: Prezzi al consumo per l’intera collettività (Nic) - mensili - tutte le
+  basi - Ecoicop 2
+filters:
+  FREQ:
+    value: M
+    description: ''
+  REF_AREA:
+    value: IT
+    description: ''
+  MEASURE:
+    value: 4+7
+    description: ''
+start_period: 2015-01
+end_period: null
+last_n: null
+first_n: null

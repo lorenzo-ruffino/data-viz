@@ -1,0 +1,10 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 169_749_DF_DCSP_FOI3EC2_1
+description: Foi - pesi dal 1996 - Ecoicop 2
+filters: {}
+start_period: null
+end_period: null
+last_n: null
+first_n: null

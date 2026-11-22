@@ -1,0 +1,22 @@
+luogo,indicatore,valore,unita,anno,solidita,fonte,url
+Auckland,permessi aggiuntivi dopo l'Unitary Plan (5 anni),21808,abitazioni,2017-2021,solida (JUE 2023),Greenaway-McGrevy & Phillips,https://www.sciencedirect.com/science/article/pii/S0094119023000244
+Auckland,permessi aggiuntivi in % dello stock,4.11,%,2017-2021,solida (JUE 2023),Greenaway-McGrevy & Phillips,https://cowles.yale.edu/sites/default/files/2024-02/p1863.pdf
+Auckland,canoni 3 camere sotto il controfattuale dopo 6 anni,26-33,%,2022,suggestiva (controllo sintetico; Economic Inquiry 2026),Greenaway-McGrevy & So,https://onlinelibrary.wiley.com/doi/10.1111/ecin.70075
+Tokyo (prefettura),nuove abitazioni avviate,123091,abitazioni,2024,dato ufficiale,MLIT via 47story/e-Stat,https://47story.jp/pref/tokyo/build_start-housing_starts_total
+Giappone,nuove abitazioni avviate,740667,abitazioni,2025,dato ufficiale,MLIT,https://www.mlit.go.jp/report/press/joho04_hh_001350.html
+Tokyo 23 quartieri,prezzo medio condominio nuovo,136130000,yen,2025,dato di settore,Real Estate Economic Institute via Yomiuri,https://www.yomiuri.co.jp/economy/20260126-GYT1T00225/
+Minneapolis,crescita stock abitativo,12,%,2017-2022,narrativa/descrittiva,Pew Charitable Trusts,https://www.pew.org/en/research-and-analysis/articles/2024/01/04/minneapolis-land-use-reforms-offer-a-blueprint-for-housing-affordability
+Minneapolis,crescita canoni,1,%,2017-2022,narrativa/descrittiva,Pew Charitable Trusts,https://www.pew.org/en/research-and-analysis/articles/2024/01/04/minneapolis-land-use-reforms-offer-a-blueprint-for-housing-affordability
+Minnesota (resto),crescita canoni,14,%,2017-2022,narrativa/descrittiva,Pew Charitable Trusts,https://www.pew.org/en/research-and-analysis/articles/2024/01/04/minneapolis-land-use-reforms-offer-a-blueprint-for-housing-affordability
+Austin,nuove abitazioni aggiunte,120000,abitazioni,2015-2024,descrittiva,Pew Charitable Trusts,https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents
+Austin,canoni reali (media 2025 vs media 2021),-19,%,2021-2025,descrittiva,Pew Charitable Trusts,https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents
+Houston,lotto minimo prima e dopo la riforma (piedi quadrati),5000->1400,ft2,1998 (centro) e 2013 (resto),descrittiva (Cityscape 2024),Hamilton,https://www.huduser.gov/portal/periodicals/cityscape/vol26num3/ch9.pdf
+Inghilterra,prezzi senza vincoli regolatori (stima),-35,%,1974-2008,solida (Economic Journal 2016),Hilber & Vermeulen,https://ideas.repec.org/a/wly/econjl/v126y2016i591p358-405.html
+Vienna,abitazioni comunali,220000,abitazioni,2024,dato comunale,Stadt Wien via wohnungswirtschaft-heute,https://www.iba-wien.at/iba-wien/iba-wien/soziale-wohnungspolitik
+Vienna,abitazioni completate,12478,abitazioni,2024,dato ufficiale (rottura di serie 2024),Statistik Austria via ORF,https://orf.at/stories/3412080/
+Vienna,tetto al costo del terreno nelle aree "geförderter Wohnbau",188,euro/m2,2019,norma,Stadt Wien MA21,https://www.wien.gv.at/pdf/ma21/planungsgrundlagen-gefoerderter-wohnbau.pdf
+Spagna,abitazioni completate (certificati fine lavori),88254,abitazioni,2025,dato ufficiale,Ministerio de Vivienda via El Debate,https://www.eldebate.com/economia/20260616/vivienda-construida-2025-apenas-cubre-cua
+Catalogna,effetto del tetto ai canoni 2020 sui canoni pagati,-4/-6,%,2020-2021,solida (RSUE 2023),Jofre-Monseny Martinez-Mazza Segu,https://www.sciencedirect.com/science/article/abs/pii/S0166046223000510
+Svizzera,tasso di sfitto,1.0,%,2025,dato ufficiale,BFS via Baublatt,https://www.baublatt.ch/baubranche/schweizer-leerwohnungsziffer-erneut-gesunken-auf-1-prozent-38059
+Europa (Euroconstruct 19 paesi),abitazioni completate per 1.000 ab. - Italia,1.6,per 1000 ab.,2025 (previsione giugno 2025),dato di settore,ifo/Euroconstruct,https://www.ifo.de/en/press-release/2025-07-11/number-of-new-dwellings-in-europe-falls-significantly
+Europa (Euroconstruct 19 paesi),abitazioni completate per 1.000 ab. - media,3.4,per 1000 ab.,2026-2028 (previsione),dato di settore,ifo/Euroconstruct,https://www.ifo.de/en/press-release/2026-02-27/european-residential-construction-recovering-germany-lagging-behind

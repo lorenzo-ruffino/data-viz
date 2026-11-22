@@ -1,0 +1,425 @@
+codice,nome,tend_set2026,cum_dic2020_set2026,cum_gen2021_set2026,cum_dic2019_set2026,cum_media2020_set2026,cum_media2019_set2026,peso_2026_per_mille,cum_set2020_set2026,cum_set2019_set2026
+00,indice generale,4.2,25.02,24.18,24.78,24.86,24.69,1000.0,25.39,24.66
+00ST,indice generale senza tabacchi,4.2,25.15,24.3,24.9,24.97,24.73,979.7,25.51,24.66
+00XE,indice generale esclusi energetici,2.0,18.42,17.96,19.11,18.22,18.99,894.88,18.42,18.65
+00XEFOOD,"indice generale al netto dell'energia, degli alimentari (incluse bevande alcoliche) e tabacchi",2.0,,,,,,693.52,,
+00XEFOODUNP,componente di fondo (core inflation),1.7,17.18,16.84,17.87,17.11,17.71,825.04,17.18,17.3
+01,Prodotti alimentari e bevande analcoliche,2.0,31.08,30.21,32.09,30.35,32.17,172.26,31.33,32.85
+011,Prodotti Alimentari,2.1,30.44,29.83,31.69,29.81,31.86,158.43,30.81,32.57
+0111,Cereali e prodotti a base di cereali,0.3,27.73,27.23,28.35,27.18,27.97,29.6,27.98,28.1
+01111,Cereali,-2.8,44.17,42.62,45.17,42.96,43.58,1.96,43.88,44.59
+01112,Farina di cereali,-1.1,22.91,22.79,22.66,22.03,21.97,0.85,23.16,21.68
+01113,Pane e prodotti da forno,1.1,27.49,27.74,27.49,27.43,27.91,20.48,28.24,27.99
+01114,Cereali per colazione,-0.7,14.71,15.19,14.71,14.66,15.48,0.99,15.8,16.53
+01115,"Maccheroni, tagliatelle, cuscus e paste alimentari simili",-1.2,25.94,22.82,29.08,23.87,26.02,4.66,24.48,25.94
+01119,Altri prodotti a base di cereali,0.3,19.64,17.23,21.63,17.11,17.85,0.65,17.82,18.54
+0112,Animali vivi e carni e altre parti di animali terrestri macellati,3.5,28.9,28.53,30.62,29.01,31.59,37.68,28.77,31.25
+01122,"Carne, fresca, refrigerata o congelata",4.5,32.03,31.78,33.41,32.27,34.54,24.61,32.03,34.18
+01123,"Carne, essiccata, salata, in salamoia o affumicata",0.6,19.76,19.09,22.07,19.37,22.41,9.48,19.2,22.07
+01124,"Frattaglie, sangue e altre parti di animali macellati, freschi, refrigerati o congelati, essiccati, salati, in salamoia o affumicati",3.4,,23.9,,,,0.31,,
+01125,"Preparazioni di carne, frattaglie, sangue e altre parti di animali macellati",4.5,37.55,36.63,40.53,38.03,42.39,3.28,37.95,42.07
+0113,Pesci e altri prodotti ittici,1.9,25.94,24.45,27.59,25.04,27.16,11.63,24.8,27.11
+01131,"Pesci, vivi, freschi, refrigerati o surgelati",2.8,26.25,25.21,28.39,25.82,28.55,7.5,25.67,28.75
+01132,"Pesci, secchi, salati, in salamoia o affumicati",1.5,17.83,17.61,19.55,18.55,19.85,0.84,18.36,19.88
+01133,Preparazioni a base di pesci,-0.2,26.46,25.73,26.34,25.06,25.68,1.49,25.61,25.25
+01134,"Altri prodotti ittici, vivi, freschi, refrigerati o surgelati",0.6,27.37,23.0,29.32,24.91,26.9,1.58,23.53,26.47
+0114,"Latte, altri prodotti lattiero-caseari e uova",0.0,28.84,28.59,29.1,28.15,29.33,24.49,28.59,29.22
+01141,Latte crudo e intero,-2.0,22.73,22.24,22.36,22.21,22.99,2.16,22.36,22.73
+01142,Latte scremato,-2.0,25.62,25.62,24.87,25.22,25.82,2.44,25.74,26.24
+01143,Altri tipi di latte e panna,-3.9,25.65,24.79,26.02,24.07,24.92,0.57,25.28,24.67
+01144,Latte di origine non animale,-0.6,24.87,23.78,24.87,23.16,23.6,0.63,24.02,23.54
+01145,Formaggi,-0.7,28.82,28.08,29.19,27.78,29.38,12.17,28.08,29.06
+01146,Yogurt e prodotti simili,0.9,26.32,28.94,26.96,27.59,27.58,3.41,28.8,28.27
+01147,Dessert e bevande a base di latte,-3.0,21.91,20.82,21.79,20.21,20.63,0.41,21.06,20.58
+01148,Uova,7.4,42.82,42.27,43.92,41.96,44.1,2.63,42.41,44.34
+0115,Oli e grassi,-6.4,56.43,51.98,50.51,50.38,47.66,6.3,53.79,48.92
+01151,Oli vegetali,-4.8,57.41,51.91,50.56,51.02,47.66,5.11,54.85,49.09
+01152,Burro ed altre materie grasse provenienti dal latte,-14.3,40.85,41.74,39.47,37.17,37.07,1.06,38.48,37.27
+01153,Margarina e preparati affini,0.4,48.81,42.79,48.81,42.94,46.11,0.14,43.85,45.46
+0116,Frutta e frutta a guscio,0.6,23.66,23.66,27.7,20.58,28.25,13.61,21.11,32.01
+01161,"Datteri, fichi e frutta tropicale, freschi",4.6,22.73,19.91,19.67,18.77,19.24,1.69,20.63,19.2
+01162,"Agrumi, freschi",-6.7,16.16,20.72,15.95,7.59,17.94,2.88,5.62,20.83
+01163,"Frutta a nocciolo e pomacee, fresche",-2.6,21.17,21.48,32.45,19.08,30.1,4.02,17.58,36.52
+01164,"Bacche, fresche",17.3,33.39,30.22,39.15,39.34,44.32,1.06,45.04,47.78
+01165,"Altra frutta, fresca",3.9,33.43,32.23,38.19,32.83,41.8,1.96,40.46,47.33
+01167,"Frutta, secca e disidratata",-1.1,15.79,13.91,14.78,13.46,14.66,0.39,13.37,14.67
+01168,"Frutta a guscio, con guscio o sgusciata",3.2,20.79,18.82,19.74,18.35,19.61,1.06,18.26,19.51
+01169,"Frutta e frutta a guscio, macinata e in altre preparazioni",2.3,21.74,21.5,21.62,21.97,21.8,0.51,22.93,22.09
+0117,"Ortaggi, tuberi, banane plantano, banane da cucina e legumi",8.4,40.31,39.04,42.0,41.01,42.3,23.38,45.49,45.22
+01171,"Ortaggi a foglia o a stelo, freschi o refrigerati",12.9,41.96,43.38,43.25,42.09,43.98,6.28,42.47,43.77
+01172,"Ortaggi a frutto, freschi o refrigerati",15.2,48.17,43.59,52.23,54.77,55.87,5.66,72.39,69.5
+01173,"Legumi da granella verdi, freschi o refrigerati",14.7,51.5,46.61,46.74,49.39,48.88,0.18,56.58,63.26
+01174,"Altri ortaggi, freschi o refrigerati",8.1,39.0,39.39,39.65,35.81,36.32,2.02,34.82,34.33
+01175,"Tuberi, banane plantano e banane da cucina, freschi o refrigerati",3.3,47.89,48.28,43.37,41.91,43.67,1.26,43.98,43.13
+01176,Legumi,0.2,19.87,16.23,18.82,16.24,17.68,0.4,17.0,17.91
+01177,"Altri ortaggi, tuberi, banane plantano e banane da cucina, secchi e disidratati",3.6,23.95,20.16,22.98,20.26,21.76,0.09,21.09,22.03
+01178,"Ortaggi, tuberi, banane plantano e banane da cucina, surgelati",-0.9,33.62,32.71,35.21,31.29,32.41,0.61,32.07,32.84
+01179,"Ortaggi, tuberi, banane plantano, banane da cucina e legumi, macinati e in altre preparazioni",0.5,32.03,30.47,33.35,31.27,32.88,6.87,32.42,33.35
+0118,"Zucchero, dolciumi e dessert",-0.7,27.08,26.7,26.32,27.07,27.2,7.75,28.89,27.98
+01181,Zucchero di canna e zucchero di barbabietola,-2.6,31.29,30.09,32.1,30.52,32.84,0.77,30.62,33.34
+01182,Altri zuccheri e surrogati dello zucchero,-0.8,,,,,,0.16,,
+01183,"Confetture, marmellate, gelatine, puree e paste di frutta e miele",2.4,20.26,19.9,20.37,19.8,20.14,1.32,21.21,20.73
+01185,"Cioccolato, cacao e prodotti alimentari a base di cacao",-3.7,20.44,21.28,16.88,18.65,16.98,2.35,20.68,17.11
+01186,"Ghiaccioli, gelati e sorbetti",0.0,38.2,35.85,40.35,41.44,43.16,1.89,44.22,45.45
+01189,Altri prodotti di confetteria a base di zucchero e dessert n.c.a.,-0.3,15.31,17.91,13.38,14.35,13.93,0.82,15.08,13.83
+0119,Alimenti pronti e altri prodotti alimentari,1.4,23.32,22.72,23.68,22.98,23.89,3.99,23.44,23.68
+01191,Alimenti pronti,1.8,24.58,24.22,25.66,24.88,26.27,3.13,24.94,25.9
+01192,Alimenti per bambini,-0.1,24.02,22.43,23.16,23.22,23.31,0.22,25.02,23.65
+01193,"Sale, condimenti e salse",0.7,22.7,21.84,22.58,21.26,21.45,0.2,22.21,21.24
+01194,"Spezie, erbe aromatiche e semi",-0.1,10.84,10.63,10.3,10.3,10.5,0.08,11.39,10.52
+01199,Altri prodotti alimentari n.c.a.,-0.5,18.01,17.04,15.84,15.22,14.58,0.36,16.44,14.67
+012,Bevande analcoliche,1.4,37.98,36.2,38.12,36.69,36.55,13.82,38.12,36.88
+0121,Succhi di frutta e di verdura,1.1,36.43,36.29,37.13,36.39,36.96,1.23,37.84,38.12
+01210,Succhi di frutta e di verdura,1.1,36.43,36.29,37.13,36.39,36.96,1.23,37.84,38.12
+0122,Caffè e succedanei del caffè,0.5,52.72,50.25,49.8,49.21,47.41,5.09,51.01,47.57
+01220,Caffè e succedanei del caffè,0.5,52.72,50.25,49.8,49.21,47.41,5.09,51.01,47.57
+0123,"Tè, mate e altri prodotti di origine vegetale per infusione",-2.0,7.26,7.47,6.72,6.48,6.48,0.89,7.37,6.83
+01230,"Tè, mate e altri prodotti di origine vegetale per infusione",-2.0,7.27,7.48,6.73,6.48,6.48,0.89,7.38,6.84
+0125,Acqua,3.2,33.6,30.91,36.0,33.18,34.36,4.43,34.52,34.52
+01250,Acqua,3.2,33.6,30.91,36.0,33.18,34.36,4.43,34.52,34.52
+0126,Bibite analcoliche,2.0,31.84,30.79,32.24,30.85,30.22,1.79,31.71,30.79
+01260,Bibite analcoliche,2.0,31.84,30.79,32.24,30.85,30.22,1.79,31.71,30.79
+02,"Bevande alcoliche, tabacco e droghe",2.5,13.6,12.46,15.4,13.0,15.14,29.1,12.88,14.87
+021,Bevande alcoliche,-1.3,9.4,6.45,8.01,6.4,6.44,8.8,7.38,6.55
+0211,Alcolici e liquori,-0.1,13.6,9.75,13.27,9.83,11.4,1.04,10.06,10.9
+02110,Alcolici e liquori,-0.1,13.6,9.75,13.27,9.83,11.4,1.04,10.06,10.9
+0212,Vini,-2.2,4.27,0.49,2.25,0.23,0.16,4.76,1.36,0.2
+02121,Vini da uve,-2.2,4.27,0.49,2.25,0.21,0.16,4.76,1.36,0.2
+0213,Birre,-0.2,17.2,16.62,17.09,17.23,16.86,2.82,18.14,17.44
+02130,Birre,-0.2,17.2,16.62,17.09,17.23,16.86,2.82,18.14,17.44
+0219,Altre bevande alcoliche,-0.3,19.14,16.21,19.84,16.75,18.78,0.17,16.87,18.45
+02190,Altre bevande alcoliche,-0.3,19.14,16.21,19.84,16.75,18.78,0.17,16.87,18.45
+023,Tabacco,4.1,14.91,14.81,18.38,15.54,18.8,20.3,14.91,18.38
+0230,Tabacco,4.1,14.91,14.81,18.38,15.54,18.8,20.3,14.91,18.38
+02301,Sigarette,4.7,14.68,14.68,18.02,15.3,18.47,15.11,14.68,18.02
+02302,Sigari,6.6,19.76,15.05,24.52,20.39,24.76,0.45,19.76,24.52
+02309,Altri prodotti del tabacco,2.1,19.28,19.28,22.9,19.78,23.48,4.75,19.28,23.02
+03,Abbigliamento e calzature,0.8,8.46,8.46,9.1,8.75,9.55,60.19,8.89,9.42
+031,Abbigliamento,0.8,9.48,9.59,10.34,9.93,10.9,50.95,10.02,10.66
+0312,Indumenti,0.9,9.29,9.29,10.14,9.69,10.72,46.35,9.71,10.58
+03121,Indumenti per uomo o ragazzo,0.9,9.85,9.95,10.49,10.16,11.05,19.58,10.38,10.92
+03122,Indumenti per donna o ragazza,0.8,8.65,8.75,9.81,9.25,10.39,25.17,9.17,10.14
+03123,Indumenti per neonato (di età inferiore a 2 anni),0.3,11.03,11.03,11.9,11.45,12.29,1.49,11.35,12.12
+0313,Altri articoli di abbigliamento e accessori per l'abbigliamento,0.2,7.49,7.59,7.49,7.55,7.81,1.61,8.02,7.59
+03131,Altri articoli di abbigliamento,0.1,7.38,7.49,7.38,7.44,7.7,1.08,7.91,7.49
+0314,"Pulizia, riparazione, confezione e noleggio di capi d'abbigliamento",2.1,16.0,15.55,16.56,16.15,16.93,2.99,16.11,16.56
+03141,Pulizia di capi d'abbigliamento,1.9,16.5,15.94,17.19,16.65,17.54,2.42,16.62,17.19
+03142,"Riparazione, confezione e noleggio di capi d'abbigliamento",2.6,14.82,14.71,15.04,14.94,15.33,0.56,14.93,15.26
+032,Calzature,0.3,3.47,3.57,3.36,3.52,3.61,9.24,3.89,3.57
+0321,Scarpe e altre calzature,0.2,3.08,3.18,2.97,3.13,3.14,9.04,3.49,3.18
+03211,Calzature per uomo,0.4,1.16,1.26,0.85,1.45,1.04,4.18,2.0,1.16
+03212,Calzature per donna,0.3,4.89,4.99,5.2,4.9,5.56,4.01,5.2,5.41
+03213,Calzature per neonato e per bambino,-0.7,2.31,2.42,1.79,2.13,1.38,0.85,2.52,1.48
+0322,"Pulizia, riparazione e noleggio di calzature",3.7,18.12,17.89,19.46,18.66,20.01,0.21,18.56,19.69
+03220,"Pulizia, riparazione e noleggio di calzature",3.7,18.12,17.89,19.46,18.66,20.01,0.21,18.56,19.69
+04,"Abitazione, acqua, elettricità, gas e altri combustibili",11.1,55.37,52.95,52.22,56.85,51.68,120.0,60.26,53.85
+041,Canoni di affitto effettivamente pagati per l'abitazione,3.3,15.39,15.39,15.39,15.38,15.66,30.0,15.39,15.51
+0411,Canoni di affitto effettivamente pagati dagli inquilini per la prima casa,3.3,15.39,15.39,15.39,15.38,15.66,30.0,15.39,15.51
+04110,Canoni di affitto effettivamente pagati dagli inquilini per la prima casa,3.3,15.39,15.39,15.39,15.38,15.66,30.0,15.39,15.51
+043,"Manutenzione, riparazioni e sicurezza dell'abitazione",2.8,15.49,15.49,16.84,16.32,17.2,8.67,16.38,17.06
+0431,Attrezzature e prodotti di sicurezza per la manutenzione e la riparazione dell'abitazione,1.7,17.14,17.03,18.17,17.55,18.36,1.99,17.37,18.17
+04311,Prodotti per la manutenzione e la riparazione dell'abitazione,1.9,17.37,17.26,18.41,17.78,18.59,1.79,17.6,18.41
+0432,"Servizi per la manutenzione, la riparazione e la sicurezza dell'abitazione",3.0,14.96,14.96,16.3,15.88,16.77,6.68,15.96,16.53
+04320,"Servizi per la manutenzione, la riparazione e la sicurezza dell'abitazione",3.0,14.96,14.96,16.3,15.88,16.78,6.68,15.96,16.64
+044,Distribuzione d'acqua e servizi vari connessi con l'abitazione,3.4,16.07,15.32,16.84,16.68,17.25,21.01,16.84,17.06
+0441,Distribuzione d'acqua,4.3,28.75,26.84,31.72,29.47,31.99,2.7,28.96,31.72
+04411,Distribuzione d'acqua attraverso sistemi di reti,4.3,28.75,26.84,31.72,29.47,31.99,2.7,28.96,31.72
+0442,Raccolta dei rifiuti,1.7,9.64,9.64,10.18,10.08,10.06,5.11,10.18,9.96
+04420,Raccolta dei rifiuti,1.7,9.64,9.64,10.18,10.08,10.06,5.11,10.18,9.96
+0443,Raccolta delle acque di scarico,5.1,30.08,26.99,32.38,31.22,32.48,3.47,30.08,32.38
+04431,Raccolta delle acque di scarico attraverso sistemi fognari,5.1,29.94,26.86,32.23,31.09,32.35,3.47,29.94,32.23
+0444,Altri servizi per l'abitazione,3.6,12.2,11.87,12.31,12.74,13.1,9.73,13.52,12.85
+04441,Spese condominiali,3.6,12.19,11.87,12.3,12.76,13.09,9.73,13.51,12.84
+045,"Elettricità, gas e altri combustibili",18.8,90.48,84.25,79.97,94.18,77.93,60.32,104.74,84.25
+0451,Elettricità,19.3,89.0,84.47,82.52,95.7,83.53,26.44,101.68,85.62
+04510,Elettricità,19.3,89.0,84.47,82.52,95.7,83.53,26.44,101.68,85.62
+0452,Gas,19.4,90.17,81.66,75.16,91.41,69.8,29.69,108.26,80.67
+04521,Gas naturale distribuito tramite rete,20.7,93.74,84.58,77.17,95.06,71.43,27.04,113.74,83.17
+04522,Idrocarburi liquefatti,5.7,25.81,25.18,25.81,26.11,26.3,2.66,26.56,26.18
+0453,Combustibili liquidi,38.5,77.93,74.16,55.88,76.25,57.38,0.5,81.25,57.97
+04530,Combustibili liquidi,38.5,77.93,74.16,55.88,76.25,57.38,0.5,81.25,57.97
+0454,Combustibili solidi,9.3,29.43,29.18,30.71,29.74,31.02,3.69,29.69,30.96
+04542,"Legna da ardere, anche sotto forma di pellet e mattonelle",9.4,29.55,29.3,30.83,29.86,31.14,3.65,29.81,31.08
+05,"Arredamenti, apparecchi per uso domestico e manutenzione corrente dell'abitazione",2.1,16.07,15.73,16.76,16.24,16.95,67.7,16.3,16.99
+051,"Mobili, arredamenti e tappeti",1.2,18.3,18.3,19.11,18.63,19.31,21.25,18.53,19.22
+0511,"Mobili, arredamenti e tappeti",1.2,18.39,18.39,19.08,18.64,19.28,21.05,18.5,19.2
+05111,Mobili per la casa,1.3,19.24,19.24,20.05,19.6,20.4,18.26,19.47,20.28
+05112,Mobili da giardino e da campeggio,0.6,12.19,11.97,12.3,11.57,11.79,1.52,11.29,12.3
+05113,Articoli per l'illuminazione,0.6,10.93,10.71,11.25,11.06,11.16,0.49,11.04,11.25
+05114,Arredamenti e tappeti,0.4,10.82,10.93,10.25,10.66,10.53,0.78,10.93,10.59
+0512,"Riparazione, installazione e noleggio di mobili, arredamenti e tappeti",2.9,22.08,22.08,23.02,22.51,23.66,0.21,22.32,23.62
+05120,"Riparazione, installazione e noleggio di mobili, arredamenti e tappeti",2.9,22.08,22.08,23.02,22.51,23.66,0.21,22.32,23.62
+052,Tessili per la casa,0.9,12.43,12.43,12.66,12.57,12.84,3.2,12.55,12.77
+0521,Tessili per la casa,0.9,12.43,12.43,12.66,12.57,12.84,3.2,12.55,12.77
+05211,Tessuti per arredamento e tendaggi,1.4,18.7,18.47,19.38,19.08,19.93,1.6,18.92,19.73
+05212,Biancheria da letto e oggetti letterecci,1.0,8.13,8.13,7.91,7.97,7.92,0.92,8.13,7.91
+05213,Biancheria da tavola e da bagno,0.4,9.36,9.47,9.58,9.51,9.65,0.47,9.36,9.58
+053,Elettrodomestici,-1.7,3.63,3.52,4.4,3.92,4.3,8.52,3.74,4.4
+0531,Grandi elettrodomestici e altri grandi apparecchi domestici,-2.1,3.2,3.76,4.44,3.64,4.12,5.99,3.31,4.21
+05311,Grandi apparecchi da cucina,-2.7,4.97,4.76,6.41,6.14,5.3,2.54,5.3,4.11
+05312,Grandi apparecchi da lavanderia,-2.2,1.6,1.16,0.08,0.78,-0.51,1.36,0.62,-1.61
+05313,Apparecchi per riscaldamento e condizionatori d'aria,-0.4,17.15,21.65,22.93,19.28,29.53,1.52,19.3,32.69
+05314,Apparecchi per la pulizia della casa,-3.6,-24.54,-26.42,-26.82,-26.99,-34.55,0.57,-26.92,-33.41
+0532,Piccoli elettrodomestici,-1.1,3.34,1.95,2.91,3.24,3.24,2.34,3.45,3.23
+05321,Piccoli apparecchi per la cottura e la lavorazione degli alimenti,-2.0,-4.78,-4.49,-5.56,-5.38,-5.17,1.42,-5.37,-5.08
+05322,Piccoli apparecchi per la preparazione di bevande,3.0,27.16,19.75,29.37,28.99,29.98,0.43,29.37,29.79
+05329,Altri piccoli elettrodomestici,-0.3,-0.4,-0.51,-2.64,-1.54,-2.96,0.48,-0.82,-3.24
+0533,"Riparazione, installazione e noleggio di elettrodomestici",2.1,13.81,13.38,15.49,14.65,15.73,0.2,14.37,15.49
+05330,"Riparazione, installazione e noleggio di elettrodomestici",2.1,13.81,13.38,15.49,14.65,15.73,0.2,14.37,15.49
+054,"Oggetti di vetro, stoviglie e utensili domestici",1.3,11.35,11.24,12.13,11.63,12.22,5.86,11.46,12.13
+0540,"Oggetti di vetro, stoviglie e utensili domestici",1.3,11.35,11.24,12.13,11.63,12.22,5.86,11.46,12.13
+05401,"Oggetti di vetro, di cristallo, di ceramica e di porcellana",1.9,14.48,14.15,15.16,14.75,15.51,2.13,14.71,15.27
+05402,"Coltelleria, posateria e argenteria",0.4,7.27,7.27,6.95,7.12,7.3,0.46,7.38,7.16
+05403,Utensili e articoli da cucina,1.1,10.32,10.32,11.3,10.72,11.29,3.26,10.54,11.3
+055,Utensili e attrezzature per la casa e il giardino,0.5,10.31,10.2,10.64,10.36,10.75,3.72,10.31,10.64
+0551,Utensili e attrezzature a motore,-0.2,7.37,7.37,7.91,7.67,7.65,0.26,7.59,8.12
+05510,Utensili e attrezzature a motore,-0.2,7.37,7.37,7.91,7.67,7.65,0.26,7.58,8.12
+0552,Utensili a mano e accessori vari,0.4,10.35,10.24,10.57,10.38,10.8,3.46,10.35,10.69
+05521,Utensili a mano,0.6,15.02,14.91,15.24,15.1,15.64,1.12,15.02,15.47
+05522,Accessori vari,0.4,8.7,8.59,8.92,8.65,9.05,2.34,8.59,8.92
+056,Beni e servizi per la manutenzione corrente dell'abitazione,4.6,20.08,19.26,20.56,19.95,20.87,25.14,20.2,20.92
+0561,Beni non durevoli per l'abitazione,-0.9,15.1,14.87,15.8,14.62,16.44,11.51,15.45,16.86
+05611,Prodotti per la pulizia e la manutenzione dell'abitazione,-1.6,13.49,13.15,14.3,12.81,14.93,6.69,13.72,15.47
+05619,Altri beni non durevoli per l'abitazione,0.3,18.23,17.88,18.7,18.02,19.31,4.82,18.58,19.42
+0562,Servizi domestici e per l'abitazione,9.5,24.64,23.44,25.01,24.81,25.14,13.63,24.76,25.01
+05621,Servizi domestici forniti da personale retribuito,9.8,25.28,24.07,25.65,25.49,25.75,12.94,25.4,25.65
+05629,Altri servizi per l'abitazione,1.8,12.16,11.83,13.03,12.28,13.47,0.69,12.27,13.14
+06,Sanità,1.3,7.82,7.61,8.78,8.24,8.95,81.5,8.14,8.89
+061,Prodotti medicinali e sanitari,-0.2,3.58,3.16,3.9,3.65,3.95,21.14,3.58,3.9
+0611,Medicinali,-0.5,3.65,3.12,3.87,3.73,3.92,17.62,3.65,3.87
+06111,"Medicinali, vaccini e altri preparati farmaceutici",-0.5,3.66,3.13,3.87,3.74,3.93,17.62,3.66,3.87
+0612,Prodotti medicali,0.7,-1.48,-1.29,-0.5,-1.28,-0.35,1.17,-1.48,-0.5
+06121,Prodotti di diagnostica medica,0.7,-5.83,-5.64,-4.6,-5.4,-4.58,0.26,-5.55,-4.7
+06122,Dispositivi di prevenzione e protezione,0.5,-2.84,-2.64,-1.57,-2.37,-1.53,0.2,-2.55,-1.67
+06123,Dispositivi di automedicazione,0.6,-0.22,-0.03,0.56,-0.22,0.83,0.71,-0.42,0.66
+0613,Prodotti di assistenza,2.2,6.87,6.97,7.51,7.08,7.73,2.32,6.97,7.51
+06131,Prodotti di assistenza per la vista,1.7,7.62,7.52,8.56,7.94,8.92,1.72,7.72,8.67
+06132,Prodotti di assistenza per l'udito e la comunicazione,1.2,5.7,5.38,,5.65,,0.43,5.7,
+06133,Prodotti di assistenza per la mobilità e la vita quotidiana,3.2,6.45,7.12,6.78,6.67,6.85,0.17,6.78,6.67
+062,Servizi di cure ambulatoriali,1.8,9.97,9.75,11.03,10.5,11.39,48.5,10.39,11.25
+0621,Servizi di prevenzione sanitaria,1.7,8.92,8.71,10.29,9.44,10.62,24.28,9.23,10.51
+06219,Altri servizi di prevenzione sanitaria,1.7,8.93,8.72,10.3,9.45,10.62,24.28,9.24,10.52
+0622,Servizi dentistici ambulatoriali,1.8,11.84,11.63,12.49,12.16,12.78,8.55,12.17,12.6
+06221,Servizi dentistici di prevenzione,2.5,10.09,10.19,10.74,10.49,10.6,1.77,10.74,10.52
+06229,Altri servizi dentistici ambulatoriali,1.6,12.05,11.73,12.71,12.37,13.16,6.78,12.38,12.93
+0623,Altri servizi di cure ambulatoriali,1.8,9.72,9.62,10.88,10.39,11.22,15.67,10.35,11.09
+06231,Servizi di cura e riabilitazione ambulatoriale,1.9,9.69,9.48,10.95,10.38,11.26,15.67,10.32,11.06
+063,Servizi di cure ospedaliere,1.9,8.5,8.18,8.92,8.74,9.3,10.21,8.81,9.24
+0631,Servizi di cura e riabilitazione ospedaliera,1.9,8.5,8.18,8.92,8.74,9.3,10.21,8.81,9.24
+06310,Servizi di cura e riabilitazione ospedaliera,1.9,8.5,8.18,8.92,8.74,9.3,10.21,8.81,9.24
+064,Altri servizi sanitari,1.9,8.67,8.56,10.4,9.28,10.43,1.66,8.88,10.51
+0641,Servizi di diagnostica per immagini e di medicina di laboratorio,1.9,8.67,8.56,10.4,9.28,10.43,1.6,8.88,10.51
+06410,Servizi di diagnostica per immagini e di medicina di laboratorio,1.9,8.67,8.56,10.4,9.28,10.43,1.6,8.88,10.51
+07,Trasporti,8.6,30.21,28.58,26.75,29.35,26.49,154.54,30.72,26.51
+071,Acquisto di veicoli,-0.1,15.04,14.71,17.27,16.06,17.77,39.67,15.7,17.73
+0711,Automobili,-0.1,15.41,15.08,17.65,16.45,18.22,36.9,16.07,18.22
+07111,Automobili nuove,0.8,15.15,14.94,18.36,16.74,19.47,25.88,16.09,19.13
+07112,Automobili usate,-2.2,16.65,16.0,15.87,15.88,14.78,11.02,16.39,15.62
+0712,Motocicli,0.0,10.21,9.8,11.34,10.51,11.68,2.12,10.41,11.45
+07120,Motocicli,0.0,10.2,9.8,11.34,10.51,11.68,2.12,10.41,11.44
+0713,Biciclette,-0.8,10.97,10.53,12.19,11.88,11.94,0.66,12.19,11.74
+07130,Biciclette,-0.8,10.97,10.53,12.19,11.88,11.94,0.66,12.19,11.74
+072,Utilizzazione di mezzi personali di trasporto,14.5,36.94,34.93,30.96,36.39,31.37,91.33,37.9,31.71
+0721,Componenti e accessori per mezzi personali di trasporto,1.9,18.32,18.32,19.38,18.81,19.53,7.05,18.56,19.61
+07211,Pneumatici,2.3,21.21,21.1,22.29,21.78,22.58,5.22,21.33,22.65
+07212,Componenti per mezzi personali di trasporto,1.6,13.48,13.37,15.04,14.07,14.93,1.04,13.81,15.38
+07213,Accessori per mezzi personali di trasporto,0.0,4.09,4.09,3.78,3.94,4.01,0.79,4.4,3.78
+0722,Carburanti e lubrificanti per mezzi personali di trasporto,26.7,54.8,50.39,39.73,52.54,40.0,45.22,56.77,41.2
+07221,Carburante diesel,34.9,69.44,64.24,49.42,65.94,49.57,20.18,71.43,51.25
+07222,Benzina,21.8,45.17,41.3,31.08,43.6,32.2,22.49,47.5,32.34
+07223,Altri carburanti per mezzi personali di trasporto,9.7,40.64,36.08,37.84,40.29,34.71,2.14,43.11,39.79
+07224,Lubrificanti,2.1,15.78,15.67,16.79,16.29,17.42,0.41,16.23,16.91
+0723,Manutenzione e riparazione di mezzi personali di trasporto,3.2,21.27,21.16,22.87,22.03,23.46,28.65,21.83,23.1
+07230,Manutenzione e riparazione di mezzi personali di trasporto,3.3,21.26,21.15,22.86,22.03,23.42,28.65,21.83,23.09
+0724,Altri servizi relativi ai mezzi personali di trasporto,0.7,13.75,13.31,14.08,14.17,14.21,10.41,13.2,14.08
+07241,Servizi di parcheggio,2.9,14.55,12.91,14.22,16.98,14.7,1.88,14.33,14.44
+07242,Pedaggi,1.2,6.56,6.45,6.66,6.56,6.66,3.62,6.56,6.66
+07243,"Corsi di guida, esami, patenti e controlli tecnici",0.5,18.28,18.28,19.44,18.53,20.22,4.09,18.39,19.91
+07244,Noleggio di mezzi personali di trasporto senza autista,-4.2,28.05,26.61,30.63,25.29,27.05,0.82,16.88,27.66
+073,Servizi di trasporto passeggeri,-1.4,32.71,30.26,27.9,27.16,24.08,19.83,31.6,22.89
+0731,Trasporto di passeggeri su rotaia,1.3,1.48,0.3,11.65,8.44,13.04,3.77,5.37,11.46
+07311,Trasporto ferroviario di passeggeri,1.3,1.48,0.3,11.65,8.44,13.04,3.77,5.37,11.46
+0732,Trasporto di passeggeri su strada,3.0,12.18,12.18,13.71,12.74,13.75,3.59,12.29,13.93
+07321,Trasporto di passeggeri su autobus e pullman,3.0,12.22,12.22,14.19,12.89,14.15,2.59,12.33,14.41
+07322,Trasporto di passeggeri su taxi e veicoli noleggiati con autista,2.7,11.97,11.97,12.3,12.14,12.55,1.0,11.97,12.3
+0733,Trasporto aereo di passeggeri,-6.1,137.96,120.96,88.23,93.21,72.31,8.72,119.37,68.34
+07331,"Trasporto aereo di passeggeri, nazionale",-12.6,199.97,155.01,84.81,76.46,66.69,1.44,55.53,52.03
+07332,"Trasporto aereo di passeggeri, internazionale",-4.4,111.99,103.23,77.71,86.02,63.32,7.28,130.63,63.12
+0734,Trasporto marittimo e per vie d'acqua interne di passeggeri,8.5,34.05,35.73,43.95,28.96,29.17,1.04,48.01,45.32
+07340,Trasporto marittimo e per vie d'acqua interne di passeggeri,8.5,34.05,35.73,43.95,28.96,29.17,1.04,48.01,45.32
+0735,Trasporto multimodale di passeggeri,1.3,9.85,9.75,10.37,9.97,11.68,2.71,9.85,10.48
+07350,Trasporto multimodale di passeggeri,1.3,9.85,9.75,10.37,9.97,11.68,2.71,9.85,10.48
+074,Servizi di trasporto merci,3.0,21.28,21.17,22.32,21.7,22.68,3.72,21.51,22.55
+0741,Servizi postali e di corriere,7.2,26.47,26.16,26.78,26.47,26.99,0.99,26.47,26.78
+07411,Trattamento della corrispondenza,0.0,12.41,12.41,12.41,12.41,12.41,0.18,12.41,12.41
+07412,Servizi di corriere e di consegna dei pacchi,8.8,30.62,30.17,31.19,30.62,31.6,0.81,30.62,31.19
+0749,Altri tipi di trasporto merci,1.5,19.28,19.16,20.33,19.73,20.78,2.73,19.51,20.68
+07491,Servizi di trasloco e immagazzinaggio,3.6,20.96,20.96,21.89,21.43,22.22,0.55,21.19,21.89
+07492,Consegna delle merci,0.9,18.98,18.86,20.15,19.43,20.54,2.17,19.21,20.51
+08,Informazione e comunicazione,1.1,-13.19,-14.95,-15.85,-14.39,-17.84,28.61,-12.88,-17.4
+081,Apparecchiature per l'informazione e la comunicazione,3.1,-25.74,-28.77,-30.75,-28.45,-34.44,12.41,-25.74,-34.64
+0811,Apparecchi per la telefonia fissa,1.6,25.09,21.99,26.83,22.47,29.25,0.01,23.14,27.66
+08110,Apparecchi per la telefonia fissa,1.6,25.09,21.99,26.83,22.47,29.25,0.01,23.14,27.66
+0812,Apparecchi per la telefonia mobile,-6.3,-44.21,-46.9,-54.78,-49.55,-57.57,4.62,-46.35,-58.94
+08120,Apparecchi per la telefonia mobile,-6.3,-44.21,-46.9,-54.78,-49.55,-57.57,4.62,-46.35,-58.94
+0813,Apparecchi per il trattamento dell'informazione,9.3,-5.0,-8.64,8.0,-0.28,6.36,4.15,1.18,7.55
+08131,"Computer, laptop e tablet",18.6,-11.97,-16.18,1.99,-6.84,1.17,2.31,-5.83,2.1
+08132,Periferiche e relative componenti di consumo,-2.0,15.77,14.41,26.56,19.55,22.39,1.84,22.27,24.32
+0814,"Apparecchi per la ricezione, la registrazione e la riproduzione di suoni e immagini",-4.6,-33.15,-36.6,-38.7,-36.44,-46.07,2.89,-33.63,-43.4
+08140,"Apparecchi per la ricezione, la registrazione e la riproduzione di suoni e immagini",-4.6,-33.15,-36.6,-38.7,-36.44,-46.07,2.89,-33.63,-43.4
+0815,Supporti di registrazione non registrati,92.1,39.63,52.81,21.34,28.36,20.42,0.51,26.0,18.59
+08150,Supporti di registrazione non registrati,92.1,39.63,52.81,21.34,28.36,20.41,0.51,26.0,18.59
+0819,Altri accessori e apparecchiature per l'informazione e la comunicazione,15.7,3.56,5.89,6.54,6.48,5.72,0.22,7.53,6.0
+08191,Altre apparecchiature per l'informazione e la comunicazione,-4.1,-5.34,-6.39,-1.33,-3.39,1.6,0.1,-3.89,0.68
+08192,Altri accessori per l'informazione e la comunicazione,39.6,47.82,51.76,51.58,52.15,49.82,0.12,54.01,50.49
+083,Servizi d'informazione e comunicazione,-0.3,2.65,2.65,1.98,2.81,1.43,15.84,3.33,2.43
+0831,Servizi di comunicazione fissa,0.0,0.18,0.18,2.19,1.83,3.94,1.85,2.66,2.19
+08310,Servizi di comunicazione fissa,0.0,0.18,0.18,2.19,1.83,3.94,1.85,2.66,2.19
+0832,Servizi di comunicazione mobile,-3.1,-6.37,-6.37,-8.86,-7.16,-10.51,3.22,-6.48,-8.22
+08320,Servizi di comunicazione mobile,-3.1,-6.37,-6.37,-8.86,-7.16,-10.51,3.22,-6.48,-8.22
+0833,Servizi di connessione a Internet e servizi di archiviazione online,0.4,4.76,4.76,7.01,5.68,6.04,4.77,5.54,7.69
+08330,Servizi di connessione a Internet e servizi di archiviazione online,0.4,4.76,4.76,7.01,5.68,6.04,4.77,5.54,7.69
+0834,Pacchetti di servizi di telecomunicazione,-0.1,12.39,12.39,11.49,14.11,10.29,2.72,14.66,11.49
+08340,Pacchetti di servizi di telecomunicazione,-0.1,12.39,12.39,11.49,14.11,10.29,2.72,14.66,11.49
+0835,Riparazione e noleggio di apparecchiature per l'informazione e la comunicazione,-0.3,,,,,,0.05,,
+08350,Riparazione e noleggio di apparecchiature per l'informazione e la comunicazione,-0.3,,,,,,0.05,,
+0839,Altri servizi d'informazione e comunicazione,2.1,14.31,14.31,13.15,14.21,13.46,3.22,14.31,13.15
+08392,Abbonamenti ai servizi di streaming audiovisivo e noleggio di contenuti audiovisivi,2.0,14.25,14.25,13.2,14.18,13.48,3.22,14.25,13.2
+09,"Ricreazione, sport e cultura",1.4,13.8,15.45,14.34,15.34,15.32,58.99,15.68,15.68
+091,Beni ricreativi durevoli,1.1,38.12,37.21,39.7,39.26,40.53,3.38,39.43,41.32
+0911,Apparecchi fotografici e cinematografici e strumenti ottici,10.7,51.38,43.38,56.7,54.83,49.89,0.27,54.25,50.39
+09111,Macchine fotografiche e videocamere,10.6,51.27,43.28,56.57,54.69,49.77,0.27,54.13,50.28
+0912,Grandi beni ricreativi durevoli,0.1,36.85,36.73,37.6,37.46,40.1,3.11,37.73,40.95
+09121,"Autocaravan, caravan e rimorchi",0.3,37.67,37.67,38.81,38.46,41.74,2.89,38.68,42.74
+09123,"Imbarcazioni, yacht, motori fuoribordo e altri articoli per sport acquatici",-1.4,24.98,24.41,24.3,24.72,24.22,0.22,24.87,24.19
+092,Altri beni ricreativi,0.5,3.44,3.23,4.96,4.57,3.91,6.29,4.52,3.87
+0921,"Giochi, giocattoli e articoli per il tempo libero",1.6,6.52,6.74,8.83,8.05,7.3,4.19,8.16,6.52
+09211,"Computer per videogiochi, console, applicazioni e software per videogiochi",2.4,4.7,7.78,24.11,18.6,7.92,0.62,19.51,1.9
+09212,"Altri giochi, giocattoli e articoli per il tempo libero",0.4,5.39,5.18,5.91,5.61,6.02,3.57,5.6,5.91
+0922,"Articoli sportivi, per campeggio e per attività ricreative all'aperto",-1.6,-3.44,-4.28,-3.55,-3.05,-3.56,2.1,-3.33,-1.94
+09221,Articoli sportivi,-1.5,-3.34,-4.18,-3.45,-2.95,-3.47,1.83,-3.24,-1.84
+093,Prodotti per il giardino e animali da compagnia,1.1,21.38,21.26,22.57,21.91,23.61,8.27,22.69,24.16
+0931,"Prodotti per il giardino, piante e fiori",2.7,22.85,22.74,25.43,23.87,26.45,2.22,24.25,26.89
+09311,Prodotti per il giardino,2.0,16.72,16.61,17.75,17.01,18.02,0.46,16.84,17.86
+09312,"Piante, semi e fiori",2.8,25.03,24.8,28.12,26.29,29.37,1.76,26.91,30.1
+0932,Animali da compagnia e prodotti per animali da compagnia,0.5,21.2,20.95,21.08,21.22,22.14,6.04,22.19,22.69
+09322,Prodotti per animali da compagnia e altri animali domestici,0.5,21.2,20.95,21.08,21.22,22.14,6.04,22.19,22.69
+094,Servizi ricreativi,1.6,7.99,7.89,8.31,7.91,8.46,24.16,7.99,8.42
+0944,"Noleggio e riparazione di articoli sportivi, per campeggio e per attività ricreative all'aperto",14.2,43.36,43.36,47.13,41.15,46.04,1.92,42.42,45.85
+09440,"Noleggio e riparazione di articoli sportivi, per campeggio e per attività ricreative all'aperto",14.2,43.36,43.36,47.13,41.15,46.04,1.92,42.42,45.85
+0945,Servizi veterinari e altri servizi per animali da compagnia,2.7,16.25,16.03,18.01,16.83,18.71,1.74,16.47,18.24
+09450,Servizi veterinari e altri servizi per animali da compagnia,2.8,16.25,16.04,18.02,16.84,18.72,1.74,16.47,18.24
+0946,Servizi ricreativi e sportivi,2.4,17.82,17.49,18.38,18.51,19.74,4.15,18.6,19.51
+09461,Servizi ricreativi e per il tempo libero,0.8,13.63,13.63,14.41,13.92,15.02,0.99,13.74,14.52
+09462,Servizi connessi alla pratica sportiva,2.4,16.26,15.83,16.93,17.43,18.54,2.64,17.83,19.32
+09463,Servizi connessi alla fruizione come spettatore di eventi sportivi,5.7,53.27,53.27,52.01,53.24,55.86,0.52,53.27,48.97
+0947,"Giochi, lotterie e scommesse",0.0,0.0,0.0,0.0,0.0,0.0,16.35,0.0,0.0
+09470,"Giochi, lotterie e scommesse",0.0,0.0,0.0,0.0,0.0,0.0,16.35,0.0,0.0
+095,Beni culturali,2.7,24.71,21.53,25.8,18.19,13.77,1.08,15.13,11.55
+0951,Strumenti musicali,0.9,10.37,10.27,11.0,10.45,11.42,0.49,10.58,11.32
+09510,Strumenti musicali,0.9,10.37,10.27,11.0,10.45,11.42,0.49,10.58,11.32
+0952,Media audiovisivi,1.3,42.25,33.6,43.8,29.93,23.17,0.59,24.42,19.7
+09520,Media audiovisivi,1.4,42.42,33.76,43.97,30.07,23.33,0.59,24.59,19.86
+096,Servizi culturali,3.4,14.77,14.77,14.44,14.8,15.28,1.84,14.99,15.21
+0961,"Servizi forniti da cinema, teatri e sale da concerto",3.6,10.27,10.27,9.42,10.03,10.28,1.19,10.59,10.27
+09610,"Servizi forniti da cinema, teatri e sale da concerto",3.6,10.37,10.37,9.51,10.12,10.37,1.19,10.69,10.37
+0962,"Servizi forniti da musei, biblioteche e siti culturali",4.2,22.95,23.18,23.75,23.88,24.42,0.38,22.84,23.98
+09620,"Servizi forniti da musei, biblioteche e siti culturali",4.2,22.95,23.18,23.75,23.88,24.42,0.38,22.84,23.98
+0963,Servizi fotografici,3.4,20.1,19.88,21.34,20.51,21.96,0.19,20.21,21.69
+09630,Servizi fotografici,3.4,20.1,19.88,21.34,20.51,21.96,0.19,20.21,21.69
+0969,Altri servizi culturali,1.4,,,,,,0.08,,
+09690,Altri servizi culturali,1.4,,,,,,0.08,,
+097,"Giornali, libri e articoli di cartoleria",1.0,13.18,13.29,14.04,13.83,14.9,9.3,13.82,14.25
+0971,Libri,-0.6,3.83,4.22,4.81,5.23,6.45,3.15,5.11,5.61
+09711,Libri didattici e libri di testo,2.0,18.02,18.02,19.99,19.33,21.34,1.26,18.02,19.99
+09719,Altri libri,-2.6,-6.32,-5.69,-5.87,-4.97,-4.2,1.9,-4.4,-4.68
+0972,Giornali e periodici,2.2,18.16,17.94,18.6,18.0,18.92,2.89,18.27,18.27
+09721,Giornali,2.6,18.29,17.87,18.83,18.43,19.08,1.6,18.94,18.4
+09722,Riviste e periodici,2.1,19.11,19.11,19.57,18.46,19.85,1.29,18.42,19.22
+0974,Articoli di cartoleria e materiale da disegno,1.3,21.14,21.02,22.18,21.55,22.89,3.25,21.25,22.65
+09740,Articoli di cartoleria e materiale da disegno,1.3,21.14,21.02,22.18,21.55,22.89,3.25,21.25,22.65
+098,"""Viaggi """"tutto compreso""""""",2.5,18.66,39.71,18.37,32.86,28.17,4.67,36.13,32.97
+0980,"""Viaggi """"tutto compreso""""""",2.5,18.66,39.71,18.37,32.86,28.17,4.67,36.13,32.97
+09800,"""Viaggi """"tutto compreso""""""",2.5,18.66,39.71,18.37,32.85,28.17,4.67,36.13,32.97
+10,Servizi di istruzione,1.5,7.84,7.84,3.9,4.81,4.77,9.68,3.41,4.52
+101,Istruzione prescolastica ed elementare,1.8,13.53,13.53,15.53,14.86,16.48,3.05,13.95,15.64
+1010,Istruzione prescolastica ed elementare,1.8,13.53,13.53,15.53,14.86,16.48,3.05,13.95,15.64
+10101,Istruzione prescolastica,1.8,13.25,13.25,15.46,14.69,16.29,2.2,13.67,15.57
+10102,Istruzione elementare,1.9,14.48,14.48,15.75,15.38,17.01,0.84,14.48,15.97
+102,Istruzione secondaria,0.5,-0.8,-0.8,-0.8,-0.8,-0.88,1.58,-0.89,-0.7
+1020,Istruzione secondaria,0.5,-0.8,-0.8,-0.8,-0.8,-0.88,1.58,-0.89,-0.7
+10200,Istruzione secondaria,0.5,-0.79,-0.79,-0.7,-0.79,-0.86,1.58,-0.89,-0.7
+104,Istruzione universitaria,1.2,4.93,4.93,-9.7,-6.44,-8.4,3.46,-9.7,-7.95
+1040,Istruzione universitaria,1.2,4.93,4.93,-9.7,-6.44,-8.4,3.46,-9.7,-7.95
+10400,Istruzione universitaria,1.4,4.98,4.98,-9.47,-6.25,-8.17,3.46,-9.47,-7.73
+105,Istruzione non definita per livello,1.9,8.49,8.49,8.59,8.52,9.64,1.6,8.49,9.11
+1050,Istruzione non definita per livello,1.9,8.49,8.49,8.59,8.52,9.64,1.6,8.49,9.11
+10509,Altri tipi di istruzione non definiti per livello,1.9,8.49,8.49,8.59,8.52,9.64,1.6,8.49,9.11
+11,Servizi di ristoranti e servizi di alloggio,3.2,33.76,33.0,34.8,32.32,33.03,121.83,31.24,30.39
+111,Servizi di ristorazione e di vendita di bevande,2.9,24.3,23.72,25.59,24.81,26.3,91.12,24.53,25.95
+1111,"Ristoranti, bar e simili",2.9,24.69,24.11,25.99,25.23,26.72,88.39,24.93,26.35
+11111,"Ristoranti, bar e simili - con servizio completo",3.0,23.46,23.12,24.86,24.04,25.62,61.63,23.69,25.21
+11112,"Ristoranti, bar e simili - con servizio ridotto",2.7,26.44,25.6,27.53,26.82,28.14,26.76,26.68,27.89
+1112,"Mense, caffetterie e refettori",2.1,12.28,11.54,12.92,12.62,13.48,2.73,12.49,12.92
+11121,"Mense e caffetterie di università, scuole e scuole dell'infanzia",2.3,12.04,11.2,12.58,12.34,13.11,2.33,12.15,12.47
+11129,"Altri tipi di mense, caffetterie e refettori",1.1,14.24,13.47,15.03,14.51,15.72,0.4,14.58,15.14
+112,Servizi di alloggio,3.7,68.66,66.06,68.48,58.5,55.86,30.7,54.36,44.71
+1120,Servizi di alloggio,3.7,68.66,66.06,68.48,58.5,55.86,30.7,54.36,44.71
+11201,"Alberghi, motel, pensioni e simili",3.4,75.21,72.88,75.03,64.8,61.58,25.39,59.95,48.16
+11202,"Villaggi vacanze, campeggi, ostelli della gioventù e simili",2.5,34.88,29.63,34.58,18.72,20.23,3.95,17.62,21.8
+11203,"Servizi di alloggio di internati, università e altri istituti di istruzione",1.7,21.91,21.91,23.48,23.08,24.54,1.36,23.48,24.97
+12,Servizi finanziari e assicurativi,1.8,17.99,17.99,21.2,19.11,22.05,26.67,18.53,21.2
+121,Servizi assicurativi,2.8,17.11,17.11,15.84,16.3,15.32,10.82,16.18,15.72
+1212,Servizi assicurativi connessi alla salute,2.7,7.61,7.61,7.72,7.39,7.75,0.6,7.29,7.94
+12120,Servizi assicurativi connessi alla salute,2.7,7.61,7.61,7.72,7.39,7.75,0.6,7.29,7.94
+1213,Servizi assicurativi connessi alle abitazioni,-4.0,13.88,13.13,12.03,12.86,8.91,0.4,13.88,12.03
+12130,Servizi assicurativi connessi alle abitazioni,-4.0,13.88,13.13,12.03,12.86,8.91,0.4,13.88,12.03
+1214,Servizi assicurativi connessi ai mezzi di trasporto,3.1,17.61,17.72,16.33,16.79,15.87,9.83,16.68,16.22
+12141,Servizi assicurativi connessi ai mezzi personali di trasporto,3.1,17.61,17.72,16.33,16.79,15.87,9.83,16.68,16.22
+122,Servizi finanziari,1.2,18.69,18.69,25.76,21.48,27.94,15.85,20.61,25.99
+1222,Oneri espliciti imposti dagli istituti di deposito,1.2,18.69,18.69,25.76,21.48,27.94,15.85,20.61,25.99
+12220,Oneri espliciti imposti dagli istituti di deposito,1.2,18.69,18.69,25.76,21.48,27.94,15.85,20.61,25.99
+13,"Assistenza alla persona, protezione sociale e beni e servizi vari",3.1,15.74,15.31,17.39,16.31,17.97,68.93,16.07,17.72
+131,Cura della persona,1.4,12.43,12.0,13.54,12.72,13.44,28.42,12.88,13.54
+1311,Apparecchi elettrici per la cura della persona,-1.3,23.79,23.67,22.78,23.38,22.54,0.35,24.05,23.03
+13111,Acquisto di apparecchi elettrici per la cura della persona,-1.3,23.79,23.67,22.78,23.38,22.54,0.35,24.05,23.03
+1312,"Altri apparecchi, articoli e prodotti per la cura della persona",0.0,9.83,9.38,9.38,9.22,8.56,11.8,10.4,8.94
+13120,"Altri apparecchi, articoli e prodotti per la cura della persona",0.0,9.83,9.38,9.38,9.22,8.56,11.8,10.4,8.94
+1313,Saloni di parrucchiere e istituti di bellezza,2.7,14.48,13.94,16.68,15.35,17.26,16.27,14.69,17.01
+13131,Servizi di parrucchiere,2.8,14.95,14.42,17.49,15.91,18.1,12.66,15.17,17.82
+13132,Trattamenti di bellezza,2.4,12.3,12.09,13.62,12.98,13.75,3.61,12.74,13.95
+132,Altri effetti personali,6.9,26.46,26.34,31.24,28.2,33.05,14.7,26.92,31.74
+1321,Gioielli e orologi,15.1,63.64,63.24,77.55,68.59,82.82,6.7,64.45,78.99
+13211,Acquisto di gioielli e orologi,15.0,63.5,63.09,77.38,68.46,82.65,6.7,64.31,78.81
+1329,Altri effetti personali n.c.a.,0.7,5.37,5.37,5.16,5.28,5.31,8.01,5.68,5.27
+13291,"Articoli da viaggio, articoli per bambini e altri effetti personali n.c.a.",0.7,5.37,5.37,5.16,5.28,5.31,8.01,5.68,5.27
+133,Protezione sociale,4.2,19.41,18.39,21.27,20.57,21.31,7.15,20.22,21.27
+1330,Protezione sociale,4.2,19.41,18.39,21.27,20.57,21.31,7.15,20.22,21.27
+13301,Servizi di custodia dei bambini,2.5,21.16,20.6,25.72,24.46,25.92,2.92,23.69,26.09
+13302,Case di riposo per anziani e residenze per persone disabili che non forniscono cure mediche,1.9,11.46,11.14,12.55,11.67,12.65,1.0,11.57,12.55
+13303,Servizi di assistenza a domicilio per anziani e persone disabili,6.2,22.86,21.09,22.86,22.86,22.86,3.24,22.86,22.86
+139,Altri servizi,2.0,11.7,11.6,12.59,11.94,13.55,18.66,11.8,13.3
+1390,Altri servizi,2.0,11.7,11.6,12.59,11.94,13.55,18.66,11.8,13.3
+13909,Altri servizi n.c.a.,2.0,11.7,11.6,12.59,11.94,13.54,18.66,11.8,13.3
+APENRGY,energetici regolamentati,25.9,104.0,94.55,89.86,109.22,86.17,6.98,126.47,95.56
+ENRGY,beni energetici,22.3,82.89,77.28,68.45,83.21,67.5,105.12,90.87,71.51
+ENRGYXAPE,energetici non regolamentati,22.2,75.99,72.12,61.35,74.34,61.88,98.14,78.25,62.95
+FOODHPC,"beni alimentari, per la cura della casa e della persona",1.7,27.68,26.7,28.42,26.82,28.39,204.36,27.8,29.05
+FOODPROCXT,alimentari lavorati,-0.3,27.3,26.07,27.43,26.12,27.04,111.22,26.8,27.18
+FOODUNP,alimentari non lavorati,5.5,33.99,33.38,36.25,33.56,36.91,69.83,35.11,38.59
+FOODXT,beni alimentari,1.8,29.72,28.74,30.6,28.84,30.58,181.06,29.85,31.23
+FROOPP,-- alta frequenza d'acquisto,5.3,28.4,27.42,28.03,28.03,28.24,409.79,28.77,28.52
+GOODS,-- beni,5.4,28.83,27.57,27.95,28.65,27.81,557.66,29.85,28.45
+IGOODSXE,altri beni,0.9,9.58,9.03,10.24,9.72,10.17,251.17,9.91,10.02
+IGOODSXEDU,beni durevoli,1.0,7.96,6.87,8.73,8.2,8.4,91.55,8.4,8.18
+IGOODSXEND,beni non durevoli,0.3,7.63,7.63,8.16,7.82,8.26,61.5,7.84,8.05
+IGOODSXESD,beni semidurevoli,1.2,13.67,13.22,14.23,13.68,14.4,98.13,14.12,14.46
+LOWFRP,-- bassa frequenza d'acquisto,1.6,9.91,9.37,10.67,10.14,10.62,190.58,10.12,10.45
+MEDFRP,-- media frequenza d'acquisto,4.2,29.0,28.5,28.62,28.94,28.05,399.63,29.63,27.75
+SERV,"Servizi (indice generale, beni esclusi)",2.6,18.92,18.81,19.5,18.84,19.36,442.34,18.69,18.69
+SERVCOMM,servizi relativi alle comunicazioni,-0.3,1.22,1.22,0.77,1.47,0.09,13.96,2.01,1.22
+SERVHOUSE,servizi relativi all'abitazione,4.4,17.05,16.48,17.39,17.3,17.67,69.41,17.39,17.5
+SERVMISC,servizi vari,2.0,11.58,11.36,12.87,12.0,13.54,114.07,11.68,13.2
+SERVRP,"servizi ricreativi, culturali e per la cura della persona",2.9,26.34,26.58,27.19,26.12,26.63,173.45,25.51,25.03
+SERVTRANS,servizi relativi ai trasporti,1.6,21.2,20.63,20.41,19.98,19.51,71.44,20.86,19.07
+TOBAC,tabacchi,4.1,15.02,14.91,18.49,15.65,18.91,20.3,15.02,18.49

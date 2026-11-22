@@ -1,0 +1,115 @@
+id,name
+Z0010,agricoltura
+Z0060,industria
+Z0080,industria in senso stretto (escluse le costruzioni)
+Z0110,estrazione minerali
+Z0120,estrazione minerali energetici
+Z0140,estrazione minerali solidi
+Z0160,attività manifatturiere
+Z0200,alimentari
+Z0220,alimentari escluse olearia-margariniera
+Z0240,olearia e margariniera
+Z0280,"tessili, abbigliamento e lavorazione pelli"
+Z0300,"tessili, vestiario e maglierie"
+Z0320,"cuoio, conciarie, calzature"
+Z0340,pelli e cuoio
+Z0360,conciarie
+Z0380,calzature
+Z0400,"legno, carta e stampa"
+Z0420,legno e prodotti in legno
+Z0440,carta e cartotecnica
+Z0460,carta e cartone
+Z0480,cartotecnica
+Z0500,grafiche
+Z0520,energia e petroli
+Z0540,chimiche
+Z0560,"gomma, plastica e lavorazione minerali non metalliferi"
+Z0580,gomma e materie plastiche
+Z0600,lavorazioni  minerali non metaliferi
+Z0620,vetro
+Z0640,ceramica
+Z0660,laterizi e manufatti in cemento
+Z0680,"cemento, calce e gesso"
+Z0700,lapidei
+Z0710,settore metalmeccanico
+Z0720,metalmeccanica
+Z0740,siderurgica
+Z0760,fonderie di seconda fusione
+Z0780,meccanica generale e impiantistica
+Z0800,meccanica generale
+Z0820,impiantistica
+Z0840,elettromeccanica ed elettronica
+Z0860,fabbricazione mezzi di trasporto
+Z0880,auto-avio
+Z0900,cantieristica
+Z0910,Fiat
+Z0940,energia elettrica
+Z0960,gas e acqua
+Z1120,servizio smaltimento rifiuti
+Z1180,edilizia
+Z1240,servizi privati
+Z1260,commercio
+Z1261,distribuzione moderna organizzata
+Z1270,farmacie private
+Z1280,"trasporti, servizi postali e attività connesse"
+Z1300,trasporti
+Z1340,trasporti terrestri
+Z1360,trasporti ferroviari
+Z1380,mobilità - attività ferroviarie
+Z1400,ferrovie in concessione
+Z1420,altri trasporti terrestri
+Z1440,autolinee in concessione
+Z1460,trasporti municipalizzati
+Z1480,trasporto merci su strada
+Z1500,trasporti marittimi
+Z1520,trasposti aerei - vettori
+Z1640,servizi postali
+Z1660,poste
+Z1680,agenzie recapiti espressi
+Z1700,attività connesse ai trasporti
+Z1720,servizi di magazzinaggio
+Z1740,mobilità - servizi di appalto
+Z1760,società e consorzi autostradali
+Z1780,servizi a terra aeroporti
+Z1800,autorimesse e autonoleggio
+Z1820,servizi portuali
+Z1840,pubblici esercizi e alberghi
+Z1841,alberghi
+Z1842,pubblici esercizi
+Z1900,servizi di informazione e comunicazione
+Z1940,editoria giornali
+Z1960,giornalisti
+Z1980,attività radiotelevisive
+Z2080,telecomunicazioni
+Z2100,credito e assicurazioni
+Z2120,credito
+Z2220,assicurazioni
+Z2280,altri servizi privati
+Z2300,studi professionali
+Z2320,vigilanza privata
+Z2340,pulizia locali
+Z2360,istruzione privata
+Z2380,scuola privata laica
+Z2400,scuola privata religiosa
+Z2420,case di cura e istituti priv.
+Z2480,servizi socio assistenziali
+Z2500,lavanderia industriale
+Z2520,settore privato
+Z2540,attività della pubblica amministrazione
+Z2560,comparti di contrattazione collettiva
+Z2700,ministeri
+Z2720,agenzie fiscali e monopoli
+Z2760,agenzie fiscali
+Z2880,presidenza del consiglio dei ministri
+Z2940,enti pubblici non economici
+Z3000,regioni ed autonomie locali
+Z3060,servizio sanitario nazionale
+Z3110,ricerca (I-VIII)
+Z3160,istruzione pubblica
+Z3170,conservatori
+Z3180,scuole
+Z3240,università non docenti
+Z3340,forze dell'ordine
+Z3440,militari - difesa
+Z3500,attività dei vigili del fuoco
+Z3620,totale economia

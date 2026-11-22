@@ -1,0 +1,15 @@
+citta,paese,popolazione,superficie_kmq,densita_ab_kmq,anno,fonte
+Parigi,Francia,2103778,105.4,19967,popolazione legale più recente,INSEE via geo.api.gouv.fr
+Barcellona,Spagna,1713247,101.35,16904,2025,"Idescat, El municipi en xifres"
+Lione,Francia,519127,48.0,10821,popolazione legale più recente,INSEE via geo.api.gouv.fr
+Napoli,Italia,905050,119.2,7590,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Milano,Italia,1362863,181.8,7498,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Torino,Italia,855654,130.0,6582,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Palermo,Italia,626273,160.7,3898,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Firenze,Italia,361625,102.3,3535,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Bologna,Italia,391473,140.9,2779,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Bari,Italia,316248,117.6,2690,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Genova,Italia,566247,240.7,2353,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Padova,Italia,208202,93.0,2238,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Roma,Italia,2745062,1288.2,2131,"2026 (1/1, stima)",ISTAT POSAS e SITUAS
+Venezia,Italia,249385,418.4,596,"2026 (1/1, stima)",ISTAT POSAS e SITUAS

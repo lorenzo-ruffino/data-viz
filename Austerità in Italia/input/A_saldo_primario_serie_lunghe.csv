@@ -1,0 +1,274 @@
+paese,anno,variabile,valore,unità,fonte
+Area euro (EA20),1995,saldo_primario,-2.0282,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),1996,saldo_primario,0.9787,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),1997,saldo_primario,1.8055,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),1998,saldo_primario,2.0218,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),1999,saldo_primario,2.39,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2000,saldo_primario,2.4913,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2001,saldo_primario,1.707,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2002,saldo_primario,0.7109,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2003,saldo_primario,0.0782,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2004,saldo_primario,0.1473,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2005,saldo_primario,0.2763,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2006,saldo_primario,1.2401,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2007,saldo_primario,2.1298,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2008,saldo_primario,0.6921,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2009,saldo_primario,-3.4304,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2010,saldo_primario,-3.5382,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2011,saldo_primario,-1.2371,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2012,saldo_primario,-0.8299,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2013,saldo_primario,-0.4244,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2014,saldo_primario,0.0902,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2015,saldo_primario,0.3267,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2016,saldo_primario,0.6593,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2017,saldo_primario,0.9507,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2018,saldo_primario,1.3922,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2019,saldo_primario,1.0944,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2020,saldo_primario,-5.496,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2021,saldo_primario,-3.6601,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2022,saldo_primario,-1.7191,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2023,saldo_primario,-1.7724,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2024,saldo_primario,-1.1437,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Area euro (EA20),2025,saldo_primario,-1.0123,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,1980,saldo_primario,0.9415,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1981,saldo_primario,-0.6992,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1982,saldo_primario,-1.1697,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1983,saldo_primario,-0.3769,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1984,saldo_primario,-0.4809,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1985,saldo_primario,-0.5626,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1986,saldo_primario,-0.7553,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1987,saldo_primario,0.3363,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1988,saldo_primario,-0.3328,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1989,saldo_primario,0.5434,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1990,saldo_primario,0.1773,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1991,saldo_primario,-0.201,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1992,saldo_primario,-1.6369,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1993,saldo_primario,-3.2235,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1994,saldo_primario,-2.1511,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Francia,1995,saldo_primario,-1.6525,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,1996,saldo_primario,-0.2814,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,1997,saldo_primario,-0.1605,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,1998,saldo_primario,0.9952,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,1999,saldo_primario,1.5344,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2000,saldo_primario,1.6467,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2001,saldo_primario,1.6352,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2002,saldo_primario,-0.1474,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2003,saldo_primario,-1.2121,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2004,saldo_primario,-0.7542,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2005,saldo_primario,-0.7922,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2006,saldo_primario,-0.0543,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2007,saldo_primario,-0.3013,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2008,saldo_primario,-0.6292,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2009,saldo_primario,-4.832,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2010,saldo_primario,-4.6121,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2011,saldo_primario,-2.5892,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2012,saldo_primario,-2.5409,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2013,saldo_primario,-2.6076,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2014,saldo_primario,-2.3766,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2015,saldo_primario,-1.8615,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2016,saldo_primario,-1.8636,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2017,saldo_primario,-1.5727,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2018,saldo_primario,-0.5498,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2019,saldo_primario,-0.8782,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2020,saldo_primario,-7.6493,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2021,saldo_primario,-5.1975,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2022,saldo_primario,-2.8242,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2023,saldo_primario,-3.477,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2024,saldo_primario,-3.7133,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Francia,2025,saldo_primario,-2.8669,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,1991,saldo_primario,-0.172,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Germania,1992,saldo_primario,0.6722,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Germania,1993,saldo_primario,0.2322,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Germania,1994,saldo_primario,0.8692,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Germania,1995,saldo_primario,-5.9287,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,1996,saldo_primario,-0.1763,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,1997,saldo_primario,0.3687,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,1998,saldo_primario,0.7014,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,1999,saldo_primario,1.2277,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2000,saldo_primario,1.4568,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2001,saldo_primario,-0.1094,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2002,saldo_primario,-1.1113,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2003,saldo_primario,-0.9255,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2004,saldo_primario,-0.6382,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2005,saldo_primario,-0.6408,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2006,saldo_primario,0.9333,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2007,saldo_primario,2.8156,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2008,saldo_primario,2.4057,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2009,saldo_primario,-0.5619,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2010,saldo_primario,-1.9788,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2011,saldo_primario,1.6349,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2012,saldo_primario,2.2384,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2013,saldo_primario,1.9343,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2014,saldo_primario,2.3243,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2015,saldo_primario,2.3045,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2016,saldo_primario,2.3198,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2017,saldo_primario,2.3711,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2018,saldo_primario,2.8085,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2019,saldo_primario,2.12,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2020,saldo_primario,-3.7305,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2021,saldo_primario,-2.5776,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2022,saldo_primario,-1.2065,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2023,saldo_primario,-1.621,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2024,saldo_primario,-1.6048,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Germania,2025,saldo_primario,-1.5566,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,1988,saldo_primario,-3.7954,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Grecia,1989,saldo_primario,-5.5171,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Grecia,1990,saldo_primario,-5.14,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Grecia,1991,saldo_primario,-1.2624,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Grecia,1992,saldo_primario,-0.6581,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Grecia,1993,saldo_primario,-0.6847,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Grecia,1994,saldo_primario,4.1988,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Grecia,1995,saldo_primario,0.9775,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,1996,saldo_primario,2.1481,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,1997,saldo_primario,2.3465,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,1998,saldo_primario,1.48,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,1999,saldo_primario,1.8606,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2000,saldo_primario,2.8928,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2001,saldo_primario,0.8454,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2002,saldo_primario,-0.4682,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2003,saldo_primario,-3.015,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2004,saldo_primario,-4.146,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2005,saldo_primario,-1.5281,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2006,saldo_primario,-1.5545,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2007,saldo_primario,-2.2412,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2008,saldo_primario,-5.4321,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2009,saldo_primario,-10.3101,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2010,saldo_primario,-5.3169,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2011,saldo_primario,-2.8339,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2012,saldo_primario,-3.8908,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2013,saldo_primario,-9.4353,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2014,saldo_primario,0.2431,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2015,saldo_primario,-2.325,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2016,saldo_primario,3.4271,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2017,saldo_primario,3.8614,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2018,saldo_primario,4.2657,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2019,saldo_primario,3.7949,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2020,saldo_primario,-6.9505,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2021,saldo_primario,-4.789,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2022,saldo_primario,-0.0783,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2023,saldo_primario,1.9578,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2024,saldo_primario,4.8207,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Grecia,2025,saldo_primario,4.8873,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,1980,saldo_primario,-2.5,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1981,saldo_primario,-5.6,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1982,saldo_primario,-3.3,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1983,saldo_primario,-2.2,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1984,saldo_primario,-3.0,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1985,saldo_primario,-3.8,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1986,saldo_primario,-3.1,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1987,saldo_primario,-3.5,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1988,saldo_primario,-2.7,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1989,saldo_primario,-2.2,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1990,saldo_primario,-1.3,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1991,saldo_primario,0.0,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1992,saldo_primario,1.8,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1993,saldo_primario,2.5,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1994,saldo_primario,2.2,% PIL,"Osservatorio CPI, Serie storiche marzo 2026 (xlsx): Banca d'Italia"
+Italia,1995,saldo_primario,3.8828,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,1996,saldo_primario,4.419,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,1997,saldo_primario,6.1337,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,1998,saldo_primario,4.8436,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,1999,saldo_primario,4.5959,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2000,saldo_primario,3.6815,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2001,saldo_primario,2.8624,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2002,saldo_primario,2.5401,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2003,saldo_primario,1.7145,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2004,saldo_primario,1.1193,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2005,saldo_primario,0.3861,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2006,saldo_primario,0.8102,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2007,saldo_primario,3.4022,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2008,saldo_primario,2.3251,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2009,saldo_primario,-0.6691,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2010,saldo_primario,0.0944,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2011,saldo_primario,1.0955,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2012,saldo_primario,2.1333,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2013,saldo_primario,1.915,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2014,saldo_primario,1.7317,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2015,saldo_primario,1.636,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2016,saldo_primario,1.4812,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2017,saldo_primario,1.237,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2018,saldo_primario,1.4284,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2019,saldo_primario,1.8877,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2020,saldo_primario,-5.9583,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2021,saldo_primario,-5.457,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2022,saldo_primario,-4.015,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2023,saldo_primario,-3.5028,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2024,saldo_primario,0.5314,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Italia,2025,saldo_primario,0.787,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,1980,saldo_primario,-4.5504,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1981,saldo_primario,-4.3868,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1982,saldo_primario,-2.6842,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1983,saldo_primario,0.0834,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1984,saldo_primario,0.2862,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1985,saldo_primario,-2.0267,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1986,saldo_primario,0.3897,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1987,saldo_primario,0.2401,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1988,saldo_primario,2.6909,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1989,saldo_primario,2.8763,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1990,saldo_primario,1.8011,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1991,saldo_primario,1.099,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1992,saldo_primario,3.462,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1993,saldo_primario,-0.2974,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1994,saldo_primario,-1.0289,% PIL,AMECO vintage autunno 2013 (ESA95) UBLGI
+Portogallo,1995,saldo_primario,0.3574,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,1996,saldo_primario,0.0912,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,1997,saldo_primario,0.126,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,1998,saldo_primario,-1.2473,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,1999,saldo_primario,-0.0859,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2000,saldo_primario,-0.1638,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2001,saldo_primario,-1.7529,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2002,saldo_primario,-0.4519,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2003,saldo_primario,-3.0401,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2004,saldo_primario,-3.6353,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2005,saldo_primario,-3.563,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2006,saldo_primario,-1.3844,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2007,saldo_primario,0.0911,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2008,saldo_primario,-0.6993,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2009,saldo_primario,-6.8936,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2010,saldo_primario,-8.505,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2011,saldo_primario,-3.461,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2012,saldo_primario,-1.3744,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2013,saldo_primario,-0.4447,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2014,saldo_primario,-2.5495,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2015,saldo_primario,0.0595,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2016,saldo_primario,2.1525,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2017,saldo_primario,0.7314,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2018,saldo_primario,2.8956,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2019,saldo_primario,3.0188,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2020,saldo_primario,-2.9193,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2021,saldo_primario,-0.4612,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2022,saldo_primario,1.5789,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2023,saldo_primario,3.1753,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2024,saldo_primario,2.6908,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Portogallo,2025,saldo_primario,2.6159,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,1995,saldo_primario,-1.852,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,1996,saldo_primario,-0.835,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,1997,saldo_primario,0.6773,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,1998,saldo_primario,1.4392,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,1999,saldo_primario,2.1713,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2000,saldo_primario,2.0011,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2001,saldo_primario,2.5138,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2002,saldo_primario,2.3149,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2003,saldo_primario,1.9253,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2004,saldo_primario,1.8793,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2005,saldo_primario,2.9752,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2006,saldo_primario,3.7325,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2007,saldo_primario,3.4624,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2008,saldo_primario,-2.9833,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2009,saldo_primario,-9.53,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2010,saldo_primario,-7.5892,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2011,saldo_primario,-7.2025,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2012,saldo_primario,-8.468,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2013,saldo_primario,-3.9273,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2014,saldo_primario,-2.5031,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2015,saldo_primario,-2.1976,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2016,saldo_primario,-1.4409,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2017,saldo_primario,-0.5374,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2018,saldo_primario,-0.1114,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2019,saldo_primario,-0.813,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2020,saldo_primario,-7.69,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2021,saldo_primario,-4.5324,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2022,saldo_primario,-2.2767,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2023,saldo_primario,-0.9667,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2024,saldo_primario,-0.7826,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL
+Spagna,2025,saldo_primario,-0.0009,% PIL,Eurostat gov_10a_main (B9+D41PAY)/PIL

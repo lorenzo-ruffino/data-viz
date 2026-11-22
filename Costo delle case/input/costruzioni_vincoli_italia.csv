@@ -1,0 +1,25 @@
+tema,indicatore,valore,unita,anno,fonte,url
+norme,standard minimo DM 1444/1968,18,m2 per abitante,1968,DM 1444/1968 art. 3,https://www.bosettiegatti.eu/INFO/norme/statali/1968_1444.htm
+norme,distanza minima tra pareti finestrate,10,m,1968,DM 1444/1968 art. 9,https://www.bosettiegatti.eu/INFO/norme/statali/1968_1444.htm
+norme,densita massima zona B comuni oltre 200.000 ab. (demolizione e ricostruzione),7,m3/m2,1968,DM 1444/1968 art. 7,https://www.bosettiegatti.eu/INFO/norme/statali/1968_1444.htm
+norme,soglia oltre la quale serve piano attuativo (altezza),25,m,1942/1967,L. 1150/1942 art. 41-quinquies,https://www.bosettiegatti.eu/info/norme/statali/1942_1150.htm
+norme,soglia oltre la quale serve piano attuativo (densita),3,m3/m2,1942/1967,L. 1150/1942 art. 41-quinquies,https://www.bosettiegatti.eu/info/norme/statali/1942_1150.htm
+tempi,giorni per il permesso di costruire - Milano,220,giorni,2025,World Bank B-READY subnazionale Italia,https://www.worldbank.org/content/dam/sites/b-ready/subnational/document/reports/Subnational-B-READY-in-Italy-2025-EXECUTIVE%20SUMMARY%20AND%20OVERVIEW%20(EN)1.pdf
+tempi,giorni per il permesso di costruire - Roma,190,giorni,2025,World Bank B-READY subnazionale Italia,https://www.worldbank.org/content/dam/sites/b-ready/subnational/document/reports/Subnational-B-READY-in-Italy-2025-EXECUTIVE%20SUMMARY%20AND%20OVERVIEW%20(EN)1.pdf
+tempi,giorni per il permesso di costruire - Torino,210,giorni,2025,World Bank B-READY subnazionale Italia,https://www.worldbank.org/content/dam/sites/b-ready/subnational/document/reports/Subnational-B-READY-in-Italy-2025-EXECUTIVE%20SUMMARY%20AND%20OVERVIEW%20(EN)1.pdf
+tempi,giorni per il permesso di costruire - Napoli,220,giorni,2025,World Bank B-READY subnazionale Italia,https://www.worldbank.org/content/dam/sites/b-ready/subnational/document/reports/Subnational-B-READY-in-Italy-2025-EXECUTIVE%20SUMMARY%20AND%20OVERVIEW%20(EN)1.pdf
+tempi,giorni per il permesso di costruire - Cagliari,100,giorni,2025,World Bank B-READY subnazionale Italia,https://www.worldbank.org/content/dam/sites/b-ready/subnational/document/reports/Subnational-B-READY-in-Italy-2025-EXECUTIVE%20SUMMARY%20AND%20OVERVIEW%20(EN)1.pdf
+tempi,giorni per il permesso di costruire - Milano (metodo diverso),105,giorni,2019,World Bank Doing Business in the EU 2020,https://documents1.worldbank.org/curated/en/829901591688536289/pdf/Doing-Business-in-the-European-Union-2020-Italy.pdf
+oneri,oneri di urbanizzazione residenza Milano fascia centrale,132,euro/m3,2023,Comune di Milano delibera CC 28/2023,https://www.tplex.eu/it/news/il-consiglio-comunale-di-milano-approva-i-nuovi-oneri-di-urbanizzazione-per-gli-interventi-edilizi
+oneri,oneri di urbanizzazione residenza Milano periferia,68,euro/m3,2023,Comune di Milano delibera CC 28/2023,https://www.tplex.eu/it/news/il-consiglio-comunale-di-milano-approva-i-nuovi-oneri-di-urbanizzazione-per-gli-interventi-edilizi
+oneri,costo di costruzione base Milano,494.96,euro/m2,2025,Comune di Milano,https://www.comune.milano.it/documents/20118/722122/Aggiornamento+costo+di+costruzione+annualit%C3%A0+2025.pdf
+milano,abitazioni in permessi e SCIA ritirati a Milano,4000->1000,abitazioni,2022->2024,Assimpredil Ance (dato associativo),https://www.ilgiornale.it/news/interni/servono-35mila-alloggi-ma-crollano-i-permessi/
+milano,progetti fermi (stima Confindustria),150,progetti,2026,Orsini (Confindustria),https://www.imprese-lavoro.com/2026/06/18/orsini-confindustria-non-possiamo-fermare-milano-150-progetti-bloccati/
+suolo,consumo di suolo lordo,83.7,km2,2024,ISPRA Rapporto 2025,https://www.snpambiente.it/wp-content/uploads/2025/10/sintesi-consumo-di-suolo-2025.pdf
+suolo,quota di territorio consumato,7.17,%,2024,ISPRA Rapporto 2025,https://www.snpambiente.it/wp-content/uploads/2025/10/sintesi-consumo-di-suolo-2025.pdf
+bonifiche,costo mediano di bonifica superfici tecniche,162,euro/m2,2026,REF Ricerche,https://laboratorioref.it/bonifiche-ambientali-in-italia-un-mercato-che-vale-43-miliardi-di-euro/
+bonifiche,bonifica ex Falck (stima),570,milioni di euro (su 1.4 mln m2),2021,Ambrosetti via Giornale dell'Architettura,https://ilgiornaledellarchitettura.com/2023/12/12/ex-falck-a-sesto-san-giovanni-la-patata-bollente-3/
+piano casa,risorse DL 66/2026 programma ERP/ERS,970,milioni di euro 2026-2030,2026,Dossier Camera D26066,https://documenti.camera.it/leg19/dossier/Pdf/D26066.pdf
+piano casa,obiettivo alloggi in dieci anni,100000,abitazioni,2026,Consiglio dei ministri,https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-173/31698
+elasticita,elasticita di lungo periodo dell'offerta (investimenti) - Italia,0.55,,1980-2017,Cavalleri Cournede Ozsogut OCSE WP 1589,https://doi.org/10.1787/4777e29a-en
+elasticita,elasticita dello stock ai prezzi - media citta italiane,0.12,,1971-2011,Accetturo Lamorgese Mocetti Pellegrino JEG 2021,https://www.bancaditalia.it/pubblicazioni/temi-discussione/2020/2020-1267/index.html

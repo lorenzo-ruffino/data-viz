@@ -1,0 +1,2248 @@
+data,serie,media,sd,giorni_al_voto,nome,blocco
+2026-08-09,amcha,3.01,0.26,79,Amcha Yisrael,governo
+2026-08-10,amcha,3.02,0.26,78,Amcha Yisrael,governo
+2026-08-11,amcha,3.04,0.26,77,Amcha Yisrael,governo
+2026-08-12,amcha,3.05,0.25,76,Amcha Yisrael,governo
+2026-08-13,amcha,3.07,0.25,75,Amcha Yisrael,governo
+2026-08-14,amcha,3.09,0.24,74,Amcha Yisrael,governo
+2026-08-15,amcha,3.1,0.24,73,Amcha Yisrael,governo
+2026-08-16,amcha,3.12,0.23,72,Amcha Yisrael,governo
+2026-08-17,amcha,3.13,0.22,71,Amcha Yisrael,governo
+2026-08-18,amcha,3.15,0.22,70,Amcha Yisrael,governo
+2026-08-19,amcha,3.18,0.21,69,Amcha Yisrael,governo
+2026-08-20,amcha,3.21,0.21,68,Amcha Yisrael,governo
+2026-08-21,amcha,3.25,0.2,67,Amcha Yisrael,governo
+2026-08-22,amcha,3.29,0.2,66,Amcha Yisrael,governo
+2026-08-23,amcha,3.33,0.2,65,Amcha Yisrael,governo
+2026-08-24,amcha,3.36,0.19,64,Amcha Yisrael,governo
+2026-08-25,amcha,3.4,0.19,63,Amcha Yisrael,governo
+2026-08-26,amcha,3.44,0.18,62,Amcha Yisrael,governo
+2026-08-27,amcha,3.47,0.18,61,Amcha Yisrael,governo
+2026-08-28,amcha,3.49,0.18,60,Amcha Yisrael,governo
+2026-08-29,amcha,3.51,0.18,59,Amcha Yisrael,governo
+2026-08-30,amcha,3.53,0.17,58,Amcha Yisrael,governo
+2026-08-31,amcha,3.55,0.17,57,Amcha Yisrael,governo
+2026-09-01,amcha,3.56,0.17,56,Amcha Yisrael,governo
+2026-09-02,amcha,3.57,0.16,55,Amcha Yisrael,governo
+2026-09-03,amcha,3.59,0.16,54,Amcha Yisrael,governo
+2026-09-04,amcha,3.6,0.16,53,Amcha Yisrael,governo
+2026-09-05,amcha,3.61,0.16,52,Amcha Yisrael,governo
+2026-09-06,amcha,3.62,0.16,51,Amcha Yisrael,governo
+2026-09-07,amcha,3.63,0.15,50,Amcha Yisrael,governo
+2026-09-08,amcha,3.63,0.15,49,Amcha Yisrael,governo
+2026-09-09,amcha,3.64,0.15,48,Amcha Yisrael,governo
+2026-09-10,amcha,3.64,0.16,47,Amcha Yisrael,governo
+2026-09-11,amcha,3.65,0.16,46,Amcha Yisrael,governo
+2026-09-12,amcha,3.65,0.16,45,Amcha Yisrael,governo
+2026-09-13,amcha,3.66,0.16,44,Amcha Yisrael,governo
+2026-09-14,amcha,3.66,0.16,43,Amcha Yisrael,governo
+2026-09-15,amcha,3.67,0.16,42,Amcha Yisrael,governo
+2026-09-16,amcha,3.66,0.16,41,Amcha Yisrael,governo
+2026-09-17,amcha,3.66,0.17,40,Amcha Yisrael,governo
+2026-09-18,amcha,3.65,0.17,39,Amcha Yisrael,governo
+2026-09-19,amcha,3.64,0.17,38,Amcha Yisrael,governo
+2026-09-20,amcha,3.64,0.17,37,Amcha Yisrael,governo
+2026-09-21,amcha,3.63,0.17,36,Amcha Yisrael,governo
+2026-09-22,amcha,3.62,0.17,35,Amcha Yisrael,governo
+2026-09-23,amcha,3.61,0.16,34,Amcha Yisrael,governo
+2026-09-24,amcha,3.59,0.16,33,Amcha Yisrael,governo
+2026-09-25,amcha,3.58,0.17,32,Amcha Yisrael,governo
+2026-09-26,amcha,3.57,0.16,31,Amcha Yisrael,governo
+2026-09-27,amcha,3.55,0.16,30,Amcha Yisrael,governo
+2026-09-28,amcha,3.54,0.16,29,Amcha Yisrael,governo
+2026-09-29,amcha,3.53,0.16,28,Amcha Yisrael,governo
+2026-09-30,amcha,3.51,0.16,27,Amcha Yisrael,governo
+2026-10-01,amcha,3.49,0.16,26,Amcha Yisrael,governo
+2026-10-02,amcha,3.48,0.16,25,Amcha Yisrael,governo
+2026-10-03,amcha,3.47,0.16,24,Amcha Yisrael,governo
+2026-10-04,amcha,3.46,0.16,23,Amcha Yisrael,governo
+2026-10-05,amcha,3.45,0.15,22,Amcha Yisrael,governo
+2026-10-06,amcha,3.44,0.15,21,Amcha Yisrael,governo
+2026-10-07,amcha,3.44,0.15,20,Amcha Yisrael,governo
+2026-10-08,amcha,3.43,0.15,19,Amcha Yisrael,governo
+2026-10-09,amcha,3.42,0.15,18,Amcha Yisrael,governo
+2026-10-10,amcha,3.4,0.15,17,Amcha Yisrael,governo
+2026-10-11,amcha,3.39,0.15,16,Amcha Yisrael,governo
+2026-10-12,amcha,3.37,0.15,15,Amcha Yisrael,governo
+2026-10-13,amcha,3.36,0.15,14,Amcha Yisrael,governo
+2026-10-14,amcha,3.35,0.15,13,Amcha Yisrael,governo
+2026-10-15,amcha,3.33,0.15,12,Amcha Yisrael,governo
+2026-10-16,amcha,3.32,0.14,11,Amcha Yisrael,governo
+2026-10-17,amcha,3.31,0.14,10,Amcha Yisrael,governo
+2026-10-18,amcha,3.3,0.14,9,Amcha Yisrael,governo
+2026-10-19,amcha,3.28,0.13,8,Amcha Yisrael,governo
+2026-10-20,amcha,3.26,0.13,7,Amcha Yisrael,governo
+2026-10-21,amcha,3.24,0.13,6,Amcha Yisrael,governo
+2026-10-22,amcha,3.21,0.13,5,Amcha Yisrael,governo
+2026-10-23,amcha,3.21,0.14,4,Amcha Yisrael,governo
+2026-04-26,dems,9.33,0.39,184,Democratici,opposizione
+2026-04-27,dems,9.34,0.38,183,Democratici,opposizione
+2026-04-28,dems,9.34,0.37,182,Democratici,opposizione
+2026-04-29,dems,9.35,0.37,181,Democratici,opposizione
+2026-04-30,dems,9.36,0.36,180,Democratici,opposizione
+2026-05-01,dems,9.37,0.36,179,Democratici,opposizione
+2026-05-02,dems,9.37,0.36,178,Democratici,opposizione
+2026-05-03,dems,9.38,0.36,177,Democratici,opposizione
+2026-05-04,dems,9.39,0.35,176,Democratici,opposizione
+2026-05-05,dems,9.4,0.35,175,Democratici,opposizione
+2026-05-06,dems,9.4,0.34,174,Democratici,opposizione
+2026-05-07,dems,9.41,0.34,173,Democratici,opposizione
+2026-05-08,dems,9.42,0.34,172,Democratici,opposizione
+2026-05-09,dems,9.43,0.34,171,Democratici,opposizione
+2026-05-10,dems,9.44,0.33,170,Democratici,opposizione
+2026-05-11,dems,9.45,0.33,169,Democratici,opposizione
+2026-05-12,dems,9.46,0.33,168,Democratici,opposizione
+2026-05-13,dems,9.46,0.32,167,Democratici,opposizione
+2026-05-14,dems,9.47,0.32,166,Democratici,opposizione
+2026-05-15,dems,9.47,0.32,165,Democratici,opposizione
+2026-05-16,dems,9.47,0.33,164,Democratici,opposizione
+2026-05-17,dems,9.48,0.33,163,Democratici,opposizione
+2026-05-18,dems,9.48,0.32,162,Democratici,opposizione
+2026-05-19,dems,9.48,0.32,161,Democratici,opposizione
+2026-05-20,dems,9.49,0.32,160,Democratici,opposizione
+2026-05-21,dems,9.49,0.32,159,Democratici,opposizione
+2026-05-22,dems,9.5,0.33,158,Democratici,opposizione
+2026-05-23,dems,9.5,0.33,157,Democratici,opposizione
+2026-05-24,dems,9.51,0.33,156,Democratici,opposizione
+2026-05-25,dems,9.51,0.33,155,Democratici,opposizione
+2026-05-26,dems,9.51,0.33,154,Democratici,opposizione
+2026-05-27,dems,9.52,0.33,153,Democratici,opposizione
+2026-05-28,dems,9.52,0.33,152,Democratici,opposizione
+2026-05-29,dems,9.52,0.33,151,Democratici,opposizione
+2026-05-30,dems,9.53,0.33,150,Democratici,opposizione
+2026-05-31,dems,9.53,0.33,149,Democratici,opposizione
+2026-06-01,dems,9.53,0.32,148,Democratici,opposizione
+2026-06-02,dems,9.53,0.32,147,Democratici,opposizione
+2026-06-03,dems,9.53,0.32,146,Democratici,opposizione
+2026-06-04,dems,9.53,0.31,145,Democratici,opposizione
+2026-06-05,dems,9.54,0.31,144,Democratici,opposizione
+2026-06-06,dems,9.54,0.31,143,Democratici,opposizione
+2026-06-07,dems,9.54,0.31,142,Democratici,opposizione
+2026-06-08,dems,9.55,0.31,141,Democratici,opposizione
+2026-06-09,dems,9.55,0.31,140,Democratici,opposizione
+2026-06-10,dems,9.56,0.31,139,Democratici,opposizione
+2026-06-11,dems,9.56,0.31,138,Democratici,opposizione
+2026-06-12,dems,9.56,0.31,137,Democratici,opposizione
+2026-06-13,dems,9.57,0.3,136,Democratici,opposizione
+2026-06-14,dems,9.57,0.3,135,Democratici,opposizione
+2026-06-15,dems,9.57,0.3,134,Democratici,opposizione
+2026-06-16,dems,9.57,0.29,133,Democratici,opposizione
+2026-06-17,dems,9.57,0.29,132,Democratici,opposizione
+2026-06-18,dems,9.57,0.29,131,Democratici,opposizione
+2026-06-19,dems,9.58,0.29,130,Democratici,opposizione
+2026-06-20,dems,9.58,0.29,129,Democratici,opposizione
+2026-06-21,dems,9.58,0.29,128,Democratici,opposizione
+2026-06-22,dems,9.58,0.29,127,Democratici,opposizione
+2026-06-23,dems,9.58,0.29,126,Democratici,opposizione
+2026-06-24,dems,9.59,0.29,125,Democratici,opposizione
+2026-06-25,dems,9.6,0.29,124,Democratici,opposizione
+2026-06-26,dems,9.6,0.29,123,Democratici,opposizione
+2026-06-27,dems,9.61,0.29,122,Democratici,opposizione
+2026-06-28,dems,9.62,0.29,121,Democratici,opposizione
+2026-06-29,dems,9.63,0.29,120,Democratici,opposizione
+2026-06-30,dems,9.64,0.29,119,Democratici,opposizione
+2026-07-01,dems,9.65,0.29,118,Democratici,opposizione
+2026-07-02,dems,9.65,0.29,117,Democratici,opposizione
+2026-07-03,dems,9.66,0.29,116,Democratici,opposizione
+2026-07-04,dems,9.66,0.29,115,Democratici,opposizione
+2026-07-05,dems,9.67,0.29,114,Democratici,opposizione
+2026-07-06,dems,9.68,0.29,113,Democratici,opposizione
+2026-07-07,dems,9.69,0.29,112,Democratici,opposizione
+2026-07-08,dems,9.69,0.29,111,Democratici,opposizione
+2026-07-09,dems,9.7,0.29,110,Democratici,opposizione
+2026-07-10,dems,9.72,0.29,109,Democratici,opposizione
+2026-07-11,dems,9.73,0.29,108,Democratici,opposizione
+2026-07-12,dems,9.74,0.29,107,Democratici,opposizione
+2026-07-13,dems,9.76,0.29,106,Democratici,opposizione
+2026-07-14,dems,9.77,0.29,105,Democratici,opposizione
+2026-07-15,dems,9.79,0.29,104,Democratici,opposizione
+2026-07-16,dems,9.8,0.29,103,Democratici,opposizione
+2026-07-17,dems,9.81,0.29,102,Democratici,opposizione
+2026-07-18,dems,9.82,0.29,101,Democratici,opposizione
+2026-07-19,dems,9.83,0.29,100,Democratici,opposizione
+2026-07-20,dems,9.83,0.29,99,Democratici,opposizione
+2026-07-21,dems,9.84,0.29,98,Democratici,opposizione
+2026-07-22,dems,9.85,0.29,97,Democratici,opposizione
+2026-07-23,dems,9.85,0.29,96,Democratici,opposizione
+2026-07-24,dems,9.84,0.29,95,Democratici,opposizione
+2026-07-25,dems,9.84,0.28,94,Democratici,opposizione
+2026-07-26,dems,9.84,0.28,93,Democratici,opposizione
+2026-07-27,dems,9.82,0.28,92,Democratici,opposizione
+2026-07-28,dems,9.81,0.28,91,Democratici,opposizione
+2026-07-29,dems,9.79,0.28,90,Democratici,opposizione
+2026-07-30,dems,9.79,0.28,89,Democratici,opposizione
+2026-07-31,dems,9.8,0.28,88,Democratici,opposizione
+2026-08-01,dems,9.8,0.28,87,Democratici,opposizione
+2026-08-02,dems,9.8,0.28,86,Democratici,opposizione
+2026-08-03,dems,9.8,0.28,85,Democratici,opposizione
+2026-08-04,dems,9.81,0.27,84,Democratici,opposizione
+2026-08-05,dems,9.81,0.27,83,Democratici,opposizione
+2026-08-06,dems,9.82,0.27,82,Democratici,opposizione
+2026-08-07,dems,9.83,0.27,81,Democratici,opposizione
+2026-08-08,dems,9.83,0.27,80,Democratici,opposizione
+2026-08-09,dems,9.84,0.27,79,Democratici,opposizione
+2026-08-10,dems,9.84,0.27,78,Democratici,opposizione
+2026-08-11,dems,9.84,0.27,77,Democratici,opposizione
+2026-08-12,dems,9.83,0.27,76,Democratici,opposizione
+2026-08-13,dems,9.82,0.27,75,Democratici,opposizione
+2026-08-14,dems,9.82,0.27,74,Democratici,opposizione
+2026-08-15,dems,9.81,0.27,73,Democratici,opposizione
+2026-08-16,dems,9.8,0.27,72,Democratici,opposizione
+2026-08-17,dems,9.79,0.26,71,Democratici,opposizione
+2026-08-18,dems,9.78,0.26,70,Democratici,opposizione
+2026-08-19,dems,9.76,0.26,69,Democratici,opposizione
+2026-08-20,dems,9.75,0.26,68,Democratici,opposizione
+2026-08-21,dems,9.73,0.26,67,Democratici,opposizione
+2026-08-22,dems,9.71,0.26,66,Democratici,opposizione
+2026-08-23,dems,9.69,0.26,65,Democratici,opposizione
+2026-08-24,dems,9.67,0.26,64,Democratici,opposizione
+2026-08-25,dems,9.65,0.26,63,Democratici,opposizione
+2026-08-26,dems,9.63,0.25,62,Democratici,opposizione
+2026-08-27,dems,9.6,0.25,61,Democratici,opposizione
+2026-08-28,dems,9.58,0.26,60,Democratici,opposizione
+2026-08-29,dems,9.55,0.25,59,Democratici,opposizione
+2026-08-30,dems,9.53,0.25,58,Democratici,opposizione
+2026-08-31,dems,9.51,0.25,57,Democratici,opposizione
+2026-09-01,dems,9.49,0.25,56,Democratici,opposizione
+2026-09-02,dems,9.46,0.24,55,Democratici,opposizione
+2026-09-03,dems,9.44,0.24,54,Democratici,opposizione
+2026-09-04,dems,9.42,0.25,53,Democratici,opposizione
+2026-09-05,dems,9.4,0.24,52,Democratici,opposizione
+2026-09-06,dems,9.38,0.24,51,Democratici,opposizione
+2026-09-07,dems,9.36,0.24,50,Democratici,opposizione
+2026-09-08,dems,9.33,0.24,49,Democratici,opposizione
+2026-09-09,dems,9.31,0.24,48,Democratici,opposizione
+2026-09-10,dems,9.3,0.24,47,Democratici,opposizione
+2026-09-11,dems,9.28,0.25,46,Democratici,opposizione
+2026-09-12,dems,9.27,0.25,45,Democratici,opposizione
+2026-09-13,dems,9.26,0.25,44,Democratici,opposizione
+2026-09-14,dems,9.24,0.25,43,Democratici,opposizione
+2026-09-15,dems,9.23,0.25,42,Democratici,opposizione
+2026-09-16,dems,9.22,0.25,41,Democratici,opposizione
+2026-09-17,dems,9.22,0.26,40,Democratici,opposizione
+2026-09-18,dems,9.21,0.26,39,Democratici,opposizione
+2026-09-19,dems,9.21,0.26,38,Democratici,opposizione
+2026-09-20,dems,9.21,0.26,37,Democratici,opposizione
+2026-09-21,dems,9.2,0.26,36,Democratici,opposizione
+2026-09-22,dems,9.2,0.26,35,Democratici,opposizione
+2026-09-23,dems,9.2,0.26,34,Democratici,opposizione
+2026-09-24,dems,9.18,0.26,33,Democratici,opposizione
+2026-09-25,dems,9.18,0.26,32,Democratici,opposizione
+2026-09-26,dems,9.17,0.26,31,Democratici,opposizione
+2026-09-27,dems,9.16,0.26,30,Democratici,opposizione
+2026-09-28,dems,9.16,0.26,29,Democratici,opposizione
+2026-09-29,dems,9.15,0.25,28,Democratici,opposizione
+2026-09-30,dems,9.14,0.25,27,Democratici,opposizione
+2026-10-01,dems,9.13,0.25,26,Democratici,opposizione
+2026-10-02,dems,9.11,0.25,25,Democratici,opposizione
+2026-10-03,dems,9.09,0.25,24,Democratici,opposizione
+2026-10-04,dems,9.07,0.25,23,Democratici,opposizione
+2026-10-05,dems,9.06,0.25,22,Democratici,opposizione
+2026-10-06,dems,9.05,0.25,21,Democratici,opposizione
+2026-10-07,dems,9.04,0.24,20,Democratici,opposizione
+2026-10-08,dems,9.02,0.24,19,Democratici,opposizione
+2026-10-09,dems,9,0.24,18,Democratici,opposizione
+2026-10-10,dems,8.99,0.24,17,Democratici,opposizione
+2026-10-11,dems,8.97,0.24,16,Democratici,opposizione
+2026-10-12,dems,8.96,0.24,15,Democratici,opposizione
+2026-10-13,dems,8.94,0.23,14,Democratici,opposizione
+2026-10-14,dems,8.93,0.23,13,Democratici,opposizione
+2026-10-15,dems,8.92,0.23,12,Democratici,opposizione
+2026-10-16,dems,8.91,0.23,11,Democratici,opposizione
+2026-10-17,dems,8.9,0.23,10,Democratici,opposizione
+2026-10-18,dems,8.89,0.22,9,Democratici,opposizione
+2026-10-19,dems,8.88,0.22,8,Democratici,opposizione
+2026-10-20,dems,8.88,0.22,7,Democratici,opposizione
+2026-10-21,dems,8.87,0.22,6,Democratici,opposizione
+2026-10-22,dems,8.84,0.22,5,Democratici,opposizione
+2026-10-23,dems,8.85,0.24,4,Democratici,opposizione
+2026-04-26,likud,27.87,0.83,184,Likud,governo
+2026-04-27,likud,27.89,0.78,183,Likud,governo
+2026-04-28,likud,27.89,0.79,182,Likud,governo
+2026-04-29,likud,27.88,0.78,181,Likud,governo
+2026-04-30,likud,27.85,0.79,180,Likud,governo
+2026-05-01,likud,27.79,0.81,179,Likud,governo
+2026-05-02,likud,27.73,0.82,178,Likud,governo
+2026-05-03,likud,27.67,0.82,177,Likud,governo
+2026-05-04,likud,27.61,0.81,176,Likud,governo
+2026-05-05,likud,27.55,0.8,175,Likud,governo
+2026-05-06,likud,27.49,0.77,174,Likud,governo
+2026-05-07,likud,27.4,0.76,173,Likud,governo
+2026-05-08,likud,27.33,0.77,172,Likud,governo
+2026-05-09,likud,27.27,0.78,171,Likud,governo
+2026-05-10,likud,27.21,0.77,170,Likud,governo
+2026-05-11,likud,27.15,0.75,169,Likud,governo
+2026-05-12,likud,27.09,0.72,168,Likud,governo
+2026-05-13,likud,27.01,0.71,167,Likud,governo
+2026-05-14,likud,26.93,0.71,166,Likud,governo
+2026-05-15,likud,26.88,0.74,165,Likud,governo
+2026-05-16,likud,26.82,0.76,164,Likud,governo
+2026-05-17,likud,26.77,0.76,163,Likud,governo
+2026-05-18,likud,26.71,0.75,162,Likud,governo
+2026-05-19,likud,26.66,0.73,161,Likud,governo
+2026-05-20,likud,26.61,0.73,160,Likud,governo
+2026-05-21,likud,26.53,0.76,159,Likud,governo
+2026-05-22,likud,26.44,0.8,158,Likud,governo
+2026-05-23,likud,26.36,0.82,157,Likud,governo
+2026-05-24,likud,26.27,0.84,156,Likud,governo
+2026-05-25,likud,26.18,0.85,155,Likud,governo
+2026-05-26,likud,26.1,0.85,154,Likud,governo
+2026-05-27,likud,26.01,0.84,153,Likud,governo
+2026-05-28,likud,25.93,0.82,152,Likud,governo
+2026-05-29,likud,25.88,0.83,151,Likud,governo
+2026-05-30,likud,25.83,0.84,150,Likud,governo
+2026-05-31,likud,25.77,0.83,149,Likud,governo
+2026-06-01,likud,25.72,0.81,148,Likud,governo
+2026-06-02,likud,25.67,0.79,147,Likud,governo
+2026-06-03,likud,25.62,0.75,146,Likud,governo
+2026-06-04,likud,25.52,0.73,145,Likud,governo
+2026-06-05,likud,25.45,0.75,144,Likud,governo
+2026-06-06,likud,25.39,0.77,143,Likud,governo
+2026-06-07,likud,25.33,0.77,142,Likud,governo
+2026-06-08,likud,25.28,0.77,141,Likud,governo
+2026-06-09,likud,25.22,0.76,140,Likud,governo
+2026-06-10,likud,25.16,0.73,139,Likud,governo
+2026-06-11,likud,25.09,0.73,138,Likud,governo
+2026-06-12,likud,25.05,0.74,137,Likud,governo
+2026-06-13,likud,25,0.74,136,Likud,governo
+2026-06-14,likud,24.96,0.73,135,Likud,governo
+2026-06-15,likud,24.91,0.71,134,Likud,governo
+2026-06-16,likud,24.86,0.67,133,Likud,governo
+2026-06-17,likud,24.84,0.65,132,Likud,governo
+2026-06-18,likud,24.83,0.65,131,Likud,governo
+2026-06-19,likud,24.82,0.69,130,Likud,governo
+2026-06-20,likud,24.81,0.71,129,Likud,governo
+2026-06-21,likud,24.8,0.71,128,Likud,governo
+2026-06-22,likud,24.79,0.7,127,Likud,governo
+2026-06-23,likud,24.78,0.68,126,Likud,governo
+2026-06-24,likud,24.77,0.64,125,Likud,governo
+2026-06-25,likud,24.75,0.64,124,Likud,governo
+2026-06-26,likud,24.73,0.67,123,Likud,governo
+2026-06-27,likud,24.72,0.69,122,Likud,governo
+2026-06-28,likud,24.7,0.69,121,Likud,governo
+2026-06-29,likud,24.68,0.68,120,Likud,governo
+2026-06-30,likud,24.64,0.66,119,Likud,governo
+2026-07-01,likud,24.6,0.64,118,Likud,governo
+2026-07-02,likud,24.6,0.67,117,Likud,governo
+2026-07-03,likud,24.6,0.7,116,Likud,governo
+2026-07-04,likud,24.59,0.7,115,Likud,governo
+2026-07-05,likud,24.59,0.7,114,Likud,governo
+2026-07-06,likud,24.58,0.7,113,Likud,governo
+2026-07-07,likud,24.58,0.69,112,Likud,governo
+2026-07-08,likud,24.57,0.67,111,Likud,governo
+2026-07-09,likud,24.56,0.67,110,Likud,governo
+2026-07-10,likud,24.51,0.69,109,Likud,governo
+2026-07-11,likud,24.46,0.7,108,Likud,governo
+2026-07-12,likud,24.41,0.7,107,Likud,governo
+2026-07-13,likud,24.36,0.69,106,Likud,governo
+2026-07-14,likud,24.32,0.69,105,Likud,governo
+2026-07-15,likud,24.28,0.67,104,Likud,governo
+2026-07-16,likud,24.25,0.67,103,Likud,governo
+2026-07-17,likud,24.22,0.68,102,Likud,governo
+2026-07-18,likud,24.18,0.68,101,Likud,governo
+2026-07-19,likud,24.14,0.67,100,Likud,governo
+2026-07-20,likud,24.14,0.66,99,Likud,governo
+2026-07-21,likud,24.12,0.65,98,Likud,governo
+2026-07-22,likud,24.1,0.65,97,Likud,governo
+2026-07-23,likud,24.14,0.67,96,Likud,governo
+2026-07-24,likud,24.17,0.68,95,Likud,governo
+2026-07-25,likud,24.19,0.67,94,Likud,governo
+2026-07-26,likud,24.22,0.65,93,Likud,governo
+2026-07-27,likud,24.26,0.64,92,Likud,governo
+2026-07-28,likud,24.3,0.65,91,Likud,governo
+2026-07-29,likud,24.34,0.63,90,Likud,governo
+2026-07-30,likud,24.35,0.66,89,Likud,governo
+2026-07-31,likud,24.36,0.68,88,Likud,governo
+2026-08-01,likud,24.37,0.68,87,Likud,governo
+2026-08-02,likud,24.38,0.66,86,Likud,governo
+2026-08-03,likud,24.39,0.64,85,Likud,governo
+2026-08-04,likud,24.39,0.62,84,Likud,governo
+2026-08-05,likud,24.41,0.61,83,Likud,governo
+2026-08-06,likud,24.41,0.62,82,Likud,governo
+2026-08-07,likud,24.43,0.64,81,Likud,governo
+2026-08-08,likud,24.44,0.65,80,Likud,governo
+2026-08-09,likud,24.46,0.63,79,Likud,governo
+2026-08-10,likud,24.43,0.62,78,Likud,governo
+2026-08-11,likud,24.4,0.63,77,Likud,governo
+2026-08-12,likud,24.36,0.61,76,Likud,governo
+2026-08-13,likud,24.37,0.63,75,Likud,governo
+2026-08-14,likud,24.36,0.65,74,Likud,governo
+2026-08-15,likud,24.35,0.64,73,Likud,governo
+2026-08-16,likud,24.33,0.62,72,Likud,governo
+2026-08-17,likud,24.31,0.6,71,Likud,governo
+2026-08-18,likud,24.3,0.58,70,Likud,governo
+2026-08-19,likud,24.24,0.57,69,Likud,governo
+2026-08-20,likud,24.13,0.61,68,Likud,governo
+2026-08-21,likud,24.01,0.64,67,Likud,governo
+2026-08-22,likud,23.9,0.64,66,Likud,governo
+2026-08-23,likud,23.79,0.63,65,Likud,governo
+2026-08-24,likud,23.68,0.61,64,Likud,governo
+2026-08-25,likud,23.56,0.59,63,Likud,governo
+2026-08-26,likud,23.44,0.55,62,Likud,governo
+2026-08-27,likud,23.41,0.59,61,Likud,governo
+2026-08-28,likud,23.38,0.61,60,Likud,governo
+2026-08-29,likud,23.35,0.62,59,Likud,governo
+2026-08-30,likud,23.33,0.61,58,Likud,governo
+2026-08-31,likud,23.32,0.6,57,Likud,governo
+2026-09-01,likud,23.28,0.59,56,Likud,governo
+2026-09-02,likud,23.24,0.55,55,Likud,governo
+2026-09-03,likud,23.16,0.56,54,Likud,governo
+2026-09-04,likud,23.08,0.58,53,Likud,governo
+2026-09-05,likud,23.01,0.58,52,Likud,governo
+2026-09-06,likud,22.93,0.55,51,Likud,governo
+2026-09-07,likud,22.89,0.51,50,Likud,governo
+2026-09-08,likud,22.84,0.52,49,Likud,governo
+2026-09-09,likud,22.78,0.5,48,Likud,governo
+2026-09-10,likud,22.69,0.57,47,Likud,governo
+2026-09-11,likud,22.6,0.61,46,Likud,governo
+2026-09-12,likud,22.51,0.62,45,Likud,governo
+2026-09-13,likud,22.42,0.62,44,Likud,governo
+2026-09-14,likud,22.32,0.6,43,Likud,governo
+2026-09-15,likud,22.26,0.58,42,Likud,governo
+2026-09-16,likud,22.26,0.58,41,Likud,governo
+2026-09-17,likud,22.29,0.61,40,Likud,governo
+2026-09-18,likud,22.29,0.64,39,Likud,governo
+2026-09-19,likud,22.28,0.66,38,Likud,governo
+2026-09-20,likud,22.28,0.66,37,Likud,governo
+2026-09-21,likud,22.27,0.65,36,Likud,governo
+2026-09-22,likud,22.27,0.62,35,Likud,governo
+2026-09-23,likud,22.27,0.58,34,Likud,governo
+2026-09-24,likud,22.34,0.6,33,Likud,governo
+2026-09-25,likud,22.4,0.63,32,Likud,governo
+2026-09-26,likud,22.46,0.64,31,Likud,governo
+2026-09-27,likud,22.52,0.63,30,Likud,governo
+2026-09-28,likud,22.58,0.62,29,Likud,governo
+2026-09-29,likud,22.63,0.6,28,Likud,governo
+2026-09-30,likud,22.68,0.57,27,Likud,governo
+2026-10-01,likud,22.77,0.58,26,Likud,governo
+2026-10-02,likud,22.73,0.61,25,Likud,governo
+2026-10-03,likud,22.7,0.63,24,Likud,governo
+2026-10-04,likud,22.66,0.62,23,Likud,governo
+2026-10-05,likud,22.63,0.61,22,Likud,governo
+2026-10-06,likud,22.59,0.58,21,Likud,governo
+2026-10-07,likud,22.56,0.54,20,Likud,governo
+2026-10-08,likud,22.46,0.58,19,Likud,governo
+2026-10-09,likud,22.35,0.6,18,Likud,governo
+2026-10-10,likud,22.25,0.6,17,Likud,governo
+2026-10-11,likud,22.15,0.58,16,Likud,governo
+2026-10-12,likud,22.07,0.54,15,Likud,governo
+2026-10-13,likud,21.98,0.51,14,Likud,governo
+2026-10-14,likud,21.91,0.52,13,Likud,governo
+2026-10-15,likud,21.91,0.56,12,Likud,governo
+2026-10-16,likud,21.92,0.57,11,Likud,governo
+2026-10-17,likud,21.92,0.56,10,Likud,governo
+2026-10-18,likud,21.92,0.51,9,Likud,governo
+2026-10-19,likud,21.94,0.46,8,Likud,governo
+2026-10-20,likud,21.98,0.42,7,Likud,governo
+2026-10-21,likud,22.06,0.42,6,Likud,governo
+2026-10-22,likud,22.14,0.43,5,Likud,governo
+2026-10-23,likud,22.14,0.53,4,Likud,governo
+2026-04-26,lista_comune,6.07,0.34,184,Lista comune,arabi
+2026-04-27,lista_comune,6.08,0.33,183,Lista comune,arabi
+2026-04-28,lista_comune,6.08,0.33,182,Lista comune,arabi
+2026-04-29,lista_comune,6.09,0.32,181,Lista comune,arabi
+2026-04-30,lista_comune,6.1,0.32,180,Lista comune,arabi
+2026-05-01,lista_comune,6.1,0.31,179,Lista comune,arabi
+2026-05-02,lista_comune,6.11,0.31,178,Lista comune,arabi
+2026-05-03,lista_comune,6.11,0.31,177,Lista comune,arabi
+2026-05-04,lista_comune,6.11,0.3,176,Lista comune,arabi
+2026-05-05,lista_comune,6.12,0.3,175,Lista comune,arabi
+2026-05-06,lista_comune,6.12,0.29,174,Lista comune,arabi
+2026-05-07,lista_comune,6.13,0.29,173,Lista comune,arabi
+2026-05-08,lista_comune,6.13,0.29,172,Lista comune,arabi
+2026-05-09,lista_comune,6.13,0.29,171,Lista comune,arabi
+2026-05-10,lista_comune,6.13,0.28,170,Lista comune,arabi
+2026-05-11,lista_comune,6.13,0.28,169,Lista comune,arabi
+2026-05-12,lista_comune,6.14,0.28,168,Lista comune,arabi
+2026-05-13,lista_comune,6.14,0.27,167,Lista comune,arabi
+2026-05-14,lista_comune,6.15,0.27,166,Lista comune,arabi
+2026-05-15,lista_comune,6.16,0.27,165,Lista comune,arabi
+2026-05-16,lista_comune,6.17,0.27,164,Lista comune,arabi
+2026-05-17,lista_comune,6.18,0.27,163,Lista comune,arabi
+2026-05-18,lista_comune,6.18,0.27,162,Lista comune,arabi
+2026-05-19,lista_comune,6.19,0.27,161,Lista comune,arabi
+2026-05-20,lista_comune,6.19,0.27,160,Lista comune,arabi
+2026-05-21,lista_comune,6.21,0.27,159,Lista comune,arabi
+2026-05-22,lista_comune,6.23,0.28,158,Lista comune,arabi
+2026-05-23,lista_comune,6.25,0.28,157,Lista comune,arabi
+2026-05-24,lista_comune,6.27,0.28,156,Lista comune,arabi
+2026-05-25,lista_comune,6.3,0.28,155,Lista comune,arabi
+2026-05-26,lista_comune,6.32,0.28,154,Lista comune,arabi
+2026-05-27,lista_comune,6.34,0.28,153,Lista comune,arabi
+2026-05-28,lista_comune,6.36,0.28,152,Lista comune,arabi
+2026-05-29,lista_comune,6.38,0.28,151,Lista comune,arabi
+2026-05-30,lista_comune,6.4,0.28,150,Lista comune,arabi
+2026-05-31,lista_comune,6.42,0.28,149,Lista comune,arabi
+2026-06-01,lista_comune,6.43,0.28,148,Lista comune,arabi
+2026-06-02,lista_comune,6.45,0.27,147,Lista comune,arabi
+2026-06-03,lista_comune,6.47,0.27,146,Lista comune,arabi
+2026-06-04,lista_comune,6.48,0.27,145,Lista comune,arabi
+2026-06-05,lista_comune,6.49,0.27,144,Lista comune,arabi
+2026-06-06,lista_comune,6.51,0.27,143,Lista comune,arabi
+2026-06-07,lista_comune,6.52,0.27,142,Lista comune,arabi
+2026-06-08,lista_comune,6.53,0.27,141,Lista comune,arabi
+2026-06-09,lista_comune,6.54,0.27,140,Lista comune,arabi
+2026-06-10,lista_comune,6.55,0.26,139,Lista comune,arabi
+2026-06-11,lista_comune,6.56,0.26,138,Lista comune,arabi
+2026-06-12,lista_comune,6.57,0.26,137,Lista comune,arabi
+2026-06-13,lista_comune,6.59,0.26,136,Lista comune,arabi
+2026-06-14,lista_comune,6.6,0.26,135,Lista comune,arabi
+2026-06-15,lista_comune,6.61,0.26,134,Lista comune,arabi
+2026-06-16,lista_comune,6.62,0.25,133,Lista comune,arabi
+2026-06-17,lista_comune,6.63,0.25,132,Lista comune,arabi
+2026-06-18,lista_comune,6.63,0.25,131,Lista comune,arabi
+2026-06-19,lista_comune,6.63,0.25,130,Lista comune,arabi
+2026-06-20,lista_comune,6.64,0.25,129,Lista comune,arabi
+2026-06-21,lista_comune,6.64,0.25,128,Lista comune,arabi
+2026-06-22,lista_comune,6.64,0.25,127,Lista comune,arabi
+2026-06-23,lista_comune,6.65,0.25,126,Lista comune,arabi
+2026-06-24,lista_comune,6.65,0.25,125,Lista comune,arabi
+2026-06-25,lista_comune,6.66,0.25,124,Lista comune,arabi
+2026-06-26,lista_comune,6.66,0.25,123,Lista comune,arabi
+2026-06-27,lista_comune,6.66,0.25,122,Lista comune,arabi
+2026-06-28,lista_comune,6.67,0.25,121,Lista comune,arabi
+2026-06-29,lista_comune,6.67,0.25,120,Lista comune,arabi
+2026-06-30,lista_comune,6.67,0.25,119,Lista comune,arabi
+2026-07-01,lista_comune,6.68,0.25,118,Lista comune,arabi
+2026-07-02,lista_comune,6.67,0.25,117,Lista comune,arabi
+2026-07-03,lista_comune,6.68,0.25,116,Lista comune,arabi
+2026-07-04,lista_comune,6.68,0.25,115,Lista comune,arabi
+2026-07-05,lista_comune,6.68,0.25,114,Lista comune,arabi
+2026-07-06,lista_comune,6.69,0.25,113,Lista comune,arabi
+2026-07-07,lista_comune,6.69,0.25,112,Lista comune,arabi
+2026-07-08,lista_comune,6.7,0.25,111,Lista comune,arabi
+2026-07-09,lista_comune,6.71,0.25,110,Lista comune,arabi
+2026-07-10,lista_comune,6.72,0.25,109,Lista comune,arabi
+2026-07-11,lista_comune,6.74,0.25,108,Lista comune,arabi
+2026-07-12,lista_comune,6.75,0.25,107,Lista comune,arabi
+2026-07-13,lista_comune,6.77,0.25,106,Lista comune,arabi
+2026-07-14,lista_comune,6.78,0.25,105,Lista comune,arabi
+2026-07-15,lista_comune,6.8,0.25,104,Lista comune,arabi
+2026-07-16,lista_comune,6.82,0.25,103,Lista comune,arabi
+2026-07-17,lista_comune,6.83,0.25,102,Lista comune,arabi
+2026-07-18,lista_comune,6.84,0.25,101,Lista comune,arabi
+2026-07-19,lista_comune,6.85,0.25,100,Lista comune,arabi
+2026-07-20,lista_comune,6.87,0.25,99,Lista comune,arabi
+2026-07-21,lista_comune,6.88,0.25,98,Lista comune,arabi
+2026-07-22,lista_comune,6.89,0.25,97,Lista comune,arabi
+2026-07-23,lista_comune,6.89,0.25,96,Lista comune,arabi
+2026-07-24,lista_comune,6.9,0.25,95,Lista comune,arabi
+2026-07-25,lista_comune,6.91,0.25,94,Lista comune,arabi
+2026-07-26,lista_comune,6.91,0.24,93,Lista comune,arabi
+2026-07-27,lista_comune,6.92,0.24,92,Lista comune,arabi
+2026-07-28,lista_comune,6.92,0.24,91,Lista comune,arabi
+2026-07-29,lista_comune,6.92,0.24,90,Lista comune,arabi
+2026-07-30,lista_comune,6.93,0.24,89,Lista comune,arabi
+2026-07-31,lista_comune,6.94,0.24,88,Lista comune,arabi
+2026-08-01,lista_comune,6.95,0.24,87,Lista comune,arabi
+2026-08-02,lista_comune,6.96,0.24,86,Lista comune,arabi
+2026-08-03,lista_comune,6.96,0.24,85,Lista comune,arabi
+2026-08-04,lista_comune,6.97,0.24,84,Lista comune,arabi
+2026-08-05,lista_comune,6.98,0.24,83,Lista comune,arabi
+2026-08-06,lista_comune,6.99,0.24,82,Lista comune,arabi
+2026-08-07,lista_comune,7.01,0.24,81,Lista comune,arabi
+2026-08-08,lista_comune,7.02,0.24,80,Lista comune,arabi
+2026-08-09,lista_comune,7.03,0.24,79,Lista comune,arabi
+2026-08-10,lista_comune,7.04,0.23,78,Lista comune,arabi
+2026-08-11,lista_comune,7.04,0.23,77,Lista comune,arabi
+2026-08-12,lista_comune,7.04,0.23,76,Lista comune,arabi
+2026-08-13,lista_comune,7.05,0.23,75,Lista comune,arabi
+2026-08-14,lista_comune,7.05,0.23,74,Lista comune,arabi
+2026-08-15,lista_comune,7.05,0.23,73,Lista comune,arabi
+2026-08-16,lista_comune,7.05,0.23,72,Lista comune,arabi
+2026-08-17,lista_comune,7.05,0.23,71,Lista comune,arabi
+2026-08-18,lista_comune,7.05,0.23,70,Lista comune,arabi
+2026-08-19,lista_comune,7.04,0.22,69,Lista comune,arabi
+2026-08-20,lista_comune,7.05,0.23,68,Lista comune,arabi
+2026-08-21,lista_comune,7.06,0.23,67,Lista comune,arabi
+2026-08-22,lista_comune,7.07,0.23,66,Lista comune,arabi
+2026-08-23,lista_comune,7.08,0.23,65,Lista comune,arabi
+2026-08-24,lista_comune,7.09,0.23,64,Lista comune,arabi
+2026-08-25,lista_comune,7.11,0.22,63,Lista comune,arabi
+2026-08-26,lista_comune,7.13,0.22,62,Lista comune,arabi
+2026-08-27,lista_comune,7.14,0.22,61,Lista comune,arabi
+2026-08-28,lista_comune,7.15,0.22,60,Lista comune,arabi
+2026-08-29,lista_comune,7.16,0.22,59,Lista comune,arabi
+2026-08-30,lista_comune,7.17,0.22,58,Lista comune,arabi
+2026-08-31,lista_comune,7.17,0.22,57,Lista comune,arabi
+2026-09-01,lista_comune,7.18,0.22,56,Lista comune,arabi
+2026-09-02,lista_comune,7.19,0.22,55,Lista comune,arabi
+2026-09-03,lista_comune,7.19,0.22,54,Lista comune,arabi
+2026-09-04,lista_comune,7.2,0.22,53,Lista comune,arabi
+2026-09-05,lista_comune,7.2,0.22,52,Lista comune,arabi
+2026-09-06,lista_comune,7.2,0.21,51,Lista comune,arabi
+2026-09-07,lista_comune,7.21,0.21,50,Lista comune,arabi
+2026-09-08,lista_comune,7.22,0.21,49,Lista comune,arabi
+2026-09-09,lista_comune,7.22,0.21,48,Lista comune,arabi
+2026-09-10,lista_comune,7.23,0.22,47,Lista comune,arabi
+2026-09-11,lista_comune,7.24,0.22,46,Lista comune,arabi
+2026-09-12,lista_comune,7.26,0.22,45,Lista comune,arabi
+2026-09-13,lista_comune,7.27,0.22,44,Lista comune,arabi
+2026-09-14,lista_comune,7.28,0.22,43,Lista comune,arabi
+2026-09-15,lista_comune,7.29,0.22,42,Lista comune,arabi
+2026-09-16,lista_comune,7.3,0.22,41,Lista comune,arabi
+2026-09-17,lista_comune,7.32,0.23,40,Lista comune,arabi
+2026-09-18,lista_comune,7.34,0.23,39,Lista comune,arabi
+2026-09-19,lista_comune,7.36,0.23,38,Lista comune,arabi
+2026-09-20,lista_comune,7.37,0.23,37,Lista comune,arabi
+2026-09-21,lista_comune,7.39,0.23,36,Lista comune,arabi
+2026-09-22,lista_comune,7.41,0.23,35,Lista comune,arabi
+2026-09-23,lista_comune,7.43,0.23,34,Lista comune,arabi
+2026-09-24,lista_comune,7.45,0.23,33,Lista comune,arabi
+2026-09-25,lista_comune,7.47,0.23,32,Lista comune,arabi
+2026-09-26,lista_comune,7.49,0.23,31,Lista comune,arabi
+2026-09-27,lista_comune,7.51,0.23,30,Lista comune,arabi
+2026-09-28,lista_comune,7.53,0.23,29,Lista comune,arabi
+2026-09-29,lista_comune,7.56,0.23,28,Lista comune,arabi
+2026-09-30,lista_comune,7.58,0.22,27,Lista comune,arabi
+2026-10-01,lista_comune,7.6,0.22,26,Lista comune,arabi
+2026-10-02,lista_comune,7.63,0.23,25,Lista comune,arabi
+2026-10-03,lista_comune,7.65,0.23,24,Lista comune,arabi
+2026-10-04,lista_comune,7.68,0.23,23,Lista comune,arabi
+2026-10-05,lista_comune,7.7,0.22,22,Lista comune,arabi
+2026-10-06,lista_comune,7.73,0.22,21,Lista comune,arabi
+2026-10-07,lista_comune,7.75,0.22,20,Lista comune,arabi
+2026-10-08,lista_comune,7.79,0.22,19,Lista comune,arabi
+2026-10-09,lista_comune,7.82,0.22,18,Lista comune,arabi
+2026-10-10,lista_comune,7.85,0.22,17,Lista comune,arabi
+2026-10-11,lista_comune,7.88,0.22,16,Lista comune,arabi
+2026-10-12,lista_comune,7.91,0.21,15,Lista comune,arabi
+2026-10-13,lista_comune,7.94,0.21,14,Lista comune,arabi
+2026-10-14,lista_comune,7.97,0.21,13,Lista comune,arabi
+2026-10-15,lista_comune,8,0.21,12,Lista comune,arabi
+2026-10-16,lista_comune,8.03,0.21,11,Lista comune,arabi
+2026-10-17,lista_comune,8.06,0.21,10,Lista comune,arabi
+2026-10-18,lista_comune,8.09,0.21,9,Lista comune,arabi
+2026-10-19,lista_comune,8.12,0.21,8,Lista comune,arabi
+2026-10-20,lista_comune,8.16,0.2,7,Lista comune,arabi
+2026-10-21,lista_comune,8.17,0.21,6,Lista comune,arabi
+2026-10-22,lista_comune,8.18,0.21,5,Lista comune,arabi
+2026-10-23,lista_comune,8.18,0.23,4,Lista comune,arabi
+2026-04-26,otzma,8.07,0.36,184,Otzma Yehudit,governo
+2026-04-27,otzma,8.08,0.35,183,Otzma Yehudit,governo
+2026-04-28,otzma,8.09,0.35,182,Otzma Yehudit,governo
+2026-04-29,otzma,8.1,0.34,181,Otzma Yehudit,governo
+2026-04-30,otzma,8.11,0.34,180,Otzma Yehudit,governo
+2026-05-01,otzma,8.11,0.34,179,Otzma Yehudit,governo
+2026-05-02,otzma,8.12,0.34,178,Otzma Yehudit,governo
+2026-05-03,otzma,8.13,0.33,177,Otzma Yehudit,governo
+2026-05-04,otzma,8.13,0.33,176,Otzma Yehudit,governo
+2026-05-05,otzma,8.14,0.33,175,Otzma Yehudit,governo
+2026-05-06,otzma,8.15,0.32,174,Otzma Yehudit,governo
+2026-05-07,otzma,8.15,0.32,173,Otzma Yehudit,governo
+2026-05-08,otzma,8.15,0.32,172,Otzma Yehudit,governo
+2026-05-09,otzma,8.16,0.31,171,Otzma Yehudit,governo
+2026-05-10,otzma,8.16,0.31,170,Otzma Yehudit,governo
+2026-05-11,otzma,8.16,0.31,169,Otzma Yehudit,governo
+2026-05-12,otzma,8.16,0.31,168,Otzma Yehudit,governo
+2026-05-13,otzma,8.16,0.3,167,Otzma Yehudit,governo
+2026-05-14,otzma,8.16,0.3,166,Otzma Yehudit,governo
+2026-05-15,otzma,8.15,0.3,165,Otzma Yehudit,governo
+2026-05-16,otzma,8.15,0.3,164,Otzma Yehudit,governo
+2026-05-17,otzma,8.14,0.3,163,Otzma Yehudit,governo
+2026-05-18,otzma,8.14,0.3,162,Otzma Yehudit,governo
+2026-05-19,otzma,8.13,0.3,161,Otzma Yehudit,governo
+2026-05-20,otzma,8.12,0.3,160,Otzma Yehudit,governo
+2026-05-21,otzma,8.13,0.3,159,Otzma Yehudit,governo
+2026-05-22,otzma,8.13,0.3,158,Otzma Yehudit,governo
+2026-05-23,otzma,8.13,0.3,157,Otzma Yehudit,governo
+2026-05-24,otzma,8.13,0.31,156,Otzma Yehudit,governo
+2026-05-25,otzma,8.14,0.31,155,Otzma Yehudit,governo
+2026-05-26,otzma,8.14,0.31,154,Otzma Yehudit,governo
+2026-05-27,otzma,8.14,0.3,153,Otzma Yehudit,governo
+2026-05-28,otzma,8.15,0.3,152,Otzma Yehudit,governo
+2026-05-29,otzma,8.15,0.3,151,Otzma Yehudit,governo
+2026-05-30,otzma,8.16,0.3,150,Otzma Yehudit,governo
+2026-05-31,otzma,8.17,0.3,149,Otzma Yehudit,governo
+2026-06-01,otzma,8.17,0.3,148,Otzma Yehudit,governo
+2026-06-02,otzma,8.18,0.3,147,Otzma Yehudit,governo
+2026-06-03,otzma,8.19,0.29,146,Otzma Yehudit,governo
+2026-06-04,otzma,8.19,0.29,145,Otzma Yehudit,governo
+2026-06-05,otzma,8.2,0.29,144,Otzma Yehudit,governo
+2026-06-06,otzma,8.2,0.29,143,Otzma Yehudit,governo
+2026-06-07,otzma,8.2,0.29,142,Otzma Yehudit,governo
+2026-06-08,otzma,8.21,0.29,141,Otzma Yehudit,governo
+2026-06-09,otzma,8.21,0.29,140,Otzma Yehudit,governo
+2026-06-10,otzma,8.21,0.29,139,Otzma Yehudit,governo
+2026-06-11,otzma,8.21,0.28,138,Otzma Yehudit,governo
+2026-06-12,otzma,8.21,0.28,137,Otzma Yehudit,governo
+2026-06-13,otzma,8.21,0.28,136,Otzma Yehudit,governo
+2026-06-14,otzma,8.2,0.28,135,Otzma Yehudit,governo
+2026-06-15,otzma,8.2,0.28,134,Otzma Yehudit,governo
+2026-06-16,otzma,8.19,0.27,133,Otzma Yehudit,governo
+2026-06-17,otzma,8.19,0.27,132,Otzma Yehudit,governo
+2026-06-18,otzma,8.18,0.27,131,Otzma Yehudit,governo
+2026-06-19,otzma,8.17,0.27,130,Otzma Yehudit,governo
+2026-06-20,otzma,8.17,0.27,129,Otzma Yehudit,governo
+2026-06-21,otzma,8.16,0.27,128,Otzma Yehudit,governo
+2026-06-22,otzma,8.16,0.27,127,Otzma Yehudit,governo
+2026-06-23,otzma,8.15,0.27,126,Otzma Yehudit,governo
+2026-06-24,otzma,8.15,0.26,125,Otzma Yehudit,governo
+2026-06-25,otzma,8.14,0.26,124,Otzma Yehudit,governo
+2026-06-26,otzma,8.12,0.27,123,Otzma Yehudit,governo
+2026-06-27,otzma,8.11,0.27,122,Otzma Yehudit,governo
+2026-06-28,otzma,8.1,0.27,121,Otzma Yehudit,governo
+2026-06-29,otzma,8.09,0.27,120,Otzma Yehudit,governo
+2026-06-30,otzma,8.07,0.27,119,Otzma Yehudit,governo
+2026-07-01,otzma,8.06,0.26,118,Otzma Yehudit,governo
+2026-07-02,otzma,8.05,0.27,117,Otzma Yehudit,governo
+2026-07-03,otzma,8.04,0.27,116,Otzma Yehudit,governo
+2026-07-04,otzma,8.02,0.27,115,Otzma Yehudit,governo
+2026-07-05,otzma,8.01,0.27,114,Otzma Yehudit,governo
+2026-07-06,otzma,8,0.27,113,Otzma Yehudit,governo
+2026-07-07,otzma,7.98,0.27,112,Otzma Yehudit,governo
+2026-07-08,otzma,7.97,0.27,111,Otzma Yehudit,governo
+2026-07-09,otzma,7.95,0.26,110,Otzma Yehudit,governo
+2026-07-10,otzma,7.94,0.27,109,Otzma Yehudit,governo
+2026-07-11,otzma,7.93,0.27,108,Otzma Yehudit,governo
+2026-07-12,otzma,7.92,0.27,107,Otzma Yehudit,governo
+2026-07-13,otzma,7.91,0.27,106,Otzma Yehudit,governo
+2026-07-14,otzma,7.9,0.26,105,Otzma Yehudit,governo
+2026-07-15,otzma,7.89,0.26,104,Otzma Yehudit,governo
+2026-07-16,otzma,7.88,0.26,103,Otzma Yehudit,governo
+2026-07-17,otzma,7.88,0.26,102,Otzma Yehudit,governo
+2026-07-18,otzma,7.88,0.26,101,Otzma Yehudit,governo
+2026-07-19,otzma,7.88,0.26,100,Otzma Yehudit,governo
+2026-07-20,otzma,7.88,0.26,99,Otzma Yehudit,governo
+2026-07-21,otzma,7.88,0.26,98,Otzma Yehudit,governo
+2026-07-22,otzma,7.88,0.26,97,Otzma Yehudit,governo
+2026-07-23,otzma,7.88,0.26,96,Otzma Yehudit,governo
+2026-07-24,otzma,7.88,0.26,95,Otzma Yehudit,governo
+2026-07-25,otzma,7.88,0.26,94,Otzma Yehudit,governo
+2026-07-26,otzma,7.87,0.26,93,Otzma Yehudit,governo
+2026-07-27,otzma,7.87,0.25,92,Otzma Yehudit,governo
+2026-07-28,otzma,7.86,0.25,91,Otzma Yehudit,governo
+2026-07-29,otzma,7.85,0.25,90,Otzma Yehudit,governo
+2026-07-30,otzma,7.85,0.25,89,Otzma Yehudit,governo
+2026-07-31,otzma,7.84,0.26,88,Otzma Yehudit,governo
+2026-08-01,otzma,7.84,0.25,87,Otzma Yehudit,governo
+2026-08-02,otzma,7.84,0.25,86,Otzma Yehudit,governo
+2026-08-03,otzma,7.83,0.25,85,Otzma Yehudit,governo
+2026-08-04,otzma,7.83,0.25,84,Otzma Yehudit,governo
+2026-08-05,otzma,7.83,0.25,83,Otzma Yehudit,governo
+2026-08-06,otzma,7.83,0.25,82,Otzma Yehudit,governo
+2026-08-07,otzma,7.82,0.25,81,Otzma Yehudit,governo
+2026-08-08,otzma,7.81,0.25,80,Otzma Yehudit,governo
+2026-08-09,otzma,7.8,0.25,79,Otzma Yehudit,governo
+2026-08-10,otzma,7.8,0.25,78,Otzma Yehudit,governo
+2026-08-11,otzma,7.8,0.24,77,Otzma Yehudit,governo
+2026-08-12,otzma,7.8,0.24,76,Otzma Yehudit,governo
+2026-08-13,otzma,7.8,0.24,75,Otzma Yehudit,governo
+2026-08-14,otzma,7.8,0.24,74,Otzma Yehudit,governo
+2026-08-15,otzma,7.8,0.24,73,Otzma Yehudit,governo
+2026-08-16,otzma,7.8,0.24,72,Otzma Yehudit,governo
+2026-08-17,otzma,7.79,0.24,71,Otzma Yehudit,governo
+2026-08-18,otzma,7.78,0.24,70,Otzma Yehudit,governo
+2026-08-19,otzma,7.78,0.24,69,Otzma Yehudit,governo
+2026-08-20,otzma,7.76,0.24,68,Otzma Yehudit,governo
+2026-08-21,otzma,7.75,0.24,67,Otzma Yehudit,governo
+2026-08-22,otzma,7.73,0.24,66,Otzma Yehudit,governo
+2026-08-23,otzma,7.72,0.24,65,Otzma Yehudit,governo
+2026-08-24,otzma,7.7,0.24,64,Otzma Yehudit,governo
+2026-08-25,otzma,7.68,0.23,63,Otzma Yehudit,governo
+2026-08-26,otzma,7.66,0.23,62,Otzma Yehudit,governo
+2026-08-27,otzma,7.64,0.23,61,Otzma Yehudit,governo
+2026-08-28,otzma,7.62,0.23,60,Otzma Yehudit,governo
+2026-08-29,otzma,7.61,0.23,59,Otzma Yehudit,governo
+2026-08-30,otzma,7.59,0.23,58,Otzma Yehudit,governo
+2026-08-31,otzma,7.58,0.23,57,Otzma Yehudit,governo
+2026-09-01,otzma,7.57,0.23,56,Otzma Yehudit,governo
+2026-09-02,otzma,7.56,0.22,55,Otzma Yehudit,governo
+2026-09-03,otzma,7.56,0.22,54,Otzma Yehudit,governo
+2026-09-04,otzma,7.56,0.22,53,Otzma Yehudit,governo
+2026-09-05,otzma,7.56,0.22,52,Otzma Yehudit,governo
+2026-09-06,otzma,7.56,0.22,51,Otzma Yehudit,governo
+2026-09-07,otzma,7.57,0.22,50,Otzma Yehudit,governo
+2026-09-08,otzma,7.57,0.22,49,Otzma Yehudit,governo
+2026-09-09,otzma,7.57,0.22,48,Otzma Yehudit,governo
+2026-09-10,otzma,7.57,0.22,47,Otzma Yehudit,governo
+2026-09-11,otzma,7.57,0.23,46,Otzma Yehudit,governo
+2026-09-12,otzma,7.57,0.23,45,Otzma Yehudit,governo
+2026-09-13,otzma,7.58,0.23,44,Otzma Yehudit,governo
+2026-09-14,otzma,7.58,0.23,43,Otzma Yehudit,governo
+2026-09-15,otzma,7.58,0.23,42,Otzma Yehudit,governo
+2026-09-16,otzma,7.59,0.23,41,Otzma Yehudit,governo
+2026-09-17,otzma,7.59,0.23,40,Otzma Yehudit,governo
+2026-09-18,otzma,7.58,0.24,39,Otzma Yehudit,governo
+2026-09-19,otzma,7.58,0.24,38,Otzma Yehudit,governo
+2026-09-20,otzma,7.58,0.24,37,Otzma Yehudit,governo
+2026-09-21,otzma,7.58,0.24,36,Otzma Yehudit,governo
+2026-09-22,otzma,7.58,0.24,35,Otzma Yehudit,governo
+2026-09-23,otzma,7.58,0.23,34,Otzma Yehudit,governo
+2026-09-24,otzma,7.59,0.24,33,Otzma Yehudit,governo
+2026-09-25,otzma,7.61,0.24,32,Otzma Yehudit,governo
+2026-09-26,otzma,7.62,0.24,31,Otzma Yehudit,governo
+2026-09-27,otzma,7.63,0.24,30,Otzma Yehudit,governo
+2026-09-28,otzma,7.65,0.23,29,Otzma Yehudit,governo
+2026-09-29,otzma,7.66,0.23,28,Otzma Yehudit,governo
+2026-09-30,otzma,7.69,0.23,27,Otzma Yehudit,governo
+2026-10-01,otzma,7.7,0.23,26,Otzma Yehudit,governo
+2026-10-02,otzma,7.72,0.23,25,Otzma Yehudit,governo
+2026-10-03,otzma,7.75,0.23,24,Otzma Yehudit,governo
+2026-10-04,otzma,7.77,0.23,23,Otzma Yehudit,governo
+2026-10-05,otzma,7.79,0.23,22,Otzma Yehudit,governo
+2026-10-06,otzma,7.81,0.23,21,Otzma Yehudit,governo
+2026-10-07,otzma,7.84,0.22,20,Otzma Yehudit,governo
+2026-10-08,otzma,7.85,0.23,19,Otzma Yehudit,governo
+2026-10-09,otzma,7.87,0.23,18,Otzma Yehudit,governo
+2026-10-10,otzma,7.88,0.23,17,Otzma Yehudit,governo
+2026-10-11,otzma,7.9,0.22,16,Otzma Yehudit,governo
+2026-10-12,otzma,7.91,0.22,15,Otzma Yehudit,governo
+2026-10-13,otzma,7.93,0.22,14,Otzma Yehudit,governo
+2026-10-14,otzma,7.94,0.22,13,Otzma Yehudit,governo
+2026-10-15,otzma,7.94,0.22,12,Otzma Yehudit,governo
+2026-10-16,otzma,7.95,0.22,11,Otzma Yehudit,governo
+2026-10-17,otzma,7.96,0.21,10,Otzma Yehudit,governo
+2026-10-18,otzma,7.96,0.21,9,Otzma Yehudit,governo
+2026-10-19,otzma,7.97,0.21,8,Otzma Yehudit,governo
+2026-10-20,otzma,7.98,0.2,7,Otzma Yehudit,governo
+2026-10-21,otzma,8,0.21,6,Otzma Yehudit,governo
+2026-10-22,otzma,8.01,0.21,5,Otzma Yehudit,governo
+2026-10-23,otzma,8.01,0.23,4,Otzma Yehudit,governo
+2026-04-26,raam,5.11,0.31,184,Ra'am,arabi
+2026-04-27,raam,5.1,0.3,183,Ra'am,arabi
+2026-04-28,raam,5.1,0.29,182,Ra'am,arabi
+2026-04-29,raam,5.09,0.29,181,Ra'am,arabi
+2026-04-30,raam,5.09,0.29,180,Ra'am,arabi
+2026-05-01,raam,5.09,0.28,179,Ra'am,arabi
+2026-05-02,raam,5.08,0.28,178,Ra'am,arabi
+2026-05-03,raam,5.08,0.28,177,Ra'am,arabi
+2026-05-04,raam,5.07,0.27,176,Ra'am,arabi
+2026-05-05,raam,5.07,0.27,175,Ra'am,arabi
+2026-05-06,raam,5.07,0.26,174,Ra'am,arabi
+2026-05-07,raam,5.06,0.26,173,Ra'am,arabi
+2026-05-08,raam,5.06,0.26,172,Ra'am,arabi
+2026-05-09,raam,5.05,0.26,171,Ra'am,arabi
+2026-05-10,raam,5.05,0.26,170,Ra'am,arabi
+2026-05-11,raam,5.05,0.25,169,Ra'am,arabi
+2026-05-12,raam,5.04,0.25,168,Ra'am,arabi
+2026-05-13,raam,5.04,0.25,167,Ra'am,arabi
+2026-05-14,raam,5.04,0.25,166,Ra'am,arabi
+2026-05-15,raam,5.03,0.25,165,Ra'am,arabi
+2026-05-16,raam,5.02,0.25,164,Ra'am,arabi
+2026-05-17,raam,5.01,0.25,163,Ra'am,arabi
+2026-05-18,raam,5,0.24,162,Ra'am,arabi
+2026-05-19,raam,4.99,0.24,161,Ra'am,arabi
+2026-05-20,raam,4.98,0.24,160,Ra'am,arabi
+2026-05-21,raam,4.97,0.24,159,Ra'am,arabi
+2026-05-22,raam,4.95,0.25,158,Ra'am,arabi
+2026-05-23,raam,4.94,0.25,157,Ra'am,arabi
+2026-05-24,raam,4.93,0.25,156,Ra'am,arabi
+2026-05-25,raam,4.92,0.25,155,Ra'am,arabi
+2026-05-26,raam,4.9,0.25,154,Ra'am,arabi
+2026-05-27,raam,4.89,0.25,153,Ra'am,arabi
+2026-05-28,raam,4.88,0.24,152,Ra'am,arabi
+2026-05-29,raam,4.86,0.24,151,Ra'am,arabi
+2026-05-30,raam,4.85,0.24,150,Ra'am,arabi
+2026-05-31,raam,4.83,0.24,149,Ra'am,arabi
+2026-06-01,raam,4.82,0.24,148,Ra'am,arabi
+2026-06-02,raam,4.81,0.24,147,Ra'am,arabi
+2026-06-03,raam,4.79,0.23,146,Ra'am,arabi
+2026-06-04,raam,4.78,0.23,145,Ra'am,arabi
+2026-06-05,raam,4.77,0.23,144,Ra'am,arabi
+2026-06-06,raam,4.76,0.23,143,Ra'am,arabi
+2026-06-07,raam,4.75,0.23,142,Ra'am,arabi
+2026-06-08,raam,4.74,0.23,141,Ra'am,arabi
+2026-06-09,raam,4.73,0.23,140,Ra'am,arabi
+2026-06-10,raam,4.72,0.23,139,Ra'am,arabi
+2026-06-11,raam,4.72,0.22,138,Ra'am,arabi
+2026-06-12,raam,4.71,0.22,137,Ra'am,arabi
+2026-06-13,raam,4.7,0.22,136,Ra'am,arabi
+2026-06-14,raam,4.69,0.22,135,Ra'am,arabi
+2026-06-15,raam,4.68,0.22,134,Ra'am,arabi
+2026-06-16,raam,4.67,0.21,133,Ra'am,arabi
+2026-06-17,raam,4.66,0.21,132,Ra'am,arabi
+2026-06-18,raam,4.66,0.21,131,Ra'am,arabi
+2026-06-19,raam,4.65,0.21,130,Ra'am,arabi
+2026-06-20,raam,4.65,0.21,129,Ra'am,arabi
+2026-06-21,raam,4.64,0.21,128,Ra'am,arabi
+2026-06-22,raam,4.63,0.21,127,Ra'am,arabi
+2026-06-23,raam,4.63,0.21,126,Ra'am,arabi
+2026-06-24,raam,4.62,0.21,125,Ra'am,arabi
+2026-06-25,raam,4.63,0.21,124,Ra'am,arabi
+2026-06-26,raam,4.64,0.21,123,Ra'am,arabi
+2026-06-27,raam,4.64,0.21,122,Ra'am,arabi
+2026-06-28,raam,4.65,0.21,121,Ra'am,arabi
+2026-06-29,raam,4.66,0.21,120,Ra'am,arabi
+2026-06-30,raam,4.66,0.21,119,Ra'am,arabi
+2026-07-01,raam,4.67,0.21,118,Ra'am,arabi
+2026-07-02,raam,4.68,0.21,117,Ra'am,arabi
+2026-07-03,raam,4.68,0.21,116,Ra'am,arabi
+2026-07-04,raam,4.69,0.21,115,Ra'am,arabi
+2026-07-05,raam,4.69,0.21,114,Ra'am,arabi
+2026-07-06,raam,4.7,0.21,113,Ra'am,arabi
+2026-07-07,raam,4.71,0.21,112,Ra'am,arabi
+2026-07-08,raam,4.72,0.21,111,Ra'am,arabi
+2026-07-09,raam,4.73,0.21,110,Ra'am,arabi
+2026-07-10,raam,4.74,0.21,109,Ra'am,arabi
+2026-07-11,raam,4.75,0.21,108,Ra'am,arabi
+2026-07-12,raam,4.75,0.21,107,Ra'am,arabi
+2026-07-13,raam,4.76,0.21,106,Ra'am,arabi
+2026-07-14,raam,4.76,0.21,105,Ra'am,arabi
+2026-07-15,raam,4.77,0.21,104,Ra'am,arabi
+2026-07-16,raam,4.78,0.21,103,Ra'am,arabi
+2026-07-17,raam,4.79,0.21,102,Ra'am,arabi
+2026-07-18,raam,4.8,0.21,101,Ra'am,arabi
+2026-07-19,raam,4.82,0.21,100,Ra'am,arabi
+2026-07-20,raam,4.83,0.21,99,Ra'am,arabi
+2026-07-21,raam,4.84,0.21,98,Ra'am,arabi
+2026-07-22,raam,4.85,0.21,97,Ra'am,arabi
+2026-07-23,raam,4.85,0.21,96,Ra'am,arabi
+2026-07-24,raam,4.86,0.21,95,Ra'am,arabi
+2026-07-25,raam,4.87,0.21,94,Ra'am,arabi
+2026-07-26,raam,4.88,0.21,93,Ra'am,arabi
+2026-07-27,raam,4.88,0.21,92,Ra'am,arabi
+2026-07-28,raam,4.89,0.21,91,Ra'am,arabi
+2026-07-29,raam,4.9,0.2,90,Ra'am,arabi
+2026-07-30,raam,4.9,0.21,89,Ra'am,arabi
+2026-07-31,raam,4.91,0.21,88,Ra'am,arabi
+2026-08-01,raam,4.92,0.21,87,Ra'am,arabi
+2026-08-02,raam,4.92,0.2,86,Ra'am,arabi
+2026-08-03,raam,4.93,0.2,85,Ra'am,arabi
+2026-08-04,raam,4.93,0.2,84,Ra'am,arabi
+2026-08-05,raam,4.94,0.2,83,Ra'am,arabi
+2026-08-06,raam,4.95,0.2,82,Ra'am,arabi
+2026-08-07,raam,4.95,0.2,81,Ra'am,arabi
+2026-08-08,raam,4.95,0.2,80,Ra'am,arabi
+2026-08-09,raam,4.96,0.2,79,Ra'am,arabi
+2026-08-10,raam,4.96,0.2,78,Ra'am,arabi
+2026-08-11,raam,4.96,0.2,77,Ra'am,arabi
+2026-08-12,raam,4.96,0.2,76,Ra'am,arabi
+2026-08-13,raam,4.96,0.2,75,Ra'am,arabi
+2026-08-14,raam,4.96,0.2,74,Ra'am,arabi
+2026-08-15,raam,4.96,0.2,73,Ra'am,arabi
+2026-08-16,raam,4.96,0.19,72,Ra'am,arabi
+2026-08-17,raam,4.96,0.19,71,Ra'am,arabi
+2026-08-18,raam,4.95,0.19,70,Ra'am,arabi
+2026-08-19,raam,4.95,0.19,69,Ra'am,arabi
+2026-08-20,raam,4.95,0.19,68,Ra'am,arabi
+2026-08-21,raam,4.95,0.19,67,Ra'am,arabi
+2026-08-22,raam,4.95,0.19,66,Ra'am,arabi
+2026-08-23,raam,4.94,0.19,65,Ra'am,arabi
+2026-08-24,raam,4.94,0.19,64,Ra'am,arabi
+2026-08-25,raam,4.94,0.19,63,Ra'am,arabi
+2026-08-26,raam,4.94,0.19,62,Ra'am,arabi
+2026-08-27,raam,4.95,0.19,61,Ra'am,arabi
+2026-08-28,raam,4.95,0.19,60,Ra'am,arabi
+2026-08-29,raam,4.95,0.19,59,Ra'am,arabi
+2026-08-30,raam,4.95,0.19,58,Ra'am,arabi
+2026-08-31,raam,4.95,0.19,57,Ra'am,arabi
+2026-09-01,raam,4.96,0.18,56,Ra'am,arabi
+2026-09-02,raam,4.97,0.18,55,Ra'am,arabi
+2026-09-03,raam,4.97,0.18,54,Ra'am,arabi
+2026-09-04,raam,4.98,0.18,53,Ra'am,arabi
+2026-09-05,raam,4.99,0.18,52,Ra'am,arabi
+2026-09-06,raam,5,0.18,51,Ra'am,arabi
+2026-09-07,raam,5.01,0.18,50,Ra'am,arabi
+2026-09-08,raam,5.02,0.18,49,Ra'am,arabi
+2026-09-09,raam,5.03,0.18,48,Ra'am,arabi
+2026-09-10,raam,5.03,0.18,47,Ra'am,arabi
+2026-09-11,raam,5.04,0.19,46,Ra'am,arabi
+2026-09-12,raam,5.05,0.19,45,Ra'am,arabi
+2026-09-13,raam,5.05,0.19,44,Ra'am,arabi
+2026-09-14,raam,5.06,0.19,43,Ra'am,arabi
+2026-09-15,raam,5.07,0.19,42,Ra'am,arabi
+2026-09-16,raam,5.07,0.19,41,Ra'am,arabi
+2026-09-17,raam,5.08,0.19,40,Ra'am,arabi
+2026-09-18,raam,5.08,0.19,39,Ra'am,arabi
+2026-09-19,raam,5.09,0.2,38,Ra'am,arabi
+2026-09-20,raam,5.1,0.2,37,Ra'am,arabi
+2026-09-21,raam,5.1,0.2,36,Ra'am,arabi
+2026-09-22,raam,5.11,0.19,35,Ra'am,arabi
+2026-09-23,raam,5.11,0.19,34,Ra'am,arabi
+2026-09-24,raam,5.12,0.19,33,Ra'am,arabi
+2026-09-25,raam,5.12,0.19,32,Ra'am,arabi
+2026-09-26,raam,5.13,0.19,31,Ra'am,arabi
+2026-09-27,raam,5.13,0.19,30,Ra'am,arabi
+2026-09-28,raam,5.14,0.19,29,Ra'am,arabi
+2026-09-29,raam,5.15,0.19,28,Ra'am,arabi
+2026-09-30,raam,5.15,0.19,27,Ra'am,arabi
+2026-10-01,raam,5.16,0.19,26,Ra'am,arabi
+2026-10-02,raam,5.17,0.19,25,Ra'am,arabi
+2026-10-03,raam,5.19,0.19,24,Ra'am,arabi
+2026-10-04,raam,5.2,0.19,23,Ra'am,arabi
+2026-10-05,raam,5.22,0.19,22,Ra'am,arabi
+2026-10-06,raam,5.23,0.19,21,Ra'am,arabi
+2026-10-07,raam,5.25,0.18,20,Ra'am,arabi
+2026-10-08,raam,5.27,0.18,19,Ra'am,arabi
+2026-10-09,raam,5.29,0.18,18,Ra'am,arabi
+2026-10-10,raam,5.31,0.18,17,Ra'am,arabi
+2026-10-11,raam,5.34,0.18,16,Ra'am,arabi
+2026-10-12,raam,5.36,0.18,15,Ra'am,arabi
+2026-10-13,raam,5.39,0.18,14,Ra'am,arabi
+2026-10-14,raam,5.41,0.18,13,Ra'am,arabi
+2026-10-15,raam,5.43,0.18,12,Ra'am,arabi
+2026-10-16,raam,5.45,0.18,11,Ra'am,arabi
+2026-10-17,raam,5.47,0.18,10,Ra'am,arabi
+2026-10-18,raam,5.49,0.18,9,Ra'am,arabi
+2026-10-19,raam,5.51,0.17,8,Ra'am,arabi
+2026-10-20,raam,5.53,0.17,7,Ra'am,arabi
+2026-10-21,raam,5.55,0.17,6,Ra'am,arabi
+2026-10-22,raam,5.56,0.18,5,Ra'am,arabi
+2026-10-23,raam,5.57,0.19,4,Ra'am,arabi
+2026-04-27,riservisti,2.03,0.26,183,Riservisti,opposizione
+2026-04-28,riservisti,2.03,0.25,182,Riservisti,opposizione
+2026-04-29,riservisti,2.02,0.25,181,Riservisti,opposizione
+2026-04-30,riservisti,2.02,0.25,180,Riservisti,opposizione
+2026-05-01,riservisti,2.01,0.24,179,Riservisti,opposizione
+2026-05-02,riservisti,2,0.24,178,Riservisti,opposizione
+2026-05-03,riservisti,2,0.24,177,Riservisti,opposizione
+2026-05-04,riservisti,1.99,0.24,176,Riservisti,opposizione
+2026-05-05,riservisti,1.98,0.23,175,Riservisti,opposizione
+2026-05-06,riservisti,1.97,0.23,174,Riservisti,opposizione
+2026-05-07,riservisti,1.96,0.22,173,Riservisti,opposizione
+2026-05-08,riservisti,1.96,0.22,172,Riservisti,opposizione
+2026-05-09,riservisti,1.95,0.22,171,Riservisti,opposizione
+2026-05-10,riservisti,1.95,0.22,170,Riservisti,opposizione
+2026-05-11,riservisti,1.94,0.22,169,Riservisti,opposizione
+2026-05-12,riservisti,1.94,0.21,168,Riservisti,opposizione
+2026-05-13,riservisti,1.93,0.21,167,Riservisti,opposizione
+2026-05-14,riservisti,1.92,0.21,166,Riservisti,opposizione
+2026-05-15,riservisti,1.92,0.21,165,Riservisti,opposizione
+2026-05-16,riservisti,1.91,0.21,164,Riservisti,opposizione
+2026-05-17,riservisti,1.91,0.21,163,Riservisti,opposizione
+2026-05-18,riservisti,1.9,0.2,162,Riservisti,opposizione
+2026-05-19,riservisti,1.9,0.2,161,Riservisti,opposizione
+2026-05-20,riservisti,1.9,0.2,160,Riservisti,opposizione
+2026-05-21,riservisti,1.9,0.2,159,Riservisti,opposizione
+2026-05-22,riservisti,1.9,0.2,158,Riservisti,opposizione
+2026-05-23,riservisti,1.9,0.2,157,Riservisti,opposizione
+2026-05-24,riservisti,1.9,0.2,156,Riservisti,opposizione
+2026-05-25,riservisti,1.9,0.2,155,Riservisti,opposizione
+2026-05-26,riservisti,1.9,0.2,154,Riservisti,opposizione
+2026-05-27,riservisti,1.9,0.2,153,Riservisti,opposizione
+2026-05-28,riservisti,1.9,0.2,152,Riservisti,opposizione
+2026-05-29,riservisti,1.91,0.2,151,Riservisti,opposizione
+2026-05-30,riservisti,1.91,0.2,150,Riservisti,opposizione
+2026-05-31,riservisti,1.92,0.19,149,Riservisti,opposizione
+2026-06-01,riservisti,1.93,0.19,148,Riservisti,opposizione
+2026-06-02,riservisti,1.94,0.19,147,Riservisti,opposizione
+2026-06-03,riservisti,1.94,0.19,146,Riservisti,opposizione
+2026-06-04,riservisti,1.95,0.19,145,Riservisti,opposizione
+2026-06-05,riservisti,1.96,0.19,144,Riservisti,opposizione
+2026-06-06,riservisti,1.97,0.19,143,Riservisti,opposizione
+2026-06-07,riservisti,1.98,0.19,142,Riservisti,opposizione
+2026-06-08,riservisti,1.99,0.19,141,Riservisti,opposizione
+2026-06-09,riservisti,2,0.19,140,Riservisti,opposizione
+2026-06-10,riservisti,2.01,0.19,139,Riservisti,opposizione
+2026-06-11,riservisti,2.02,0.19,138,Riservisti,opposizione
+2026-06-12,riservisti,2.03,0.19,137,Riservisti,opposizione
+2026-06-13,riservisti,2.04,0.19,136,Riservisti,opposizione
+2026-06-14,riservisti,2.05,0.19,135,Riservisti,opposizione
+2026-06-15,riservisti,2.06,0.18,134,Riservisti,opposizione
+2026-06-16,riservisti,2.07,0.18,133,Riservisti,opposizione
+2026-06-17,riservisti,2.08,0.18,132,Riservisti,opposizione
+2026-06-18,riservisti,2.09,0.18,131,Riservisti,opposizione
+2026-06-19,riservisti,2.1,0.18,130,Riservisti,opposizione
+2026-06-20,riservisti,2.11,0.18,129,Riservisti,opposizione
+2026-06-21,riservisti,2.12,0.18,128,Riservisti,opposizione
+2026-06-22,riservisti,2.13,0.18,127,Riservisti,opposizione
+2026-06-23,riservisti,2.14,0.17,126,Riservisti,opposizione
+2026-06-24,riservisti,2.15,0.17,125,Riservisti,opposizione
+2026-06-25,riservisti,2.18,0.17,124,Riservisti,opposizione
+2026-06-26,riservisti,2.19,0.17,123,Riservisti,opposizione
+2026-06-27,riservisti,2.21,0.17,122,Riservisti,opposizione
+2026-06-28,riservisti,2.23,0.17,121,Riservisti,opposizione
+2026-06-29,riservisti,2.25,0.17,120,Riservisti,opposizione
+2026-06-30,riservisti,2.26,0.17,119,Riservisti,opposizione
+2026-07-01,riservisti,2.28,0.17,118,Riservisti,opposizione
+2026-07-02,riservisti,2.31,0.17,117,Riservisti,opposizione
+2026-07-03,riservisti,2.34,0.17,116,Riservisti,opposizione
+2026-07-04,riservisti,2.37,0.17,115,Riservisti,opposizione
+2026-07-05,riservisti,2.4,0.17,114,Riservisti,opposizione
+2026-07-06,riservisti,2.44,0.17,113,Riservisti,opposizione
+2026-07-07,riservisti,2.48,0.17,112,Riservisti,opposizione
+2026-07-08,riservisti,2.52,0.17,111,Riservisti,opposizione
+2026-07-09,riservisti,2.56,0.17,110,Riservisti,opposizione
+2026-07-10,riservisti,2.6,0.17,109,Riservisti,opposizione
+2026-07-11,riservisti,2.64,0.17,108,Riservisti,opposizione
+2026-07-12,riservisti,2.67,0.17,107,Riservisti,opposizione
+2026-07-13,riservisti,2.71,0.17,106,Riservisti,opposizione
+2026-07-14,riservisti,2.74,0.17,105,Riservisti,opposizione
+2026-07-15,riservisti,2.77,0.17,104,Riservisti,opposizione
+2026-07-16,riservisti,2.8,0.17,103,Riservisti,opposizione
+2026-07-17,riservisti,2.83,0.17,102,Riservisti,opposizione
+2026-07-18,riservisti,2.85,0.17,101,Riservisti,opposizione
+2026-07-19,riservisti,2.87,0.17,100,Riservisti,opposizione
+2026-07-20,riservisti,2.89,0.17,99,Riservisti,opposizione
+2026-07-21,riservisti,2.91,0.17,98,Riservisti,opposizione
+2026-07-22,riservisti,2.92,0.17,97,Riservisti,opposizione
+2026-07-23,riservisti,2.94,0.17,96,Riservisti,opposizione
+2026-07-24,riservisti,2.95,0.17,95,Riservisti,opposizione
+2026-07-25,riservisti,2.97,0.17,94,Riservisti,opposizione
+2026-07-26,riservisti,2.98,0.17,93,Riservisti,opposizione
+2026-07-27,riservisti,2.99,0.17,92,Riservisti,opposizione
+2026-07-28,riservisti,3,0.17,91,Riservisti,opposizione
+2026-07-29,riservisti,3.01,0.17,90,Riservisti,opposizione
+2026-07-30,riservisti,3,0.17,89,Riservisti,opposizione
+2026-07-31,riservisti,3,0.17,88,Riservisti,opposizione
+2026-08-01,riservisti,2.99,0.17,87,Riservisti,opposizione
+2026-08-02,riservisti,2.99,0.16,86,Riservisti,opposizione
+2026-08-03,riservisti,2.98,0.16,85,Riservisti,opposizione
+2026-08-04,riservisti,2.98,0.16,84,Riservisti,opposizione
+2026-08-05,riservisti,2.96,0.16,83,Riservisti,opposizione
+2026-08-06,riservisti,2.95,0.16,82,Riservisti,opposizione
+2026-08-07,riservisti,2.93,0.16,81,Riservisti,opposizione
+2026-08-08,riservisti,2.91,0.16,80,Riservisti,opposizione
+2026-08-09,riservisti,2.89,0.16,79,Riservisti,opposizione
+2026-08-10,riservisti,2.88,0.15,78,Riservisti,opposizione
+2026-08-11,riservisti,2.86,0.15,77,Riservisti,opposizione
+2026-08-12,riservisti,2.85,0.15,76,Riservisti,opposizione
+2026-08-13,riservisti,2.82,0.15,75,Riservisti,opposizione
+2026-08-14,riservisti,2.8,0.15,74,Riservisti,opposizione
+2026-08-15,riservisti,2.77,0.15,73,Riservisti,opposizione
+2026-08-16,riservisti,2.74,0.15,72,Riservisti,opposizione
+2026-08-17,riservisti,2.71,0.15,71,Riservisti,opposizione
+2026-08-18,riservisti,2.69,0.14,70,Riservisti,opposizione
+2026-08-19,riservisti,2.67,0.14,69,Riservisti,opposizione
+2026-08-20,riservisti,2.66,0.14,68,Riservisti,opposizione
+2026-08-21,riservisti,2.65,0.14,67,Riservisti,opposizione
+2026-08-22,riservisti,2.64,0.14,66,Riservisti,opposizione
+2026-08-23,riservisti,2.63,0.14,65,Riservisti,opposizione
+2026-08-24,riservisti,2.62,0.14,64,Riservisti,opposizione
+2026-08-25,riservisti,2.61,0.14,63,Riservisti,opposizione
+2026-08-26,riservisti,2.6,0.14,62,Riservisti,opposizione
+2026-08-27,riservisti,2.61,0.14,61,Riservisti,opposizione
+2026-08-28,riservisti,2.62,0.14,60,Riservisti,opposizione
+2026-08-29,riservisti,2.63,0.14,59,Riservisti,opposizione
+2026-08-30,riservisti,2.64,0.14,58,Riservisti,opposizione
+2026-08-31,riservisti,2.66,0.14,57,Riservisti,opposizione
+2026-09-01,riservisti,2.68,0.14,56,Riservisti,opposizione
+2026-09-02,riservisti,2.7,0.13,55,Riservisti,opposizione
+2026-09-03,riservisti,2.73,0.13,54,Riservisti,opposizione
+2026-09-04,riservisti,2.77,0.13,53,Riservisti,opposizione
+2026-09-05,riservisti,2.81,0.14,52,Riservisti,opposizione
+2026-09-06,riservisti,2.84,0.13,51,Riservisti,opposizione
+2026-09-07,riservisti,2.88,0.13,50,Riservisti,opposizione
+2026-09-08,riservisti,2.91,0.13,49,Riservisti,opposizione
+2026-09-09,riservisti,2.94,0.13,48,Riservisti,opposizione
+2026-09-10,riservisti,2.96,0.14,47,Riservisti,opposizione
+2026-09-11,riservisti,2.99,0.14,46,Riservisti,opposizione
+2026-09-12,riservisti,3.02,0.14,45,Riservisti,opposizione
+2026-09-13,riservisti,3.04,0.15,44,Riservisti,opposizione
+2026-09-14,riservisti,3.07,0.15,43,Riservisti,opposizione
+2026-09-15,riservisti,3.09,0.15,42,Riservisti,opposizione
+2026-09-16,riservisti,3.11,0.15,41,Riservisti,opposizione
+2026-09-17,riservisti,3.14,0.15,40,Riservisti,opposizione
+2026-09-18,riservisti,3.15,0.15,39,Riservisti,opposizione
+2026-09-19,riservisti,3.17,0.15,38,Riservisti,opposizione
+2026-09-20,riservisti,3.18,0.15,37,Riservisti,opposizione
+2026-09-21,riservisti,3.19,0.15,36,Riservisti,opposizione
+2026-09-22,riservisti,3.21,0.15,35,Riservisti,opposizione
+2026-09-23,riservisti,3.22,0.15,34,Riservisti,opposizione
+2026-09-24,riservisti,3.23,0.15,33,Riservisti,opposizione
+2026-09-25,riservisti,3.23,0.15,32,Riservisti,opposizione
+2026-09-26,riservisti,3.24,0.15,31,Riservisti,opposizione
+2026-09-27,riservisti,3.24,0.15,30,Riservisti,opposizione
+2026-09-28,riservisti,3.25,0.15,29,Riservisti,opposizione
+2026-09-29,riservisti,3.25,0.15,28,Riservisti,opposizione
+2026-09-30,riservisti,3.25,0.14,27,Riservisti,opposizione
+2026-10-01,riservisti,3.25,0.14,26,Riservisti,opposizione
+2026-10-02,riservisti,3.28,0.14,25,Riservisti,opposizione
+2026-10-03,riservisti,3.3,0.14,24,Riservisti,opposizione
+2026-10-04,riservisti,3.32,0.14,23,Riservisti,opposizione
+2026-10-05,riservisti,3.35,0.14,22,Riservisti,opposizione
+2026-10-06,riservisti,3.37,0.14,21,Riservisti,opposizione
+2026-10-07,riservisti,3.39,0.14,20,Riservisti,opposizione
+2026-10-08,riservisti,3.41,0.14,19,Riservisti,opposizione
+2026-10-09,riservisti,3.43,0.14,18,Riservisti,opposizione
+2026-10-10,riservisti,3.45,0.14,17,Riservisti,opposizione
+2026-10-11,riservisti,3.47,0.14,16,Riservisti,opposizione
+2026-10-12,riservisti,3.49,0.14,15,Riservisti,opposizione
+2026-10-13,riservisti,3.51,0.14,14,Riservisti,opposizione
+2026-10-14,riservisti,3.51,0.14,13,Riservisti,opposizione
+2026-10-15,riservisti,3.52,0.14,12,Riservisti,opposizione
+2026-10-16,riservisti,3.52,0.14,11,Riservisti,opposizione
+2026-10-17,riservisti,3.52,0.14,10,Riservisti,opposizione
+2026-10-18,riservisti,3.52,0.13,9,Riservisti,opposizione
+2026-10-19,riservisti,3.52,0.13,8,Riservisti,opposizione
+2026-10-20,riservisti,3.52,0.13,7,Riservisti,opposizione
+2026-10-21,riservisti,3.51,0.13,6,Riservisti,opposizione
+2026-10-22,riservisti,3.5,0.13,5,Riservisti,opposizione
+2026-10-23,riservisti,3.49,0.14,4,Riservisti,opposizione
+2026-04-26,rzp,3.54,0.28,184,Sionismo religioso,governo
+2026-04-27,rzp,3.54,0.27,183,Sionismo religioso,governo
+2026-04-28,rzp,3.55,0.26,182,Sionismo religioso,governo
+2026-04-29,rzp,3.55,0.26,181,Sionismo religioso,governo
+2026-04-30,rzp,3.57,0.26,180,Sionismo religioso,governo
+2026-05-01,rzp,3.59,0.26,179,Sionismo religioso,governo
+2026-05-02,rzp,3.61,0.26,178,Sionismo religioso,governo
+2026-05-03,rzp,3.62,0.26,177,Sionismo religioso,governo
+2026-05-04,rzp,3.64,0.25,176,Sionismo religioso,governo
+2026-05-05,rzp,3.66,0.25,175,Sionismo religioso,governo
+2026-05-06,rzp,3.68,0.25,174,Sionismo religioso,governo
+2026-05-07,rzp,3.7,0.24,173,Sionismo religioso,governo
+2026-05-08,rzp,3.71,0.24,172,Sionismo religioso,governo
+2026-05-09,rzp,3.73,0.24,171,Sionismo religioso,governo
+2026-05-10,rzp,3.74,0.24,170,Sionismo religioso,governo
+2026-05-11,rzp,3.76,0.24,169,Sionismo religioso,governo
+2026-05-12,rzp,3.78,0.24,168,Sionismo religioso,governo
+2026-05-13,rzp,3.8,0.23,167,Sionismo religioso,governo
+2026-05-14,rzp,3.82,0.23,166,Sionismo religioso,governo
+2026-05-15,rzp,3.84,0.23,165,Sionismo religioso,governo
+2026-05-16,rzp,3.86,0.24,164,Sionismo religioso,governo
+2026-05-17,rzp,3.88,0.24,163,Sionismo religioso,governo
+2026-05-18,rzp,3.89,0.24,162,Sionismo religioso,governo
+2026-05-19,rzp,3.91,0.23,161,Sionismo religioso,governo
+2026-05-20,rzp,3.93,0.24,160,Sionismo religioso,governo
+2026-05-21,rzp,3.94,0.24,159,Sionismo religioso,governo
+2026-05-22,rzp,3.96,0.24,158,Sionismo religioso,governo
+2026-05-23,rzp,3.97,0.24,157,Sionismo religioso,governo
+2026-05-24,rzp,3.98,0.24,156,Sionismo religioso,governo
+2026-05-25,rzp,3.99,0.24,155,Sionismo religioso,governo
+2026-05-26,rzp,4,0.24,154,Sionismo religioso,governo
+2026-05-27,rzp,4.02,0.24,153,Sionismo religioso,governo
+2026-05-28,rzp,4.03,0.24,152,Sionismo religioso,governo
+2026-05-29,rzp,4.04,0.24,151,Sionismo religioso,governo
+2026-05-30,rzp,4.05,0.24,150,Sionismo religioso,governo
+2026-05-31,rzp,4.06,0.24,149,Sionismo religioso,governo
+2026-06-01,rzp,4.07,0.24,148,Sionismo religioso,governo
+2026-06-02,rzp,4.08,0.23,147,Sionismo religioso,governo
+2026-06-03,rzp,4.09,0.23,146,Sionismo religioso,governo
+2026-06-04,rzp,4.1,0.23,145,Sionismo religioso,governo
+2026-06-05,rzp,4.11,0.23,144,Sionismo religioso,governo
+2026-06-06,rzp,4.11,0.23,143,Sionismo religioso,governo
+2026-06-07,rzp,4.12,0.23,142,Sionismo religioso,governo
+2026-06-08,rzp,4.13,0.23,141,Sionismo religioso,governo
+2026-06-09,rzp,4.14,0.23,140,Sionismo religioso,governo
+2026-06-10,rzp,4.14,0.23,139,Sionismo religioso,governo
+2026-06-11,rzp,4.15,0.22,138,Sionismo religioso,governo
+2026-06-12,rzp,4.16,0.22,137,Sionismo religioso,governo
+2026-06-13,rzp,4.16,0.22,136,Sionismo religioso,governo
+2026-06-14,rzp,4.17,0.22,135,Sionismo religioso,governo
+2026-06-15,rzp,4.17,0.22,134,Sionismo religioso,governo
+2026-06-16,rzp,4.18,0.22,133,Sionismo religioso,governo
+2026-06-17,rzp,4.18,0.21,132,Sionismo religioso,governo
+2026-06-18,rzp,4.19,0.21,131,Sionismo religioso,governo
+2026-06-19,rzp,4.21,0.21,130,Sionismo religioso,governo
+2026-06-20,rzp,4.23,0.21,129,Sionismo religioso,governo
+2026-06-21,rzp,4.25,0.21,128,Sionismo religioso,governo
+2026-06-22,rzp,4.27,0.21,127,Sionismo religioso,governo
+2026-06-23,rzp,4.29,0.21,126,Sionismo religioso,governo
+2026-06-24,rzp,4.31,0.21,125,Sionismo religioso,governo
+2026-06-25,rzp,4.33,0.21,124,Sionismo religioso,governo
+2026-06-26,rzp,4.35,0.21,123,Sionismo religioso,governo
+2026-06-27,rzp,4.37,0.21,122,Sionismo religioso,governo
+2026-06-28,rzp,4.39,0.21,121,Sionismo religioso,governo
+2026-06-29,rzp,4.41,0.21,120,Sionismo religioso,governo
+2026-06-30,rzp,4.43,0.21,119,Sionismo religioso,governo
+2026-07-01,rzp,4.45,0.21,118,Sionismo religioso,governo
+2026-07-02,rzp,4.47,0.21,117,Sionismo religioso,governo
+2026-07-03,rzp,4.49,0.21,116,Sionismo religioso,governo
+2026-07-04,rzp,4.5,0.21,115,Sionismo religioso,governo
+2026-07-05,rzp,4.52,0.21,114,Sionismo religioso,governo
+2026-07-06,rzp,4.53,0.21,113,Sionismo religioso,governo
+2026-07-07,rzp,4.55,0.21,112,Sionismo religioso,governo
+2026-07-08,rzp,4.57,0.21,111,Sionismo religioso,governo
+2026-07-09,rzp,4.58,0.21,110,Sionismo religioso,governo
+2026-07-10,rzp,4.6,0.21,109,Sionismo religioso,governo
+2026-07-11,rzp,4.62,0.21,108,Sionismo religioso,governo
+2026-07-12,rzp,4.64,0.21,107,Sionismo religioso,governo
+2026-07-13,rzp,4.65,0.21,106,Sionismo religioso,governo
+2026-07-14,rzp,4.67,0.21,105,Sionismo religioso,governo
+2026-07-15,rzp,4.68,0.21,104,Sionismo religioso,governo
+2026-07-16,rzp,4.69,0.21,103,Sionismo religioso,governo
+2026-07-17,rzp,4.7,0.21,102,Sionismo religioso,governo
+2026-07-18,rzp,4.71,0.21,101,Sionismo religioso,governo
+2026-07-19,rzp,4.71,0.21,100,Sionismo religioso,governo
+2026-07-20,rzp,4.72,0.21,99,Sionismo religioso,governo
+2026-07-21,rzp,4.73,0.21,98,Sionismo religioso,governo
+2026-07-22,rzp,4.74,0.21,97,Sionismo religioso,governo
+2026-07-23,rzp,4.75,0.21,96,Sionismo religioso,governo
+2026-07-24,rzp,4.75,0.21,95,Sionismo religioso,governo
+2026-07-25,rzp,4.76,0.21,94,Sionismo religioso,governo
+2026-07-26,rzp,4.77,0.21,93,Sionismo religioso,governo
+2026-07-27,rzp,4.77,0.21,92,Sionismo religioso,governo
+2026-07-28,rzp,4.77,0.21,91,Sionismo religioso,governo
+2026-07-29,rzp,4.77,0.2,90,Sionismo religioso,governo
+2026-07-30,rzp,4.78,0.21,89,Sionismo religioso,governo
+2026-07-31,rzp,4.79,0.21,88,Sionismo religioso,governo
+2026-08-01,rzp,4.8,0.21,87,Sionismo religioso,governo
+2026-08-02,rzp,4.81,0.2,86,Sionismo religioso,governo
+2026-08-03,rzp,4.82,0.2,85,Sionismo religioso,governo
+2026-08-04,rzp,4.83,0.2,84,Sionismo religioso,governo
+2026-08-05,rzp,4.84,0.2,83,Sionismo religioso,governo
+2026-08-06,rzp,4.85,0.2,82,Sionismo religioso,governo
+2026-08-07,rzp,4.87,0.2,81,Sionismo religioso,governo
+2026-08-08,rzp,4.88,0.2,80,Sionismo religioso,governo
+2026-08-09,rzp,4.89,0.2,79,Sionismo religioso,governo
+2026-08-10,rzp,4.9,0.2,78,Sionismo religioso,governo
+2026-08-11,rzp,4.91,0.2,77,Sionismo religioso,governo
+2026-08-12,rzp,4.92,0.2,76,Sionismo religioso,governo
+2026-08-13,rzp,4.93,0.2,75,Sionismo religioso,governo
+2026-08-14,rzp,4.94,0.2,74,Sionismo religioso,governo
+2026-08-15,rzp,4.96,0.2,73,Sionismo religioso,governo
+2026-08-16,rzp,4.97,0.19,72,Sionismo religioso,governo
+2026-08-17,rzp,4.99,0.19,71,Sionismo religioso,governo
+2026-08-18,rzp,5.01,0.19,70,Sionismo religioso,governo
+2026-08-19,rzp,5.02,0.19,69,Sionismo religioso,governo
+2026-08-20,rzp,5.04,0.19,68,Sionismo religioso,governo
+2026-08-21,rzp,5.06,0.19,67,Sionismo religioso,governo
+2026-08-22,rzp,5.08,0.19,66,Sionismo religioso,governo
+2026-08-23,rzp,5.09,0.19,65,Sionismo religioso,governo
+2026-08-24,rzp,5.11,0.19,64,Sionismo religioso,governo
+2026-08-25,rzp,5.13,0.19,63,Sionismo religioso,governo
+2026-08-26,rzp,5.16,0.19,62,Sionismo religioso,governo
+2026-08-27,rzp,5.2,0.19,61,Sionismo religioso,governo
+2026-08-28,rzp,5.24,0.19,60,Sionismo religioso,governo
+2026-08-29,rzp,5.28,0.19,59,Sionismo religioso,governo
+2026-08-30,rzp,5.32,0.19,58,Sionismo religioso,governo
+2026-08-31,rzp,5.36,0.19,57,Sionismo religioso,governo
+2026-09-01,rzp,5.39,0.19,56,Sionismo religioso,governo
+2026-09-02,rzp,5.43,0.19,55,Sionismo religioso,governo
+2026-09-03,rzp,5.46,0.19,54,Sionismo religioso,governo
+2026-09-04,rzp,5.49,0.19,53,Sionismo religioso,governo
+2026-09-05,rzp,5.52,0.19,52,Sionismo religioso,governo
+2026-09-06,rzp,5.55,0.19,51,Sionismo religioso,governo
+2026-09-07,rzp,5.58,0.19,50,Sionismo religioso,governo
+2026-09-08,rzp,5.59,0.19,49,Sionismo religioso,governo
+2026-09-09,rzp,5.6,0.18,48,Sionismo religioso,governo
+2026-09-10,rzp,5.62,0.19,47,Sionismo religioso,governo
+2026-09-11,rzp,5.64,0.19,46,Sionismo religioso,governo
+2026-09-12,rzp,5.66,0.2,45,Sionismo religioso,governo
+2026-09-13,rzp,5.68,0.2,44,Sionismo religioso,governo
+2026-09-14,rzp,5.7,0.2,43,Sionismo religioso,governo
+2026-09-15,rzp,5.72,0.2,42,Sionismo religioso,governo
+2026-09-16,rzp,5.73,0.2,41,Sionismo religioso,governo
+2026-09-17,rzp,5.74,0.2,40,Sionismo religioso,governo
+2026-09-18,rzp,5.75,0.2,39,Sionismo religioso,governo
+2026-09-19,rzp,5.76,0.2,38,Sionismo religioso,governo
+2026-09-20,rzp,5.77,0.2,37,Sionismo religioso,governo
+2026-09-21,rzp,5.78,0.2,36,Sionismo religioso,governo
+2026-09-22,rzp,5.79,0.2,35,Sionismo religioso,governo
+2026-09-23,rzp,5.81,0.2,34,Sionismo religioso,governo
+2026-09-24,rzp,5.82,0.2,33,Sionismo religioso,governo
+2026-09-25,rzp,5.84,0.2,32,Sionismo religioso,governo
+2026-09-26,rzp,5.86,0.2,31,Sionismo religioso,governo
+2026-09-27,rzp,5.88,0.2,30,Sionismo religioso,governo
+2026-09-28,rzp,5.9,0.2,29,Sionismo religioso,governo
+2026-09-29,rzp,5.91,0.2,28,Sionismo religioso,governo
+2026-09-30,rzp,5.93,0.2,27,Sionismo religioso,governo
+2026-10-01,rzp,5.94,0.2,26,Sionismo religioso,governo
+2026-10-02,rzp,5.96,0.2,25,Sionismo religioso,governo
+2026-10-03,rzp,5.97,0.2,24,Sionismo religioso,governo
+2026-10-04,rzp,5.99,0.2,23,Sionismo religioso,governo
+2026-10-05,rzp,6,0.2,22,Sionismo religioso,governo
+2026-10-06,rzp,6.02,0.19,21,Sionismo religioso,governo
+2026-10-07,rzp,6.03,0.19,20,Sionismo religioso,governo
+2026-10-08,rzp,6.05,0.19,19,Sionismo religioso,governo
+2026-10-09,rzp,6.07,0.19,18,Sionismo religioso,governo
+2026-10-10,rzp,6.1,0.19,17,Sionismo religioso,governo
+2026-10-11,rzp,6.12,0.19,16,Sionismo religioso,governo
+2026-10-12,rzp,6.14,0.19,15,Sionismo religioso,governo
+2026-10-13,rzp,6.17,0.19,14,Sionismo religioso,governo
+2026-10-14,rzp,6.19,0.19,13,Sionismo religioso,governo
+2026-10-15,rzp,6.21,0.19,12,Sionismo religioso,governo
+2026-10-16,rzp,6.23,0.19,11,Sionismo religioso,governo
+2026-10-17,rzp,6.26,0.19,10,Sionismo religioso,governo
+2026-10-18,rzp,6.28,0.19,9,Sionismo religioso,governo
+2026-10-19,rzp,6.3,0.18,8,Sionismo religioso,governo
+2026-10-20,rzp,6.32,0.18,7,Sionismo religioso,governo
+2026-10-21,rzp,6.33,0.18,6,Sionismo religioso,governo
+2026-10-22,rzp,6.34,0.19,5,Sionismo religioso,governo
+2026-10-23,rzp,6.35,0.2,4,Sionismo religioso,governo
+2026-04-26,shas,9.12,0.38,184,Shas,governo
+2026-04-27,shas,9.11,0.37,183,Shas,governo
+2026-04-28,shas,9.1,0.37,182,Shas,governo
+2026-04-29,shas,9.09,0.36,181,Shas,governo
+2026-04-30,shas,9.09,0.36,180,Shas,governo
+2026-05-01,shas,9.08,0.36,179,Shas,governo
+2026-05-02,shas,9.08,0.35,178,Shas,governo
+2026-05-03,shas,9.07,0.35,177,Shas,governo
+2026-05-04,shas,9.07,0.35,176,Shas,governo
+2026-05-05,shas,9.07,0.34,175,Shas,governo
+2026-05-06,shas,9.06,0.34,174,Shas,governo
+2026-05-07,shas,9.06,0.33,173,Shas,governo
+2026-05-08,shas,9.06,0.33,172,Shas,governo
+2026-05-09,shas,9.06,0.33,171,Shas,governo
+2026-05-10,shas,9.06,0.33,170,Shas,governo
+2026-05-11,shas,9.07,0.32,169,Shas,governo
+2026-05-12,shas,9.07,0.32,168,Shas,governo
+2026-05-13,shas,9.06,0.32,167,Shas,governo
+2026-05-14,shas,9.06,0.32,166,Shas,governo
+2026-05-15,shas,9.06,0.32,165,Shas,governo
+2026-05-16,shas,9.05,0.32,164,Shas,governo
+2026-05-17,shas,9.05,0.32,163,Shas,governo
+2026-05-18,shas,9.05,0.31,162,Shas,governo
+2026-05-19,shas,9.04,0.31,161,Shas,governo
+2026-05-20,shas,9.04,0.31,160,Shas,governo
+2026-05-21,shas,9.03,0.31,159,Shas,governo
+2026-05-22,shas,9.03,0.32,158,Shas,governo
+2026-05-23,shas,9.02,0.32,157,Shas,governo
+2026-05-24,shas,9.02,0.32,156,Shas,governo
+2026-05-25,shas,9.01,0.32,155,Shas,governo
+2026-05-26,shas,9.01,0.32,154,Shas,governo
+2026-05-27,shas,9,0.32,153,Shas,governo
+2026-05-28,shas,9,0.32,152,Shas,governo
+2026-05-29,shas,8.99,0.32,151,Shas,governo
+2026-05-30,shas,8.99,0.32,150,Shas,governo
+2026-05-31,shas,8.98,0.31,149,Shas,governo
+2026-06-01,shas,8.98,0.31,148,Shas,governo
+2026-06-02,shas,8.98,0.31,147,Shas,governo
+2026-06-03,shas,8.97,0.31,146,Shas,governo
+2026-06-04,shas,8.96,0.3,145,Shas,governo
+2026-06-05,shas,8.96,0.3,144,Shas,governo
+2026-06-06,shas,8.96,0.3,143,Shas,governo
+2026-06-07,shas,8.95,0.3,142,Shas,governo
+2026-06-08,shas,8.95,0.3,141,Shas,governo
+2026-06-09,shas,8.95,0.3,140,Shas,governo
+2026-06-10,shas,8.94,0.3,139,Shas,governo
+2026-06-11,shas,8.94,0.29,138,Shas,governo
+2026-06-12,shas,8.94,0.29,137,Shas,governo
+2026-06-13,shas,8.93,0.29,136,Shas,governo
+2026-06-14,shas,8.93,0.29,135,Shas,governo
+2026-06-15,shas,8.93,0.29,134,Shas,governo
+2026-06-16,shas,8.93,0.28,133,Shas,governo
+2026-06-17,shas,8.92,0.28,132,Shas,governo
+2026-06-18,shas,8.91,0.28,131,Shas,governo
+2026-06-19,shas,8.9,0.28,130,Shas,governo
+2026-06-20,shas,8.9,0.28,129,Shas,governo
+2026-06-21,shas,8.89,0.28,128,Shas,governo
+2026-06-22,shas,8.88,0.28,127,Shas,governo
+2026-06-23,shas,8.87,0.28,126,Shas,governo
+2026-06-24,shas,8.86,0.27,125,Shas,governo
+2026-06-25,shas,8.86,0.27,124,Shas,governo
+2026-06-26,shas,8.85,0.28,123,Shas,governo
+2026-06-27,shas,8.84,0.28,122,Shas,governo
+2026-06-28,shas,8.83,0.28,121,Shas,governo
+2026-06-29,shas,8.82,0.28,120,Shas,governo
+2026-06-30,shas,8.81,0.27,119,Shas,governo
+2026-07-01,shas,8.79,0.27,118,Shas,governo
+2026-07-02,shas,8.77,0.28,117,Shas,governo
+2026-07-03,shas,8.75,0.28,116,Shas,governo
+2026-07-04,shas,8.73,0.28,115,Shas,governo
+2026-07-05,shas,8.71,0.28,114,Shas,governo
+2026-07-06,shas,8.69,0.28,113,Shas,governo
+2026-07-07,shas,8.67,0.28,112,Shas,governo
+2026-07-08,shas,8.65,0.27,111,Shas,governo
+2026-07-09,shas,8.63,0.27,110,Shas,governo
+2026-07-10,shas,8.61,0.27,109,Shas,governo
+2026-07-11,shas,8.59,0.27,108,Shas,governo
+2026-07-12,shas,8.57,0.27,107,Shas,governo
+2026-07-13,shas,8.55,0.27,106,Shas,governo
+2026-07-14,shas,8.53,0.27,105,Shas,governo
+2026-07-15,shas,8.51,0.27,104,Shas,governo
+2026-07-16,shas,8.49,0.27,103,Shas,governo
+2026-07-17,shas,8.47,0.27,102,Shas,governo
+2026-07-18,shas,8.46,0.27,101,Shas,governo
+2026-07-19,shas,8.44,0.27,100,Shas,governo
+2026-07-20,shas,8.43,0.27,99,Shas,governo
+2026-07-21,shas,8.41,0.27,98,Shas,governo
+2026-07-22,shas,8.39,0.27,97,Shas,governo
+2026-07-23,shas,8.37,0.27,96,Shas,governo
+2026-07-24,shas,8.35,0.27,95,Shas,governo
+2026-07-25,shas,8.34,0.26,94,Shas,governo
+2026-07-26,shas,8.32,0.26,93,Shas,governo
+2026-07-27,shas,8.3,0.26,92,Shas,governo
+2026-07-28,shas,8.27,0.26,91,Shas,governo
+2026-07-29,shas,8.25,0.26,90,Shas,governo
+2026-07-30,shas,8.24,0.26,89,Shas,governo
+2026-07-31,shas,8.22,0.26,88,Shas,governo
+2026-08-01,shas,8.21,0.26,87,Shas,governo
+2026-08-02,shas,8.19,0.26,86,Shas,governo
+2026-08-03,shas,8.18,0.26,85,Shas,governo
+2026-08-04,shas,8.16,0.25,84,Shas,governo
+2026-08-05,shas,8.15,0.25,83,Shas,governo
+2026-08-06,shas,8.13,0.25,82,Shas,governo
+2026-08-07,shas,8.12,0.25,81,Shas,governo
+2026-08-08,shas,8.11,0.25,80,Shas,governo
+2026-08-09,shas,8.1,0.25,79,Shas,governo
+2026-08-10,shas,8.09,0.25,78,Shas,governo
+2026-08-11,shas,8.08,0.25,77,Shas,governo
+2026-08-12,shas,8.06,0.25,76,Shas,governo
+2026-08-13,shas,8.05,0.25,75,Shas,governo
+2026-08-14,shas,8.04,0.25,74,Shas,governo
+2026-08-15,shas,8.04,0.25,73,Shas,governo
+2026-08-16,shas,8.03,0.24,72,Shas,governo
+2026-08-17,shas,8.02,0.24,71,Shas,governo
+2026-08-18,shas,8.02,0.24,70,Shas,governo
+2026-08-19,shas,8.02,0.24,69,Shas,governo
+2026-08-20,shas,8.02,0.24,68,Shas,governo
+2026-08-21,shas,8.01,0.24,67,Shas,governo
+2026-08-22,shas,8.01,0.24,66,Shas,governo
+2026-08-23,shas,8.01,0.24,65,Shas,governo
+2026-08-24,shas,8.01,0.24,64,Shas,governo
+2026-08-25,shas,8.01,0.24,63,Shas,governo
+2026-08-26,shas,8.02,0.23,62,Shas,governo
+2026-08-27,shas,8.01,0.24,61,Shas,governo
+2026-08-28,shas,8,0.24,60,Shas,governo
+2026-08-29,shas,7.99,0.24,59,Shas,governo
+2026-08-30,shas,7.98,0.24,58,Shas,governo
+2026-08-31,shas,7.97,0.23,57,Shas,governo
+2026-09-01,shas,7.97,0.23,56,Shas,governo
+2026-09-02,shas,7.96,0.23,55,Shas,governo
+2026-09-03,shas,7.96,0.23,54,Shas,governo
+2026-09-04,shas,7.95,0.23,53,Shas,governo
+2026-09-05,shas,7.95,0.23,52,Shas,governo
+2026-09-06,shas,7.95,0.23,51,Shas,governo
+2026-09-07,shas,7.94,0.22,50,Shas,governo
+2026-09-08,shas,7.94,0.22,49,Shas,governo
+2026-09-09,shas,7.93,0.22,48,Shas,governo
+2026-09-10,shas,7.92,0.23,47,Shas,governo
+2026-09-11,shas,7.92,0.23,46,Shas,governo
+2026-09-12,shas,7.92,0.24,45,Shas,governo
+2026-09-13,shas,7.91,0.24,44,Shas,governo
+2026-09-14,shas,7.91,0.24,43,Shas,governo
+2026-09-15,shas,7.91,0.24,42,Shas,governo
+2026-09-16,shas,7.91,0.24,41,Shas,governo
+2026-09-17,shas,7.91,0.24,40,Shas,governo
+2026-09-18,shas,7.91,0.24,39,Shas,governo
+2026-09-19,shas,7.91,0.25,38,Shas,governo
+2026-09-20,shas,7.9,0.25,37,Shas,governo
+2026-09-21,shas,7.9,0.25,36,Shas,governo
+2026-09-22,shas,7.9,0.24,35,Shas,governo
+2026-09-23,shas,7.9,0.24,34,Shas,governo
+2026-09-24,shas,7.89,0.24,33,Shas,governo
+2026-09-25,shas,7.88,0.24,32,Shas,governo
+2026-09-26,shas,7.88,0.24,31,Shas,governo
+2026-09-27,shas,7.87,0.24,30,Shas,governo
+2026-09-28,shas,7.86,0.24,29,Shas,governo
+2026-09-29,shas,7.86,0.24,28,Shas,governo
+2026-09-30,shas,7.85,0.24,27,Shas,governo
+2026-10-01,shas,7.84,0.24,26,Shas,governo
+2026-10-02,shas,7.83,0.24,25,Shas,governo
+2026-10-03,shas,7.82,0.24,24,Shas,governo
+2026-10-04,shas,7.8,0.24,23,Shas,governo
+2026-10-05,shas,7.79,0.23,22,Shas,governo
+2026-10-06,shas,7.78,0.23,21,Shas,governo
+2026-10-07,shas,7.76,0.23,20,Shas,governo
+2026-10-08,shas,7.75,0.23,19,Shas,governo
+2026-10-09,shas,7.74,0.23,18,Shas,governo
+2026-10-10,shas,7.72,0.23,17,Shas,governo
+2026-10-11,shas,7.71,0.22,16,Shas,governo
+2026-10-12,shas,7.7,0.22,15,Shas,governo
+2026-10-13,shas,7.68,0.22,14,Shas,governo
+2026-10-14,shas,7.68,0.22,13,Shas,governo
+2026-10-15,shas,7.67,0.22,12,Shas,governo
+2026-10-16,shas,7.67,0.22,11,Shas,governo
+2026-10-17,shas,7.66,0.22,10,Shas,governo
+2026-10-18,shas,7.66,0.21,9,Shas,governo
+2026-10-19,shas,7.65,0.21,8,Shas,governo
+2026-10-20,shas,7.63,0.21,7,Shas,governo
+2026-10-21,shas,7.63,0.21,6,Shas,governo
+2026-10-22,shas,7.62,0.21,5,Shas,governo
+2026-10-23,shas,7.62,0.23,4,Shas,governo
+2026-04-26,together,23.94,0.74,184,Together (Bennett),opposizione
+2026-04-27,together,23.88,0.71,183,Together (Bennett),opposizione
+2026-04-28,together,23.8,0.71,182,Together (Bennett),opposizione
+2026-04-29,together,23.73,0.7,181,Together (Bennett),opposizione
+2026-04-30,together,23.6,0.71,180,Together (Bennett),opposizione
+2026-05-01,together,23.49,0.72,179,Together (Bennett),opposizione
+2026-05-02,together,23.38,0.72,178,Together (Bennett),opposizione
+2026-05-03,together,23.27,0.72,177,Together (Bennett),opposizione
+2026-05-04,together,23.16,0.71,176,Together (Bennett),opposizione
+2026-05-05,together,23.05,0.7,175,Together (Bennett),opposizione
+2026-05-06,together,22.93,0.68,174,Together (Bennett),opposizione
+2026-05-07,together,22.79,0.67,173,Together (Bennett),opposizione
+2026-05-08,together,22.7,0.67,172,Together (Bennett),opposizione
+2026-05-09,together,22.61,0.68,171,Together (Bennett),opposizione
+2026-05-10,together,22.53,0.67,170,Together (Bennett),opposizione
+2026-05-11,together,22.44,0.66,169,Together (Bennett),opposizione
+2026-05-12,together,22.35,0.64,168,Together (Bennett),opposizione
+2026-05-13,together,22.22,0.63,167,Together (Bennett),opposizione
+2026-05-14,together,22.05,0.63,166,Together (Bennett),opposizione
+2026-05-15,together,21.89,0.65,165,Together (Bennett),opposizione
+2026-05-16,together,21.73,0.66,164,Together (Bennett),opposizione
+2026-05-17,together,21.57,0.66,163,Together (Bennett),opposizione
+2026-05-18,together,21.41,0.65,162,Together (Bennett),opposizione
+2026-05-19,together,21.26,0.64,161,Together (Bennett),opposizione
+2026-05-20,together,21.15,0.64,160,Together (Bennett),opposizione
+2026-05-21,together,21.02,0.66,159,Together (Bennett),opposizione
+2026-05-22,together,20.86,0.69,158,Together (Bennett),opposizione
+2026-05-23,together,20.71,0.7,157,Together (Bennett),opposizione
+2026-05-24,together,20.55,0.71,156,Together (Bennett),opposizione
+2026-05-25,together,20.4,0.72,155,Together (Bennett),opposizione
+2026-05-26,together,20.24,0.71,154,Together (Bennett),opposizione
+2026-05-27,together,20.09,0.71,153,Together (Bennett),opposizione
+2026-05-28,together,19.93,0.69,152,Together (Bennett),opposizione
+2026-05-29,together,19.78,0.7,151,Together (Bennett),opposizione
+2026-05-30,together,19.64,0.7,150,Together (Bennett),opposizione
+2026-05-31,together,19.49,0.69,149,Together (Bennett),opposizione
+2026-06-01,together,19.34,0.68,148,Together (Bennett),opposizione
+2026-06-02,together,19.19,0.66,147,Together (Bennett),opposizione
+2026-06-03,together,19.05,0.64,146,Together (Bennett),opposizione
+2026-06-04,together,18.92,0.62,145,Together (Bennett),opposizione
+2026-06-05,together,18.73,0.63,144,Together (Bennett),opposizione
+2026-06-06,together,18.54,0.64,143,Together (Bennett),opposizione
+2026-06-07,together,18.36,0.65,142,Together (Bennett),opposizione
+2026-06-08,together,18.18,0.64,141,Together (Bennett),opposizione
+2026-06-09,together,17.99,0.63,140,Together (Bennett),opposizione
+2026-06-10,together,17.81,0.61,139,Together (Bennett),opposizione
+2026-06-11,together,17.58,0.6,138,Together (Bennett),opposizione
+2026-06-12,together,17.35,0.61,137,Together (Bennett),opposizione
+2026-06-13,together,17.11,0.61,136,Together (Bennett),opposizione
+2026-06-14,together,16.88,0.6,135,Together (Bennett),opposizione
+2026-06-15,together,16.65,0.58,134,Together (Bennett),opposizione
+2026-06-16,together,16.41,0.55,133,Together (Bennett),opposizione
+2026-06-17,together,16.23,0.53,132,Together (Bennett),opposizione
+2026-06-18,together,15.98,0.52,131,Together (Bennett),opposizione
+2026-06-19,together,15.85,0.55,130,Together (Bennett),opposizione
+2026-06-20,together,15.72,0.57,129,Together (Bennett),opposizione
+2026-06-21,together,15.59,0.57,128,Together (Bennett),opposizione
+2026-06-22,together,15.47,0.56,127,Together (Bennett),opposizione
+2026-06-23,together,15.34,0.55,126,Together (Bennett),opposizione
+2026-06-24,together,15.21,0.52,125,Together (Bennett),opposizione
+2026-06-25,together,15.07,0.51,124,Together (Bennett),opposizione
+2026-06-26,together,15.02,0.54,123,Together (Bennett),opposizione
+2026-06-27,together,14.96,0.55,122,Together (Bennett),opposizione
+2026-06-28,together,14.91,0.56,121,Together (Bennett),opposizione
+2026-06-29,together,14.85,0.55,120,Together (Bennett),opposizione
+2026-06-30,together,14.79,0.54,119,Together (Bennett),opposizione
+2026-07-01,together,14.75,0.53,118,Together (Bennett),opposizione
+2026-07-02,together,14.6,0.54,117,Together (Bennett),opposizione
+2026-07-03,together,14.48,0.56,116,Together (Bennett),opposizione
+2026-07-04,together,14.37,0.57,115,Together (Bennett),opposizione
+2026-07-05,together,14.25,0.56,114,Together (Bennett),opposizione
+2026-07-06,together,14.12,0.56,113,Together (Bennett),opposizione
+2026-07-07,together,13.99,0.55,112,Together (Bennett),opposizione
+2026-07-08,together,13.86,0.53,111,Together (Bennett),opposizione
+2026-07-09,together,13.67,0.52,110,Together (Bennett),opposizione
+2026-07-10,together,13.63,0.54,109,Together (Bennett),opposizione
+2026-07-11,together,13.58,0.55,108,Together (Bennett),opposizione
+2026-07-12,together,13.54,0.55,107,Together (Bennett),opposizione
+2026-07-13,together,13.48,0.55,106,Together (Bennett),opposizione
+2026-07-14,together,13.41,0.55,105,Together (Bennett),opposizione
+2026-07-15,together,13.33,0.53,104,Together (Bennett),opposizione
+2026-07-16,together,13.23,0.52,103,Together (Bennett),opposizione
+2026-07-17,together,13.19,0.54,102,Together (Bennett),opposizione
+2026-07-18,together,13.15,0.55,101,Together (Bennett),opposizione
+2026-07-19,together,13.1,0.54,100,Together (Bennett),opposizione
+2026-07-20,together,13.04,0.54,99,Together (Bennett),opposizione
+2026-07-21,together,12.97,0.53,98,Together (Bennett),opposizione
+2026-07-22,together,12.87,0.52,97,Together (Bennett),opposizione
+2026-07-23,together,12.76,0.53,96,Together (Bennett),opposizione
+2026-07-24,together,12.65,0.53,95,Together (Bennett),opposizione
+2026-07-25,together,12.54,0.52,94,Together (Bennett),opposizione
+2026-07-26,together,12.42,0.49,93,Together (Bennett),opposizione
+2026-07-27,together,12.36,0.49,92,Together (Bennett),opposizione
+2026-07-28,together,12.32,0.49,91,Together (Bennett),opposizione
+2026-07-29,together,12.28,0.48,90,Together (Bennett),opposizione
+2026-07-30,together,12.26,0.51,89,Together (Bennett),opposizione
+2026-07-31,together,12.24,0.53,88,Together (Bennett),opposizione
+2026-08-01,together,12.22,0.53,87,Together (Bennett),opposizione
+2026-08-02,together,12.2,0.52,86,Together (Bennett),opposizione
+2026-08-03,together,12.18,0.5,85,Together (Bennett),opposizione
+2026-08-04,together,12.16,0.48,84,Together (Bennett),opposizione
+2026-08-05,together,12.13,0.47,83,Together (Bennett),opposizione
+2026-08-06,together,12.04,0.48,82,Together (Bennett),opposizione
+2026-08-07,together,12.04,0.5,81,Together (Bennett),opposizione
+2026-08-08,together,12.04,0.5,80,Together (Bennett),opposizione
+2026-08-09,together,12.04,0.48,79,Together (Bennett),opposizione
+2026-08-10,together,12.07,0.48,78,Together (Bennett),opposizione
+2026-08-11,together,12.05,0.49,77,Together (Bennett),opposizione
+2026-08-12,together,12.02,0.48,76,Together (Bennett),opposizione
+2026-08-13,together,12.03,0.49,75,Together (Bennett),opposizione
+2026-08-14,together,12.08,0.51,74,Together (Bennett),opposizione
+2026-08-15,together,12.12,0.5,73,Together (Bennett),opposizione
+2026-08-16,together,12.17,0.49,72,Together (Bennett),opposizione
+2026-08-17,together,12.18,0.47,71,Together (Bennett),opposizione
+2026-08-18,together,12.16,0.44,70,Together (Bennett),opposizione
+2026-08-19,together,12.23,0.44,69,Together (Bennett),opposizione
+2026-08-20,together,12.23,0.48,68,Together (Bennett),opposizione
+2026-08-21,together,12.23,0.5,67,Together (Bennett),opposizione
+2026-08-22,together,12.22,0.51,66,Together (Bennett),opposizione
+2026-08-23,together,12.22,0.49,65,Together (Bennett),opposizione
+2026-08-24,together,12.2,0.47,64,Together (Bennett),opposizione
+2026-08-25,together,12.18,0.46,63,Together (Bennett),opposizione
+2026-08-26,together,12.17,0.43,62,Together (Bennett),opposizione
+2026-08-27,together,12.1,0.44,61,Together (Bennett),opposizione
+2026-08-28,together,12.09,0.47,60,Together (Bennett),opposizione
+2026-08-29,together,12.08,0.48,59,Together (Bennett),opposizione
+2026-08-30,together,12.06,0.46,58,Together (Bennett),opposizione
+2026-08-31,together,12.12,0.47,57,Together (Bennett),opposizione
+2026-09-01,together,12.16,0.46,56,Together (Bennett),opposizione
+2026-09-02,together,12.2,0.43,55,Together (Bennett),opposizione
+2026-09-03,together,12.17,0.44,54,Together (Bennett),opposizione
+2026-09-04,together,12.06,0.45,53,Together (Bennett),opposizione
+2026-09-05,together,11.95,0.45,52,Together (Bennett),opposizione
+2026-09-06,together,11.83,0.42,51,Together (Bennett),opposizione
+2026-09-07,together,11.72,0.37,50,Together (Bennett),opposizione
+2026-09-08,together,11.81,0.4,49,Together (Bennett),opposizione
+2026-09-09,together,11.91,0.38,48,Together (Bennett),opposizione
+2026-09-10,together,11.91,0.44,47,Together (Bennett),opposizione
+2026-09-11,together,11.9,0.48,46,Together (Bennett),opposizione
+2026-09-12,together,11.89,0.5,45,Together (Bennett),opposizione
+2026-09-13,together,11.88,0.49,44,Together (Bennett),opposizione
+2026-09-14,together,11.88,0.47,43,Together (Bennett),opposizione
+2026-09-15,together,11.9,0.46,42,Together (Bennett),opposizione
+2026-09-16,together,11.93,0.45,41,Together (Bennett),opposizione
+2026-09-17,together,11.92,0.47,40,Together (Bennett),opposizione
+2026-09-18,together,11.84,0.5,39,Together (Bennett),opposizione
+2026-09-19,together,11.76,0.52,38,Together (Bennett),opposizione
+2026-09-20,together,11.68,0.52,37,Together (Bennett),opposizione
+2026-09-21,together,11.6,0.51,36,Together (Bennett),opposizione
+2026-09-22,together,11.52,0.48,35,Together (Bennett),opposizione
+2026-09-23,together,11.44,0.45,34,Together (Bennett),opposizione
+2026-09-24,together,11.46,0.47,33,Together (Bennett),opposizione
+2026-09-25,together,11.49,0.49,32,Together (Bennett),opposizione
+2026-09-26,together,11.51,0.5,31,Together (Bennett),opposizione
+2026-09-27,together,11.53,0.49,30,Together (Bennett),opposizione
+2026-09-28,together,11.59,0.48,29,Together (Bennett),opposizione
+2026-09-29,together,11.59,0.46,28,Together (Bennett),opposizione
+2026-09-30,together,11.58,0.43,27,Together (Bennett),opposizione
+2026-10-01,together,11.72,0.42,26,Together (Bennett),opposizione
+2026-10-02,together,11.76,0.46,25,Together (Bennett),opposizione
+2026-10-03,together,11.79,0.48,24,Together (Bennett),opposizione
+2026-10-04,together,11.83,0.48,23,Together (Bennett),opposizione
+2026-10-05,together,11.88,0.47,22,Together (Bennett),opposizione
+2026-10-06,together,11.95,0.45,21,Together (Bennett),opposizione
+2026-10-07,together,12.01,0.4,20,Together (Bennett),opposizione
+2026-10-08,together,12.03,0.45,19,Together (Bennett),opposizione
+2026-10-09,together,12.05,0.47,18,Together (Bennett),opposizione
+2026-10-10,together,12.08,0.47,17,Together (Bennett),opposizione
+2026-10-11,together,12.1,0.46,16,Together (Bennett),opposizione
+2026-10-12,together,12.14,0.43,15,Together (Bennett),opposizione
+2026-10-13,together,12.28,0.41,14,Together (Bennett),opposizione
+2026-10-14,together,12.35,0.42,13,Together (Bennett),opposizione
+2026-10-15,together,12.56,0.45,12,Together (Bennett),opposizione
+2026-10-16,together,12.78,0.46,11,Together (Bennett),opposizione
+2026-10-17,together,13,0.45,10,Together (Bennett),opposizione
+2026-10-18,together,13.22,0.41,9,Together (Bennett),opposizione
+2026-10-19,together,13.39,0.37,8,Together (Bennett),opposizione
+2026-10-20,together,13.6,0.33,7,Together (Bennett),opposizione
+2026-10-21,together,13.89,0.32,6,Together (Bennett),opposizione
+2026-10-22,together,14.25,0.32,5,Together (Bennett),opposizione
+2026-10-23,together,14.2,0.42,4,Together (Bennett),opposizione
+2026-04-26,utj,7.48,0.35,184,Giudaismo unito,governo
+2026-04-27,utj,7.48,0.34,183,Giudaismo unito,governo
+2026-04-28,utj,7.48,0.34,182,Giudaismo unito,governo
+2026-04-29,utj,7.48,0.33,181,Giudaismo unito,governo
+2026-04-30,utj,7.48,0.33,180,Giudaismo unito,governo
+2026-05-01,utj,7.48,0.33,179,Giudaismo unito,governo
+2026-05-02,utj,7.48,0.33,178,Giudaismo unito,governo
+2026-05-03,utj,7.49,0.32,177,Giudaismo unito,governo
+2026-05-04,utj,7.49,0.32,176,Giudaismo unito,governo
+2026-05-05,utj,7.49,0.32,175,Giudaismo unito,governo
+2026-05-06,utj,7.49,0.31,174,Giudaismo unito,governo
+2026-05-07,utj,7.49,0.31,173,Giudaismo unito,governo
+2026-05-08,utj,7.49,0.31,172,Giudaismo unito,governo
+2026-05-09,utj,7.49,0.31,171,Giudaismo unito,governo
+2026-05-10,utj,7.49,0.3,170,Giudaismo unito,governo
+2026-05-11,utj,7.49,0.3,169,Giudaismo unito,governo
+2026-05-12,utj,7.49,0.3,168,Giudaismo unito,governo
+2026-05-13,utj,7.49,0.29,167,Giudaismo unito,governo
+2026-05-14,utj,7.49,0.29,166,Giudaismo unito,governo
+2026-05-15,utj,7.49,0.29,165,Giudaismo unito,governo
+2026-05-16,utj,7.49,0.29,164,Giudaismo unito,governo
+2026-05-17,utj,7.5,0.29,163,Giudaismo unito,governo
+2026-05-18,utj,7.5,0.29,162,Giudaismo unito,governo
+2026-05-19,utj,7.5,0.29,161,Giudaismo unito,governo
+2026-05-20,utj,7.5,0.29,160,Giudaismo unito,governo
+2026-05-21,utj,7.5,0.29,159,Giudaismo unito,governo
+2026-05-22,utj,7.5,0.3,158,Giudaismo unito,governo
+2026-05-23,utj,7.5,0.3,157,Giudaismo unito,governo
+2026-05-24,utj,7.5,0.3,156,Giudaismo unito,governo
+2026-05-25,utj,7.49,0.3,155,Giudaismo unito,governo
+2026-05-26,utj,7.49,0.3,154,Giudaismo unito,governo
+2026-05-27,utj,7.49,0.3,153,Giudaismo unito,governo
+2026-05-28,utj,7.49,0.3,152,Giudaismo unito,governo
+2026-05-29,utj,7.49,0.3,151,Giudaismo unito,governo
+2026-05-30,utj,7.49,0.3,150,Giudaismo unito,governo
+2026-05-31,utj,7.49,0.29,149,Giudaismo unito,governo
+2026-06-01,utj,7.49,0.29,148,Giudaismo unito,governo
+2026-06-02,utj,7.49,0.29,147,Giudaismo unito,governo
+2026-06-03,utj,7.49,0.29,146,Giudaismo unito,governo
+2026-06-04,utj,7.48,0.28,145,Giudaismo unito,governo
+2026-06-05,utj,7.49,0.28,144,Giudaismo unito,governo
+2026-06-06,utj,7.49,0.28,143,Giudaismo unito,governo
+2026-06-07,utj,7.49,0.28,142,Giudaismo unito,governo
+2026-06-08,utj,7.5,0.28,141,Giudaismo unito,governo
+2026-06-09,utj,7.5,0.28,140,Giudaismo unito,governo
+2026-06-10,utj,7.5,0.28,139,Giudaismo unito,governo
+2026-06-11,utj,7.51,0.28,138,Giudaismo unito,governo
+2026-06-12,utj,7.52,0.28,137,Giudaismo unito,governo
+2026-06-13,utj,7.52,0.27,136,Giudaismo unito,governo
+2026-06-14,utj,7.53,0.27,135,Giudaismo unito,governo
+2026-06-15,utj,7.54,0.27,134,Giudaismo unito,governo
+2026-06-16,utj,7.55,0.27,133,Giudaismo unito,governo
+2026-06-17,utj,7.56,0.26,132,Giudaismo unito,governo
+2026-06-18,utj,7.57,0.26,131,Giudaismo unito,governo
+2026-06-19,utj,7.57,0.26,130,Giudaismo unito,governo
+2026-06-20,utj,7.58,0.27,129,Giudaismo unito,governo
+2026-06-21,utj,7.59,0.26,128,Giudaismo unito,governo
+2026-06-22,utj,7.6,0.26,127,Giudaismo unito,governo
+2026-06-23,utj,7.6,0.26,126,Giudaismo unito,governo
+2026-06-24,utj,7.61,0.26,125,Giudaismo unito,governo
+2026-06-25,utj,7.62,0.26,124,Giudaismo unito,governo
+2026-06-26,utj,7.63,0.26,123,Giudaismo unito,governo
+2026-06-27,utj,7.65,0.26,122,Giudaismo unito,governo
+2026-06-28,utj,7.66,0.26,121,Giudaismo unito,governo
+2026-06-29,utj,7.67,0.26,120,Giudaismo unito,governo
+2026-06-30,utj,7.68,0.26,119,Giudaismo unito,governo
+2026-07-01,utj,7.7,0.26,118,Giudaismo unito,governo
+2026-07-02,utj,7.71,0.26,117,Giudaismo unito,governo
+2026-07-03,utj,7.72,0.26,116,Giudaismo unito,governo
+2026-07-04,utj,7.74,0.26,115,Giudaismo unito,governo
+2026-07-05,utj,7.75,0.26,114,Giudaismo unito,governo
+2026-07-06,utj,7.76,0.26,113,Giudaismo unito,governo
+2026-07-07,utj,7.77,0.26,112,Giudaismo unito,governo
+2026-07-08,utj,7.79,0.26,111,Giudaismo unito,governo
+2026-07-09,utj,7.8,0.26,110,Giudaismo unito,governo
+2026-07-10,utj,7.8,0.26,109,Giudaismo unito,governo
+2026-07-11,utj,7.81,0.27,108,Giudaismo unito,governo
+2026-07-12,utj,7.81,0.26,107,Giudaismo unito,governo
+2026-07-13,utj,7.82,0.26,106,Giudaismo unito,governo
+2026-07-14,utj,7.82,0.26,105,Giudaismo unito,governo
+2026-07-15,utj,7.83,0.26,104,Giudaismo unito,governo
+2026-07-16,utj,7.83,0.26,103,Giudaismo unito,governo
+2026-07-17,utj,7.84,0.26,102,Giudaismo unito,governo
+2026-07-18,utj,7.84,0.26,101,Giudaismo unito,governo
+2026-07-19,utj,7.84,0.26,100,Giudaismo unito,governo
+2026-07-20,utj,7.85,0.26,99,Giudaismo unito,governo
+2026-07-21,utj,7.85,0.26,98,Giudaismo unito,governo
+2026-07-22,utj,7.85,0.26,97,Giudaismo unito,governo
+2026-07-23,utj,7.85,0.26,96,Giudaismo unito,governo
+2026-07-24,utj,7.85,0.26,95,Giudaismo unito,governo
+2026-07-25,utj,7.85,0.26,94,Giudaismo unito,governo
+2026-07-26,utj,7.85,0.25,93,Giudaismo unito,governo
+2026-07-27,utj,7.86,0.25,92,Giudaismo unito,governo
+2026-07-28,utj,7.86,0.25,91,Giudaismo unito,governo
+2026-07-29,utj,7.87,0.25,90,Giudaismo unito,governo
+2026-07-30,utj,7.87,0.25,89,Giudaismo unito,governo
+2026-07-31,utj,7.87,0.25,88,Giudaismo unito,governo
+2026-08-01,utj,7.86,0.25,87,Giudaismo unito,governo
+2026-08-02,utj,7.86,0.25,86,Giudaismo unito,governo
+2026-08-03,utj,7.86,0.25,85,Giudaismo unito,governo
+2026-08-04,utj,7.86,0.25,84,Giudaismo unito,governo
+2026-08-05,utj,7.86,0.25,83,Giudaismo unito,governo
+2026-08-06,utj,7.85,0.25,82,Giudaismo unito,governo
+2026-08-07,utj,7.84,0.25,81,Giudaismo unito,governo
+2026-08-08,utj,7.83,0.25,80,Giudaismo unito,governo
+2026-08-09,utj,7.82,0.24,79,Giudaismo unito,governo
+2026-08-10,utj,7.82,0.24,78,Giudaismo unito,governo
+2026-08-11,utj,7.82,0.24,77,Giudaismo unito,governo
+2026-08-12,utj,7.81,0.24,76,Giudaismo unito,governo
+2026-08-13,utj,7.81,0.24,75,Giudaismo unito,governo
+2026-08-14,utj,7.8,0.24,74,Giudaismo unito,governo
+2026-08-15,utj,7.79,0.24,73,Giudaismo unito,governo
+2026-08-16,utj,7.78,0.24,72,Giudaismo unito,governo
+2026-08-17,utj,7.77,0.24,71,Giudaismo unito,governo
+2026-08-18,utj,7.76,0.23,70,Giudaismo unito,governo
+2026-08-19,utj,7.76,0.23,69,Giudaismo unito,governo
+2026-08-20,utj,7.75,0.24,68,Giudaismo unito,governo
+2026-08-21,utj,7.74,0.24,67,Giudaismo unito,governo
+2026-08-22,utj,7.73,0.24,66,Giudaismo unito,governo
+2026-08-23,utj,7.72,0.24,65,Giudaismo unito,governo
+2026-08-24,utj,7.71,0.23,64,Giudaismo unito,governo
+2026-08-25,utj,7.7,0.23,63,Giudaismo unito,governo
+2026-08-26,utj,7.69,0.23,62,Giudaismo unito,governo
+2026-08-27,utj,7.68,0.23,61,Giudaismo unito,governo
+2026-08-28,utj,7.67,0.23,60,Giudaismo unito,governo
+2026-08-29,utj,7.67,0.23,59,Giudaismo unito,governo
+2026-08-30,utj,7.67,0.23,58,Giudaismo unito,governo
+2026-08-31,utj,7.66,0.23,57,Giudaismo unito,governo
+2026-09-01,utj,7.66,0.23,56,Giudaismo unito,governo
+2026-09-02,utj,7.66,0.22,55,Giudaismo unito,governo
+2026-09-03,utj,7.65,0.22,54,Giudaismo unito,governo
+2026-09-04,utj,7.64,0.22,53,Giudaismo unito,governo
+2026-09-05,utj,7.63,0.22,52,Giudaismo unito,governo
+2026-09-06,utj,7.63,0.22,51,Giudaismo unito,governo
+2026-09-07,utj,7.62,0.21,50,Giudaismo unito,governo
+2026-09-08,utj,7.61,0.22,49,Giudaismo unito,governo
+2026-09-09,utj,7.61,0.22,48,Giudaismo unito,governo
+2026-09-10,utj,7.61,0.22,47,Giudaismo unito,governo
+2026-09-11,utj,7.6,0.23,46,Giudaismo unito,governo
+2026-09-12,utj,7.6,0.23,45,Giudaismo unito,governo
+2026-09-13,utj,7.59,0.23,44,Giudaismo unito,governo
+2026-09-14,utj,7.58,0.23,43,Giudaismo unito,governo
+2026-09-15,utj,7.58,0.23,42,Giudaismo unito,governo
+2026-09-16,utj,7.58,0.23,41,Giudaismo unito,governo
+2026-09-17,utj,7.58,0.23,40,Giudaismo unito,governo
+2026-09-18,utj,7.57,0.24,39,Giudaismo unito,governo
+2026-09-19,utj,7.57,0.24,38,Giudaismo unito,governo
+2026-09-20,utj,7.57,0.24,37,Giudaismo unito,governo
+2026-09-21,utj,7.57,0.24,36,Giudaismo unito,governo
+2026-09-22,utj,7.56,0.24,35,Giudaismo unito,governo
+2026-09-23,utj,7.56,0.23,34,Giudaismo unito,governo
+2026-09-24,utj,7.57,0.23,33,Giudaismo unito,governo
+2026-09-25,utj,7.58,0.24,32,Giudaismo unito,governo
+2026-09-26,utj,7.59,0.24,31,Giudaismo unito,governo
+2026-09-27,utj,7.6,0.24,30,Giudaismo unito,governo
+2026-09-28,utj,7.62,0.23,29,Giudaismo unito,governo
+2026-09-29,utj,7.63,0.23,28,Giudaismo unito,governo
+2026-09-30,utj,7.64,0.23,27,Giudaismo unito,governo
+2026-10-01,utj,7.66,0.23,26,Giudaismo unito,governo
+2026-10-02,utj,7.67,0.23,25,Giudaismo unito,governo
+2026-10-03,utj,7.68,0.23,24,Giudaismo unito,governo
+2026-10-04,utj,7.68,0.23,23,Giudaismo unito,governo
+2026-10-05,utj,7.69,0.23,22,Giudaismo unito,governo
+2026-10-06,utj,7.7,0.23,21,Giudaismo unito,governo
+2026-10-07,utj,7.71,0.22,20,Giudaismo unito,governo
+2026-10-08,utj,7.71,0.22,19,Giudaismo unito,governo
+2026-10-09,utj,7.71,0.22,18,Giudaismo unito,governo
+2026-10-10,utj,7.71,0.22,17,Giudaismo unito,governo
+2026-10-11,utj,7.72,0.22,16,Giudaismo unito,governo
+2026-10-12,utj,7.72,0.22,15,Giudaismo unito,governo
+2026-10-13,utj,7.72,0.21,14,Giudaismo unito,governo
+2026-10-14,utj,7.71,0.21,13,Giudaismo unito,governo
+2026-10-15,utj,7.7,0.21,12,Giudaismo unito,governo
+2026-10-16,utj,7.69,0.21,11,Giudaismo unito,governo
+2026-10-17,utj,7.68,0.21,10,Giudaismo unito,governo
+2026-10-18,utj,7.67,0.21,9,Giudaismo unito,governo
+2026-10-19,utj,7.66,0.2,8,Giudaismo unito,governo
+2026-10-20,utj,7.66,0.2,7,Giudaismo unito,governo
+2026-10-21,utj,7.66,0.2,6,Giudaismo unito,governo
+2026-10-22,utj,7.67,0.21,5,Giudaismo unito,governo
+2026-10-23,utj,7.67,0.22,4,Giudaismo unito,governo
+2026-04-26,yashar,12.32,0.62,184,Yashar (Eisenkot),opposizione
+2026-04-27,yashar,12.67,0.59,183,Yashar (Eisenkot),opposizione
+2026-04-28,yashar,12.87,0.62,182,Yashar (Eisenkot),opposizione
+2026-04-29,yashar,13.06,0.63,181,Yashar (Eisenkot),opposizione
+2026-04-30,yashar,13.22,0.65,180,Yashar (Eisenkot),opposizione
+2026-05-01,yashar,13.32,0.68,179,Yashar (Eisenkot),opposizione
+2026-05-02,yashar,13.41,0.7,178,Yashar (Eisenkot),opposizione
+2026-05-03,yashar,13.51,0.7,177,Yashar (Eisenkot),opposizione
+2026-05-04,yashar,13.6,0.7,176,Yashar (Eisenkot),opposizione
+2026-05-05,yashar,13.7,0.68,175,Yashar (Eisenkot),opposizione
+2026-05-06,yashar,13.8,0.65,174,Yashar (Eisenkot),opposizione
+2026-05-07,yashar,13.89,0.64,173,Yashar (Eisenkot),opposizione
+2026-05-08,yashar,14.01,0.66,172,Yashar (Eisenkot),opposizione
+2026-05-09,yashar,14.12,0.67,171,Yashar (Eisenkot),opposizione
+2026-05-10,yashar,14.24,0.67,170,Yashar (Eisenkot),opposizione
+2026-05-11,yashar,14.35,0.65,169,Yashar (Eisenkot),opposizione
+2026-05-12,yashar,14.46,0.62,168,Yashar (Eisenkot),opposizione
+2026-05-13,yashar,14.55,0.6,167,Yashar (Eisenkot),opposizione
+2026-05-14,yashar,14.66,0.61,166,Yashar (Eisenkot),opposizione
+2026-05-15,yashar,14.79,0.64,165,Yashar (Eisenkot),opposizione
+2026-05-16,yashar,14.92,0.66,164,Yashar (Eisenkot),opposizione
+2026-05-17,yashar,15.06,0.67,163,Yashar (Eisenkot),opposizione
+2026-05-18,yashar,15.19,0.66,162,Yashar (Eisenkot),opposizione
+2026-05-19,yashar,15.32,0.64,161,Yashar (Eisenkot),opposizione
+2026-05-20,yashar,15.4,0.64,160,Yashar (Eisenkot),opposizione
+2026-05-21,yashar,15.5,0.67,159,Yashar (Eisenkot),opposizione
+2026-05-22,yashar,15.62,0.71,158,Yashar (Eisenkot),opposizione
+2026-05-23,yashar,15.75,0.74,157,Yashar (Eisenkot),opposizione
+2026-05-24,yashar,15.87,0.76,156,Yashar (Eisenkot),opposizione
+2026-05-25,yashar,15.99,0.76,155,Yashar (Eisenkot),opposizione
+2026-05-26,yashar,16.12,0.76,154,Yashar (Eisenkot),opposizione
+2026-05-27,yashar,16.24,0.75,153,Yashar (Eisenkot),opposizione
+2026-05-28,yashar,16.36,0.74,152,Yashar (Eisenkot),opposizione
+2026-05-29,yashar,16.51,0.75,151,Yashar (Eisenkot),opposizione
+2026-05-30,yashar,16.65,0.75,150,Yashar (Eisenkot),opposizione
+2026-05-31,yashar,16.79,0.75,149,Yashar (Eisenkot),opposizione
+2026-06-01,yashar,16.93,0.73,148,Yashar (Eisenkot),opposizione
+2026-06-02,yashar,17.07,0.71,147,Yashar (Eisenkot),opposizione
+2026-06-03,yashar,17.21,0.67,146,Yashar (Eisenkot),opposizione
+2026-06-04,yashar,17.37,0.66,145,Yashar (Eisenkot),opposizione
+2026-06-05,yashar,17.53,0.67,144,Yashar (Eisenkot),opposizione
+2026-06-06,yashar,17.7,0.7,143,Yashar (Eisenkot),opposizione
+2026-06-07,yashar,17.87,0.71,142,Yashar (Eisenkot),opposizione
+2026-06-08,yashar,18.04,0.71,141,Yashar (Eisenkot),opposizione
+2026-06-09,yashar,18.21,0.69,140,Yashar (Eisenkot),opposizione
+2026-06-10,yashar,18.38,0.67,139,Yashar (Eisenkot),opposizione
+2026-06-11,yashar,18.55,0.66,138,Yashar (Eisenkot),opposizione
+2026-06-12,yashar,18.78,0.68,137,Yashar (Eisenkot),opposizione
+2026-06-13,yashar,19.01,0.69,136,Yashar (Eisenkot),opposizione
+2026-06-14,yashar,19.23,0.68,135,Yashar (Eisenkot),opposizione
+2026-06-15,yashar,19.46,0.66,134,Yashar (Eisenkot),opposizione
+2026-06-16,yashar,19.69,0.63,133,Yashar (Eisenkot),opposizione
+2026-06-17,yashar,19.91,0.61,132,Yashar (Eisenkot),opposizione
+2026-06-18,yashar,20.07,0.61,131,Yashar (Eisenkot),opposizione
+2026-06-19,yashar,20.17,0.64,130,Yashar (Eisenkot),opposizione
+2026-06-20,yashar,20.26,0.66,129,Yashar (Eisenkot),opposizione
+2026-06-21,yashar,20.35,0.67,128,Yashar (Eisenkot),opposizione
+2026-06-22,yashar,20.45,0.66,127,Yashar (Eisenkot),opposizione
+2026-06-23,yashar,20.54,0.64,126,Yashar (Eisenkot),opposizione
+2026-06-24,yashar,20.64,0.6,125,Yashar (Eisenkot),opposizione
+2026-06-25,yashar,20.69,0.6,124,Yashar (Eisenkot),opposizione
+2026-06-26,yashar,20.75,0.63,123,Yashar (Eisenkot),opposizione
+2026-06-27,yashar,20.81,0.65,122,Yashar (Eisenkot),opposizione
+2026-06-28,yashar,20.86,0.65,121,Yashar (Eisenkot),opposizione
+2026-06-29,yashar,20.92,0.64,120,Yashar (Eisenkot),opposizione
+2026-06-30,yashar,20.97,0.63,119,Yashar (Eisenkot),opposizione
+2026-07-01,yashar,21.05,0.61,118,Yashar (Eisenkot),opposizione
+2026-07-02,yashar,21.17,0.64,117,Yashar (Eisenkot),opposizione
+2026-07-03,yashar,21.29,0.66,116,Yashar (Eisenkot),opposizione
+2026-07-04,yashar,21.41,0.67,115,Yashar (Eisenkot),opposizione
+2026-07-05,yashar,21.54,0.67,114,Yashar (Eisenkot),opposizione
+2026-07-06,yashar,21.64,0.67,113,Yashar (Eisenkot),opposizione
+2026-07-07,yashar,21.74,0.66,112,Yashar (Eisenkot),opposizione
+2026-07-08,yashar,21.83,0.65,111,Yashar (Eisenkot),opposizione
+2026-07-09,yashar,21.9,0.64,110,Yashar (Eisenkot),opposizione
+2026-07-10,yashar,21.95,0.66,109,Yashar (Eisenkot),opposizione
+2026-07-11,yashar,22,0.67,108,Yashar (Eisenkot),opposizione
+2026-07-12,yashar,22.04,0.67,107,Yashar (Eisenkot),opposizione
+2026-07-13,yashar,22.06,0.67,106,Yashar (Eisenkot),opposizione
+2026-07-14,yashar,22.08,0.67,105,Yashar (Eisenkot),opposizione
+2026-07-15,yashar,22.11,0.65,104,Yashar (Eisenkot),opposizione
+2026-07-16,yashar,22.14,0.65,103,Yashar (Eisenkot),opposizione
+2026-07-17,yashar,22.16,0.65,102,Yashar (Eisenkot),opposizione
+2026-07-18,yashar,22.19,0.66,101,Yashar (Eisenkot),opposizione
+2026-07-19,yashar,22.22,0.65,100,Yashar (Eisenkot),opposizione
+2026-07-20,yashar,22.26,0.65,99,Yashar (Eisenkot),opposizione
+2026-07-21,yashar,22.29,0.64,98,Yashar (Eisenkot),opposizione
+2026-07-22,yashar,22.36,0.64,97,Yashar (Eisenkot),opposizione
+2026-07-23,yashar,22.39,0.65,96,Yashar (Eisenkot),opposizione
+2026-07-24,yashar,22.41,0.65,95,Yashar (Eisenkot),opposizione
+2026-07-25,yashar,22.44,0.65,94,Yashar (Eisenkot),opposizione
+2026-07-26,yashar,22.47,0.62,93,Yashar (Eisenkot),opposizione
+2026-07-27,yashar,22.49,0.62,92,Yashar (Eisenkot),opposizione
+2026-07-28,yashar,22.53,0.62,91,Yashar (Eisenkot),opposizione
+2026-07-29,yashar,22.57,0.61,90,Yashar (Eisenkot),opposizione
+2026-07-30,yashar,22.62,0.64,89,Yashar (Eisenkot),opposizione
+2026-07-31,yashar,22.67,0.65,88,Yashar (Eisenkot),opposizione
+2026-08-01,yashar,22.71,0.65,87,Yashar (Eisenkot),opposizione
+2026-08-02,yashar,22.76,0.64,86,Yashar (Eisenkot),opposizione
+2026-08-03,yashar,22.81,0.62,85,Yashar (Eisenkot),opposizione
+2026-08-04,yashar,22.88,0.6,84,Yashar (Eisenkot),opposizione
+2026-08-05,yashar,22.95,0.59,83,Yashar (Eisenkot),opposizione
+2026-08-06,yashar,23.02,0.6,82,Yashar (Eisenkot),opposizione
+2026-08-07,yashar,23.08,0.62,81,Yashar (Eisenkot),opposizione
+2026-08-08,yashar,23.14,0.62,80,Yashar (Eisenkot),opposizione
+2026-08-09,yashar,23.21,0.61,79,Yashar (Eisenkot),opposizione
+2026-08-10,yashar,23.26,0.61,78,Yashar (Eisenkot),opposizione
+2026-08-11,yashar,23.33,0.61,77,Yashar (Eisenkot),opposizione
+2026-08-12,yashar,23.4,0.6,76,Yashar (Eisenkot),opposizione
+2026-08-13,yashar,23.47,0.61,75,Yashar (Eisenkot),opposizione
+2026-08-14,yashar,23.53,0.63,74,Yashar (Eisenkot),opposizione
+2026-08-15,yashar,23.58,0.62,73,Yashar (Eisenkot),opposizione
+2026-08-16,yashar,23.64,0.6,72,Yashar (Eisenkot),opposizione
+2026-08-17,yashar,23.75,0.59,71,Yashar (Eisenkot),opposizione
+2026-08-18,yashar,23.87,0.57,70,Yashar (Eisenkot),opposizione
+2026-08-19,yashar,23.95,0.56,69,Yashar (Eisenkot),opposizione
+2026-08-20,yashar,23.93,0.6,68,Yashar (Eisenkot),opposizione
+2026-08-21,yashar,23.9,0.62,67,Yashar (Eisenkot),opposizione
+2026-08-22,yashar,23.88,0.63,66,Yashar (Eisenkot),opposizione
+2026-08-23,yashar,23.85,0.61,65,Yashar (Eisenkot),opposizione
+2026-08-24,yashar,23.84,0.6,64,Yashar (Eisenkot),opposizione
+2026-08-25,yashar,23.81,0.58,63,Yashar (Eisenkot),opposizione
+2026-08-26,yashar,23.79,0.55,62,Yashar (Eisenkot),opposizione
+2026-08-27,yashar,23.72,0.57,61,Yashar (Eisenkot),opposizione
+2026-08-28,yashar,23.63,0.6,60,Yashar (Eisenkot),opposizione
+2026-08-29,yashar,23.55,0.6,59,Yashar (Eisenkot),opposizione
+2026-08-30,yashar,23.47,0.59,58,Yashar (Eisenkot),opposizione
+2026-08-31,yashar,23.34,0.59,57,Yashar (Eisenkot),opposizione
+2026-09-01,yashar,23.23,0.57,56,Yashar (Eisenkot),opposizione
+2026-09-02,yashar,23.11,0.53,55,Yashar (Eisenkot),opposizione
+2026-09-03,yashar,23.08,0.55,54,Yashar (Eisenkot),opposizione
+2026-09-04,yashar,23.06,0.57,53,Yashar (Eisenkot),opposizione
+2026-09-05,yashar,23.04,0.56,52,Yashar (Eisenkot),opposizione
+2026-09-06,yashar,23.02,0.54,51,Yashar (Eisenkot),opposizione
+2026-09-07,yashar,23.01,0.49,50,Yashar (Eisenkot),opposizione
+2026-09-08,yashar,23,0.51,49,Yashar (Eisenkot),opposizione
+2026-09-09,yashar,22.99,0.49,48,Yashar (Eisenkot),opposizione
+2026-09-10,yashar,22.91,0.55,47,Yashar (Eisenkot),opposizione
+2026-09-11,yashar,22.83,0.59,46,Yashar (Eisenkot),opposizione
+2026-09-12,yashar,22.74,0.61,45,Yashar (Eisenkot),opposizione
+2026-09-13,yashar,22.66,0.61,44,Yashar (Eisenkot),opposizione
+2026-09-14,yashar,22.58,0.59,43,Yashar (Eisenkot),opposizione
+2026-09-15,yashar,22.5,0.57,42,Yashar (Eisenkot),opposizione
+2026-09-16,yashar,22.42,0.57,41,Yashar (Eisenkot),opposizione
+2026-09-17,yashar,22.36,0.59,40,Yashar (Eisenkot),opposizione
+2026-09-18,yashar,22.35,0.62,39,Yashar (Eisenkot),opposizione
+2026-09-19,yashar,22.34,0.64,38,Yashar (Eisenkot),opposizione
+2026-09-20,yashar,22.33,0.65,37,Yashar (Eisenkot),opposizione
+2026-09-21,yashar,22.33,0.63,36,Yashar (Eisenkot),opposizione
+2026-09-22,yashar,22.32,0.61,35,Yashar (Eisenkot),opposizione
+2026-09-23,yashar,22.32,0.57,34,Yashar (Eisenkot),opposizione
+2026-09-24,yashar,22.31,0.59,33,Yashar (Eisenkot),opposizione
+2026-09-25,yashar,22.25,0.62,32,Yashar (Eisenkot),opposizione
+2026-09-26,yashar,22.19,0.62,31,Yashar (Eisenkot),opposizione
+2026-09-27,yashar,22.14,0.61,30,Yashar (Eisenkot),opposizione
+2026-09-28,yashar,22.08,0.6,29,Yashar (Eisenkot),opposizione
+2026-09-29,yashar,22.01,0.58,28,Yashar (Eisenkot),opposizione
+2026-09-30,yashar,21.96,0.55,27,Yashar (Eisenkot),opposizione
+2026-10-01,yashar,21.99,0.55,26,Yashar (Eisenkot),opposizione
+2026-10-02,yashar,22,0.58,25,Yashar (Eisenkot),opposizione
+2026-10-03,yashar,22.01,0.6,24,Yashar (Eisenkot),opposizione
+2026-10-04,yashar,22.01,0.59,23,Yashar (Eisenkot),opposizione
+2026-10-05,yashar,22.01,0.58,22,Yashar (Eisenkot),opposizione
+2026-10-06,yashar,22.01,0.56,21,Yashar (Eisenkot),opposizione
+2026-10-07,yashar,22.01,0.52,20,Yashar (Eisenkot),opposizione
+2026-10-08,yashar,21.96,0.56,19,Yashar (Eisenkot),opposizione
+2026-10-09,yashar,21.91,0.58,18,Yashar (Eisenkot),opposizione
+2026-10-10,yashar,21.86,0.58,17,Yashar (Eisenkot),opposizione
+2026-10-11,yashar,21.8,0.56,16,Yashar (Eisenkot),opposizione
+2026-10-12,yashar,21.76,0.53,15,Yashar (Eisenkot),opposizione
+2026-10-13,yashar,21.73,0.5,14,Yashar (Eisenkot),opposizione
+2026-10-14,yashar,21.68,0.52,13,Yashar (Eisenkot),opposizione
+2026-10-15,yashar,21.65,0.55,12,Yashar (Eisenkot),opposizione
+2026-10-16,yashar,21.62,0.55,11,Yashar (Eisenkot),opposizione
+2026-10-17,yashar,21.6,0.54,10,Yashar (Eisenkot),opposizione
+2026-10-18,yashar,21.57,0.49,9,Yashar (Eisenkot),opposizione
+2026-10-19,yashar,21.48,0.45,8,Yashar (Eisenkot),opposizione
+2026-10-20,yashar,21.41,0.4,7,Yashar (Eisenkot),opposizione
+2026-10-21,yashar,21.38,0.4,6,Yashar (Eisenkot),opposizione
+2026-10-22,yashar,21.39,0.4,5,Yashar (Eisenkot),opposizione
+2026-10-23,yashar,21.47,0.51,4,Yashar (Eisenkot),opposizione
+2026-04-26,yb,8.4,0.37,184,Yisrael Beiteinu,opposizione
+2026-04-27,yb,8.4,0.36,183,Yisrael Beiteinu,opposizione
+2026-04-28,yb,8.41,0.35,182,Yisrael Beiteinu,opposizione
+2026-04-29,yb,8.42,0.35,181,Yisrael Beiteinu,opposizione
+2026-04-30,yb,8.43,0.35,180,Yisrael Beiteinu,opposizione
+2026-05-01,yb,8.45,0.34,179,Yisrael Beiteinu,opposizione
+2026-05-02,yb,8.46,0.34,178,Yisrael Beiteinu,opposizione
+2026-05-03,yb,8.47,0.34,177,Yisrael Beiteinu,opposizione
+2026-05-04,yb,8.48,0.34,176,Yisrael Beiteinu,opposizione
+2026-05-05,yb,8.49,0.33,175,Yisrael Beiteinu,opposizione
+2026-05-06,yb,8.5,0.33,174,Yisrael Beiteinu,opposizione
+2026-05-07,yb,8.52,0.32,173,Yisrael Beiteinu,opposizione
+2026-05-08,yb,8.53,0.32,172,Yisrael Beiteinu,opposizione
+2026-05-09,yb,8.54,0.32,171,Yisrael Beiteinu,opposizione
+2026-05-10,yb,8.54,0.32,170,Yisrael Beiteinu,opposizione
+2026-05-11,yb,8.55,0.32,169,Yisrael Beiteinu,opposizione
+2026-05-12,yb,8.56,0.31,168,Yisrael Beiteinu,opposizione
+2026-05-13,yb,8.57,0.31,167,Yisrael Beiteinu,opposizione
+2026-05-14,yb,8.58,0.31,166,Yisrael Beiteinu,opposizione
+2026-05-15,yb,8.59,0.31,165,Yisrael Beiteinu,opposizione
+2026-05-16,yb,8.6,0.31,164,Yisrael Beiteinu,opposizione
+2026-05-17,yb,8.61,0.31,163,Yisrael Beiteinu,opposizione
+2026-05-18,yb,8.62,0.31,162,Yisrael Beiteinu,opposizione
+2026-05-19,yb,8.63,0.31,161,Yisrael Beiteinu,opposizione
+2026-05-20,yb,8.64,0.31,160,Yisrael Beiteinu,opposizione
+2026-05-21,yb,8.66,0.31,159,Yisrael Beiteinu,opposizione
+2026-05-22,yb,8.68,0.31,158,Yisrael Beiteinu,opposizione
+2026-05-23,yb,8.7,0.31,157,Yisrael Beiteinu,opposizione
+2026-05-24,yb,8.73,0.32,156,Yisrael Beiteinu,opposizione
+2026-05-25,yb,8.75,0.32,155,Yisrael Beiteinu,opposizione
+2026-05-26,yb,8.77,0.32,154,Yisrael Beiteinu,opposizione
+2026-05-27,yb,8.79,0.32,153,Yisrael Beiteinu,opposizione
+2026-05-28,yb,8.81,0.31,152,Yisrael Beiteinu,opposizione
+2026-05-29,yb,8.83,0.31,151,Yisrael Beiteinu,opposizione
+2026-05-30,yb,8.85,0.31,150,Yisrael Beiteinu,opposizione
+2026-05-31,yb,8.87,0.31,149,Yisrael Beiteinu,opposizione
+2026-06-01,yb,8.88,0.31,148,Yisrael Beiteinu,opposizione
+2026-06-02,yb,8.9,0.31,147,Yisrael Beiteinu,opposizione
+2026-06-03,yb,8.92,0.3,146,Yisrael Beiteinu,opposizione
+2026-06-04,yb,8.93,0.3,145,Yisrael Beiteinu,opposizione
+2026-06-05,yb,8.95,0.3,144,Yisrael Beiteinu,opposizione
+2026-06-06,yb,8.97,0.3,143,Yisrael Beiteinu,opposizione
+2026-06-07,yb,8.99,0.3,142,Yisrael Beiteinu,opposizione
+2026-06-08,yb,9,0.3,141,Yisrael Beiteinu,opposizione
+2026-06-09,yb,9.02,0.3,140,Yisrael Beiteinu,opposizione
+2026-06-10,yb,9.04,0.3,139,Yisrael Beiteinu,opposizione
+2026-06-11,yb,9.06,0.29,138,Yisrael Beiteinu,opposizione
+2026-06-12,yb,9.08,0.29,137,Yisrael Beiteinu,opposizione
+2026-06-13,yb,9.1,0.29,136,Yisrael Beiteinu,opposizione
+2026-06-14,yb,9.12,0.29,135,Yisrael Beiteinu,opposizione
+2026-06-15,yb,9.14,0.29,134,Yisrael Beiteinu,opposizione
+2026-06-16,yb,9.17,0.29,133,Yisrael Beiteinu,opposizione
+2026-06-17,yb,9.18,0.28,132,Yisrael Beiteinu,opposizione
+2026-06-18,yb,9.2,0.28,131,Yisrael Beiteinu,opposizione
+2026-06-19,yb,9.21,0.28,130,Yisrael Beiteinu,opposizione
+2026-06-20,yb,9.22,0.28,129,Yisrael Beiteinu,opposizione
+2026-06-21,yb,9.23,0.28,128,Yisrael Beiteinu,opposizione
+2026-06-22,yb,9.24,0.28,127,Yisrael Beiteinu,opposizione
+2026-06-23,yb,9.25,0.28,126,Yisrael Beiteinu,opposizione
+2026-06-24,yb,9.27,0.28,125,Yisrael Beiteinu,opposizione
+2026-06-25,yb,9.27,0.28,124,Yisrael Beiteinu,opposizione
+2026-06-26,yb,9.26,0.28,123,Yisrael Beiteinu,opposizione
+2026-06-27,yb,9.25,0.28,122,Yisrael Beiteinu,opposizione
+2026-06-28,yb,9.25,0.28,121,Yisrael Beiteinu,opposizione
+2026-06-29,yb,9.24,0.28,120,Yisrael Beiteinu,opposizione
+2026-06-30,yb,9.23,0.28,119,Yisrael Beiteinu,opposizione
+2026-07-01,yb,9.23,0.28,118,Yisrael Beiteinu,opposizione
+2026-07-02,yb,9.22,0.28,117,Yisrael Beiteinu,opposizione
+2026-07-03,yb,9.21,0.28,116,Yisrael Beiteinu,opposizione
+2026-07-04,yb,9.2,0.28,115,Yisrael Beiteinu,opposizione
+2026-07-05,yb,9.19,0.28,114,Yisrael Beiteinu,opposizione
+2026-07-06,yb,9.18,0.28,113,Yisrael Beiteinu,opposizione
+2026-07-07,yb,9.17,0.28,112,Yisrael Beiteinu,opposizione
+2026-07-08,yb,9.17,0.28,111,Yisrael Beiteinu,opposizione
+2026-07-09,yb,9.16,0.28,110,Yisrael Beiteinu,opposizione
+2026-07-10,yb,9.15,0.28,109,Yisrael Beiteinu,opposizione
+2026-07-11,yb,9.14,0.28,108,Yisrael Beiteinu,opposizione
+2026-07-12,yb,9.13,0.28,107,Yisrael Beiteinu,opposizione
+2026-07-13,yb,9.12,0.28,106,Yisrael Beiteinu,opposizione
+2026-07-14,yb,9.11,0.28,105,Yisrael Beiteinu,opposizione
+2026-07-15,yb,9.1,0.28,104,Yisrael Beiteinu,opposizione
+2026-07-16,yb,9.09,0.28,103,Yisrael Beiteinu,opposizione
+2026-07-17,yb,9.08,0.28,102,Yisrael Beiteinu,opposizione
+2026-07-18,yb,9.07,0.28,101,Yisrael Beiteinu,opposizione
+2026-07-19,yb,9.07,0.28,100,Yisrael Beiteinu,opposizione
+2026-07-20,yb,9.06,0.27,99,Yisrael Beiteinu,opposizione
+2026-07-21,yb,9.06,0.27,98,Yisrael Beiteinu,opposizione
+2026-07-22,yb,9.05,0.27,97,Yisrael Beiteinu,opposizione
+2026-07-23,yb,9.05,0.27,96,Yisrael Beiteinu,opposizione
+2026-07-24,yb,9.04,0.27,95,Yisrael Beiteinu,opposizione
+2026-07-25,yb,9.04,0.27,94,Yisrael Beiteinu,opposizione
+2026-07-26,yb,9.03,0.27,93,Yisrael Beiteinu,opposizione
+2026-07-27,yb,9.04,0.27,92,Yisrael Beiteinu,opposizione
+2026-07-28,yb,9.04,0.27,91,Yisrael Beiteinu,opposizione
+2026-07-29,yb,9.05,0.27,90,Yisrael Beiteinu,opposizione
+2026-07-30,yb,9.05,0.27,89,Yisrael Beiteinu,opposizione
+2026-07-31,yb,9.05,0.27,88,Yisrael Beiteinu,opposizione
+2026-08-01,yb,9.05,0.27,87,Yisrael Beiteinu,opposizione
+2026-08-02,yb,9.05,0.27,86,Yisrael Beiteinu,opposizione
+2026-08-03,yb,9.05,0.26,85,Yisrael Beiteinu,opposizione
+2026-08-04,yb,9.05,0.26,84,Yisrael Beiteinu,opposizione
+2026-08-05,yb,9.05,0.26,83,Yisrael Beiteinu,opposizione
+2026-08-06,yb,9.04,0.26,82,Yisrael Beiteinu,opposizione
+2026-08-07,yb,9.03,0.26,81,Yisrael Beiteinu,opposizione
+2026-08-08,yb,9.02,0.26,80,Yisrael Beiteinu,opposizione
+2026-08-09,yb,9.01,0.26,79,Yisrael Beiteinu,opposizione
+2026-08-10,yb,9,0.26,78,Yisrael Beiteinu,opposizione
+2026-08-11,yb,8.98,0.26,77,Yisrael Beiteinu,opposizione
+2026-08-12,yb,8.96,0.26,76,Yisrael Beiteinu,opposizione
+2026-08-13,yb,8.94,0.26,75,Yisrael Beiteinu,opposizione
+2026-08-14,yb,8.91,0.26,74,Yisrael Beiteinu,opposizione
+2026-08-15,yb,8.89,0.26,73,Yisrael Beiteinu,opposizione
+2026-08-16,yb,8.86,0.25,72,Yisrael Beiteinu,opposizione
+2026-08-17,yb,8.83,0.25,71,Yisrael Beiteinu,opposizione
+2026-08-18,yb,8.8,0.25,70,Yisrael Beiteinu,opposizione
+2026-08-19,yb,8.76,0.25,69,Yisrael Beiteinu,opposizione
+2026-08-20,yb,8.72,0.25,68,Yisrael Beiteinu,opposizione
+2026-08-21,yb,8.68,0.25,67,Yisrael Beiteinu,opposizione
+2026-08-22,yb,8.64,0.25,66,Yisrael Beiteinu,opposizione
+2026-08-23,yb,8.6,0.25,65,Yisrael Beiteinu,opposizione
+2026-08-24,yb,8.56,0.24,64,Yisrael Beiteinu,opposizione
+2026-08-25,yb,8.52,0.24,63,Yisrael Beiteinu,opposizione
+2026-08-26,yb,8.48,0.24,62,Yisrael Beiteinu,opposizione
+2026-08-27,yb,8.44,0.24,61,Yisrael Beiteinu,opposizione
+2026-08-28,yb,8.4,0.24,60,Yisrael Beiteinu,opposizione
+2026-08-29,yb,8.37,0.24,59,Yisrael Beiteinu,opposizione
+2026-08-30,yb,8.34,0.24,58,Yisrael Beiteinu,opposizione
+2026-08-31,yb,8.3,0.24,57,Yisrael Beiteinu,opposizione
+2026-09-01,yb,8.26,0.23,56,Yisrael Beiteinu,opposizione
+2026-09-02,yb,8.23,0.23,55,Yisrael Beiteinu,opposizione
+2026-09-03,yb,8.19,0.23,54,Yisrael Beiteinu,opposizione
+2026-09-04,yb,8.16,0.23,53,Yisrael Beiteinu,opposizione
+2026-09-05,yb,8.13,0.23,52,Yisrael Beiteinu,opposizione
+2026-09-06,yb,8.1,0.22,51,Yisrael Beiteinu,opposizione
+2026-09-07,yb,8.08,0.22,50,Yisrael Beiteinu,opposizione
+2026-09-08,yb,8.06,0.22,49,Yisrael Beiteinu,opposizione
+2026-09-09,yb,8.04,0.22,48,Yisrael Beiteinu,opposizione
+2026-09-10,yb,8.03,0.23,47,Yisrael Beiteinu,opposizione
+2026-09-11,yb,8.02,0.23,46,Yisrael Beiteinu,opposizione
+2026-09-12,yb,8.01,0.24,45,Yisrael Beiteinu,opposizione
+2026-09-13,yb,8,0.24,44,Yisrael Beiteinu,opposizione
+2026-09-14,yb,7.99,0.24,43,Yisrael Beiteinu,opposizione
+2026-09-15,yb,7.98,0.24,42,Yisrael Beiteinu,opposizione
+2026-09-16,yb,7.97,0.24,41,Yisrael Beiteinu,opposizione
+2026-09-17,yb,7.97,0.24,40,Yisrael Beiteinu,opposizione
+2026-09-18,yb,7.96,0.24,39,Yisrael Beiteinu,opposizione
+2026-09-19,yb,7.95,0.25,38,Yisrael Beiteinu,opposizione
+2026-09-20,yb,7.94,0.25,37,Yisrael Beiteinu,opposizione
+2026-09-21,yb,7.93,0.25,36,Yisrael Beiteinu,opposizione
+2026-09-22,yb,7.92,0.24,35,Yisrael Beiteinu,opposizione
+2026-09-23,yb,7.91,0.24,34,Yisrael Beiteinu,opposizione
+2026-09-24,yb,7.9,0.24,33,Yisrael Beiteinu,opposizione
+2026-09-25,yb,7.88,0.24,32,Yisrael Beiteinu,opposizione
+2026-09-26,yb,7.87,0.24,31,Yisrael Beiteinu,opposizione
+2026-09-27,yb,7.85,0.24,30,Yisrael Beiteinu,opposizione
+2026-09-28,yb,7.84,0.24,29,Yisrael Beiteinu,opposizione
+2026-09-29,yb,7.82,0.24,28,Yisrael Beiteinu,opposizione
+2026-09-30,yb,7.8,0.23,27,Yisrael Beiteinu,opposizione
+2026-10-01,yb,7.78,0.23,26,Yisrael Beiteinu,opposizione
+2026-10-02,yb,7.75,0.23,25,Yisrael Beiteinu,opposizione
+2026-10-03,yb,7.73,0.23,24,Yisrael Beiteinu,opposizione
+2026-10-04,yb,7.7,0.23,23,Yisrael Beiteinu,opposizione
+2026-10-05,yb,7.68,0.23,22,Yisrael Beiteinu,opposizione
+2026-10-06,yb,7.64,0.23,21,Yisrael Beiteinu,opposizione
+2026-10-07,yb,7.61,0.22,20,Yisrael Beiteinu,opposizione
+2026-10-08,yb,7.6,0.22,19,Yisrael Beiteinu,opposizione
+2026-10-09,yb,7.58,0.22,18,Yisrael Beiteinu,opposizione
+2026-10-10,yb,7.56,0.22,17,Yisrael Beiteinu,opposizione
+2026-10-11,yb,7.54,0.22,16,Yisrael Beiteinu,opposizione
+2026-10-12,yb,7.53,0.22,15,Yisrael Beiteinu,opposizione
+2026-10-13,yb,7.5,0.21,14,Yisrael Beiteinu,opposizione
+2026-10-14,yb,7.48,0.21,13,Yisrael Beiteinu,opposizione
+2026-10-15,yb,7.46,0.21,12,Yisrael Beiteinu,opposizione
+2026-10-16,yb,7.43,0.21,11,Yisrael Beiteinu,opposizione
+2026-10-17,yb,7.41,0.21,10,Yisrael Beiteinu,opposizione
+2026-10-18,yb,7.38,0.2,9,Yisrael Beiteinu,opposizione
+2026-10-19,yb,7.35,0.2,8,Yisrael Beiteinu,opposizione
+2026-10-20,yb,7.32,0.19,7,Yisrael Beiteinu,opposizione
+2026-10-21,yb,7.28,0.19,6,Yisrael Beiteinu,opposizione
+2026-10-22,yb,7.25,0.19,5,Yisrael Beiteinu,opposizione
+2026-10-23,yb,7.25,0.21,4,Yisrael Beiteinu,opposizione

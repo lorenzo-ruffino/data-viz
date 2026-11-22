@@ -1,0 +1,13 @@
+indicatore,valore,unita,anno,fonte
+"noleggi totali (car, bike, scooter, monopattini)",50,milioni,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+"noleggi totali, previsione",60,milioni,2025,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+quota noleggi monopattini,50,%,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+quota noleggi bike sharing,32,%,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+quota noleggi car sharing,12,%,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+quota noleggi scooter sharing,7,%,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+noleggi a Roma,13.2,milioni,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+noleggi a Milano,12.6,milioni,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+veicoli in sharing,95.6,migliaia,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+"veicoli in sharing, variazione sul picco 2022",-15,%,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+servizi di sharing attivi,170,numero,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"
+percorrenza media noleggio bici o monopattino,2,km,2024,"Osservatorio Nazionale Sharing Mobility, 9° Rapporto (ott. 2025) - https://osservatoriosharingmobility.it/wp-content/uploads/2025/10/9-Rapporto-sharing-mobility_2025.pdf"

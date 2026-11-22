@@ -1,0 +1,329 @@
+istituto,data,fase,cand,validi,effetto_istituto,corretto
+Ideia,2026-04-05,prima,flavio,50.16,-0.26,50.42
+Ideia,2026-04-05,prima,lula,49.84,0.26,49.58
+Datafolha,2026-04-08,prima,flavio,50.55,-0.59,51.14
+Datafolha,2026-04-08,prima,lula,49.45,0.59,48.86
+Futura,2026-04-09,prima,flavio,52.98,1.29,51.69
+Futura,2026-04-09,prima,lula,47.02,-1.29,48.31
+MDA,2026-04-10,prima,flavio,47.24,-3.24,50.48
+MDA,2026-04-10,prima,lula,52.76,3.24,49.52
+Quaest,2026-04-11,prima,flavio,51.22,-0.04,51.26
+Quaest,2026-04-11,prima,lula,48.78,0.04,48.74
+AtlasIntel,2026-04-24,prima,flavio,50.16,-0.62,50.78
+AtlasIntel,2026-04-24,prima,lula,49.84,0.62,49.22
+Nexus,2026-04-25,prima,flavio,49.45,0.09,49.36
+Nexus,2026-04-25,prima,lula,50.55,-0.09,50.64
+Ideia,2026-05-03,prima,flavio,50.33,-0.26,50.59
+Real Time,2026-05-03,prima,flavio,50.57,0.43,50.14
+Ideia,2026-05-03,prima,lula,49.67,0.26,49.41
+Real Time,2026-05-03,prima,lula,49.43,-0.43,49.86
+Futura,2026-05-06,prima,flavio,51.37,1.29,50.08
+Futura,2026-05-06,prima,lula,48.63,-1.29,49.92
+Quaest,2026-05-09,prima,flavio,49.4,-0.04,49.44
+Quaest,2026-05-09,prima,lula,50.6,0.04,50.56
+Vox Brasil,2026-05-10,prima,flavio,52.14,0.26,51.89
+Vox Brasil,2026-05-10,prima,lula,47.86,-0.26,48.11
+Datafolha,2026-05-12,prima,flavio,50,-0.59,50.59
+Datafolha,2026-05-12,prima,lula,50,0.59,49.41
+AtlasIntel,2026-05-15,prima,flavio,46.09,-0.62,46.71
+AtlasIntel,2026-05-15,prima,lula,53.91,0.62,53.29
+Futura,2026-05-17,prima,flavio,46.94,1.29,45.65
+Futura,2026-05-17,prima,lula,53.06,-1.29,54.35
+Vox Brasil,2026-05-18,prima,flavio,44.88,0.26,44.62
+Vox Brasil,2026-05-18,prima,lula,55.12,-0.26,55.38
+Datafolha,2026-05-21,prima,flavio,47.78,-0.59,48.37
+Datafolha,2026-05-21,prima,lula,52.22,0.59,51.63
+Indexa,2026-05-23,prima,flavio,47.13,-1,48.13
+Nexus,2026-05-23,prima,flavio,47.78,0.09,47.69
+Indexa,2026-05-23,prima,lula,52.87,1,51.87
+Nexus,2026-05-23,prima,lula,52.22,-0.09,52.31
+Ideia,2026-05-25,prima,flavio,47.1,-0.26,47.36
+Ideia,2026-05-25,prima,lula,52.9,0.26,52.64
+PoderData,2026-05-26,prima,flavio,47.73,0.65,47.08
+PoderData,2026-05-26,prima,lula,52.27,-0.65,52.92
+Real Time,2026-05-29,prima,flavio,47.06,0.43,46.63
+Real Time,2026-05-29,prima,lula,52.94,-0.43,53.37
+Vox Brasil,2026-06-02,prima,flavio,46.35,0.26,46.1
+Vox Brasil,2026-06-02,prima,lula,53.65,-0.26,53.9
+Quaest,2026-06-05,prima,flavio,46.34,-0.04,46.38
+Quaest,2026-06-05,prima,lula,53.66,0.04,53.62
+Futura,2026-06-10,prima,flavio,47.14,1.29,45.85
+Futura,2026-06-10,prima,lula,52.86,-1.29,54.15
+MDA,2026-06-12,prima,flavio,42.74,-3.24,45.98
+MDA,2026-06-12,prima,lula,57.26,3.24,54.02
+Nexus,2026-06-13,prima,flavio,46.74,0.09,46.65
+Nexus,2026-06-13,prima,lula,53.26,-0.09,53.35
+Datafolha,2026-06-17,prima,flavio,47.78,-0.59,48.37
+Datafolha,2026-06-17,prima,lula,52.22,0.59,51.63
+Indexa,2026-06-19,prima,flavio,45.98,-1,46.98
+Indexa,2026-06-19,prima,lula,54.02,1,53.02
+PoderData,2026-06-22,prima,flavio,48.31,0.65,47.67
+PoderData,2026-06-22,prima,lula,51.69,-0.65,52.33
+Vox Brasil,2026-06-24,prima,flavio,48.58,0.26,48.32
+Vox Brasil,2026-06-24,prima,lula,51.42,-0.26,51.68
+Nexus,2026-06-27,prima,flavio,48.35,0.09,48.26
+Nexus,2026-06-27,prima,lula,51.65,-0.09,51.74
+AtlasIntel,2026-06-28,prima,flavio,46.43,-0.62,47.06
+AtlasIntel,2026-06-28,prima,lula,53.57,0.62,52.94
+Ideia,2026-07-04,prima,flavio,47.06,-0.26,47.32
+Ideia,2026-07-04,prima,lula,52.94,0.26,52.68
+Futura,2026-07-09,prima,flavio,49.89,1.29,48.6
+Futura,2026-07-09,prima,lula,50.11,-1.29,51.4
+Quaest,2026-07-11,prima,flavio,45.12,-0.04,45.16
+Nexus,2026-07-11,prima,flavio,48.35,0.09,48.26
+Quaest,2026-07-11,prima,lula,54.88,0.04,54.84
+Nexus,2026-07-11,prima,lula,51.65,-0.09,51.74
+PoderData,2026-07-13,prima,flavio,48.86,0.65,48.22
+PoderData,2026-07-13,prima,lula,51.14,-0.65,51.78
+Indexa,2026-07-17,prima,flavio,45.88,-1,46.89
+Indexa,2026-07-17,prima,lula,54.12,1,53.11
+Real Time,2026-07-19,prima,flavio,48.28,0.43,47.84
+Real Time,2026-07-19,prima,lula,51.72,-0.43,52.16
+Datafolha,2026-07-22,prima,flavio,47.25,-0.59,47.85
+Datafolha,2026-07-22,prima,lula,52.75,0.59,52.15
+AtlasIntel,2026-07-24,prima,flavio,46.58,-0.62,47.2
+AtlasIntel,2026-07-24,prima,lula,53.42,0.62,52.8
+Nexus,2026-07-25,prima,flavio,47.78,0.09,47.69
+Nexus,2026-07-25,prima,lula,52.22,-0.09,52.31
+PoderData,2026-07-27,prima,flavio,48.31,0.65,47.67
+Vox Brasil,2026-07-27,prima,flavio,46.39,0.26,46.13
+PoderData,2026-07-27,prima,lula,51.69,-0.65,52.33
+Vox Brasil,2026-07-27,prima,lula,53.61,-0.26,53.87
+Quaest,2026-08-01,prima,flavio,46.99,-0.04,47.03
+Ideia,2026-08-01,prima,flavio,46.99,-0.26,47.25
+Nexus,2026-08-01,prima,flavio,49.45,0.09,49.36
+Quaest,2026-08-01,prima,lula,53.01,0.04,52.97
+Ideia,2026-08-01,prima,lula,53.01,0.26,52.75
+Nexus,2026-08-01,prima,lula,50.55,-0.09,50.64
+Futura,2026-08-05,prima,flavio,48.62,1.29,47.33
+Palver,2026-08-05,prima,flavio,50,1.55,48.45
+Futura,2026-08-05,prima,lula,51.38,-1.29,52.67
+Palver,2026-08-05,prima,lula,50,-1.55,51.55
+MDA,2026-08-07,prima,flavio,44.89,-3.24,48.13
+MDA,2026-08-07,prima,lula,55.11,3.24,51.87
+Nexus,2026-08-08,prima,flavio,48.35,0.09,48.26
+Nexus,2026-08-08,prima,lula,51.65,-0.09,51.74
+PoderData,2026-08-10,prima,flavio,49.45,0.65,48.8
+PoderData,2026-08-10,prima,lula,50.55,-0.65,51.2
+Quaest,2026-08-11,prima,flavio,48.19,-0.04,48.23
+Quaest,2026-08-11,prima,lula,51.81,0.04,51.77
+Nexus,2026-08-15,prima,flavio,48.35,0.09,48.26
+Nexus,2026-08-15,prima,lula,51.65,-0.09,51.74
+Datafolha,2026-08-19,prima,flavio,47.78,-0.59,48.37
+Datafolha,2026-08-19,prima,lula,52.22,0.59,51.63
+Indexa,2026-08-21,prima,flavio,47.13,-1,48.13
+Indexa,2026-08-21,prima,lula,52.87,1,51.87
+Nexus,2026-08-22,prima,flavio,49.45,0.09,49.36
+Nexus,2026-08-22,prima,lula,50.55,-0.09,50.64
+PoderData,2026-08-24,prima,flavio,49.44,0.65,48.79
+PoderData,2026-08-24,prima,lula,50.56,-0.65,51.21
+Vox Brasil,2026-08-26,prima,flavio,50.33,0.26,50.08
+Vox Brasil,2026-08-26,prima,lula,49.67,-0.26,49.92
+AtlasIntel,2026-08-27,prima,flavio,47.49,-0.62,48.11
+AtlasIntel,2026-08-27,prima,lula,52.51,0.62,51.89
+Futura,2026-08-29,prima,flavio,49.78,1.29,48.49
+Real Time,2026-08-29,prima,flavio,50,0.43,49.57
+Nexus,2026-08-29,prima,flavio,49.45,0.09,49.36
+Futura,2026-08-29,prima,lula,50.22,-1.29,51.51
+Real Time,2026-08-29,prima,lula,50,-0.43,50.43
+Nexus,2026-08-29,prima,lula,50.55,-0.09,50.64
+PoderData,2026-08-31,prima,flavio,50.56,0.65,49.92
+Quaest,2026-08-31,prima,flavio,49.4,-0.04,49.44
+PoderData,2026-08-31,prima,lula,49.44,-0.65,50.08
+Quaest,2026-08-31,prima,lula,50.6,0.04,50.56
+Datafolha,2026-09-01,prima,flavio,48.89,-0.59,49.48
+Datafolha,2026-09-01,prima,lula,51.11,0.59,50.52
+Quaest,2026-09-04,prima,flavio,50,-0.04,50.04
+Quaest,2026-09-04,prima,lula,50,0.04,49.96
+Palver,2026-09-05,prima,flavio,51.11,1.55,49.56
+Ideia,2026-09-05,prima,flavio,50,-0.26,50.26
+Nexus,2026-09-05,prima,flavio,50.55,0.09,50.46
+Palver,2026-09-05,prima,lula,48.89,-1.55,50.44
+Ideia,2026-09-05,prima,lula,50,0.26,49.74
+Nexus,2026-09-05,prima,lula,49.45,-0.09,49.54
+AtlasIntel,2026-09-06,prima,flavio,50.11,-0.62,50.73
+AtlasIntel,2026-09-06,prima,lula,49.89,0.62,49.27
+Futura,2026-09-07,prima,flavio,50.22,1.29,48.93
+PoderData,2026-09-07,prima,flavio,51.09,0.65,50.44
+Futura,2026-09-07,prima,lula,49.78,-1.29,51.07
+PoderData,2026-09-07,prima,lula,48.91,-0.65,49.56
+Datafolha,2026-09-09,prima,flavio,48.89,-0.59,49.48
+Datafolha,2026-09-09,prima,lula,51.11,0.59,50.52
+Quaest,2026-09-11,prima,flavio,51.22,-0.04,51.26
+Indexa,2026-09-11,prima,flavio,49.41,-1,50.42
+MDA,2026-09-11,prima,flavio,45.82,-3.24,49.06
+Quaest,2026-09-11,prima,lula,48.78,0.04,48.74
+Indexa,2026-09-11,prima,lula,50.59,1,49.58
+MDA,2026-09-11,prima,lula,54.18,3.24,50.94
+Nexus,2026-09-12,prima,flavio,49.46,0.09,49.37
+Nexus,2026-09-12,prima,lula,50.54,-0.09,50.63
+AtlasIntel,2026-09-13,prima,flavio,50.21,-0.62,50.84
+Futura,2026-09-13,prima,flavio,52.4,1.29,51.1
+AtlasIntel,2026-09-13,prima,lula,49.79,0.62,49.16
+Futura,2026-09-13,prima,lula,47.6,-1.29,48.9
+PoderData,2026-09-14,prima,flavio,51.11,0.65,50.46
+PoderData,2026-09-14,prima,lula,48.89,-0.65,49.54
+Datafolha,2026-09-15,prima,flavio,48.89,-0.59,49.48
+Datafolha,2026-09-15,prima,lula,51.11,0.59,50.52
+Palver,2026-09-17,prima,flavio,52.22,1.55,50.67
+Palver,2026-09-17,prima,lula,47.78,-1.55,49.33
+Quaest,2026-09-18,prima,flavio,50.6,-0.04,50.64
+Quaest,2026-09-18,prima,lula,49.4,0.04,49.36
+AtlasIntel,2026-09-19,prima,flavio,49.84,-0.62,50.47
+Nexus,2026-09-19,prima,flavio,49.45,0.09,49.36
+AtlasIntel,2026-09-19,prima,lula,50.16,0.62,49.53
+Nexus,2026-09-19,prima,lula,50.55,-0.09,50.64
+Futura,2026-09-21,prima,flavio,53.06,1.29,51.77
+PoderData,2026-09-21,prima,flavio,50.55,0.65,49.9
+Palver,2026-09-21,prima,flavio,51.61,1.55,50.07
+Real Time,2026-09-21,prima,flavio,50.56,0.43,50.13
+Futura,2026-09-21,prima,lula,46.94,-1.29,48.23
+PoderData,2026-09-21,prima,lula,49.45,-0.65,50.1
+Palver,2026-09-21,prima,lula,48.39,-1.55,49.93
+Real Time,2026-09-21,prima,lula,49.44,-0.43,49.87
+Datafolha,2026-09-23,prima,flavio,48.91,-0.59,49.51
+Datafolha,2026-09-23,prima,lula,51.09,0.59,50.49
+AtlasIntel,2026-09-25,prima,flavio,50.05,-0.62,50.68
+Quaest,2026-09-25,prima,flavio,50,-0.04,50.04
+Palver,2026-09-25,prima,flavio,51.09,1.55,49.54
+AtlasIntel,2026-09-25,prima,lula,49.95,0.62,49.32
+Quaest,2026-09-25,prima,lula,50,0.04,49.96
+Palver,2026-09-25,prima,lula,48.91,-1.55,50.46
+Ideia,2026-09-26,prima,flavio,49.74,-0.26,50
+Nexus,2026-09-26,prima,flavio,48.89,0.09,48.8
+Ideia,2026-09-26,prima,lula,50.26,0.26,50
+Nexus,2026-09-26,prima,lula,51.11,-0.09,51.2
+Futura,2026-09-27,prima,flavio,52.97,1.29,51.68
+Vox Brasil,2026-09-27,prima,flavio,50.28,0.26,50.02
+Futura,2026-09-27,prima,lula,47.03,-1.29,48.32
+Vox Brasil,2026-09-27,prima,lula,49.72,-0.26,49.98
+Real Time,2026-09-28,prima,flavio,50.55,0.43,50.12
+Indexa,2026-09-28,prima,flavio,49.41,-1,50.42
+Real Time,2026-09-28,prima,lula,49.45,-0.43,49.88
+Indexa,2026-09-28,prima,lula,50.59,1,49.58
+AtlasIntel,2026-09-29,prima,flavio,49.89,-0.62,50.52
+Datafolha,2026-09-29,prima,flavio,48.39,-0.59,48.98
+AtlasIntel,2026-09-29,prima,lula,50.11,0.62,49.48
+Datafolha,2026-09-29,prima,lula,51.61,0.59,51.02
+MDA,2026-09-30,prima,flavio,47.78,-3.24,51.01
+Vox Brasil,2026-09-30,prima,flavio,51.61,0.26,51.35
+MDA,2026-09-30,prima,lula,52.22,3.24,48.99
+Vox Brasil,2026-09-30,prima,lula,48.39,-0.26,48.65
+Palver,2026-10-01,prima,flavio,52.69,1.55,51.14
+PoderData,2026-10-01,prima,flavio,50,0.65,49.35
+Palver,2026-10-01,prima,lula,47.31,-1.55,48.86
+PoderData,2026-10-01,prima,lula,50,-0.65,50.65
+Quaest,2026-10-02,prima,flavio,51.16,-0.04,51.2
+Futura,2026-10-02,prima,flavio,51.56,1.29,50.27
+Quaest,2026-10-02,prima,lula,48.84,0.04,48.8
+Futura,2026-10-02,prima,lula,48.44,-1.29,49.73
+Datafolha,2026-10-03,prima,flavio,49.46,-0.59,50.06
+Datafolha,2026-10-03,prima,lula,50.54,0.59,49.94
+AtlasIntel,2026-10-05,dopo,flavio,52.79,0.23,52.56
+AtlasIntel,2026-10-05,dopo,lula,47.21,-0.23,47.44
+Datafolha,2026-10-06,dopo,flavio,52.13,-0.12,52.24
+PoderData,2026-10-06,dopo,flavio,52.69,-0.15,52.83
+Vox Brasil,2026-10-06,dopo,flavio,49.14,-1.78,50.92
+Datafolha,2026-10-06,dopo,lula,47.87,0.12,47.76
+PoderData,2026-10-06,dopo,lula,47.31,0.15,47.17
+Vox Brasil,2026-10-06,dopo,lula,50.86,1.78,49.08
+Ipespe,2026-10-07,dopo,flavio,52.69,0.12,52.56
+Ipespe,2026-10-07,dopo,lula,47.31,-0.12,47.44
+Futura,2026-10-08,dopo,flavio,51.76,-0.25,52.01
+Futura,2026-10-08,dopo,lula,48.24,0.25,47.99
+Gerp,2026-10-10,dopo,flavio,54.64,1.62,53.02
+Gerp,2026-10-10,dopo,lula,45.36,-1.62,46.98
+Palver,2026-10-11,dopo,flavio,50.51,-0.37,50.88
+Quaest,2026-10-11,dopo,flavio,51.11,-0.27,51.38
+PoderData,2026-10-11,dopo,flavio,51.06,-0.15,51.21
+Nexus,2026-10-11,dopo,flavio,51.61,-0.2,51.81
+Palver,2026-10-11,dopo,lula,49.49,0.37,49.12
+Quaest,2026-10-11,dopo,lula,48.89,0.27,48.62
+PoderData,2026-10-11,dopo,lula,48.94,0.15,48.79
+Nexus,2026-10-11,dopo,lula,48.39,0.2,48.19
+Indexa,2026-10-13,dopo,flavio,51.16,-0.16,51.32
+Indexa,2026-10-13,dopo,lula,48.84,0.16,48.68
+Verita,2026-10-14,dopo,flavio,51.03,0.06,50.96
+Futura,2026-10-14,dopo,flavio,50.78,-0.25,51.03
+Ipespe,2026-10-14,dopo,flavio,51.06,0.12,50.94
+MDA,2026-10-14,dopo,flavio,50.49,-0.29,50.78
+PoderData,2026-10-14,dopo,flavio,50,-0.15,50.15
+Datafolha,2026-10-14,dopo,flavio,51.09,-0.12,51.2
+Verita,2026-10-14,dopo,lula,48.97,-0.06,49.04
+Futura,2026-10-14,dopo,lula,49.22,0.25,48.97
+Ipespe,2026-10-14,dopo,lula,48.94,-0.12,49.06
+MDA,2026-10-14,dopo,lula,49.51,0.29,49.22
+PoderData,2026-10-14,dopo,lula,50,0.15,49.85
+Datafolha,2026-10-14,dopo,lula,48.91,0.12,48.8
+AtlasIntel,2026-10-15,dopo,flavio,51.13,0.23,50.9
+Gerp,2026-10-15,dopo,flavio,52.63,1.62,51.01
+AtlasIntel,2026-10-15,dopo,lula,48.87,-0.23,49.1
+Gerp,2026-10-15,dopo,lula,47.37,-1.62,48.99
+Futura,2026-10-16,dopo,flavio,50.42,-0.25,50.67
+Datatrends,2026-10-16,dopo,flavio,51.58,0.68,50.9
+Vox Brasil,2026-10-16,dopo,flavio,49.01,-1.78,50.79
+Futura,2026-10-16,dopo,lula,49.58,0.25,49.33
+Datatrends,2026-10-16,dopo,lula,48.42,-0.68,49.1
+Vox Brasil,2026-10-16,dopo,lula,50.99,1.78,49.21
+Verita,2026-10-17,dopo,flavio,50.77,0.06,50.7
+Ideia,2026-10-17,dopo,flavio,51.06,0.06,51
+Alfa,2026-10-17,dopo,flavio,51.53,0.68,50.85
+Real Time,2026-10-17,dopo,flavio,51.61,0.72,50.9
+PoderData,2026-10-17,dopo,flavio,51.58,-0.15,51.73
+Nexus,2026-10-17,dopo,flavio,50.32,-0.2,50.52
+Verita,2026-10-17,dopo,lula,49.23,-0.06,49.3
+Ideia,2026-10-17,dopo,lula,48.94,-0.06,49
+Alfa,2026-10-17,dopo,lula,48.47,-0.68,49.15
+Real Time,2026-10-17,dopo,lula,48.39,-0.72,49.1
+PoderData,2026-10-17,dopo,lula,48.42,0.15,48.27
+Nexus,2026-10-17,dopo,lula,49.68,0.2,49.48
+Quaest,2026-10-18,dopo,flavio,50.56,-0.27,50.83
+Quaest,2026-10-18,dopo,lula,49.44,0.27,49.17
+Futura,2026-10-19,dopo,flavio,51.1,-0.25,51.35
+Palver,2026-10-19,dopo,flavio,51.02,-0.37,51.39
+Futura,2026-10-19,dopo,lula,48.9,0.25,48.65
+Palver,2026-10-19,dopo,lula,48.98,0.37,48.61
+AtlasIntel,2026-10-20,dopo,flavio,50.76,0.23,50.53
+Alfa,2026-10-20,dopo,flavio,52.03,0.68,51.35
+Real Time,2026-10-20,dopo,flavio,52.13,0.72,51.41
+Verita,2026-10-20,dopo,flavio,51.38,0.06,51.32
+Indexa,2026-10-20,dopo,flavio,50.62,-0.16,50.77
+Datatrends,2026-10-20,dopo,flavio,52.08,0.68,51.4
+PoderData,2026-10-20,dopo,flavio,50.52,-0.15,50.66
+Gerp,2026-10-20,dopo,flavio,52.63,1.62,51.01
+AtlasIntel,2026-10-20,dopo,lula,49.24,-0.23,49.47
+Alfa,2026-10-20,dopo,lula,47.97,-0.68,48.65
+Real Time,2026-10-20,dopo,lula,47.87,-0.72,48.59
+Verita,2026-10-20,dopo,lula,48.62,-0.06,48.68
+Indexa,2026-10-20,dopo,lula,49.38,0.16,49.23
+Datatrends,2026-10-20,dopo,lula,47.92,-0.68,48.6
+PoderData,2026-10-20,dopo,lula,49.48,0.15,49.34
+Gerp,2026-10-20,dopo,lula,47.37,-1.62,48.99
+Verita,2026-10-21,dopo,flavio,51.02,0.06,50.96
+Ipespe,2026-10-21,dopo,flavio,50.53,0.12,50.4
+Vox Brasil,2026-10-21,dopo,flavio,49.39,-1.78,51.17
+Datafolha,2026-10-21,dopo,flavio,50.54,-0.12,50.65
+Verita,2026-10-21,dopo,lula,48.98,-0.06,49.04
+Ipespe,2026-10-21,dopo,lula,49.47,-0.12,49.6
+Vox Brasil,2026-10-21,dopo,lula,50.61,1.78,48.83
+Datafolha,2026-10-21,dopo,lula,49.46,0.12,49.35
+MDA,2026-10-22,dopo,flavio,50.71,-0.29,51.01
+Instituto França,2026-10-22,dopo,flavio,51.13,0.16,50.98
+MDA,2026-10-22,dopo,lula,49.29,0.29,48.99
+Instituto França,2026-10-22,dopo,lula,48.87,-0.16,49.02
+Futura,2026-10-23,dopo,flavio,50.16,-0.25,50.41
+Quaest,2026-10-23,dopo,flavio,50.55,-0.27,50.82
+Datafolha,2026-10-23,dopo,flavio,50.53,-0.12,50.64
+Nexus,2026-10-23,dopo,flavio,50.54,-0.2,50.73
+PoderData,2026-10-23,dopo,flavio,50.52,-0.15,50.66
+Palver,2026-10-23,dopo,flavio,50.51,-0.37,50.88
+Gerp,2026-10-23,dopo,flavio,51.58,1.62,49.96
+Colectta,2026-10-23,dopo,flavio,49.73,-0.8,50.53
+Futura,2026-10-23,dopo,lula,49.84,0.25,49.59
+Quaest,2026-10-23,dopo,lula,49.45,0.27,49.18
+Datafolha,2026-10-23,dopo,lula,49.47,0.12,49.36
+Nexus,2026-10-23,dopo,lula,49.46,0.2,49.27
+PoderData,2026-10-23,dopo,lula,49.48,0.15,49.34
+Palver,2026-10-23,dopo,lula,49.49,0.37,49.12
+Gerp,2026-10-23,dopo,lula,48.42,-1.62,50.04
+Colectta,2026-10-23,dopo,lula,50.27,0.8,49.47

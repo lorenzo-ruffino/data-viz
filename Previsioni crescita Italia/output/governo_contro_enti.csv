@@ -1,0 +1,40 @@
+orizzonte,ente,n,gov_piu_ottimista,uguale,gov_piu_preciso,scarto_medio
+"t+1, autunno",Banca d'Italia,9,9,0,3,0.5444444444444445
+"t+1, autunno",Commissione europea,27,22,4,3,0.3148148148148148
+"t+1, autunno",FMI,27,21,3,6,0.2777777777777778
+"t+1, autunno",Istat,13,11,2,4,0.3384615384615385
+"t+1, autunno",OCSE,27,22,2,5,0.4222222222222222
+"t+1, autunno",UPB,11,7,2,1,0.07727272727272722
+"t+1, primavera",Banca d'Italia,15,11,1,3,0.26666666666666666
+"t+1, primavera",Commissione europea,25,17,4,4,0.07999999999999993
+"t+1, primavera",FMI,27,19,2,4,0.2777777777777778
+"t+1, primavera",Istat,9,8,1,1,0.28888888888888886
+"t+1, primavera",OCSE,27,15,6,6,0.08518518518518516
+"t+1, primavera",UPB,10,10,0,2,0.218
+"t+2, autunno",Banca d'Italia,8,7,1,1,0.27499999999999997
+"t+2, autunno",Commissione europea,26,24,1,6,0.3461538461538462
+"t+2, autunno",FMI,26,20,2,8,0.36923076923076925
+"t+2, autunno",Istat,2,1,1,0,0.10000000000000009
+"t+2, autunno",OCSE,26,22,2,6,0.29230769230769227
+"t+2, autunno",UPB,10,10,0,3,0.39499999999999996
+"t+2, primavera",Banca d'Italia,7,4,1,1,0.10000000000000005
+"t+2, primavera",FMI,25,18,3,7,0.264
+"t+2, primavera",Istat,2,2,0,1,0.20000000000000007
+"t+2, primavera",UPB,8,7,1,2,0.11875000000000005
+"t+3, autunno",Banca d'Italia,7,5,1,1,0.12857142857142856
+"t+3, autunno",FMI,25,22,1,5,0.33599999999999997
+"t+3, autunno",UPB,9,9,0,3,0.3499999999999999
+"t+3, primavera",FMI,23,18,1,7,0.2695652173913043
+"t+3, primavera",UPB,7,4,2,1,0.11142857142857147
+"t, autunno",Banca d'Italia,10,4,1,4,0.05000000000000002
+"t, autunno",Commissione europea,27,15,4,11,0.07407407407407411
+"t, autunno",FMI,27,17,5,13,0.137037037037037
+"t, autunno",Istat,14,4,5,3,5.947623346206196e-17
+"t, autunno",OCSE,27,13,7,8,0.06296296296296297
+"t, autunno",UPB,11,6,5,4,0.1136363636363636
+"t, primavera",Banca d'Italia,16,11,3,4,0.26874999999999993
+"t, primavera",Commissione europea,26,15,4,15,0.05769230769230769
+"t, primavera",FMI,27,19,3,14,0.14074074074074072
+"t, primavera",Istat,14,8,3,3,0.07142857142857148
+"t, primavera",OCSE,27,16,5,12,0.2481481481481482
+"t, primavera",UPB,11,6,3,4,0.0636363636363636

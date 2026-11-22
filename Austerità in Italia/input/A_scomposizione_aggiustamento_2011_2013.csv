@@ -1,0 +1,590 @@
+paese,anno,variabile,valore,unità,fonte
+Italia,2010-2013,delta_saldo_primario_pil,1.8205,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2013,delta_entrate_totali_pil,2.3823,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2013,delta_spesa_primaria_pil,0.5617,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2013,delta_pressione_fiscale_pil,1.9596,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2013,delta_interessi_pil,0.5335,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2013,crescita_nominale_spesa_primaria,1.454,% cumulata,Eurostat gov_10a_main
+Italia,2010-2013,crescita_nominale_entrate,5.4498,% cumulata,Eurostat gov_10a_main
+Italia,2010-2013,crescita_nominale_pil,0.2177,% cumulata,Eurostat gov_10a_main
+Italia,2010-2013,delta_spesa_primaria_pil_da_numeratore_spesa,0.6607,punti di PIL,scomposizione: r0*gP/(1+gY)
+Italia,2010-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-0.0989,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Italia,2010-2013,var_pct_spesa_primaria_reale_deflatore_pil,-2.7074,% cumulata,Eurostat + deflatore
+Italia,2010-2013,var_pct_spesa_primaria_reale_hicp,-5.7709,% cumulata,Eurostat + deflatore
+Italia,2010-2013,delta_entrate_corr_ciclo_pil_potenziale,2.4618,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-1.1667,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2013,delta_saldo_primario_corr_ciclo,3.6285,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2013,delta_saldo_primario_strutturale,3.5608,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2013,delta_componente_ciclica_saldo,-1.8075,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2011-2013,delta_saldo_primario_pil,0.8195,punti di PIL,Eurostat gov_10a_main
+Italia,2011-2013,delta_entrate_totali_pil,2.5049,punti di PIL,Eurostat gov_10a_main
+Italia,2011-2013,delta_spesa_primaria_pil,1.6855,punti di PIL,Eurostat gov_10a_main
+Italia,2011-2013,delta_pressione_fiscale_pil,2.0917,punti di PIL,Eurostat gov_10a_main
+Italia,2011-2013,delta_interessi_pil,0.1684,punti di PIL,Eurostat gov_10a_main
+Italia,2011-2013,crescita_nominale_spesa_primaria,1.5749,% cumulata,Eurostat gov_10a_main
+Italia,2011-2013,crescita_nominale_entrate,3.2477,% cumulata,Eurostat gov_10a_main
+Italia,2011-2013,crescita_nominale_pil,-2.1389,% cumulata,Eurostat gov_10a_main
+Italia,2011-2013,delta_spesa_primaria_pil_da_numeratore_spesa,0.7147,punti di PIL,scomposizione: r0*gP/(1+gY)
+Italia,2011-2013,delta_spesa_primaria_pil_da_denominatore_PIL,0.9707,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Italia,2011-2013,var_pct_spesa_primaria_reale_deflatore_pil,-0.9157,% cumulata,Eurostat + deflatore
+Italia,2011-2013,var_pct_spesa_primaria_reale_hicp,-2.9078,% cumulata,Eurostat + deflatore
+Italia,2011-2013,delta_entrate_corr_ciclo_pil_potenziale,2.6046,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2011-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-0.2109,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2011-2013,delta_saldo_primario_corr_ciclo,2.8155,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2011-2013,delta_saldo_primario_strutturale,2.9563,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2011-2013,delta_componente_ciclica_saldo,-1.9954,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2009-2013,delta_saldo_primario_pil,2.5841,punti di PIL,Eurostat gov_10a_main
+Italia,2009-2013,delta_entrate_totali_pil,2.0277,punti di PIL,Eurostat gov_10a_main
+Italia,2009-2013,delta_spesa_primaria_pil,-0.5563,punti di PIL,Eurostat gov_10a_main
+Italia,2009-2013,delta_pressione_fiscale_pil,1.6064,punti di PIL,Eurostat gov_10a_main
+Italia,2009-2013,delta_interessi_pil,0.4025,punti di PIL,Eurostat gov_10a_main
+Italia,2009-2013,crescita_nominale_spesa_primaria,1.1289,% cumulata,Eurostat gov_10a_main
+Italia,2009-2013,crescita_nominale_entrate,6.8625,% cumulata,Eurostat gov_10a_main
+Italia,2009-2013,crescita_nominale_pil,2.3494,% cumulata,Eurostat gov_10a_main
+Italia,2009-2013,delta_spesa_primaria_pil_da_numeratore_spesa,0.5146,punti di PIL,scomposizione: r0*gP/(1+gY)
+Italia,2009-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-1.0709,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Italia,2009-2013,var_pct_spesa_primaria_reale_deflatore_pil,-3.4597,% cumulata,Eurostat + deflatore
+Italia,2009-2013,var_pct_spesa_primaria_reale_hicp,-7.5944,% cumulata,Eurostat + deflatore
+Italia,2009-2013,delta_entrate_corr_ciclo_pil_potenziale,2.0702,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2009-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-1.5075,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2009-2013,delta_saldo_primario_corr_ciclo,3.5777,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2009-2013,delta_saldo_primario_strutturale,3.9524,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2009-2013,delta_componente_ciclica_saldo,-0.9929,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2012-2013,delta_saldo_primario_pil,-0.2183,punti di PIL,Eurostat gov_10a_main
+Italia,2012-2013,delta_entrate_totali_pil,0.514,punti di PIL,Eurostat gov_10a_main
+Italia,2012-2013,delta_spesa_primaria_pil,0.7324,punti di PIL,Eurostat gov_10a_main
+Italia,2012-2013,delta_pressione_fiscale_pil,0.1619,punti di PIL,Eurostat gov_10a_main
+Italia,2012-2013,delta_interessi_pil,-0.3303,punti di PIL,Eurostat gov_10a_main
+Italia,2012-2013,crescita_nominale_spesa_primaria,0.9255,% cumulata,Eurostat gov_10a_main
+Italia,2012-2013,crescita_nominale_entrate,0.3969,% cumulata,Eurostat gov_10a_main
+Italia,2012-2013,crescita_nominale_pil,-0.678,% cumulata,Eurostat gov_10a_main
+Italia,2012-2013,delta_spesa_primaria_pil_da_numeratore_spesa,0.4227,punti di PIL,scomposizione: r0*gP/(1+gY)
+Italia,2012-2013,delta_spesa_primaria_pil_da_denominatore_PIL,0.3097,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Italia,2012-2013,var_pct_spesa_primaria_reale_deflatore_pil,0.0329,% cumulata,Eurostat + deflatore
+Italia,2012-2013,var_pct_spesa_primaria_reale_hicp,-0.3905,% cumulata,Eurostat + deflatore
+Italia,2012-2013,delta_entrate_corr_ciclo_pil_potenziale,0.5585,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2012-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,0.0899,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2012-2013,delta_saldo_primario_corr_ciclo,0.4686,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2012-2013,delta_saldo_primario_strutturale,0.3229,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2012-2013,delta_componente_ciclica_saldo,-0.6863,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2012,delta_saldo_primario_pil,2.0389,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2012,delta_entrate_totali_pil,1.8682,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2012,delta_spesa_primaria_pil,-0.1706,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2012,delta_pressione_fiscale_pil,1.7977,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2012,delta_interessi_pil,0.8638,punti di PIL,Eurostat gov_10a_main
+Italia,2010-2012,crescita_nominale_spesa_primaria,0.5237,% cumulata,Eurostat gov_10a_main
+Italia,2010-2012,crescita_nominale_entrate,5.033,% cumulata,Eurostat gov_10a_main
+Italia,2010-2012,crescita_nominale_pil,0.9018,% cumulata,Eurostat gov_10a_main
+Italia,2010-2012,delta_spesa_primaria_pil_da_numeratore_spesa,0.2363,punti di PIL,scomposizione: r0*gP/(1+gY)
+Italia,2010-2012,delta_spesa_primaria_pil_da_denominatore_PIL,-0.407,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Italia,2010-2012,var_pct_spesa_primaria_reale_deflatore_pil,-2.7395,% cumulata,Eurostat + deflatore
+Italia,2010-2012,var_pct_spesa_primaria_reale_hicp,-5.4015,% cumulata,Eurostat + deflatore
+Italia,2010-2012,delta_entrate_corr_ciclo_pil_potenziale,1.9033,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2012,delta_spesa_primaria_corr_ciclo_pil_potenziale,-1.2566,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2012,delta_saldo_primario_corr_ciclo,3.1599,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2012,delta_saldo_primario_strutturale,3.2379,punti di PIL potenziale,AMECO (giugno 2026)
+Italia,2010-2012,delta_componente_ciclica_saldo,-1.1212,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2013,delta_saldo_primario_pil,3.913,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2013,delta_entrate_totali_pil,1.6197,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2013,delta_spesa_primaria_pil,-2.2933,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2013,delta_pressione_fiscale_pil,1.4901,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2013,delta_interessi_pil,-0.6289,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2013,crescita_nominale_spesa_primaria,4.004,% cumulata,Eurostat gov_10a_main
+Germania,2010-2013,crescita_nominale_entrate,13.562,% cumulata,Eurostat gov_10a_main
+Germania,2010-2013,crescita_nominale_pil,9.5026,% cumulata,Eurostat gov_10a_main
+Germania,2010-2013,delta_spesa_primaria_pil_da_numeratore_spesa,1.67,punti di PIL,scomposizione: r0*gP/(1+gY)
+Germania,2010-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-3.9633,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Germania,2010-2013,var_pct_spesa_primaria_reale_deflatore_pil,-0.6801,% cumulata,Eurostat + deflatore
+Germania,2010-2013,var_pct_spesa_primaria_reale_hicp,-2.2194,% cumulata,Eurostat + deflatore
+Germania,2010-2013,delta_entrate_corr_ciclo_pil_potenziale,1.5835,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-2.0588,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2013,delta_saldo_primario_corr_ciclo,3.6423,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2013,delta_saldo_primario_strutturale,2.4373,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2013,delta_componente_ciclica_saldo,0.2704,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2011-2013,delta_saldo_primario_pil,0.2994,punti di PIL,Eurostat gov_10a_main
+Germania,2011-2013,delta_entrate_totali_pil,0.8593,punti di PIL,Eurostat gov_10a_main
+Germania,2011-2013,delta_spesa_primaria_pil,0.5599,punti di PIL,Eurostat gov_10a_main
+Germania,2011-2013,delta_pressione_fiscale_pil,0.9958,punti di PIL,Eurostat gov_10a_main
+Germania,2011-2013,delta_interessi_pil,-0.6633,punti di PIL,Eurostat gov_10a_main
+Germania,2011-2013,crescita_nominale_spesa_primaria,5.6641,% cumulata,Eurostat gov_10a_main
+Germania,2011-2013,crescita_nominale_entrate,6.3164,% cumulata,Eurostat gov_10a_main
+Germania,2011-2013,crescita_nominale_pil,4.3003,% cumulata,Eurostat gov_10a_main
+Germania,2011-2013,delta_spesa_primaria_pil_da_numeratore_spesa,2.3253,punti di PIL,scomposizione: r0*gP/(1+gY)
+Germania,2011-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-1.7654,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Germania,2011-2013,var_pct_spesa_primaria_reale_deflatore_pil,2.1394,% cumulata,Eurostat + deflatore
+Germania,2011-2013,var_pct_spesa_primaria_reale_hicp,1.8062,% cumulata,Eurostat + deflatore
+Germania,2011-2013,delta_entrate_corr_ciclo_pil_potenziale,0.8115,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2011-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-0.6247,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2011-2013,delta_saldo_primario_corr_ciclo,1.4363,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2011-2013,delta_saldo_primario_strutturale,1.2781,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2011-2013,delta_componente_ciclica_saldo,-1.1379,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2009-2013,delta_saldo_primario_pil,2.4962,punti di PIL,Eurostat gov_10a_main
+Germania,2009-2013,delta_entrate_totali_pil,0.1947,punti di PIL,Eurostat gov_10a_main
+Germania,2009-2013,delta_spesa_primaria_pil,-2.3014,punti di PIL,Eurostat gov_10a_main
+Germania,2009-2013,delta_pressione_fiscale_pil,0.0494,punti di PIL,Eurostat gov_10a_main
+Germania,2009-2013,delta_interessi_pil,-0.8012,punti di PIL,Eurostat gov_10a_main
+Germania,2009-2013,crescita_nominale_spesa_primaria,9.044,% cumulata,Eurostat gov_10a_main
+Germania,2009-2013,crescita_nominale_entrate,15.325,% cumulata,Eurostat gov_10a_main
+Germania,2009-2013,crescita_nominale_pil,14.8294,% cumulata,Eurostat gov_10a_main
+Germania,2009-2013,delta_spesa_primaria_pil_da_numeratore_spesa,3.5977,punti di PIL,scomposizione: r0*gP/(1+gY)
+Germania,2009-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-5.8991,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Germania,2009-2013,var_pct_spesa_primaria_reale_deflatore_pil,3.4177,% cumulata,Eurostat + deflatore
+Germania,2009-2013,var_pct_spesa_primaria_reale_hicp,1.3025,% cumulata,Eurostat + deflatore
+Germania,2009-2013,delta_entrate_corr_ciclo_pil_potenziale,0.1959,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2009-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-0.3138,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2009-2013,delta_saldo_primario_corr_ciclo,0.5097,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2009-2013,delta_componente_ciclica_saldo,1.9856,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2012-2013,delta_saldo_primario_pil,-0.3041,punti di PIL,Eurostat gov_10a_main
+Germania,2012-2013,delta_entrate_totali_pil,0.2684,punti di PIL,Eurostat gov_10a_main
+Germania,2012-2013,delta_spesa_primaria_pil,0.5725,punti di PIL,Eurostat gov_10a_main
+Germania,2012-2013,delta_pressione_fiscale_pil,0.3403,punti di PIL,Eurostat gov_10a_main
+Germania,2012-2013,delta_interessi_pil,-0.4811,punti di PIL,Eurostat gov_10a_main
+Germania,2012-2013,crescita_nominale_spesa_primaria,3.7032,% cumulata,Eurostat gov_10a_main
+Germania,2012-2013,crescita_nominale_entrate,2.9442,% cumulata,Eurostat gov_10a_main
+Germania,2012-2013,crescita_nominale_pil,2.3345,% cumulata,Eurostat gov_10a_main
+Germania,2012-2013,delta_spesa_primaria_pil_da_numeratore_spesa,1.549,punti di PIL,scomposizione: r0*gP/(1+gY)
+Germania,2012-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-0.9765,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Germania,2012-2013,var_pct_spesa_primaria_reale_deflatore_pil,1.6871,% cumulata,Eurostat + deflatore
+Germania,2012-2013,var_pct_spesa_primaria_reale_hicp,2.0204,% cumulata,Eurostat + deflatore
+Germania,2012-2013,delta_entrate_corr_ciclo_pil_potenziale,0.2271,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2012-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-0.0188,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2012-2013,delta_saldo_primario_corr_ciclo,0.2459,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2012-2013,delta_saldo_primario_strutturale,0.1541,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2012-2013,delta_componente_ciclica_saldo,-0.5513,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2012,delta_saldo_primario_pil,4.2172,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2012,delta_entrate_totali_pil,1.3513,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2012,delta_spesa_primaria_pil,-2.8658,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2012,delta_pressione_fiscale_pil,1.1498,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2012,delta_interessi_pil,-0.1478,punti di PIL,Eurostat gov_10a_main
+Germania,2010-2012,crescita_nominale_spesa_primaria,0.2901,% cumulata,Eurostat gov_10a_main
+Germania,2010-2012,crescita_nominale_entrate,10.3141,% cumulata,Eurostat gov_10a_main
+Germania,2010-2012,crescita_nominale_pil,7.0046,% cumulata,Eurostat gov_10a_main
+Germania,2010-2012,delta_spesa_primaria_pil_da_numeratore_spesa,0.1238,punti di PIL,scomposizione: r0*gP/(1+gY)
+Germania,2010-2012,delta_spesa_primaria_pil_da_denominatore_PIL,-2.9897,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Germania,2010-2012,var_pct_spesa_primaria_reale_deflatore_pil,-2.3279,% cumulata,Eurostat + deflatore
+Germania,2010-2012,var_pct_spesa_primaria_reale_hicp,-4.1558,% cumulata,Eurostat + deflatore
+Germania,2010-2012,delta_entrate_corr_ciclo_pil_potenziale,1.3564,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2012,delta_spesa_primaria_corr_ciclo_pil_potenziale,-2.0401,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2012,delta_saldo_primario_corr_ciclo,3.3964,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2012,delta_saldo_primario_strutturale,2.2832,punti di PIL potenziale,AMECO (giugno 2026)
+Germania,2010-2012,delta_componente_ciclica_saldo,0.8216,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2013,delta_saldo_primario_pil,2.0045,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2013,delta_entrate_totali_pil,3.0944,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2013,delta_spesa_primaria_pil,1.0899,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2013,delta_pressione_fiscale_pil,3.3048,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2013,delta_interessi_pil,-0.2094,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2013,crescita_nominale_spesa_primaria,8.3249,% cumulata,Eurostat gov_10a_main
+Francia,2010-2013,crescita_nominale_entrate,12.7274,% cumulata,Eurostat gov_10a_main
+Francia,2010-2013,crescita_nominale_pil,6.2267,% cumulata,Eurostat gov_10a_main
+Francia,2010-2013,delta_spesa_primaria_pil_da_numeratore_spesa,4.3241,punti di PIL,scomposizione: r0*gP/(1+gY)
+Francia,2010-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-3.2343,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Francia,2010-2013,var_pct_spesa_primaria_reale_deflatore_pil,5.4723,% cumulata,Eurostat + deflatore
+Francia,2010-2013,var_pct_spesa_primaria_reale_hicp,2.5874,% cumulata,Eurostat + deflatore
+Francia,2010-2013,delta_entrate_corr_ciclo_pil_potenziale,3.0937,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,1.1953,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2013,delta_saldo_primario_corr_ciclo,1.8984,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2013,delta_saldo_primario_strutturale,1.5644,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2013,delta_componente_ciclica_saldo,0.1059,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2011-2013,delta_saldo_primario_pil,-0.0184,punti di PIL,Eurostat gov_10a_main
+Francia,2011-2013,delta_entrate_totali_pil,1.9459,punti di PIL,Eurostat gov_10a_main
+Francia,2011-2013,delta_spesa_primaria_pil,1.9643,punti di PIL,Eurostat gov_10a_main
+Francia,2011-2013,delta_pressione_fiscale_pil,2.1935,punti di PIL,Eurostat gov_10a_main
+Francia,2011-2013,delta_interessi_pil,-0.3843,punti di PIL,Eurostat gov_10a_main
+Francia,2011-2013,crescita_nominale_spesa_primaria,6.5395,% cumulata,Eurostat gov_10a_main
+Francia,2011-2013,crescita_nominale_entrate,6.6891,% cumulata,Eurostat gov_10a_main
+Francia,2011-2013,crescita_nominale_pil,2.8201,% cumulata,Eurostat gov_10a_main
+Francia,2011-2013,delta_spesa_primaria_pil_da_numeratore_spesa,3.4537,punti di PIL,scomposizione: r0*gP/(1+gY)
+Francia,2011-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-1.4893,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Francia,2011-2013,var_pct_spesa_primaria_reale_deflatore_pil,4.6171,% cumulata,Eurostat + deflatore
+Francia,2011-2013,var_pct_spesa_primaria_reale_hicp,3.2031,% cumulata,Eurostat + deflatore
+Francia,2011-2013,delta_entrate_corr_ciclo_pil_potenziale,1.9486,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2011-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,1.2924,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2011-2013,delta_saldo_primario_corr_ciclo,0.6562,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2011-2013,delta_saldo_primario_strutturale,0.6037,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2011-2013,delta_componente_ciclica_saldo,-0.6746,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2009-2013,delta_saldo_primario_pil,2.2244,punti di PIL,Eurostat gov_10a_main
+Francia,2009-2013,delta_entrate_totali_pil,3.0527,punti di PIL,Eurostat gov_10a_main
+Francia,2009-2013,delta_spesa_primaria_pil,0.8283,punti di PIL,Eurostat gov_10a_main
+Francia,2009-2013,delta_pressione_fiscale_pil,3.4234,punti di PIL,Eurostat gov_10a_main
+Francia,2009-2013,delta_interessi_pil,-0.2142,punti di PIL,Eurostat gov_10a_main
+Francia,2009-2013,crescita_nominale_spesa_primaria,11.1435,% cumulata,Eurostat gov_10a_main
+Francia,2009-2013,crescita_nominale_entrate,16.1132,% cumulata,Eurostat gov_10a_main
+Francia,2009-2013,crescita_nominale_pil,9.5073,% cumulata,Eurostat gov_10a_main
+Francia,2009-2013,delta_spesa_primaria_pil_da_numeratore_spesa,5.6414,punti di PIL,scomposizione: r0*gP/(1+gY)
+Francia,2009-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-4.8131,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Francia,2009-2013,var_pct_spesa_primaria_reale_deflatore_pil,7.0501,% cumulata,Eurostat + deflatore
+Francia,2009-2013,var_pct_spesa_primaria_reale_hicp,3.4549,% cumulata,Eurostat + deflatore
+Francia,2009-2013,delta_entrate_corr_ciclo_pil_potenziale,3.0375,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2009-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,1.4125,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2009-2013,delta_saldo_primario_corr_ciclo,1.6251,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2009-2013,delta_componente_ciclica_saldo,0.6002,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2012-2013,delta_saldo_primario_pil,-0.0667,punti di PIL,Eurostat gov_10a_main
+Francia,2012-2013,delta_entrate_totali_pil,0.9231,punti di PIL,Eurostat gov_10a_main
+Francia,2012-2013,delta_spesa_primaria_pil,0.9899,punti di PIL,Eurostat gov_10a_main
+Francia,2012-2013,delta_pressione_fiscale_pil,0.9081,punti di PIL,Eurostat gov_10a_main
+Francia,2012-2013,delta_interessi_pil,-0.3004,punti di PIL,Eurostat gov_10a_main
+Francia,2012-2013,crescita_nominale_spesa_primaria,3.3726,% cumulata,Eurostat gov_10a_main
+Francia,2012-2013,crescita_nominale_entrate,3.3316,% cumulata,Eurostat gov_10a_main
+Francia,2012-2013,crescita_nominale_pil,1.554,% cumulata,Eurostat gov_10a_main
+Francia,2012-2013,delta_spesa_primaria_pil_da_numeratore_spesa,1.8357,punti di PIL,scomposizione: r0*gP/(1+gY)
+Francia,2012-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-0.8458,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Francia,2012-2013,var_pct_spesa_primaria_reale_deflatore_pil,2.605,% cumulata,Eurostat + deflatore
+Francia,2012-2013,var_pct_spesa_primaria_reale_hicp,2.3525,% cumulata,Eurostat + deflatore
+Francia,2012-2013,delta_entrate_corr_ciclo_pil_potenziale,0.9336,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2012-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,0.853,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2012-2013,delta_saldo_primario_corr_ciclo,0.0806,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2012-2013,delta_saldo_primario_strutturale,-0.0686,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2012-2013,delta_componente_ciclica_saldo,-0.1478,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2012,delta_saldo_primario_pil,2.0713,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2012,delta_entrate_totali_pil,2.1712,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2012,delta_spesa_primaria_pil,0.1,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2012,delta_pressione_fiscale_pil,2.3966,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2012,delta_interessi_pil,0.091,punti di PIL,Eurostat gov_10a_main
+Francia,2010-2012,crescita_nominale_spesa_primaria,4.7908,% cumulata,Eurostat gov_10a_main
+Francia,2010-2012,crescita_nominale_entrate,9.0928,% cumulata,Eurostat gov_10a_main
+Francia,2010-2012,crescita_nominale_pil,4.6012,% cumulata,Eurostat gov_10a_main
+Francia,2010-2012,delta_spesa_primaria_pil_da_numeratore_spesa,2.5271,punti di PIL,scomposizione: r0*gP/(1+gY)
+Francia,2010-2012,delta_spesa_primaria_pil_da_denominatore_PIL,-2.4271,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Francia,2010-2012,var_pct_spesa_primaria_reale_deflatore_pil,2.7945,% cumulata,Eurostat + deflatore
+Francia,2010-2012,var_pct_spesa_primaria_reale_hicp,0.2295,% cumulata,Eurostat + deflatore
+Francia,2010-2012,delta_entrate_corr_ciclo_pil_potenziale,2.1601,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2012,delta_spesa_primaria_corr_ciclo_pil_potenziale,0.3423,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2012,delta_saldo_primario_corr_ciclo,1.8178,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2012,delta_saldo_primario_strutturale,1.633,punti di PIL potenziale,AMECO (giugno 2026)
+Francia,2010-2012,delta_componente_ciclica_saldo,0.2537,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2013,delta_saldo_primario_pil,3.6619,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2013,delta_entrate_totali_pil,2.3414,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2013,delta_spesa_primaria_pil,-1.3205,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2013,delta_pressione_fiscale_pil,1.8748,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2013,delta_interessi_pil,1.6693,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2013,crescita_nominale_spesa_primaria,-7.7179,% cumulata,Eurostat gov_10a_main
+Spagna,2010-2013,crescita_nominale_entrate,1.2688,% cumulata,Eurostat gov_10a_main
+Spagna,2010-2013,crescita_nominale_pil,-4.8588,% cumulata,Eurostat gov_10a_main
+Spagna,2010-2013,delta_spesa_primaria_pil_da_numeratore_spesa,-3.5646,punti di PIL,scomposizione: r0*gP/(1+gY)
+Spagna,2010-2013,delta_spesa_primaria_pil_da_denominatore_PIL,2.2441,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Spagna,2010-2013,var_pct_spesa_primaria_reale_deflatore_pil,-7.7994,% cumulata,Eurostat + deflatore
+Spagna,2010-2013,var_pct_spesa_primaria_reale_hicp,-13.8957,% cumulata,Eurostat + deflatore
+Spagna,2010-2013,delta_entrate_corr_ciclo_pil_potenziale,2.3368,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-4.0179,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2013,delta_saldo_primario_corr_ciclo,6.3548,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2013,delta_saldo_primario_strutturale,6.7946,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2013,delta_componente_ciclica_saldo,-2.6892,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2011-2013,delta_saldo_primario_pil,3.2752,punti di PIL,Eurostat gov_10a_main
+Spagna,2011-2013,delta_entrate_totali_pil,2.4698,punti di PIL,Eurostat gov_10a_main
+Spagna,2011-2013,delta_spesa_primaria_pil,-0.8054,punti di PIL,Eurostat gov_10a_main
+Spagna,2011-2013,delta_pressione_fiscale_pil,2.0332,punti di PIL,Eurostat gov_10a_main
+Spagna,2011-2013,delta_interessi_pil,1.0822,punti di PIL,Eurostat gov_10a_main
+Spagna,2011-2013,crescita_nominale_spesa_primaria,-5.9225,% cumulata,Eurostat gov_10a_main
+Spagna,2011-2013,crescita_nominale_entrate,2.3907,% cumulata,Eurostat gov_10a_main
+Spagna,2011-2013,crescita_nominale_pil,-4.1448,% cumulata,Eurostat gov_10a_main
+Spagna,2011-2013,delta_spesa_primaria_pil_da_numeratore_spesa,-2.6832,punti di PIL,scomposizione: r0*gP/(1+gY)
+Spagna,2011-2013,delta_spesa_primaria_pil_da_denominatore_PIL,1.8778,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Spagna,2011-2013,var_pct_spesa_primaria_reale_deflatore_pil,-6.1424,% cumulata,Eurostat + deflatore
+Spagna,2011-2013,var_pct_spesa_primaria_reale_hicp,-9.552,% cumulata,Eurostat + deflatore
+Spagna,2011-2013,delta_entrate_corr_ciclo_pil_potenziale,2.4433,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2011-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-2.7917,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2011-2013,delta_saldo_primario_corr_ciclo,5.235,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2011-2013,delta_saldo_primario_strutturale,5.436,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2011-2013,delta_componente_ciclica_saldo,-1.9532,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2009-2013,delta_saldo_primario_pil,5.6027,punti di PIL,Eurostat gov_10a_main
+Spagna,2009-2013,delta_entrate_totali_pil,3.8476,punti di PIL,Eurostat gov_10a_main
+Spagna,2009-2013,delta_spesa_primaria_pil,-1.7551,punti di PIL,Eurostat gov_10a_main
+Spagna,2009-2013,delta_pressione_fiscale_pil,3.4323,punti di PIL,Eurostat gov_10a_main
+Spagna,2009-2013,delta_interessi_pil,1.8552,punti di PIL,Eurostat gov_10a_main
+Spagna,2009-2013,crescita_nominale_spesa_primaria,-8.2255,% cumulata,Eurostat gov_10a_main
+Spagna,2009-2013,crescita_nominale_entrate,6.1042,% cumulata,Eurostat gov_10a_main
+Spagna,2009-2013,crescita_nominale_pil,-4.4463,% cumulata,Eurostat gov_10a_main
+Spagna,2009-2013,delta_spesa_primaria_pil_da_numeratore_spesa,-3.8201,punti di PIL,scomposizione: r0*gP/(1+gY)
+Spagna,2009-2013,delta_spesa_primaria_pil_da_denominatore_PIL,2.065,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Spagna,2009-2013,var_pct_spesa_primaria_reale_deflatore_pil,-8.5744,% cumulata,Eurostat + deflatore
+Spagna,2009-2013,var_pct_spesa_primaria_reale_hicp,-16.0895,% cumulata,Eurostat + deflatore
+Spagna,2009-2013,delta_entrate_corr_ciclo_pil_potenziale,3.8662,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2009-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-5.1034,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2009-2013,delta_saldo_primario_corr_ciclo,8.9695,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2009-2013,delta_componente_ciclica_saldo,-3.3673,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2012-2013,delta_saldo_primario_pil,4.5407,punti di PIL,Eurostat gov_10a_main
+Spagna,2012-2013,delta_entrate_totali_pil,0.9742,punti di PIL,Eurostat gov_10a_main
+Spagna,2012-2013,delta_spesa_primaria_pil,-3.5665,punti di PIL,Eurostat gov_10a_main
+Spagna,2012-2013,delta_pressione_fiscale_pil,0.8398,punti di PIL,Eurostat gov_10a_main
+Spagna,2012-2013,delta_interessi_pil,0.5405,punti di PIL,Eurostat gov_10a_main
+Spagna,2012-2013,crescita_nominale_spesa_primaria,-8.7212,% cumulata,Eurostat gov_10a_main
+Spagna,2012-2013,crescita_nominale_entrate,1.4714,% cumulata,Eurostat gov_10a_main
+Spagna,2012-2013,crescita_nominale_pil,-1.0832,% cumulata,Eurostat gov_10a_main
+Spagna,2012-2013,delta_spesa_primaria_pil_da_numeratore_spesa,-4.0723,punti di PIL,scomposizione: r0*gP/(1+gY)
+Spagna,2012-2013,delta_spesa_primaria_pil_da_denominatore_PIL,0.5058,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Spagna,2012-2013,var_pct_spesa_primaria_reale_deflatore_pil,-9.1195,% cumulata,Eurostat + deflatore
+Spagna,2012-2013,var_pct_spesa_primaria_reale_hicp,-10.0972,% cumulata,Eurostat + deflatore
+Spagna,2012-2013,delta_entrate_corr_ciclo_pil_potenziale,0.9451,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2012-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-4.1021,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2012-2013,delta_saldo_primario_corr_ciclo,5.0472,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2012-2013,delta_saldo_primario_strutturale,2.491,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2012-2013,delta_componente_ciclica_saldo,-0.5022,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2012,delta_saldo_primario_pil,-0.8788,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2012,delta_entrate_totali_pil,1.3672,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2012,delta_spesa_primaria_pil,2.246,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2012,delta_pressione_fiscale_pil,1.0349,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2012,delta_interessi_pil,1.1288,punti di PIL,Eurostat gov_10a_main
+Spagna,2010-2012,crescita_nominale_spesa_primaria,1.0991,% cumulata,Eurostat gov_10a_main
+Spagna,2010-2012,crescita_nominale_entrate,-0.1997,% cumulata,Eurostat gov_10a_main
+Spagna,2010-2012,crescita_nominale_pil,-3.817,% cumulata,Eurostat gov_10a_main
+Spagna,2010-2012,delta_spesa_primaria_pil_da_numeratore_spesa,0.5021,punti di PIL,scomposizione: r0*gP/(1+gY)
+Spagna,2010-2012,delta_spesa_primaria_pil_da_denominatore_PIL,1.7438,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Spagna,2010-2012,var_pct_spesa_primaria_reale_deflatore_pil,1.4526,% cumulata,Eurostat + deflatore
+Spagna,2010-2012,var_pct_spesa_primaria_reale_hicp,-4.2251,% cumulata,Eurostat + deflatore
+Spagna,2010-2012,delta_entrate_corr_ciclo_pil_potenziale,1.3918,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2012,delta_spesa_primaria_corr_ciclo_pil_potenziale,0.0842,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2012,delta_saldo_primario_corr_ciclo,1.3076,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2012,delta_saldo_primario_strutturale,4.3036,punti di PIL potenziale,AMECO (giugno 2026)
+Spagna,2010-2012,delta_componente_ciclica_saldo,-2.187,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2013,delta_saldo_primario_pil,8.0602,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2013,delta_entrate_totali_pil,4.263,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2013,delta_spesa_primaria_pil,-3.7973,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2013,delta_pressione_fiscale_pil,3.3912,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2013,delta_interessi_pil,1.8517,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2013,crescita_nominale_spesa_primaria,-12.4368,% cumulata,Eurostat gov_10a_main
+Portogallo,2010-2013,crescita_nominale_entrate,4.9165,% cumulata,Eurostat gov_10a_main
+Portogallo,2010-2013,crescita_nominale_pil,-5.079,% cumulata,Eurostat gov_10a_main
+Portogallo,2010-2013,delta_spesa_primaria_pil_da_numeratore_spesa,-6.4186,punti di PIL,scomposizione: r0*gP/(1+gY)
+Portogallo,2010-2013,delta_spesa_primaria_pil_da_denominatore_PIL,2.6212,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Portogallo,2010-2013,var_pct_spesa_primaria_reale_deflatore_pil,-13.8361,% cumulata,Eurostat + deflatore
+Portogallo,2010-2013,var_pct_spesa_primaria_reale_hicp,-18.0869,% cumulata,Eurostat + deflatore
+Portogallo,2010-2013,delta_entrate_corr_ciclo_pil_potenziale,4.1987,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-5.7995,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2013,delta_saldo_primario_corr_ciclo,9.9981,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2013,delta_saldo_primario_strutturale,7.0378,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2013,delta_componente_ciclica_saldo,-1.9409,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2011-2013,delta_saldo_primario_pil,3.0163,punti di PIL,Eurostat gov_10a_main
+Portogallo,2011-2013,delta_entrate_totali_pil,2.4454,punti di PIL,Eurostat gov_10a_main
+Portogallo,2011-2013,delta_spesa_primaria_pil,-0.571,punti di PIL,Eurostat gov_10a_main
+Portogallo,2011-2013,delta_pressione_fiscale_pil,1.6792,punti di PIL,Eurostat gov_10a_main
+Portogallo,2011-2013,delta_interessi_pil,0.5032,punti di PIL,Eurostat gov_10a_main
+Portogallo,2011-2013,crescita_nominale_spesa_primaria,-4.4135,% cumulata,Eurostat gov_10a_main
+Portogallo,2011-2013,crescita_nominale_entrate,2.3898,% cumulata,Eurostat gov_10a_main
+Portogallo,2011-2013,crescita_nominale_pil,-3.2059,% cumulata,Eurostat gov_10a_main
+Portogallo,2011-2013,delta_spesa_primaria_pil_da_numeratore_spesa,-2.0866,punti di PIL,scomposizione: r0*gP/(1+gY)
+Portogallo,2011-2013,delta_spesa_primaria_pil_da_denominatore_PIL,1.5156,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Portogallo,2011-2013,var_pct_spesa_primaria_reale_deflatore_pil,-6.1865,% cumulata,Eurostat + deflatore
+Portogallo,2011-2013,var_pct_spesa_primaria_reale_hicp,-7.3967,% cumulata,Eurostat + deflatore
+Portogallo,2011-2013,delta_entrate_corr_ciclo_pil_potenziale,2.3896,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2011-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-1.9886,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2011-2013,delta_saldo_primario_corr_ciclo,4.3781,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2011-2013,delta_saldo_primario_strutturale,3.9901,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2011-2013,delta_componente_ciclica_saldo,-1.3618,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2009-2013,delta_saldo_primario_pil,6.4489,punti di PIL,Eurostat gov_10a_main
+Portogallo,2009-2013,delta_entrate_totali_pil,4.3577,punti di PIL,Eurostat gov_10a_main
+Portogallo,2009-2013,delta_spesa_primaria_pil,-2.0912,punti di PIL,Eurostat gov_10a_main
+Portogallo,2009-2013,delta_pressione_fiscale_pil,3.7001,punti di PIL,Eurostat gov_10a_main
+Portogallo,2009-2013,delta_interessi_pil,1.7873,punti di PIL,Eurostat gov_10a_main
+Portogallo,2009-2013,crescita_nominale_spesa_primaria,-6.9999,% cumulata,Eurostat gov_10a_main
+Portogallo,2009-2013,crescita_nominale_entrate,7.8024,% cumulata,Eurostat gov_10a_main
+Portogallo,2009-2013,crescita_nominale_pil,-2.6962,% cumulata,Eurostat gov_10a_main
+Portogallo,2009-2013,delta_spesa_primaria_pil_da_numeratore_spesa,-3.4014,punti di PIL,scomposizione: r0*gP/(1+gY)
+Portogallo,2009-2013,delta_spesa_primaria_pil_da_denominatore_PIL,1.3102,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Portogallo,2009-2013,var_pct_spesa_primaria_reale_deflatore_pil,-9.1967,% cumulata,Eurostat + deflatore
+Portogallo,2009-2013,var_pct_spesa_primaria_reale_hicp,-14.1861,% cumulata,Eurostat + deflatore
+Portogallo,2009-2013,delta_entrate_corr_ciclo_pil_potenziale,4.3219,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2009-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-3.1044,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2009-2013,delta_saldo_primario_corr_ciclo,7.4262,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2009-2013,delta_componente_ciclica_saldo,-0.9782,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2012-2013,delta_saldo_primario_pil,0.9296,punti di PIL,Eurostat gov_10a_main
+Portogallo,2012-2013,delta_entrate_totali_pil,2.1192,punti di PIL,Eurostat gov_10a_main
+Portogallo,2012-2013,delta_spesa_primaria_pil,1.1895,punti di PIL,Eurostat gov_10a_main
+Portogallo,2012-2013,delta_pressione_fiscale_pil,2.7213,punti di PIL,Eurostat gov_10a_main
+Portogallo,2012-2013,delta_interessi_pil,-0.0582,punti di PIL,Eurostat gov_10a_main
+Portogallo,2012-2013,crescita_nominale_spesa_primaria,3.9876,% cumulata,Eurostat gov_10a_main
+Portogallo,2012-2013,crescita_nominale_entrate,6.2841,% cumulata,Eurostat gov_10a_main
+Portogallo,2012-2013,crescita_nominale_pil,1.2505,% cumulata,Eurostat gov_10a_main
+Portogallo,2012-2013,delta_spesa_primaria_pil_da_numeratore_spesa,1.7329,punti di PIL,scomposizione: r0*gP/(1+gY)
+Portogallo,2012-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-0.5434,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Portogallo,2012-2013,var_pct_spesa_primaria_reale_deflatore_pil,1.6755,% cumulata,Eurostat + deflatore
+Portogallo,2012-2013,var_pct_spesa_primaria_reale_hicp,3.5389,% cumulata,Eurostat + deflatore
+Portogallo,2012-2013,delta_entrate_corr_ciclo_pil_potenziale,2.1123,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2012-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,1.1984,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2012-2013,delta_saldo_primario_corr_ciclo,0.9139,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2012-2013,delta_saldo_primario_strutturale,0.574,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2012-2013,delta_componente_ciclica_saldo,0.0159,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2012,delta_saldo_primario_pil,7.1306,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2012,delta_entrate_totali_pil,2.1438,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2012,delta_spesa_primaria_pil,-4.9868,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2012,delta_pressione_fiscale_pil,0.6699,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2012,delta_interessi_pil,1.9099,punti di PIL,Eurostat gov_10a_main
+Portogallo,2010-2012,crescita_nominale_spesa_primaria,-15.7946,% cumulata,Eurostat gov_10a_main
+Portogallo,2010-2012,crescita_nominale_entrate,-1.2868,% cumulata,Eurostat gov_10a_main
+Portogallo,2010-2012,crescita_nominale_pil,-6.2513,% cumulata,Eurostat gov_10a_main
+Portogallo,2010-2012,delta_spesa_primaria_pil_da_numeratore_spesa,-8.2534,punti di PIL,scomposizione: r0*gP/(1+gY)
+Portogallo,2010-2012,delta_spesa_primaria_pil_da_denominatore_PIL,3.2666,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Portogallo,2010-2012,var_pct_spesa_primaria_reale_deflatore_pil,-15.2559,% cumulata,Eurostat + deflatore
+Portogallo,2010-2012,var_pct_spesa_primaria_reale_hicp,-20.8866,% cumulata,Eurostat + deflatore
+Portogallo,2010-2012,delta_entrate_corr_ciclo_pil_potenziale,2.0864,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2012,delta_spesa_primaria_corr_ciclo_pil_potenziale,-6.9978,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2012,delta_saldo_primario_corr_ciclo,9.0842,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2012,delta_saldo_primario_strutturale,6.4638,punti di PIL potenziale,AMECO (giugno 2026)
+Portogallo,2010-2012,delta_componente_ciclica_saldo,-1.9568,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2013,delta_saldo_primario_pil,-4.1183,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2013,delta_entrate_totali_pil,8.6056,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2013,delta_spesa_primaria_pil,12.7239,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2013,delta_pressione_fiscale_pil,4.919,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2013,delta_interessi_pil,-1.9452,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2013,crescita_nominale_spesa_primaria,1.232,% cumulata,Eurostat gov_10a_main
+Grecia,2010-2013,crescita_nominale_entrate,-3.8885,% cumulata,Eurostat gov_10a_main
+Grecia,2010-2013,crescita_nominale_pil,-20.3397,% cumulata,Eurostat gov_10a_main
+Grecia,2010-2013,delta_spesa_primaria_pil_da_numeratore_spesa,0.7267,punti di PIL,scomposizione: r0*gP/(1+gY)
+Grecia,2010-2013,delta_spesa_primaria_pil_da_denominatore_PIL,11.9972,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Grecia,2010-2013,var_pct_spesa_primaria_reale_deflatore_pil,2.6007,% cumulata,Eurostat + deflatore
+Grecia,2010-2013,var_pct_spesa_primaria_reale_hicp,-1.9963,% cumulata,Eurostat + deflatore
+Grecia,2010-2013,delta_entrate_corr_ciclo_pil_potenziale,8.2763,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,6.6873,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2013,delta_saldo_primario_corr_ciclo,1.589,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2013,delta_saldo_primario_strutturale,10.656,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2013,delta_componente_ciclica_saldo,-5.7063,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2011-2013,delta_saldo_primario_pil,-6.6014,punti di PIL,Eurostat gov_10a_main
+Grecia,2011-2013,delta_entrate_totali_pil,5.6902,punti di PIL,Eurostat gov_10a_main
+Grecia,2011-2013,delta_spesa_primaria_pil,12.2915,punti di PIL,Eurostat gov_10a_main
+Grecia,2011-2013,delta_pressione_fiscale_pil,2.7357,punti di PIL,Eurostat gov_10a_main
+Grecia,2011-2013,delta_interessi_pil,-3.5027,punti di PIL,Eurostat gov_10a_main
+Grecia,2011-2013,crescita_nominale_spesa_primaria,10.2213,% cumulata,Eurostat gov_10a_main
+Grecia,2011-2013,crescita_nominale_entrate,-1.2966,% cumulata,Eurostat gov_10a_main
+Grecia,2011-2013,crescita_nominale_pil,-12.4678,% cumulata,Eurostat gov_10a_main
+Grecia,2011-2013,delta_spesa_primaria_pil_da_numeratore_spesa,5.5373,punti di PIL,scomposizione: r0*gP/(1+gY)
+Grecia,2011-2013,delta_spesa_primaria_pil_da_denominatore_PIL,6.7543,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Grecia,2011-2013,var_pct_spesa_primaria_reale_deflatore_pil,12.8026,% cumulata,Eurostat + deflatore
+Grecia,2011-2013,var_pct_spesa_primaria_reale_hicp,10.0278,% cumulata,Eurostat + deflatore
+Grecia,2011-2013,delta_entrate_corr_ciclo_pil_potenziale,5.5652,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2011-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,10.0415,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2011-2013,delta_saldo_primario_corr_ciclo,-4.4764,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2011-2013,delta_saldo_primario_strutturale,4.7117,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2011-2013,delta_componente_ciclica_saldo,-2.1231,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2009-2013,delta_saldo_primario_pil,0.8749,punti di PIL,Eurostat gov_10a_main
+Grecia,2009-2013,delta_entrate_totali_pil,10.8899,punti di PIL,Eurostat gov_10a_main
+Grecia,2009-2013,delta_spesa_primaria_pil,10.0151,punti di PIL,Eurostat gov_10a_main
+Grecia,2009-2013,delta_pressione_fiscale_pil,6.1368,punti di PIL,Eurostat gov_10a_main
+Grecia,2009-2013,delta_interessi_pil,-0.9418,punti di PIL,Eurostat gov_10a_main
+Grecia,2009-2013,crescita_nominale_spesa_primaria,-8.7316,% cumulata,Eurostat gov_10a_main
+Grecia,2009-2013,crescita_nominale_entrate,-3.037,% cumulata,Eurostat gov_10a_main
+Grecia,2009-2013,crescita_nominale_pil,-24.0396,% cumulata,Eurostat gov_10a_main
+Grecia,2009-2013,delta_spesa_primaria_pil_da_numeratore_spesa,-5.7125,punti di PIL,scomposizione: r0*gP/(1+gY)
+Grecia,2009-2013,delta_spesa_primaria_pil_da_denominatore_PIL,15.7275,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Grecia,2009-2013,var_pct_spesa_primaria_reale_deflatore_pil,-8.5779,% cumulata,Eurostat + deflatore
+Grecia,2009-2013,var_pct_spesa_primaria_reale_hicp,-15.6118,% cumulata,Eurostat + deflatore
+Grecia,2009-2013,delta_entrate_corr_ciclo_pil_potenziale,10.3947,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2009-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,1.3829,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2009-2013,delta_saldo_primario_corr_ciclo,9.0117,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2009-2013,delta_componente_ciclica_saldo,-8.1301,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2012-2013,delta_saldo_primario_pil,-5.5445,punti di PIL,Eurostat gov_10a_main
+Grecia,2012-2013,delta_entrate_totali_pil,1.6738,punti di PIL,Eurostat gov_10a_main
+Grecia,2012-2013,delta_spesa_primaria_pil,7.2183,punti di PIL,Eurostat gov_10a_main
+Grecia,2012-2013,delta_pressione_fiscale_pil,-0.7481,punti di PIL,Eurostat gov_10a_main
+Grecia,2012-2013,delta_interessi_pil,-1.2533,punti di PIL,Eurostat gov_10a_main
+Grecia,2012-2013,crescita_nominale_spesa_primaria,8.9262,% cumulata,Eurostat gov_10a_main
+Grecia,2012-2013,crescita_nominale_entrate,-0.9438,% cumulata,Eurostat gov_10a_main
+Grecia,2012-2013,crescita_nominale_pil,-4.2416,% cumulata,Eurostat gov_10a_main
+Grecia,2012-2013,delta_spesa_primaria_pil_da_numeratore_spesa,4.8931,punti di PIL,scomposizione: r0*gP/(1+gY)
+Grecia,2012-2013,delta_spesa_primaria_pil_da_denominatore_PIL,2.3251,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Grecia,2012-2013,var_pct_spesa_primaria_reale_deflatore_pil,11.1038,% cumulata,Eurostat + deflatore
+Grecia,2012-2013,var_pct_spesa_primaria_reale_hicp,9.861,% cumulata,Eurostat + deflatore
+Grecia,2012-2013,delta_entrate_corr_ciclo_pil_potenziale,1.6575,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2012-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,7.397,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2012-2013,delta_saldo_primario_corr_ciclo,-5.7395,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2012-2013,delta_saldo_primario_strutturale,0.4926,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2012-2013,delta_componente_ciclica_saldo,0.1987,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2012,delta_saldo_primario_pil,1.4262,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2012,delta_entrate_totali_pil,6.9318,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2012,delta_spesa_primaria_pil,5.5056,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2012,delta_pressione_fiscale_pil,5.667,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2012,delta_interessi_pil,-0.692,punti di PIL,Eurostat gov_10a_main
+Grecia,2010-2012,crescita_nominale_spesa_primaria,-7.0636,% cumulata,Eurostat gov_10a_main
+Grecia,2010-2012,crescita_nominale_entrate,-2.9728,% cumulata,Eurostat gov_10a_main
+Grecia,2010-2012,crescita_nominale_pil,-16.8112,% cumulata,Eurostat gov_10a_main
+Grecia,2010-2012,delta_spesa_primaria_pil_da_numeratore_spesa,-3.9897,punti di PIL,scomposizione: r0*gP/(1+gY)
+Grecia,2010-2012,delta_spesa_primaria_pil_da_denominatore_PIL,9.4954,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Grecia,2010-2012,var_pct_spesa_primaria_reale_deflatore_pil,-7.6533,% cumulata,Eurostat + deflatore
+Grecia,2010-2012,var_pct_spesa_primaria_reale_hicp,-10.7929,% cumulata,Eurostat + deflatore
+Grecia,2010-2012,delta_entrate_corr_ciclo_pil_potenziale,6.6189,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2012,delta_spesa_primaria_corr_ciclo_pil_potenziale,-0.7097,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2012,delta_saldo_primario_corr_ciclo,7.3286,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2012,delta_saldo_primario_strutturale,10.1634,punti di PIL potenziale,AMECO (giugno 2026)
+Grecia,2010-2012,delta_componente_ciclica_saldo,-5.905,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2013,delta_saldo_primario_pil,3.1138,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2013,delta_entrate_totali_pil,2.3959,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2013,delta_spesa_primaria_pil,-0.7179,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2013,delta_pressione_fiscale_pil,2.1381,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2013,delta_interessi_pil,0.0046,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2013,crescita_nominale_spesa_primaria,2.7324,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2010-2013,crescita_nominale_entrate,9.8737,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2010-2013,crescita_nominale_pil,4.2844,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2010-2013,delta_spesa_primaria_pil_da_numeratore_spesa,1.264,punti di PIL,scomposizione: r0*gP/(1+gY)
+Area euro (EA20),2010-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-1.9819,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Area euro (EA20),2010-2013,var_pct_spesa_primaria_reale_deflatore_pil,-0.9071,% cumulata,Eurostat + deflatore
+Area euro (EA20),2010-2013,var_pct_spesa_primaria_reale_hicp,-3.7381,% cumulata,Eurostat + deflatore
+Area euro (EA20),2010-2013,delta_entrate_corr_ciclo_pil_potenziale,2.4137,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-1.3314,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2013,delta_saldo_primario_corr_ciclo,3.7451,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2013,delta_saldo_primario_strutturale,3.0607,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2013,delta_componente_ciclica_saldo,-0.6295,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2011-2013,delta_saldo_primario_pil,0.8127,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2011-2013,delta_entrate_totali_pil,1.7721,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2011-2013,delta_spesa_primaria_pil,0.9594,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2011-2013,delta_pressione_fiscale_pil,1.6358,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2011-2013,delta_interessi_pil,-0.2206,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2011-2013,crescita_nominale_spesa_primaria,3.4988,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2011-2013,crescita_nominale_entrate,5.374,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2011-2013,crescita_nominale_pil,1.4093,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2011-2013,delta_spesa_primaria_pil_da_numeratore_spesa,1.6065,punti di PIL,scomposizione: r0*gP/(1+gY)
+Area euro (EA20),2011-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-0.6471,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Area euro (EA20),2011-2013,var_pct_spesa_primaria_reale_deflatore_pil,0.9441,% cumulata,Eurostat + deflatore
+Area euro (EA20),2011-2013,var_pct_spesa_primaria_reale_hicp,-0.3854,% cumulata,Eurostat + deflatore
+Area euro (EA20),2011-2013,delta_entrate_corr_ciclo_pil_potenziale,1.7992,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2011-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-0.2053,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2011-2013,delta_saldo_primario_corr_ciclo,2.0045,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2011-2013,delta_saldo_primario_strutturale,2.016,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2011-2013,delta_componente_ciclica_saldo,-1.193,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2009-2013,delta_saldo_primario_pil,3.006,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2009-2013,delta_entrate_totali_pil,2.1678,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2009-2013,delta_spesa_primaria_pil,-0.8382,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2009-2013,delta_pressione_fiscale_pil,1.9219,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2009-2013,delta_interessi_pil,-0.0455,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2009-2013,crescita_nominale_spesa_primaria,5.4833,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2009-2013,crescita_nominale_entrate,12.523,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2009-2013,crescita_nominale_pil,7.3439,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2009-2013,delta_spesa_primaria_pil_da_numeratore_spesa,2.4703,punti di PIL,scomposizione: r0*gP/(1+gY)
+Area euro (EA20),2009-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-3.3086,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Area euro (EA20),2009-2013,var_pct_spesa_primaria_reale_deflatore_pil,1.0188,% cumulata,Eurostat + deflatore
+Area euro (EA20),2009-2013,var_pct_spesa_primaria_reale_hicp,-2.7206,% cumulata,Eurostat + deflatore
+Area euro (EA20),2009-2013,delta_entrate_corr_ciclo_pil_potenziale,2.2421,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2009-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-0.6641,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2009-2013,delta_saldo_primario_corr_ciclo,2.9063,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2009-2013,delta_componente_ciclica_saldo,0.0967,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2012-2013,delta_saldo_primario_pil,0.4054,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2012-2013,delta_entrate_totali_pil,0.6565,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2012-2013,delta_spesa_primaria_pil,0.2511,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2012-2013,delta_pressione_fiscale_pil,0.5552,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2012-2013,delta_interessi_pil,-0.2513,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2012-2013,crescita_nominale_spesa_primaria,1.6382,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2012-2013,crescita_nominale_entrate,2.5305,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2012-2013,crescita_nominale_pil,1.1013,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2012-2013,delta_spesa_primaria_pil_da_numeratore_spesa,0.766,punti di PIL,scomposizione: r0*gP/(1+gY)
+Area euro (EA20),2012-2013,delta_spesa_primaria_pil_da_denominatore_PIL,-0.5149,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Area euro (EA20),2012-2013,var_pct_spesa_primaria_reale_deflatore_pil,0.3922,% cumulata,Eurostat + deflatore
+Area euro (EA20),2012-2013,var_pct_spesa_primaria_reale_hicp,0.2782,% cumulata,Eurostat + deflatore
+Area euro (EA20),2012-2013,delta_entrate_corr_ciclo_pil_potenziale,0.6763,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2012-2013,delta_spesa_primaria_corr_ciclo_pil_potenziale,-0.1213,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2012-2013,delta_saldo_primario_corr_ciclo,0.7976,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2012-2013,delta_saldo_primario_strutturale,0.4781,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2012-2013,delta_componente_ciclica_saldo,-0.3921,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2012,delta_saldo_primario_pil,2.7083,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2012,delta_entrate_totali_pil,1.7394,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2012,delta_spesa_primaria_pil,-0.969,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2012,delta_pressione_fiscale_pil,1.5829,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2012,delta_interessi_pil,0.2559,punti di PIL,Eurostat gov_10a_main
+Area euro (EA20),2010-2012,crescita_nominale_spesa_primaria,1.0766,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2010-2012,crescita_nominale_entrate,7.162,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2010-2012,crescita_nominale_pil,3.1485,% cumulata,Eurostat gov_10a_main
+Area euro (EA20),2010-2012,delta_spesa_primaria_pil_da_numeratore_spesa,0.5035,punti di PIL,scomposizione: r0*gP/(1+gY)
+Area euro (EA20),2010-2012,delta_spesa_primaria_pil_da_denominatore_PIL,-1.4725,punti di PIL,scomposizione: r0*(1/(1+gY)-1)
+Area euro (EA20),2010-2012,var_pct_spesa_primaria_reale_deflatore_pil,-1.2943,% cumulata,Eurostat + deflatore
+Area euro (EA20),2010-2012,var_pct_spesa_primaria_reale_hicp,-4.0051,% cumulata,Eurostat + deflatore
+Area euro (EA20),2010-2012,delta_entrate_corr_ciclo_pil_potenziale,1.7374,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2012,delta_spesa_primaria_corr_ciclo_pil_potenziale,-1.2101,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2012,delta_saldo_primario_corr_ciclo,2.9475,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2012,delta_saldo_primario_strutturale,2.5826,punti di PIL potenziale,AMECO (giugno 2026)
+Area euro (EA20),2010-2012,delta_componente_ciclica_saldo,-0.2375,punti di PIL potenziale,AMECO (giugno 2026)

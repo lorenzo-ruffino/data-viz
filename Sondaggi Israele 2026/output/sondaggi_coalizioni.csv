@@ -1,0 +1,838 @@
+istituto,data,serie,nome,seggi,effetto_istituto,corretto
+LRI+P4A,2025-12-31,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2025-12-31,arabi,Partiti arabi,11,-0.18,11.18
+LRI+P4A,2025-12-31,governo,Coalizione di Netanyahu,52,-4.25,56.25
+Yossi Tatika,2025-12-31,governo,Coalizione di Netanyahu,52,-2.67,54.67
+LRI+P4A,2025-12-31,opposizione,Opposizione,58,4.57,53.43
+Yossi Tatika,2025-12-31,opposizione,Opposizione,57,2.78,54.22
+Midgam R&C,2026-01-01,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-01-01,arabi,Partiti arabi,10,0.12,9.88
+Midgam R&C,2026-01-01,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-01-01,governo,Coalizione di Netanyahu,66,9.41,56.59
+Midgam R&C,2026-01-01,opposizione,Opposizione,59,3.6,55.4
+SF+ND,2026-01-01,opposizione,Opposizione,44,-9.5,53.5
+LRI+P4A,2026-01-07,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-01-07,arabi,Partiti arabi,11,-0.18,11.18
+MM+SN,2026-01-07,arabi,Partiti arabi,10,0.8,9.2
+LRI+P4A,2026-01-07,governo,Coalizione di Netanyahu,51,-4.25,55.25
+Yossi Tatika,2026-01-07,governo,Coalizione di Netanyahu,53,-2.67,55.67
+MM+SN,2026-01-07,governo,Coalizione di Netanyahu,53,-0.96,53.96
+LRI+P4A,2026-01-07,opposizione,Opposizione,59,4.57,54.43
+Yossi Tatika,2026-01-07,opposizione,Opposizione,56,2.78,53.22
+MM+SN,2026-01-07,opposizione,Opposizione,57,0.09,56.91
+Midgam R&C,2026-01-08,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-01-08,arabi,Partiti arabi,10,0.12,9.88
+Midgam R&C,2026-01-08,governo,Coalizione di Netanyahu,52,-3.08,55.08
+SF+ND,2026-01-08,governo,Coalizione di Netanyahu,66,9.41,56.59
+Midgam R&C,2026-01-08,opposizione,Opposizione,58,3.6,54.4
+SF+ND,2026-01-08,opposizione,Opposizione,44,-9.5,53.5
+LRI+P4A,2026-01-14,arabi,Partiti arabi,9,-0.29,9.29
+Yossi Tatika,2026-01-14,arabi,Partiti arabi,11,-0.18,11.18
+Kantar,2026-01-14,arabi,Partiti arabi,10,0.07,9.93
+LRI+P4A,2026-01-14,governo,Coalizione di Netanyahu,51,-4.25,55.25
+Yossi Tatika,2026-01-14,governo,Coalizione di Netanyahu,52,-2.67,54.67
+Kantar,2026-01-14,governo,Coalizione di Netanyahu,53,-1.75,54.75
+LRI+P4A,2026-01-14,opposizione,Opposizione,60,4.57,55.43
+Yossi Tatika,2026-01-14,opposizione,Opposizione,57,2.78,54.22
+Kantar,2026-01-14,opposizione,Opposizione,57,1.72,55.28
+Midgam R&C,2026-01-15,arabi,Partiti arabi,10,-0.46,10.46
+TrendZone,2026-01-15,arabi,Partiti arabi,11,0.8,10.2
+SF+ND,2026-01-15,arabi,Partiti arabi,11,0.12,10.88
+Midgam R&C,2026-01-15,governo,Coalizione di Netanyahu,51,-3.08,54.08
+TrendZone,2026-01-15,governo,Coalizione di Netanyahu,56,0.42,55.58
+SF+ND,2026-01-15,governo,Coalizione di Netanyahu,66,9.41,56.59
+Midgam R&C,2026-01-15,opposizione,Opposizione,59,3.6,55.4
+TrendZone,2026-01-15,opposizione,Opposizione,53,-1.26,54.26
+SF+ND,2026-01-15,opposizione,Opposizione,43,-9.5,52.5
+MM+SN,2026-01-20,arabi,Partiti arabi,13,0.8,12.2
+MM+SN,2026-01-20,governo,Coalizione di Netanyahu,51,-0.96,51.96
+MM+SN,2026-01-20,opposizione,Opposizione,56,0.09,55.91
+LRI+P4A,2026-01-21,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-01-21,arabi,Partiti arabi,11,-0.18,11.18
+LRI+P4A,2026-01-21,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Yossi Tatika,2026-01-21,governo,Coalizione di Netanyahu,53,-2.67,55.67
+LRI+P4A,2026-01-21,opposizione,Opposizione,61,4.57,56.43
+Yossi Tatika,2026-01-21,opposizione,Opposizione,56,2.78,53.22
+Midgam R&C,2026-01-22,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-01-22,arabi,Partiti arabi,11,0.12,10.88
+Midgam R&C,2026-01-22,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-01-22,governo,Coalizione di Netanyahu,65,9.41,55.59
+Midgam R&C,2026-01-22,opposizione,Opposizione,59,3.6,55.4
+SF+ND,2026-01-22,opposizione,Opposizione,44,-9.5,53.5
+LRI+P4A,2026-01-28,arabi,Partiti arabi,13,-0.29,13.29
+Yossi Tatika,2026-01-28,arabi,Partiti arabi,16,-0.18,16.18
+LRI+P4A,2026-01-28,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Yossi Tatika,2026-01-28,governo,Coalizione di Netanyahu,51,-2.67,53.67
+LRI+P4A,2026-01-28,opposizione,Opposizione,57,4.57,52.43
+Yossi Tatika,2026-01-28,opposizione,Opposizione,53,2.78,50.22
+Midgam R&C,2026-01-29,arabi,Partiti arabi,12,-0.46,12.46
+SF+ND,2026-01-29,arabi,Partiti arabi,13,0.12,12.88
+Midgam R&C,2026-01-29,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-01-29,governo,Coalizione di Netanyahu,64,9.41,54.59
+Midgam R&C,2026-01-29,opposizione,Opposizione,57,3.6,53.4
+SF+ND,2026-01-29,opposizione,Opposizione,43,-9.5,52.5
+MM+SN,2026-02-04,arabi,Partiti arabi,15,0.8,14.2
+MM+SN,2026-02-04,governo,Coalizione di Netanyahu,54,-0.96,54.96
+MM+SN,2026-02-04,opposizione,Opposizione,51,0.09,50.91
+SF+ND,2026-02-05,arabi,Partiti arabi,13,0.12,12.88
+Yossi Tatika,2026-02-05,arabi,Partiti arabi,14,-0.18,14.18
+SF+ND,2026-02-05,governo,Coalizione di Netanyahu,65,9.41,55.59
+Yossi Tatika,2026-02-05,governo,Coalizione di Netanyahu,52,-2.67,54.67
+SF+ND,2026-02-05,opposizione,Opposizione,42,-9.5,51.5
+Yossi Tatika,2026-02-05,opposizione,Opposizione,54,2.78,51.22
+TrendZone,2026-02-06,arabi,Partiti arabi,15,0.8,14.2
+TrendZone,2026-02-06,governo,Coalizione di Netanyahu,55,0.42,54.58
+TrendZone,2026-02-06,opposizione,Opposizione,50,-1.26,51.26
+Yossi Tatika,2026-02-11,arabi,Partiti arabi,15,-0.18,15.18
+LRI+P4A,2026-02-11,arabi,Partiti arabi,10,-0.29,10.29
+Kantar,2026-02-11,arabi,Partiti arabi,13,0.07,12.93
+Yossi Tatika,2026-02-11,governo,Coalizione di Netanyahu,52,-2.67,54.67
+LRI+P4A,2026-02-11,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Kantar,2026-02-11,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Yossi Tatika,2026-02-11,opposizione,Opposizione,53,2.78,50.22
+LRI+P4A,2026-02-11,opposizione,Opposizione,60,4.57,55.43
+Kantar,2026-02-11,opposizione,Opposizione,55,1.72,53.28
+Midgam R&C,2026-02-12,arabi,Partiti arabi,12,-0.46,12.46
+SF+ND,2026-02-12,arabi,Partiti arabi,13,0.12,12.88
+Midgam R&C,2026-02-12,governo,Coalizione di Netanyahu,50,-3.08,53.08
+SF+ND,2026-02-12,governo,Coalizione di Netanyahu,66,9.41,56.59
+Midgam R&C,2026-02-12,opposizione,Opposizione,58,3.6,54.4
+SF+ND,2026-02-12,opposizione,Opposizione,41,-9.5,50.5
+MM+SN,2026-02-17,arabi,Partiti arabi,15,0.8,14.2
+MM+SN,2026-02-17,governo,Coalizione di Netanyahu,50,-0.96,50.96
+MM+SN,2026-02-17,opposizione,Opposizione,55,0.09,54.91
+LRI+P4A,2026-02-18,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-02-18,arabi,Partiti arabi,11,-0.18,11.18
+Direct Polls,2026-02-18,arabi,Partiti arabi,14,0.59,13.41
+LRI+P4A,2026-02-18,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Yossi Tatika,2026-02-18,governo,Coalizione di Netanyahu,52,-2.67,54.67
+Direct Polls,2026-02-18,governo,Coalizione di Netanyahu,64,5.16,58.84
+LRI+P4A,2026-02-18,opposizione,Opposizione,60,4.57,55.43
+Yossi Tatika,2026-02-18,opposizione,Opposizione,57,2.78,54.22
+Direct Polls,2026-02-18,opposizione,Opposizione,42,-5.73,47.73
+SF+ND,2026-02-19,arabi,Partiti arabi,13,0.12,12.88
+SF+ND,2026-02-19,governo,Coalizione di Netanyahu,65,9.41,55.59
+SF+ND,2026-02-19,opposizione,Opposizione,42,-9.5,51.5
+LRI+P4A,2026-02-25,arabi,Partiti arabi,14,-0.29,14.29
+Yossi Tatika,2026-02-25,arabi,Partiti arabi,11,-0.18,11.18
+LRI+P4A,2026-02-25,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Yossi Tatika,2026-02-25,governo,Coalizione di Netanyahu,53,-2.67,55.67
+LRI+P4A,2026-02-25,opposizione,Opposizione,57,4.57,52.43
+Yossi Tatika,2026-02-25,opposizione,Opposizione,56,2.78,53.22
+Midgam R&C,2026-02-26,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-02-26,arabi,Partiti arabi,13,0.12,12.88
+Midgam R&C,2026-02-26,governo,Coalizione di Netanyahu,52,-3.08,55.08
+SF+ND,2026-02-26,governo,Coalizione di Netanyahu,65,9.41,55.59
+Midgam R&C,2026-02-26,opposizione,Opposizione,58,3.6,54.4
+SF+ND,2026-02-26,opposizione,Opposizione,42,-9.5,51.5
+LRI+P4A,2026-03-04,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-03-04,arabi,Partiti arabi,10,-0.18,10.18
+LRI+P4A,2026-03-04,governo,Coalizione di Netanyahu,51,-4.25,55.25
+Yossi Tatika,2026-03-04,governo,Coalizione di Netanyahu,53,-2.67,55.67
+LRI+P4A,2026-03-04,opposizione,Opposizione,59,4.57,54.43
+Yossi Tatika,2026-03-04,opposizione,Opposizione,57,2.78,54.22
+SF+ND,2026-03-05,arabi,Partiti arabi,13,0.12,12.88
+SF+ND,2026-03-05,governo,Coalizione di Netanyahu,66,9.41,56.59
+SF+ND,2026-03-05,opposizione,Opposizione,41,-9.5,50.5
+Yossi Tatika,2026-03-11,arabi,Partiti arabi,10,-0.18,10.18
+Midgam R&C,2026-03-11,arabi,Partiti arabi,10,-0.46,10.46
+Yossi Tatika,2026-03-11,governo,Coalizione di Netanyahu,54,-2.67,56.67
+Midgam R&C,2026-03-11,governo,Coalizione di Netanyahu,51,-3.08,54.08
+Yossi Tatika,2026-03-11,opposizione,Opposizione,56,2.78,53.22
+Midgam R&C,2026-03-11,opposizione,Opposizione,59,3.6,55.4
+LRI+P4A,2026-03-13,arabi,Partiti arabi,10,-0.29,10.29
+LRI+P4A,2026-03-13,governo,Coalizione di Netanyahu,50,-4.25,54.25
+LRI+P4A,2026-03-13,opposizione,Opposizione,60,4.57,55.43
+Yossi Tatika,2026-03-18,arabi,Partiti arabi,10,-0.18,10.18
+Yossi Tatika,2026-03-18,governo,Coalizione di Netanyahu,51,-2.67,53.67
+Yossi Tatika,2026-03-18,opposizione,Opposizione,59,2.78,56.22
+Midgam R&C,2026-03-19,arabi,Partiti arabi,10,-0.46,10.46
+Midgam R&C,2026-03-19,governo,Coalizione di Netanyahu,51,-3.08,54.08
+Midgam R&C,2026-03-19,opposizione,Opposizione,59,3.6,55.4
+LRI+P4A,2026-03-20,arabi,Partiti arabi,10,-0.29,10.29
+LRI+P4A,2026-03-20,governo,Coalizione di Netanyahu,50,-4.25,54.25
+LRI+P4A,2026-03-20,opposizione,Opposizione,60,4.57,55.43
+LRI+P4A,2026-03-25,arabi,Partiti arabi,10,-0.29,10.29
+LRI+P4A,2026-03-25,governo,Coalizione di Netanyahu,50,-4.25,54.25
+LRI+P4A,2026-03-25,opposizione,Opposizione,60,4.57,55.43
+Yossi Tatika,2026-03-26,arabi,Partiti arabi,10,-0.18,10.18
+SF+ND,2026-03-26,arabi,Partiti arabi,12,0.12,11.88
+Yossi Tatika,2026-03-26,governo,Coalizione di Netanyahu,53,-2.67,55.67
+SF+ND,2026-03-26,governo,Coalizione di Netanyahu,65,9.41,55.59
+Yossi Tatika,2026-03-26,opposizione,Opposizione,57,2.78,54.22
+SF+ND,2026-03-26,opposizione,Opposizione,43,-9.5,52.5
+Kantar,2026-03-29,arabi,Partiti arabi,10.91,0.07,10.84
+Kantar,2026-03-29,governo,Coalizione di Netanyahu,52.56,-1.75,54.32
+Kantar,2026-03-29,opposizione,Opposizione,56.53,1.72,54.8
+LRI+P4A,2026-03-30,arabi,Partiti arabi,10,-0.29,10.29
+LRI+P4A,2026-03-30,governo,Coalizione di Netanyahu,49,-4.25,53.25
+LRI+P4A,2026-03-30,opposizione,Opposizione,61,4.57,56.43
+SF+ND,2026-04-09,arabi,Partiti arabi,11,0.12,10.88
+Kantar,2026-04-09,arabi,Partiti arabi,10,0.07,9.93
+MM+SN,2026-04-09,arabi,Partiti arabi,11,0.8,10.2
+Midgam R&C,2026-04-09,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-04-09,governo,Coalizione di Netanyahu,65,9.41,55.59
+Kantar,2026-04-09,governo,Coalizione di Netanyahu,51,-1.75,52.75
+MM+SN,2026-04-09,governo,Coalizione di Netanyahu,54,-0.96,54.96
+Midgam R&C,2026-04-09,governo,Coalizione di Netanyahu,50,-3.08,53.08
+SF+ND,2026-04-09,opposizione,Opposizione,44,-9.5,53.5
+Kantar,2026-04-09,opposizione,Opposizione,59,1.72,57.28
+MM+SN,2026-04-09,opposizione,Opposizione,55,0.09,54.91
+Midgam R&C,2026-04-09,opposizione,Opposizione,60,3.6,56.4
+LRI+P4A,2026-04-10,arabi,Partiti arabi,10,-0.29,10.29
+LRI+P4A,2026-04-10,governo,Coalizione di Netanyahu,49,-4.25,53.25
+LRI+P4A,2026-04-10,opposizione,Opposizione,61,4.57,56.43
+Kantar,2026-04-16,arabi,Partiti arabi,11,0.07,10.93
+Yossi Tatika,2026-04-16,arabi,Partiti arabi,9,-0.18,9.18
+Midgam R&C,2026-04-16,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-04-16,arabi,Partiti arabi,12,0.12,11.88
+Kantar,2026-04-16,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Yossi Tatika,2026-04-16,governo,Coalizione di Netanyahu,51,-2.67,53.67
+Midgam R&C,2026-04-16,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-04-16,governo,Coalizione di Netanyahu,65,9.41,55.59
+Kantar,2026-04-16,opposizione,Opposizione,57,1.72,55.28
+Yossi Tatika,2026-04-16,opposizione,Opposizione,60,2.78,57.22
+Midgam R&C,2026-04-16,opposizione,Opposizione,59,3.6,55.4
+SF+ND,2026-04-16,opposizione,Opposizione,43,-9.5,52.5
+LRI+P4A,2026-04-17,arabi,Partiti arabi,10,-0.29,10.29
+LRI+P4A,2026-04-17,governo,Coalizione di Netanyahu,49,-4.25,53.25
+LRI+P4A,2026-04-17,opposizione,Opposizione,61,4.57,56.43
+LRI+P4A,2026-04-23,arabi,Partiti arabi,10,-0.29,10.29
+Midgam R&C,2026-04-23,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-04-23,arabi,Partiti arabi,11,0.12,10.88
+LRI+P4A,2026-04-23,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Midgam R&C,2026-04-23,governo,Coalizione di Netanyahu,50,-3.08,53.08
+SF+ND,2026-04-23,governo,Coalizione di Netanyahu,66,9.41,56.59
+LRI+P4A,2026-04-23,opposizione,Opposizione,61,4.57,56.43
+Midgam R&C,2026-04-23,opposizione,Opposizione,60,3.6,56.4
+SF+ND,2026-04-23,opposizione,Opposizione,43,-9.5,52.5
+Direct Polls,2026-04-26,arabi,Partiti arabi,11,0.59,10.41
+SF+ND,2026-04-26,arabi,Partiti arabi,11,0.12,10.88
+Direct Polls,2026-04-26,governo,Coalizione di Netanyahu,62,5.16,56.84
+SF+ND,2026-04-26,governo,Coalizione di Netanyahu,64,9.41,54.59
+Direct Polls,2026-04-26,opposizione,Opposizione,47,-5.73,52.73
+SF+ND,2026-04-26,opposizione,Opposizione,45,-9.5,54.5
+MM+SN,2026-04-27,arabi,Partiti arabi,11,0.8,10.2
+Kantar,2026-04-27,arabi,Partiti arabi,10,0.07,9.93
+Midgam R&C,2026-04-27,arabi,Partiti arabi,10,-0.46,10.46
+LRI+P4A,2026-04-27,arabi,Partiti arabi,10,-0.29,10.29
+MM+SN,2026-04-27,governo,Coalizione di Netanyahu,57,-0.96,57.96
+Kantar,2026-04-27,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Midgam R&C,2026-04-27,governo,Coalizione di Netanyahu,50,-3.08,53.08
+LRI+P4A,2026-04-27,governo,Coalizione di Netanyahu,51,-4.25,55.25
+MM+SN,2026-04-27,opposizione,Opposizione,52,0.09,51.91
+Kantar,2026-04-27,opposizione,Opposizione,58,1.72,56.28
+Midgam R&C,2026-04-27,opposizione,Opposizione,60,3.6,56.4
+LRI+P4A,2026-04-27,opposizione,Opposizione,59,4.57,54.43
+Yossi Tatika,2026-04-29,arabi,Partiti arabi,9,-0.18,9.18
+LRI+P4A,2026-04-29,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-04-29,governo,Coalizione di Netanyahu,50,-2.67,52.67
+LRI+P4A,2026-04-29,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Yossi Tatika,2026-04-29,opposizione,Opposizione,61,2.78,58.22
+LRI+P4A,2026-04-29,opposizione,Opposizione,60,4.57,55.43
+Kantar,2026-04-30,arabi,Partiti arabi,11,0.07,10.93
+Kantar,2026-04-30,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Kantar,2026-04-30,opposizione,Opposizione,57,1.72,55.28
+Yossi Tatika,2026-05-06,arabi,Partiti arabi,9,-0.18,9.18
+LRI+P4A,2026-05-06,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-05-06,governo,Coalizione di Netanyahu,50,-2.67,52.67
+LRI+P4A,2026-05-06,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Yossi Tatika,2026-05-06,opposizione,Opposizione,61,2.78,58.22
+LRI+P4A,2026-05-06,opposizione,Opposizione,60,4.57,55.43
+Midgam R&C,2026-05-07,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-05-07,arabi,Partiti arabi,10,0.12,9.88
+Midgam R&C,2026-05-07,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-05-07,governo,Coalizione di Netanyahu,65,9.41,55.59
+Midgam R&C,2026-05-07,opposizione,Opposizione,59,3.6,55.4
+SF+ND,2026-05-07,opposizione,Opposizione,45,-9.5,54.5
+Kantar,2026-05-12,arabi,Partiti arabi,10,0.07,9.93
+LRI+P4A,2026-05-12,arabi,Partiti arabi,10,-0.29,10.29
+Kantar,2026-05-12,governo,Coalizione di Netanyahu,51,-1.75,52.75
+LRI+P4A,2026-05-12,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Kantar,2026-05-12,opposizione,Opposizione,59,1.72,57.28
+LRI+P4A,2026-05-12,opposizione,Opposizione,61,4.57,56.43
+MM+SN,2026-05-13,arabi,Partiti arabi,10,0.8,9.2
+Kantar,2026-05-13,arabi,Partiti arabi,11,0.07,10.93
+MM+SN,2026-05-13,governo,Coalizione di Netanyahu,56,-0.96,56.96
+Kantar,2026-05-13,governo,Coalizione di Netanyahu,51,-1.75,52.75
+MM+SN,2026-05-13,opposizione,Opposizione,54,0.09,53.91
+Kantar,2026-05-13,opposizione,Opposizione,58,1.72,56.28
+Midgam R&C,2026-05-14,arabi,Partiti arabi,10,-0.46,10.46
+Yossi Tatika,2026-05-14,arabi,Partiti arabi,10,-0.18,10.18
+SF+ND,2026-05-14,arabi,Partiti arabi,11,0.12,10.88
+Midgam R&C,2026-05-14,governo,Coalizione di Netanyahu,52,-3.08,55.08
+Yossi Tatika,2026-05-14,governo,Coalizione di Netanyahu,53,-2.67,55.67
+SF+ND,2026-05-14,governo,Coalizione di Netanyahu,63,9.41,53.59
+Midgam R&C,2026-05-14,opposizione,Opposizione,58,3.6,54.4
+Yossi Tatika,2026-05-14,opposizione,Opposizione,57,2.78,54.22
+SF+ND,2026-05-14,opposizione,Opposizione,46,-9.5,55.5
+LRI+P4A,2026-05-19,arabi,Partiti arabi,10,-0.29,10.29
+Direct Polls,2026-05-19,arabi,Partiti arabi,11,0.59,10.41
+LRI+P4A,2026-05-19,governo,Coalizione di Netanyahu,51,-4.25,55.25
+Direct Polls,2026-05-19,governo,Coalizione di Netanyahu,60,5.16,54.84
+LRI+P4A,2026-05-19,opposizione,Opposizione,59,4.57,54.43
+Direct Polls,2026-05-19,opposizione,Opposizione,49,-5.73,54.73
+Midgam R&C,2026-05-20,arabi,Partiti arabi,10,-0.46,10.46
+Kantar,2026-05-20,arabi,Partiti arabi,10,0.07,9.93
+Yossi Tatika,2026-05-20,arabi,Partiti arabi,9,-0.18,9.18
+Midgam R&C,2026-05-20,governo,Coalizione di Netanyahu,53,-3.08,56.08
+Kantar,2026-05-20,governo,Coalizione di Netanyahu,53,-1.75,54.75
+Yossi Tatika,2026-05-20,governo,Coalizione di Netanyahu,51,-2.67,53.67
+Midgam R&C,2026-05-20,opposizione,Opposizione,57,3.6,53.4
+Kantar,2026-05-20,opposizione,Opposizione,57,1.72,55.28
+Yossi Tatika,2026-05-20,opposizione,Opposizione,60,2.78,57.22
+LRI+P4A,2026-05-21,arabi,Partiti arabi,10,-0.29,10.29
+LRI+P4A,2026-05-21,governo,Coalizione di Netanyahu,51,-4.25,55.25
+LRI+P4A,2026-05-21,opposizione,Opposizione,59,4.57,54.43
+Midgam R&C,2026-05-28,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-05-28,arabi,Partiti arabi,10,0.12,9.88
+Midgam R&C,2026-05-28,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-05-28,governo,Coalizione di Netanyahu,63,9.41,53.59
+Midgam R&C,2026-05-28,opposizione,Opposizione,59,3.6,55.4
+SF+ND,2026-05-28,opposizione,Opposizione,47,-9.5,56.5
+LRI+P4A,2026-06-03,arabi,Partiti arabi,10,-0.29,10.29
+Direct Polls,2026-06-03,arabi,Partiti arabi,11,0.59,10.41
+LRI+P4A,2026-06-03,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Direct Polls,2026-06-03,governo,Coalizione di Netanyahu,60,5.16,54.84
+LRI+P4A,2026-06-03,opposizione,Opposizione,60,4.57,55.43
+Direct Polls,2026-06-03,opposizione,Opposizione,49,-5.73,54.73
+Kantar,2026-06-04,arabi,Partiti arabi,10,0.07,9.93
+Midgam R&C,2026-06-04,arabi,Partiti arabi,10,-0.46,10.46
+Yossi Tatika,2026-06-04,arabi,Partiti arabi,8,-0.18,8.18
+Kantar,2026-06-04,governo,Coalizione di Netanyahu,53,-1.75,54.75
+Midgam R&C,2026-06-04,governo,Coalizione di Netanyahu,51,-3.08,54.08
+Yossi Tatika,2026-06-04,governo,Coalizione di Netanyahu,50,-2.67,52.67
+Kantar,2026-06-04,opposizione,Opposizione,57,1.72,55.28
+Midgam R&C,2026-06-04,opposizione,Opposizione,59,3.6,55.4
+Yossi Tatika,2026-06-04,opposizione,Opposizione,62,2.78,59.22
+SF+ND,2026-06-05,arabi,Partiti arabi,10,0.12,9.88
+SF+ND,2026-06-05,governo,Coalizione di Netanyahu,63,9.41,53.59
+SF+ND,2026-06-05,opposizione,Opposizione,47,-9.5,56.5
+Yossi Tatika,2026-06-10,arabi,Partiti arabi,10,-0.18,10.18
+LRI+P4A,2026-06-10,arabi,Partiti arabi,10.26,-0.29,10.55
+Yossi Tatika,2026-06-10,governo,Coalizione di Netanyahu,50,-2.67,52.67
+LRI+P4A,2026-06-10,governo,Coalizione di Netanyahu,51.28,-4.25,55.53
+Yossi Tatika,2026-06-10,opposizione,Opposizione,60,2.78,57.22
+LRI+P4A,2026-06-10,opposizione,Opposizione,58.46,4.57,53.89
+Midgam R&C,2026-06-11,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-06-11,arabi,Partiti arabi,11,0.12,10.88
+Midgam R&C,2026-06-11,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-06-11,governo,Coalizione di Netanyahu,63,9.41,53.59
+Midgam R&C,2026-06-11,opposizione,Opposizione,59,3.6,55.4
+SF+ND,2026-06-11,opposizione,Opposizione,46,-9.5,55.5
+Kantar,2026-06-16,arabi,Partiti arabi,11,0.07,10.93
+Direct Polls,2026-06-16,arabi,Partiti arabi,12,0.59,11.41
+Kantar,2026-06-16,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Direct Polls,2026-06-16,governo,Coalizione di Netanyahu,58,5.16,52.84
+Kantar,2026-06-16,opposizione,Opposizione,57,1.72,55.28
+Direct Polls,2026-06-16,opposizione,Opposizione,50,-5.73,55.73
+LRI+P4A,2026-06-17,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-06-17,arabi,Partiti arabi,10,-0.18,10.18
+MP+TM+SN+A,2026-06-17,arabi,Partiti arabi,10,0.81,9.19
+LRI+P4A,2026-06-17,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Yossi Tatika,2026-06-17,governo,Coalizione di Netanyahu,50,-2.67,52.67
+MP+TM+SN+A,2026-06-17,governo,Coalizione di Netanyahu,51,-2.37,53.37
+LRI+P4A,2026-06-17,opposizione,Opposizione,61,4.57,56.43
+Yossi Tatika,2026-06-17,opposizione,Opposizione,60,2.78,57.22
+MP+TM+SN+A,2026-06-17,opposizione,Opposizione,59,1.4,57.6
+Midgam R&C,2026-06-18,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-06-18,arabi,Partiti arabi,11,0.12,10.88
+Midgam R&C,2026-06-18,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-06-18,governo,Coalizione di Netanyahu,62,9.41,52.59
+Midgam R&C,2026-06-18,opposizione,Opposizione,59,3.6,55.4
+SF+ND,2026-06-18,opposizione,Opposizione,47,-9.5,56.5
+LRI+P4A,2026-06-24,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-06-24,arabi,Partiti arabi,8,-0.18,8.18
+MP+TM+SN+A,2026-06-24,arabi,Partiti arabi,10,0.81,9.19
+Kantar,2026-06-24,arabi,Partiti arabi,10,0.07,9.93
+LRI+P4A,2026-06-24,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Yossi Tatika,2026-06-24,governo,Coalizione di Netanyahu,50,-2.67,52.67
+MP+TM+SN+A,2026-06-24,governo,Coalizione di Netanyahu,53,-2.37,55.37
+Kantar,2026-06-24,governo,Coalizione di Netanyahu,53,-1.75,54.75
+LRI+P4A,2026-06-24,opposizione,Opposizione,60,4.57,55.43
+Yossi Tatika,2026-06-24,opposizione,Opposizione,62,2.78,59.22
+MP+TM+SN+A,2026-06-24,opposizione,Opposizione,57,1.4,55.6
+Kantar,2026-06-24,opposizione,Opposizione,57,1.72,55.28
+Kantar,2026-06-25,arabi,Partiti arabi,11,0.07,10.93
+Midgam R&C,2026-06-25,arabi,Partiti arabi,10,-0.46,10.46
+SF+ND,2026-06-25,arabi,Partiti arabi,10,0.12,9.88
+Direct Polls,2026-06-25,arabi,Partiti arabi,12,0.59,11.41
+Kantar,2026-06-25,governo,Coalizione di Netanyahu,53,-1.75,54.75
+Midgam R&C,2026-06-25,governo,Coalizione di Netanyahu,52,-3.08,55.08
+SF+ND,2026-06-25,governo,Coalizione di Netanyahu,63,9.41,53.59
+Direct Polls,2026-06-25,governo,Coalizione di Netanyahu,57,5.16,51.84
+Kantar,2026-06-25,opposizione,Opposizione,56,1.72,54.28
+Midgam R&C,2026-06-25,opposizione,Opposizione,58,3.6,54.4
+SF+ND,2026-06-25,opposizione,Opposizione,47,-9.5,56.5
+Direct Polls,2026-06-25,opposizione,Opposizione,51,-5.73,56.73
+Midgam R&C,2026-06-29,arabi,Partiti arabi,10,-0.46,10.46
+Midgam R&C,2026-06-29,governo,Coalizione di Netanyahu,52,-3.08,55.08
+Midgam R&C,2026-06-29,opposizione,Opposizione,58,3.6,54.4
+Direct Polls,2026-06-30,arabi,Partiti arabi,12,0.59,11.41
+Direct Polls,2026-06-30,governo,Coalizione di Netanyahu,58,5.16,52.84
+Direct Polls,2026-06-30,opposizione,Opposizione,50,-5.73,55.73
+LRI+P4A,2026-07-01,arabi,Partiti arabi,11,-0.29,11.29
+Yossi Tatika,2026-07-01,arabi,Partiti arabi,9,-0.18,9.18
+MP+TM+SN+A,2026-07-01,arabi,Partiti arabi,11,0.81,10.19
+LRI+P4A,2026-07-01,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Yossi Tatika,2026-07-01,governo,Coalizione di Netanyahu,53,-2.67,55.67
+MP+TM+SN+A,2026-07-01,governo,Coalizione di Netanyahu,51,-2.37,53.37
+LRI+P4A,2026-07-01,opposizione,Opposizione,59,4.57,54.43
+Yossi Tatika,2026-07-01,opposizione,Opposizione,58,2.78,55.22
+MP+TM+SN+A,2026-07-01,opposizione,Opposizione,58,1.4,56.6
+SF+ND,2026-07-02,arabi,Partiti arabi,11,0.12,10.88
+SF+ND,2026-07-02,governo,Coalizione di Netanyahu,63,9.41,53.59
+SF+ND,2026-07-02,opposizione,Opposizione,46,-9.5,55.5
+Kantar,2026-07-05,arabi,Partiti arabi,10,0.07,9.93
+Kantar,2026-07-05,governo,Coalizione di Netanyahu,53,-1.75,54.75
+Kantar,2026-07-05,opposizione,Opposizione,57,1.72,55.28
+Midgam R&C,2026-07-06,arabi,Partiti arabi,10,-0.46,10.46
+Midgam R&C,2026-07-06,governo,Coalizione di Netanyahu,52,-3.08,55.08
+Midgam R&C,2026-07-06,opposizione,Opposizione,58,3.6,54.4
+LRI+P4A,2026-07-08,arabi,Partiti arabi,11,-0.29,11.29
+MP+TM+SN+A,2026-07-08,arabi,Partiti arabi,11,0.81,10.19
+LRI+P4A,2026-07-08,governo,Coalizione di Netanyahu,49,-4.25,53.25
+MP+TM+SN+A,2026-07-08,governo,Coalizione di Netanyahu,51,-2.37,53.37
+LRI+P4A,2026-07-08,opposizione,Opposizione,60,4.57,55.43
+MP+TM+SN+A,2026-07-08,opposizione,Opposizione,58,1.4,56.6
+Kantar,2026-07-09,arabi,Partiti arabi,10,0.07,9.93
+SF+ND,2026-07-09,arabi,Partiti arabi,10,0.12,9.88
+Direct Polls,2026-07-09,arabi,Partiti arabi,12,0.59,11.41
+Kantar,2026-07-09,governo,Coalizione di Netanyahu,53,-1.75,54.75
+SF+ND,2026-07-09,governo,Coalizione di Netanyahu,63,9.41,53.59
+Direct Polls,2026-07-09,governo,Coalizione di Netanyahu,59,5.16,53.84
+Kantar,2026-07-09,opposizione,Opposizione,57,1.72,55.28
+SF+ND,2026-07-09,opposizione,Opposizione,47,-9.5,56.5
+Direct Polls,2026-07-09,opposizione,Opposizione,49,-5.73,54.73
+Kantar,2026-07-12,arabi,Partiti arabi,10,0.07,9.93
+Kantar,2026-07-12,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Kantar,2026-07-12,opposizione,Opposizione,58,1.72,56.28
+Midgam R&C,2026-07-13,arabi,Partiti arabi,10,-0.46,10.46
+Midgam R&C,2026-07-13,governo,Coalizione di Netanyahu,51,-3.08,54.08
+Midgam R&C,2026-07-13,opposizione,Opposizione,59,3.6,55.4
+Yossi Tatika,2026-07-15,arabi,Partiti arabi,10,-0.18,10.18
+MP+TM+SN+A,2026-07-15,arabi,Partiti arabi,9,0.81,8.19
+Yossi Tatika,2026-07-15,governo,Coalizione di Netanyahu,50,-2.67,52.67
+MP+TM+SN+A,2026-07-15,governo,Coalizione di Netanyahu,50,-2.37,52.37
+Yossi Tatika,2026-07-15,opposizione,Opposizione,60,2.78,57.22
+MP+TM+SN+A,2026-07-15,opposizione,Opposizione,61,1.4,59.6
+SF+ND,2026-07-16,arabi,Partiti arabi,10,0.12,9.88
+Direct Polls,2026-07-16,arabi,Partiti arabi,12,0.59,11.41
+SF+ND,2026-07-16,governo,Coalizione di Netanyahu,63,9.41,53.59
+Direct Polls,2026-07-16,governo,Coalizione di Netanyahu,58,5.16,52.84
+SF+ND,2026-07-16,opposizione,Opposizione,47,-9.5,56.5
+Direct Polls,2026-07-16,opposizione,Opposizione,50,-5.73,55.73
+LRI+P4A,2026-07-17,arabi,Partiti arabi,10,-0.29,10.29
+LRI+P4A,2026-07-17,governo,Coalizione di Netanyahu,48,-4.25,52.25
+LRI+P4A,2026-07-17,opposizione,Opposizione,62,4.57,57.43
+Kantar,2026-07-19,arabi,Partiti arabi,10,0.07,9.93
+Kantar,2026-07-19,governo,Coalizione di Netanyahu,51,-1.75,52.75
+Kantar,2026-07-19,opposizione,Opposizione,59,1.72,57.28
+Midgam R&C,2026-07-20,arabi,Partiti arabi,10,-0.46,10.46
+Midgam R&C,2026-07-20,governo,Coalizione di Netanyahu,51,-3.08,54.08
+Midgam R&C,2026-07-20,opposizione,Opposizione,59,3.6,55.4
+MP+TM+SN+A,2026-07-21,arabi,Partiti arabi,11,0.81,10.19
+MP+TM+SN+A,2026-07-21,governo,Coalizione di Netanyahu,49,-2.37,51.37
+MP+TM+SN+A,2026-07-21,opposizione,Opposizione,60,1.4,58.6
+LRI+P4A,2026-07-22,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-07-22,arabi,Partiti arabi,11,-0.18,11.18
+LRI+P4A,2026-07-22,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Yossi Tatika,2026-07-22,governo,Coalizione di Netanyahu,51,-2.67,53.67
+LRI+P4A,2026-07-22,opposizione,Opposizione,61,4.57,56.43
+Yossi Tatika,2026-07-22,opposizione,Opposizione,58,2.78,55.22
+Kantar,2026-07-23,arabi,Partiti arabi,10.08,0.07,10.01
+Kantar,2026-07-23,governo,Coalizione di Netanyahu,53.45,-1.75,55.2
+Kantar,2026-07-23,opposizione,Opposizione,56.47,1.72,54.75
+Kantar,2026-07-26,arabi,Partiti arabi,10,0.07,9.93
+SF+ND,2026-07-26,arabi,Partiti arabi,9.92,0.12,9.79
+Kantar,2026-07-26,governo,Coalizione di Netanyahu,52,-1.75,53.75
+SF+ND,2026-07-26,governo,Coalizione di Netanyahu,62.48,9.41,53.07
+Kantar,2026-07-26,opposizione,Opposizione,58,1.72,56.28
+SF+ND,2026-07-26,opposizione,Opposizione,47.6,-9.5,57.1
+Midgam R&C,2026-07-27,arabi,Partiti arabi,10,-0.46,10.46
+Direct Polls,2026-07-27,arabi,Partiti arabi,12,0.59,11.41
+Midgam R&C,2026-07-27,governo,Coalizione di Netanyahu,50,-3.08,53.08
+Direct Polls,2026-07-27,governo,Coalizione di Netanyahu,59,5.16,53.84
+Midgam R&C,2026-07-27,opposizione,Opposizione,60,3.6,56.4
+Direct Polls,2026-07-27,opposizione,Opposizione,49,-5.73,54.73
+LRI+P4A,2026-07-29,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-07-29,arabi,Partiti arabi,11,-0.18,11.18
+MP+TM+SN+A,2026-07-29,arabi,Partiti arabi,9,0.81,8.19
+SF+ND,2026-07-29,arabi,Partiti arabi,11,0.12,10.88
+LRI+P4A,2026-07-29,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Yossi Tatika,2026-07-29,governo,Coalizione di Netanyahu,49,-2.67,51.67
+MP+TM+SN+A,2026-07-29,governo,Coalizione di Netanyahu,51,-2.37,53.37
+SF+ND,2026-07-29,governo,Coalizione di Netanyahu,62,9.41,52.59
+LRI+P4A,2026-07-29,opposizione,Opposizione,61,4.57,56.43
+Yossi Tatika,2026-07-29,opposizione,Opposizione,60,2.78,57.22
+MP+TM+SN+A,2026-07-29,opposizione,Opposizione,60,1.4,58.6
+SF+ND,2026-07-29,opposizione,Opposizione,47,-9.5,56.5
+Kantar,2026-08-02,arabi,Partiti arabi,11,0.07,10.93
+Kantar,2026-08-02,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Kantar,2026-08-02,opposizione,Opposizione,57,1.72,55.28
+Midgam R&C,2026-08-03,arabi,Partiti arabi,10,-0.46,10.46
+Midgam R&C,2026-08-03,governo,Coalizione di Netanyahu,50,-3.08,53.08
+Midgam R&C,2026-08-03,opposizione,Opposizione,60,3.6,56.4
+SF+ND,2026-08-04,arabi,Partiti arabi,10,0.12,9.88
+Maagar Mochot,2026-08-04,arabi,Partiti arabi,9,-0.63,9.63
+SF+ND,2026-08-04,governo,Coalizione di Netanyahu,62,9.41,52.59
+Maagar Mochot,2026-08-04,governo,Coalizione di Netanyahu,51,-1.56,52.56
+SF+ND,2026-08-04,opposizione,Opposizione,48,-9.5,57.5
+Maagar Mochot,2026-08-04,opposizione,Opposizione,60,2.12,57.88
+LRI+P4A,2026-08-05,arabi,Partiti arabi,10,-0.29,10.29
+Yossi Tatika,2026-08-05,arabi,Partiti arabi,12,-0.18,12.18
+MP+TM+SN+A,2026-08-05,arabi,Partiti arabi,11,0.81,10.19
+LRI+P4A,2026-08-05,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Yossi Tatika,2026-08-05,governo,Coalizione di Netanyahu,51,-2.67,53.67
+MP+TM+SN+A,2026-08-05,governo,Coalizione di Netanyahu,51,-2.37,53.37
+LRI+P4A,2026-08-05,opposizione,Opposizione,61,4.57,56.43
+Yossi Tatika,2026-08-05,opposizione,Opposizione,57,2.78,54.22
+MP+TM+SN+A,2026-08-05,opposizione,Opposizione,58,1.4,56.6
+Direct Polls,2026-08-06,arabi,Partiti arabi,13.11,0.59,12.52
+Kantar,2026-08-06,arabi,Partiti arabi,10.91,0.07,10.84
+Direct Polls,2026-08-06,governo,Coalizione di Netanyahu,58.49,5.16,53.33
+Kantar,2026-08-06,governo,Coalizione di Netanyahu,50.58,-1.75,52.33
+Direct Polls,2026-08-06,opposizione,Opposizione,48.4,-5.73,54.14
+Kantar,2026-08-06,opposizione,Opposizione,58.51,1.72,56.79
+SF+ND,2026-08-09,arabi,Partiti arabi,10,0.12,9.88
+Kantar,2026-08-09,arabi,Partiti arabi,11,0.07,10.93
+SF+ND,2026-08-09,governo,Coalizione di Netanyahu,62,9.41,52.59
+Kantar,2026-08-09,governo,Coalizione di Netanyahu,53,-1.75,54.75
+SF+ND,2026-08-09,opposizione,Opposizione,48,-9.5,57.5
+Kantar,2026-08-09,opposizione,Opposizione,56,1.72,54.28
+Maagar Mochot,2026-08-10,arabi,Partiti arabi,9,-0.63,9.63
+Midgam R&C,2026-08-10,arabi,Partiti arabi,10,-0.46,10.46
+Maagar Mochot,2026-08-10,governo,Coalizione di Netanyahu,52,-1.56,53.56
+Midgam R&C,2026-08-10,governo,Coalizione di Netanyahu,50,-3.08,53.08
+Maagar Mochot,2026-08-10,opposizione,Opposizione,59,2.12,56.88
+Midgam R&C,2026-08-10,opposizione,Opposizione,60,3.6,56.4
+LRI+P4A,2026-08-12,arabi,Partiti arabi,11,-0.29,11.29
+Yossi Tatika,2026-08-12,arabi,Partiti arabi,12,-0.18,12.18
+MP+TM+SN+A,2026-08-12,arabi,Partiti arabi,11,0.81,10.19
+LRI+P4A,2026-08-12,governo,Coalizione di Netanyahu,48,-4.25,52.25
+Yossi Tatika,2026-08-12,governo,Coalizione di Netanyahu,50,-2.67,52.67
+MP+TM+SN+A,2026-08-12,governo,Coalizione di Netanyahu,49,-2.37,51.37
+LRI+P4A,2026-08-12,opposizione,Opposizione,61,4.57,56.43
+Yossi Tatika,2026-08-12,opposizione,Opposizione,58,2.78,55.22
+MP+TM+SN+A,2026-08-12,opposizione,Opposizione,60,1.4,58.6
+Direct Polls,2026-08-13,arabi,Partiti arabi,11,0.59,10.41
+Direct Polls,2026-08-13,governo,Coalizione di Netanyahu,59,5.16,53.84
+Direct Polls,2026-08-13,opposizione,Opposizione,50,-5.73,55.73
+Kantar,2026-08-16,arabi,Partiti arabi,11,0.07,10.93
+Kantar,2026-08-16,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Kantar,2026-08-16,opposizione,Opposizione,57,1.72,55.28
+Midgam R&C,2026-08-17,arabi,Partiti arabi,10,-0.46,10.46
+Midgam R&C,2026-08-17,governo,Coalizione di Netanyahu,50,-3.08,53.08
+Midgam R&C,2026-08-17,opposizione,Opposizione,60,3.6,56.4
+Kantar,2026-08-18,arabi,Partiti arabi,11,0.07,10.93
+SF+ND,2026-08-18,arabi,Partiti arabi,11,0.12,10.88
+Direct Polls,2026-08-18,arabi,Partiti arabi,10,0.59,9.41
+Kantar,2026-08-18,governo,Coalizione di Netanyahu,52,-1.75,53.75
+SF+ND,2026-08-18,governo,Coalizione di Netanyahu,63,9.41,53.59
+Direct Polls,2026-08-18,governo,Coalizione di Netanyahu,58,5.16,52.84
+Kantar,2026-08-18,opposizione,Opposizione,57,1.72,55.28
+SF+ND,2026-08-18,opposizione,Opposizione,46,-9.5,55.5
+Direct Polls,2026-08-18,opposizione,Opposizione,52,-5.73,57.73
+Kantar,2026-08-19,arabi,Partiti arabi,13,0.07,12.93
+Yossi Tatika,2026-08-19,arabi,Partiti arabi,12,-0.18,12.18
+LRI+P4A,2026-08-19,arabi,Partiti arabi,11,-0.29,11.29
+MP+TM+SN+A,2026-08-19,arabi,Partiti arabi,10,0.81,9.19
+Maagar Mochot,2026-08-19,arabi,Partiti arabi,9,-0.63,9.63
+Kantar,2026-08-19,governo,Coalizione di Netanyahu,51,-1.75,52.75
+Yossi Tatika,2026-08-19,governo,Coalizione di Netanyahu,51,-2.67,53.67
+LRI+P4A,2026-08-19,governo,Coalizione di Netanyahu,49,-4.25,53.25
+MP+TM+SN+A,2026-08-19,governo,Coalizione di Netanyahu,51,-2.37,53.37
+Maagar Mochot,2026-08-19,governo,Coalizione di Netanyahu,51,-1.56,52.56
+Kantar,2026-08-19,opposizione,Opposizione,56,1.72,54.28
+Yossi Tatika,2026-08-19,opposizione,Opposizione,57,2.78,54.22
+LRI+P4A,2026-08-19,opposizione,Opposizione,60,4.57,55.43
+MP+TM+SN+A,2026-08-19,opposizione,Opposizione,59,1.4,57.6
+Maagar Mochot,2026-08-19,opposizione,Opposizione,60,2.12,57.88
+Kantar,2026-08-23,arabi,Partiti arabi,12,0.07,11.93
+Kantar,2026-08-23,governo,Coalizione di Netanyahu,51,-1.75,52.75
+Kantar,2026-08-23,opposizione,Opposizione,57,1.72,55.28
+Midgam R&C,2026-08-24,arabi,Partiti arabi,11,-0.46,11.46
+SF+ND,2026-08-24,arabi,Partiti arabi,10,0.12,9.88
+Midgam R&C,2026-08-24,governo,Coalizione di Netanyahu,50,-3.08,53.08
+SF+ND,2026-08-24,governo,Coalizione di Netanyahu,63,9.41,53.59
+Midgam R&C,2026-08-24,opposizione,Opposizione,59,3.6,55.4
+SF+ND,2026-08-24,opposizione,Opposizione,47,-9.5,56.5
+Yossi Tatika,2026-08-26,arabi,Partiti arabi,11,-0.18,11.18
+LRI+P4A,2026-08-26,arabi,Partiti arabi,13,-0.29,13.29
+Maagar Mochot,2026-08-26,arabi,Partiti arabi,11,-0.63,11.63
+MP+TM+SN+A,2026-08-26,arabi,Partiti arabi,15,0.81,14.19
+Direct Polls,2026-08-26,arabi,Partiti arabi,12,0.59,11.41
+LRI+P4A,2026-08-26,arabi,Partiti arabi,12,-0.29,12.29
+Yossi Tatika,2026-08-26,governo,Coalizione di Netanyahu,51,-2.67,53.67
+LRI+P4A,2026-08-26,governo,Coalizione di Netanyahu,48,-4.25,52.25
+Maagar Mochot,2026-08-26,governo,Coalizione di Netanyahu,53,-1.56,54.56
+MP+TM+SN+A,2026-08-26,governo,Coalizione di Netanyahu,48,-2.37,50.37
+Direct Polls,2026-08-26,governo,Coalizione di Netanyahu,59,5.16,53.84
+LRI+P4A,2026-08-26,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Yossi Tatika,2026-08-26,opposizione,Opposizione,58,2.78,55.22
+LRI+P4A,2026-08-26,opposizione,Opposizione,59,4.57,54.43
+Maagar Mochot,2026-08-26,opposizione,Opposizione,56,2.12,53.88
+MP+TM+SN+A,2026-08-26,opposizione,Opposizione,57,1.4,55.6
+Direct Polls,2026-08-26,opposizione,Opposizione,49,-5.73,54.73
+LRI+P4A,2026-08-26,opposizione,Opposizione,59,4.57,54.43
+SF+ND,2026-08-27,arabi,Partiti arabi,12,0.12,11.88
+SF+ND,2026-08-27,governo,Coalizione di Netanyahu,63,9.41,53.59
+SF+ND,2026-08-27,opposizione,Opposizione,45,-9.5,54.5
+SF+ND,2026-08-30,arabi,Partiti arabi,12,0.12,11.88
+Kantar,2026-08-30,arabi,Partiti arabi,13,0.07,12.93
+SF+ND,2026-08-30,governo,Coalizione di Netanyahu,63,9.41,53.59
+Kantar,2026-08-30,governo,Coalizione di Netanyahu,52,-1.75,53.75
+SF+ND,2026-08-30,opposizione,Opposizione,45,-9.5,54.5
+Kantar,2026-08-30,opposizione,Opposizione,55,1.72,53.28
+Midgam R&C,2026-08-31,arabi,Partiti arabi,11,-0.46,11.46
+Midgam R&C,2026-08-31,governo,Coalizione di Netanyahu,50,-3.08,53.08
+Midgam R&C,2026-08-31,opposizione,Opposizione,59,3.6,55.4
+Kantar,2026-09-02,arabi,Partiti arabi,12,0.07,11.93
+Yossi Tatika,2026-09-02,arabi,Partiti arabi,11,-0.18,11.18
+Maagar Mochot,2026-09-02,arabi,Partiti arabi,11,-0.63,11.63
+MP+TM+SN+A,2026-09-02,arabi,Partiti arabi,14,0.81,13.19
+Direct Polls,2026-09-02,arabi,Partiti arabi,11.8,0.59,11.22
+LRI+P4A,2026-09-02,arabi,Partiti arabi,13,-0.29,13.29
+Kantar,2026-09-02,governo,Coalizione di Netanyahu,53,-1.75,54.75
+Yossi Tatika,2026-09-02,governo,Coalizione di Netanyahu,50,-2.67,52.67
+Maagar Mochot,2026-09-02,governo,Coalizione di Netanyahu,54,-1.56,55.56
+MP+TM+SN+A,2026-09-02,governo,Coalizione di Netanyahu,53,-2.37,55.37
+Direct Polls,2026-09-02,governo,Coalizione di Netanyahu,59.02,5.16,53.86
+LRI+P4A,2026-09-02,governo,Coalizione di Netanyahu,49,-4.25,53.25
+Kantar,2026-09-02,opposizione,Opposizione,55,1.72,53.28
+Yossi Tatika,2026-09-02,opposizione,Opposizione,59,2.78,56.22
+Maagar Mochot,2026-09-02,opposizione,Opposizione,55,2.12,52.88
+MP+TM+SN+A,2026-09-02,opposizione,Opposizione,53,1.4,51.6
+Direct Polls,2026-09-02,opposizione,Opposizione,49.18,-5.73,54.91
+LRI+P4A,2026-09-02,opposizione,Opposizione,58,4.57,53.43
+LRI+P4A,2026-09-03,arabi,Partiti arabi,12,-0.29,12.29
+SF+ND,2026-09-03,arabi,Partiti arabi,12,0.12,11.88
+LRI+P4A,2026-09-03,governo,Coalizione di Netanyahu,51,-4.25,55.25
+SF+ND,2026-09-03,governo,Coalizione di Netanyahu,63,9.41,53.59
+LRI+P4A,2026-09-03,opposizione,Opposizione,57,4.57,52.43
+SF+ND,2026-09-03,opposizione,Opposizione,45,-9.5,54.5
+Kantar,2026-09-06,arabi,Partiti arabi,13,0.07,12.93
+Kantar,2026-09-06,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Kantar,2026-09-06,opposizione,Opposizione,55,1.72,53.28
+LRI+P4A,2026-09-07,arabi,Partiti arabi,12,-0.29,12.29
+S.M.L.T.,2026-09-07,arabi,Partiti arabi,12,-0.05,12.05
+SF+ND,2026-09-07,arabi,Partiti arabi,13,0.12,12.88
+Midgam R&C,2026-09-07,arabi,Partiti arabi,11,-0.46,11.46
+LRI+P4A,2026-09-07,governo,Coalizione di Netanyahu,47,-4.25,51.25
+S.M.L.T.,2026-09-07,governo,Coalizione di Netanyahu,59,3.9,55.1
+SF+ND,2026-09-07,governo,Coalizione di Netanyahu,63,9.41,53.59
+Midgam R&C,2026-09-07,governo,Coalizione di Netanyahu,52,-3.08,55.08
+LRI+P4A,2026-09-07,opposizione,Opposizione,61,4.57,56.43
+S.M.L.T.,2026-09-07,opposizione,Opposizione,49,-3.84,52.84
+SF+ND,2026-09-07,opposizione,Opposizione,44,-9.5,53.5
+Midgam R&C,2026-09-07,opposizione,Opposizione,57,3.6,53.4
+LRI+P4A,2026-09-09,arabi,Partiti arabi,12,-0.29,12.29
+Yossi Tatika,2026-09-09,arabi,Partiti arabi,12,-0.18,12.18
+Maagar Mochot,2026-09-09,arabi,Partiti arabi,12,-0.63,12.63
+MP+TM+SN+A,2026-09-09,arabi,Partiti arabi,14,0.81,13.19
+Direct Polls,2026-09-09,arabi,Partiti arabi,12,0.59,11.41
+SF+ND,2026-09-09,arabi,Partiti arabi,12,0.12,11.88
+LRI+P4A,2026-09-09,arabi,Partiti arabi,12,-0.29,12.29
+Kantar,2026-09-09,arabi,Partiti arabi,12,0.07,11.93
+Midgam R&C,2026-09-09,arabi,Partiti arabi,11,-0.46,11.46
+LRI+P4A,2026-09-09,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Yossi Tatika,2026-09-09,governo,Coalizione di Netanyahu,52,-2.67,54.67
+Maagar Mochot,2026-09-09,governo,Coalizione di Netanyahu,53,-1.56,54.56
+MP+TM+SN+A,2026-09-09,governo,Coalizione di Netanyahu,53,-2.37,55.37
+Direct Polls,2026-09-09,governo,Coalizione di Netanyahu,60,5.16,54.84
+SF+ND,2026-09-09,governo,Coalizione di Netanyahu,64,9.41,54.59
+LRI+P4A,2026-09-09,governo,Coalizione di Netanyahu,51,-4.25,55.25
+Kantar,2026-09-09,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Midgam R&C,2026-09-09,governo,Coalizione di Netanyahu,52,-3.08,55.08
+LRI+P4A,2026-09-09,opposizione,Opposizione,58,4.57,53.43
+Yossi Tatika,2026-09-09,opposizione,Opposizione,56,2.78,53.22
+Maagar Mochot,2026-09-09,opposizione,Opposizione,55,2.12,52.88
+MP+TM+SN+A,2026-09-09,opposizione,Opposizione,53,1.4,51.6
+Direct Polls,2026-09-09,opposizione,Opposizione,48,-5.73,53.73
+SF+ND,2026-09-09,opposizione,Opposizione,44,-9.5,53.5
+LRI+P4A,2026-09-09,opposizione,Opposizione,57,4.57,52.43
+Kantar,2026-09-09,opposizione,Opposizione,56,1.72,54.28
+Midgam R&C,2026-09-09,opposizione,Opposizione,57,3.6,53.4
+Midgam R&C,2026-09-14,arabi,Partiti arabi,12,-0.46,12.46
+Kantar,2026-09-14,arabi,Partiti arabi,12,0.07,11.93
+Midgam R&C,2026-09-14,governo,Coalizione di Netanyahu,50,-3.08,53.08
+Kantar,2026-09-14,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Midgam R&C,2026-09-14,opposizione,Opposizione,58,3.6,54.4
+Kantar,2026-09-14,opposizione,Opposizione,56,1.72,54.28
+MP+TM+SN+A,2026-09-15,arabi,Partiti arabi,14,0.81,13.19
+SF+ND,2026-09-15,arabi,Partiti arabi,12,0.12,11.88
+MP+TM+SN+A,2026-09-15,governo,Coalizione di Netanyahu,54,-2.37,56.37
+SF+ND,2026-09-15,governo,Coalizione di Netanyahu,64,9.41,54.59
+MP+TM+SN+A,2026-09-15,opposizione,Opposizione,52,1.4,50.6
+SF+ND,2026-09-15,opposizione,Opposizione,44,-9.5,53.5
+LRI+P4A,2026-09-16,arabi,Partiti arabi,12,-0.29,12.29
+Kantar,2026-09-16,arabi,Partiti arabi,12,0.07,11.93
+Yossi Tatika,2026-09-16,arabi,Partiti arabi,14,-0.18,14.18
+Maagar Mochot,2026-09-16,arabi,Partiti arabi,11,-0.63,11.63
+LRI+P4A,2026-09-16,governo,Coalizione di Netanyahu,50,-4.25,54.25
+Kantar,2026-09-16,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Yossi Tatika,2026-09-16,governo,Coalizione di Netanyahu,51,-2.67,53.67
+Maagar Mochot,2026-09-16,governo,Coalizione di Netanyahu,52,-1.56,53.56
+LRI+P4A,2026-09-16,opposizione,Opposizione,58,4.57,53.43
+Kantar,2026-09-16,opposizione,Opposizione,56,1.72,54.28
+Yossi Tatika,2026-09-16,opposizione,Opposizione,55,2.78,52.22
+Maagar Mochot,2026-09-16,opposizione,Opposizione,57,2.12,54.88
+SF+ND,2026-09-17,arabi,Partiti arabi,12,0.12,11.88
+Direct Polls,2026-09-17,arabi,Partiti arabi,12,0.59,11.41
+SF+ND,2026-09-17,governo,Coalizione di Netanyahu,64,9.41,54.59
+Direct Polls,2026-09-17,governo,Coalizione di Netanyahu,60,5.16,54.84
+SF+ND,2026-09-17,opposizione,Opposizione,44,-9.5,53.5
+Direct Polls,2026-09-17,opposizione,Opposizione,48,-5.73,53.73
+Midgam R&C,2026-09-22,arabi,Partiti arabi,12,-0.46,12.46
+Midgam R&C,2026-09-22,governo,Coalizione di Netanyahu,50,-3.08,53.08
+Midgam R&C,2026-09-22,opposizione,Opposizione,58,3.6,54.4
+Yossi Tatika,2026-09-23,arabi,Partiti arabi,14,-0.18,14.18
+LRI+P4A,2026-09-23,arabi,Partiti arabi,12,-0.29,12.29
+SF+ND,2026-09-23,arabi,Partiti arabi,12,0.12,11.88
+MP+TM+SN+A,2026-09-23,arabi,Partiti arabi,13,0.81,12.19
+Yossi Tatika,2026-09-23,governo,Coalizione di Netanyahu,53,-2.67,55.67
+LRI+P4A,2026-09-23,governo,Coalizione di Netanyahu,49,-4.25,53.25
+SF+ND,2026-09-23,governo,Coalizione di Netanyahu,63,9.41,53.59
+MP+TM+SN+A,2026-09-23,governo,Coalizione di Netanyahu,51,-2.37,53.37
+Yossi Tatika,2026-09-23,opposizione,Opposizione,53,2.78,50.22
+LRI+P4A,2026-09-23,opposizione,Opposizione,59,4.57,54.43
+SF+ND,2026-09-23,opposizione,Opposizione,45,-9.5,54.5
+MP+TM+SN+A,2026-09-23,opposizione,Opposizione,56,1.4,54.6
+Maagar Mochot,2026-09-24,arabi,Partiti arabi,12,-0.63,12.63
+Direct Polls,2026-09-24,arabi,Partiti arabi,13,0.59,12.41
+Maagar Mochot,2026-09-24,governo,Coalizione di Netanyahu,52,-1.56,53.56
+Direct Polls,2026-09-24,governo,Coalizione di Netanyahu,60,5.16,54.84
+Maagar Mochot,2026-09-24,opposizione,Opposizione,56,2.12,53.88
+Direct Polls,2026-09-24,opposizione,Opposizione,47,-5.73,52.73
+Kantar,2026-09-27,arabi,Partiti arabi,12,0.07,11.93
+Kantar,2026-09-27,governo,Coalizione di Netanyahu,52,-1.75,53.75
+Kantar,2026-09-27,opposizione,Opposizione,56,1.72,54.28
+SF+ND,2026-09-28,arabi,Partiti arabi,12,0.12,11.88
+SF+ND,2026-09-28,governo,Coalizione di Netanyahu,63,9.41,53.59
+SF+ND,2026-09-28,opposizione,Opposizione,45,-9.5,54.5
+Maagar Mochot,2026-09-29,arabi,Partiti arabi,12,-0.63,12.63
+Maagar Mochot,2026-09-29,governo,Coalizione di Netanyahu,53,-1.56,54.56
+Maagar Mochot,2026-09-29,opposizione,Opposizione,55,2.12,52.88
+Yossi Tatika,2026-09-30,arabi,Partiti arabi,13,-0.18,13.18
+LRI+P4A,2026-09-30,arabi,Partiti arabi,12,-0.29,12.29
+MP+TM+SN+A,2026-09-30,arabi,Partiti arabi,14,0.81,13.19
+Yossi Tatika,2026-09-30,governo,Coalizione di Netanyahu,53,-2.67,55.67
+LRI+P4A,2026-09-30,governo,Coalizione di Netanyahu,51,-4.25,55.25
+MP+TM+SN+A,2026-09-30,governo,Coalizione di Netanyahu,54,-2.37,56.37
+Yossi Tatika,2026-09-30,opposizione,Opposizione,54,2.78,51.22
+LRI+P4A,2026-09-30,opposizione,Opposizione,57,4.57,52.43
+MP+TM+SN+A,2026-09-30,opposizione,Opposizione,52,1.4,50.6
+Direct Polls,2026-10-01,arabi,Partiti arabi,13,0.59,12.41
+SF+ND,2026-10-01,arabi,Partiti arabi,12,0.12,11.88
+Direct Polls,2026-10-01,governo,Coalizione di Netanyahu,60,5.16,54.84
+SF+ND,2026-10-01,governo,Coalizione di Netanyahu,64,9.41,54.59
+Direct Polls,2026-10-01,opposizione,Opposizione,47,-5.73,52.73
+SF+ND,2026-10-01,opposizione,Opposizione,44,-9.5,53.5
+Kantar,2026-10-04,arabi,Partiti arabi,13,0.07,12.93
+Kantar,2026-10-04,governo,Coalizione di Netanyahu,51,-1.75,52.75
+Kantar,2026-10-04,opposizione,Opposizione,56,1.72,54.28
+Midgam R&C,2026-10-05,arabi,Partiti arabi,13,-0.46,13.46
+Midgam R&C,2026-10-05,governo,Coalizione di Netanyahu,49,-3.08,52.08
+Midgam R&C,2026-10-05,opposizione,Opposizione,58,3.6,54.4
+LRI+P4A,2026-10-07,arabi,Partiti arabi,12,-0.29,12.29
+Yossi Tatika,2026-10-07,arabi,Partiti arabi,14,-0.18,14.18
+Kantar,2026-10-07,arabi,Partiti arabi,13,0.07,12.93
+Direct Polls,2026-10-07,arabi,Partiti arabi,12,0.59,11.41
+SF+ND,2026-10-07,arabi,Partiti arabi,12,0.12,11.88
+MP+TM+SN+A,2026-10-07,arabi,Partiti arabi,15,0.81,14.19
+LRI+P4A,2026-10-07,governo,Coalizione di Netanyahu,52,-4.25,56.25
+Yossi Tatika,2026-10-07,governo,Coalizione di Netanyahu,51,-2.67,53.67
+Kantar,2026-10-07,governo,Coalizione di Netanyahu,51,-1.75,52.75
+Direct Polls,2026-10-07,governo,Coalizione di Netanyahu,60,5.16,54.84
+SF+ND,2026-10-07,governo,Coalizione di Netanyahu,63,9.41,53.59
+MP+TM+SN+A,2026-10-07,governo,Coalizione di Netanyahu,55,-2.37,57.37
+LRI+P4A,2026-10-07,opposizione,Opposizione,56,4.57,51.43
+Yossi Tatika,2026-10-07,opposizione,Opposizione,55,2.78,52.22
+Kantar,2026-10-07,opposizione,Opposizione,56,1.72,54.28
+Direct Polls,2026-10-07,opposizione,Opposizione,48,-5.73,53.73
+SF+ND,2026-10-07,opposizione,Opposizione,45,-9.5,54.5
+MP+TM+SN+A,2026-10-07,opposizione,Opposizione,50,1.4,48.6
+Kantar,2026-10-11,arabi,Partiti arabi,13,0.07,12.93
+Kantar,2026-10-11,governo,Coalizione di Netanyahu,53,-1.75,54.75
+Kantar,2026-10-11,opposizione,Opposizione,54,1.72,52.28
+LRI+P4A,2026-10-12,arabi,Partiti arabi,13,-0.29,13.29
+SF+ND,2026-10-12,arabi,Partiti arabi,13,0.12,12.88
+Midgam R&C,2026-10-12,arabi,Partiti arabi,13,-0.46,13.46
+LRI+P4A,2026-10-12,governo,Coalizione di Netanyahu,49,-4.25,53.25
+SF+ND,2026-10-12,governo,Coalizione di Netanyahu,61,9.41,51.59
+Midgam R&C,2026-10-12,governo,Coalizione di Netanyahu,49,-3.08,52.08
+LRI+P4A,2026-10-12,opposizione,Opposizione,58,4.57,53.43
+SF+ND,2026-10-12,opposizione,Opposizione,46,-9.5,55.5
+Midgam R&C,2026-10-12,opposizione,Opposizione,58,3.6,54.4
+Direct Polls,2026-10-13,arabi,Partiti arabi,13,0.59,12.41
+Maagar Mochot,2026-10-13,arabi,Partiti arabi,13,-0.63,13.63
+Direct Polls,2026-10-13,governo,Coalizione di Netanyahu,57,5.16,51.84
+Maagar Mochot,2026-10-13,governo,Coalizione di Netanyahu,52,-1.56,53.56
+Direct Polls,2026-10-13,opposizione,Opposizione,50,-5.73,55.73
+Maagar Mochot,2026-10-13,opposizione,Opposizione,55,2.12,52.88
+LRI+P4A,2026-10-14,arabi,Partiti arabi,14,-0.29,14.29
+Yossi Tatika,2026-10-14,arabi,Partiti arabi,13,-0.18,13.18
+MP+TM+SN+A,2026-10-14,arabi,Partiti arabi,15,0.81,14.19
+LRI+P4A,2026-10-14,governo,Coalizione di Netanyahu,51,-4.25,55.25
+Yossi Tatika,2026-10-14,governo,Coalizione di Netanyahu,49,-2.67,51.67
+MP+TM+SN+A,2026-10-14,governo,Coalizione di Netanyahu,51,-2.37,53.37
+LRI+P4A,2026-10-14,opposizione,Opposizione,55,4.57,50.43
+Yossi Tatika,2026-10-14,opposizione,Opposizione,58,2.78,55.22
+MP+TM+SN+A,2026-10-14,opposizione,Opposizione,54,1.4,52.6
+Direct Polls,2026-10-18,arabi,Partiti arabi,14,0.59,13.41
+SF+ND,2026-10-18,arabi,Partiti arabi,13,0.12,12.88
+Kantar,2026-10-18,arabi,Partiti arabi,13,0.07,12.93
+Direct Polls,2026-10-18,governo,Coalizione di Netanyahu,57,5.16,51.84
+SF+ND,2026-10-18,governo,Coalizione di Netanyahu,61,9.41,51.59
+Kantar,2026-10-18,governo,Coalizione di Netanyahu,51,-1.75,52.75
+Direct Polls,2026-10-18,opposizione,Opposizione,49,-5.73,54.73
+SF+ND,2026-10-18,opposizione,Opposizione,46,-9.5,55.5
+Kantar,2026-10-18,opposizione,Opposizione,56,1.72,54.28
+LRI+P4A,2026-10-19,arabi,Partiti arabi,14,-0.29,14.29
+MP+TM+SN+A,2026-10-19,arabi,Partiti arabi,15,0.81,14.19
+SF+ND,2026-10-19,arabi,Partiti arabi,13,0.12,12.88
+Midgam R&C,2026-10-19,arabi,Partiti arabi,14,-0.46,14.46
+LRI+P4A,2026-10-19,governo,Coalizione di Netanyahu,48,-4.25,52.25
+MP+TM+SN+A,2026-10-19,governo,Coalizione di Netanyahu,50,-2.37,52.37
+SF+ND,2026-10-19,governo,Coalizione di Netanyahu,62,9.41,52.59
+Midgam R&C,2026-10-19,governo,Coalizione di Netanyahu,51,-3.08,54.08
+LRI+P4A,2026-10-19,opposizione,Opposizione,58,4.57,53.43
+MP+TM+SN+A,2026-10-19,opposizione,Opposizione,55,1.4,53.6
+SF+ND,2026-10-19,opposizione,Opposizione,45,-9.5,54.5
+Midgam R&C,2026-10-19,opposizione,Opposizione,55,3.6,51.4
+LRI+P4A,2026-10-20,arabi,Partiti arabi,14,-0.29,14.29
+Direct Polls,2026-10-20,arabi,Partiti arabi,14,0.59,13.41
+SF+ND,2026-10-20,arabi,Partiti arabi,14,0.12,13.88
+Maagar Mochot,2026-10-20,arabi,Partiti arabi,14,-0.63,14.63
+LRI+P4A,2026-10-20,governo,Coalizione di Netanyahu,48,-4.25,52.25
+Direct Polls,2026-10-20,governo,Coalizione di Netanyahu,58,5.16,52.84
+SF+ND,2026-10-20,governo,Coalizione di Netanyahu,62,9.41,52.59
+Maagar Mochot,2026-10-20,governo,Coalizione di Netanyahu,50,-1.56,51.56
+LRI+P4A,2026-10-20,opposizione,Opposizione,58,4.57,53.43
+Direct Polls,2026-10-20,opposizione,Opposizione,48,-5.73,53.73
+SF+ND,2026-10-20,opposizione,Opposizione,44,-9.5,53.5
+Maagar Mochot,2026-10-20,opposizione,Opposizione,56,2.12,53.88
+Yossi Tatika,2026-10-21,arabi,Partiti arabi,14,-0.18,14.18
+MP+TM+SN+A,2026-10-21,arabi,Partiti arabi,15,0.81,14.19
+Midgam R&C,2026-10-21,arabi,Partiti arabi,14,-0.46,14.46
+SF+ND,2026-10-21,arabi,Partiti arabi,14,0.12,13.88
+Yossi Tatika,2026-10-21,governo,Coalizione di Netanyahu,51,-2.67,53.67
+MP+TM+SN+A,2026-10-21,governo,Coalizione di Netanyahu,49,-2.37,51.37
+Midgam R&C,2026-10-21,governo,Coalizione di Netanyahu,51,-3.08,54.08
+SF+ND,2026-10-21,governo,Coalizione di Netanyahu,62,9.41,52.59
+Yossi Tatika,2026-10-21,opposizione,Opposizione,55,2.78,52.22
+MP+TM+SN+A,2026-10-21,opposizione,Opposizione,56,1.4,54.6
+Midgam R&C,2026-10-21,opposizione,Opposizione,55,3.6,51.4
+SF+ND,2026-10-21,opposizione,Opposizione,44,-9.5,53.5
+Midgam R&C,2026-10-22,arabi,Partiti arabi,14,-0.46,14.46
+Kantar,2026-10-22,arabi,Partiti arabi,14,0.07,13.93
+SF+ND,2026-10-22,arabi,Partiti arabi,14,0.12,13.88
+Midgam R&C,2026-10-22,governo,Coalizione di Netanyahu,50,-3.08,53.08
+Kantar,2026-10-22,governo,Coalizione di Netanyahu,50,-1.75,51.75
+SF+ND,2026-10-22,governo,Coalizione di Netanyahu,62,9.41,52.59
+Midgam R&C,2026-10-22,opposizione,Opposizione,56,3.6,52.4
+Kantar,2026-10-22,opposizione,Opposizione,56,1.72,54.28
+SF+ND,2026-10-22,opposizione,Opposizione,44,-9.5,53.5
+MP+TM+SN+A,2026-10-23,arabi,Partiti arabi,16,0.81,15.19
+MP+TM+SN+A,2026-10-23,governo,Coalizione di Netanyahu,50,-2.37,52.37
+MP+TM+SN+A,2026-10-23,opposizione,Opposizione,54,1.4,52.6

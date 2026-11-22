@@ -1,0 +1,415 @@
+geo,paese,anno,titolo,quota_popolazione_pct
+AT,Austria,2024,OWN,54.5
+AT,Austria,2024,OWN_L,22.6
+AT,Austria,2024,OWN_NL,31.9
+AT,Austria,2024,RENT,45.5
+AT,Austria,2024,RENT_FR,14.8
+AT,Austria,2024,RENT_MKT,30.7
+AT,Austria,2025,OWN,54.2
+AT,Austria,2025,OWN_L,22.1
+AT,Austria,2025,OWN_NL,32.1
+AT,Austria,2025,RENT,45.8
+AT,Austria,2025,RENT_FR,15.0
+AT,Austria,2025,RENT_MKT,30.8
+BE,Belgium,2024,OWN,70.3
+BE,Belgium,2024,OWN_L,43.7
+BE,Belgium,2024,OWN_NL,26.6
+BE,Belgium,2024,RENT,29.7
+BE,Belgium,2024,RENT_FR,9.2
+BE,Belgium,2024,RENT_MKT,20.5
+BE,Belgium,2025,OWN,70.9
+BE,Belgium,2025,OWN_L,43.1
+BE,Belgium,2025,OWN_NL,27.8
+BE,Belgium,2025,RENT,29.1
+BE,Belgium,2025,RENT_FR,8.3
+BE,Belgium,2025,RENT_MKT,20.8
+BG,Bulgaria,2024,OWN,86.0
+BG,Bulgaria,2024,OWN_L,1.7
+BG,Bulgaria,2024,OWN_NL,84.3
+BG,Bulgaria,2024,RENT,14.0
+BG,Bulgaria,2024,RENT_FR,11.6
+BG,Bulgaria,2024,RENT_MKT,2.4
+BG,Bulgaria,2025,OWN,86.1
+BG,Bulgaria,2025,OWN_L,1.7
+BG,Bulgaria,2025,OWN_NL,84.4
+BG,Bulgaria,2025,RENT,13.9
+BG,Bulgaria,2025,RENT_FR,11.7
+BG,Bulgaria,2025,RENT_MKT,2.2
+CH,Switzerland,2024,OWN,42.0
+CH,Switzerland,2024,OWN_L,37.8
+CH,Switzerland,2024,OWN_NL,4.2
+CH,Switzerland,2024,RENT,58.0
+CH,Switzerland,2024,RENT_FR,5.5
+CH,Switzerland,2024,RENT_MKT,52.4
+CY,Cyprus,2024,OWN,69.4
+CY,Cyprus,2024,OWN_L,19.7
+CY,Cyprus,2024,OWN_NL,49.7
+CY,Cyprus,2024,RENT,30.6
+CY,Cyprus,2024,RENT_FR,16.2
+CY,Cyprus,2024,RENT_MKT,14.5
+CY,Cyprus,2025,OWN,69.2
+CY,Cyprus,2025,OWN_L,18.8
+CY,Cyprus,2025,OWN_NL,50.4
+CY,Cyprus,2025,RENT,30.8
+CY,Cyprus,2025,RENT_FR,15.9
+CY,Cyprus,2025,RENT_MKT,14.9
+CZ,Czechia,2024,OWN,74.7
+CZ,Czechia,2024,OWN_L,20.3
+CZ,Czechia,2024,OWN_NL,54.4
+CZ,Czechia,2024,RENT,25.3
+CZ,Czechia,2024,RENT_FR,6.3
+CZ,Czechia,2024,RENT_MKT,19.0
+CZ,Czechia,2025,OWN,75.1
+CZ,Czechia,2025,OWN_L,20.8
+CZ,Czechia,2025,OWN_NL,54.3
+CZ,Czechia,2025,RENT,24.9
+CZ,Czechia,2025,RENT_FR,6.1
+CZ,Czechia,2025,RENT_MKT,18.8
+DE,Germany,2024,OWN,47.2
+DE,Germany,2024,OWN_L,23.2
+DE,Germany,2024,OWN_NL,24.0
+DE,Germany,2024,RENT,52.8
+DE,Germany,2024,RENT_FR,6.0
+DE,Germany,2024,RENT_MKT,46.8
+DE,Germany,2025,OWN,47.2
+DE,Germany,2025,OWN_L,24.0
+DE,Germany,2025,OWN_NL,23.3
+DE,Germany,2025,RENT,52.8
+DE,Germany,2025,RENT_FR,6.0
+DE,Germany,2025,RENT_MKT,46.8
+DK,Denmark,2024,OWN,60.9
+DK,Denmark,2024,OWN_L,48.4
+DK,Denmark,2024,OWN_NL,12.5
+DK,Denmark,2024,RENT,39.1
+DK,Denmark,2024,RENT_FR,0.2
+DK,Denmark,2024,RENT_MKT,38.9
+DK,Denmark,2025,OWN,58.4
+DK,Denmark,2025,OWN_L,39.2
+DK,Denmark,2025,OWN_NL,19.2
+DK,Denmark,2025,RENT,41.6
+DK,Denmark,2025,RENT_FR,0.3
+DK,Denmark,2025,RENT_MKT,41.4
+EA20,Euro area – 20 countries (2023-2025),2024,OWN,64.5
+EA20,Euro area – 20 countries (2023-2025),2024,OWN_L,26.3
+EA20,Euro area – 20 countries (2023-2025),2024,OWN_NL,38.2
+EA20,Euro area – 20 countries (2023-2025),2024,RENT,35.5
+EA20,Euro area – 20 countries (2023-2025),2024,RENT_FR,11.8
+EA20,Euro area – 20 countries (2023-2025),2024,RENT_MKT,23.7
+EA20,Euro area – 20 countries (2023-2025),2025,OWN,64.7
+EA20,Euro area – 20 countries (2023-2025),2025,OWN_L,27.0
+EA20,Euro area – 20 countries (2023-2025),2025,OWN_NL,37.7
+EA20,Euro area – 20 countries (2023-2025),2025,RENT,35.3
+EA20,Euro area – 20 countries (2023-2025),2025,RENT_FR,12.0
+EA20,Euro area – 20 countries (2023-2025),2025,RENT_MKT,23.2
+EA21,Euro area – 21 countries (from 2026),2024,OWN,64.9
+EA21,Euro area – 21 countries (from 2026),2024,OWN_L,25.8
+EA21,Euro area – 21 countries (from 2026),2024,OWN_NL,39.0
+EA21,Euro area – 21 countries (from 2026),2024,RENT,35.1
+EA21,Euro area – 21 countries (from 2026),2024,RENT_FR,11.8
+EA21,Euro area – 21 countries (from 2026),2024,RENT_MKT,23.3
+EA21,Euro area – 21 countries (from 2026),2025,OWN,65.1
+EA21,Euro area – 21 countries (from 2026),2025,OWN_L,26.5
+EA21,Euro area – 21 countries (from 2026),2025,OWN_NL,38.6
+EA21,Euro area – 21 countries (from 2026),2025,RENT,34.9
+EA21,Euro area – 21 countries (from 2026),2025,RENT_FR,12.0
+EA21,Euro area – 21 countries (from 2026),2025,RENT_MKT,22.9
+EE,Estonia,2024,OWN,79.3
+EE,Estonia,2024,OWN_L,26.3
+EE,Estonia,2024,OWN_NL,52.9
+EE,Estonia,2024,RENT,20.7
+EE,Estonia,2024,RENT_FR,12.6
+EE,Estonia,2024,RENT_MKT,8.1
+EE,Estonia,2025,OWN,79.7
+EE,Estonia,2025,OWN_L,24.7
+EE,Estonia,2025,OWN_NL,55.0
+EE,Estonia,2025,RENT,20.3
+EE,Estonia,2025,RENT_FR,11.8
+EE,Estonia,2025,RENT_MKT,8.5
+EL,Greece,2024,OWN,69.7
+EL,Greece,2024,OWN_L,8.4
+EL,Greece,2024,OWN_NL,61.3
+EL,Greece,2024,RENT,30.3
+EL,Greece,2024,RENT_FR,7.2
+EL,Greece,2024,RENT_MKT,23.0
+EL,Greece,2025,OWN,69.4
+EL,Greece,2025,OWN_L,8.9
+EL,Greece,2025,OWN_NL,60.4
+EL,Greece,2025,RENT,30.6
+EL,Greece,2025,RENT_FR,6.6
+EL,Greece,2025,RENT_MKT,24.1
+ES,Spain,2024,OWN,73.7
+ES,Spain,2024,OWN_L,28.6
+ES,Spain,2024,OWN_NL,45.1
+ES,Spain,2024,RENT,26.3
+ES,Spain,2024,RENT_FR,8.8
+ES,Spain,2024,RENT_MKT,17.6
+ES,Spain,2025,OWN,73.6
+ES,Spain,2025,OWN_L,28.1
+ES,Spain,2025,OWN_NL,45.5
+ES,Spain,2025,RENT,26.4
+ES,Spain,2025,RENT_FR,9.0
+ES,Spain,2025,RENT_MKT,17.4
+EU27_2020,European Union - 27 countries (from 2020),2024,OWN,68.4
+EU27_2020,European Union - 27 countries (from 2020),2024,OWN_L,24.3
+EU27_2020,European Union - 27 countries (from 2020),2024,OWN_NL,44.2
+EU27_2020,European Union - 27 countries (from 2020),2024,RENT,31.6
+EU27_2020,European Union - 27 countries (from 2020),2024,RENT_FR,10.5
+EU27_2020,European Union - 27 countries (from 2020),2024,RENT_MKT,21.1
+EU27_2020,European Union - 27 countries (from 2020),2025,OWN,68.5
+EU27_2020,European Union - 27 countries (from 2020),2025,OWN_L,24.8
+EU27_2020,European Union - 27 countries (from 2020),2025,OWN_NL,43.7
+EU27_2020,European Union - 27 countries (from 2020),2025,RENT,31.5
+EU27_2020,European Union - 27 countries (from 2020),2025,RENT_FR,10.7
+EU27_2020,European Union - 27 countries (from 2020),2025,RENT_MKT,20.8
+FI,Finland,2024,OWN,68.1
+FI,Finland,2024,OWN_L,38.2
+FI,Finland,2024,OWN_NL,29.9
+FI,Finland,2024,RENT,31.9
+FI,Finland,2024,RENT_FR,11.8
+FI,Finland,2024,RENT_MKT,20.1
+FI,Finland,2025,OWN,66.9
+FI,Finland,2025,OWN_L,36.8
+FI,Finland,2025,OWN_NL,30.1
+FI,Finland,2025,RENT,33.1
+FI,Finland,2025,RENT_FR,12.0
+FI,Finland,2025,RENT_MKT,21.0
+FR,France,2024,OWN,61.2
+FR,France,2024,OWN_L,31.2
+FR,France,2024,OWN_NL,30.0
+FR,France,2024,RENT,38.8
+FR,France,2024,RENT_FR,21.9
+FR,France,2024,RENT_MKT,16.9
+FR,France,2025,OWN,61.4
+FR,France,2025,OWN_L,30.8
+FR,France,2025,OWN_NL,30.5
+FR,France,2025,RENT,38.6
+FR,France,2025,RENT_FR,22.2
+FR,France,2025,RENT_MKT,16.4
+HR,Croatia,2024,OWN,91.0
+HR,Croatia,2024,OWN_L,7.8
+HR,Croatia,2024,OWN_NL,83.3
+HR,Croatia,2024,RENT,9.0
+HR,Croatia,2024,RENT_FR,7.3
+HR,Croatia,2024,RENT_MKT,1.6
+HR,Croatia,2025,OWN,91.4
+HR,Croatia,2025,OWN_L,7.8
+HR,Croatia,2025,OWN_NL,83.5
+HR,Croatia,2025,RENT,8.6
+HR,Croatia,2025,RENT_FR,6.9
+HR,Croatia,2025,RENT_MKT,1.7
+HU,Hungary,2024,OWN,91.6
+HU,Hungary,2024,OWN_L,12.6
+HU,Hungary,2024,OWN_NL,79.0
+HU,Hungary,2024,RENT,8.4
+HU,Hungary,2024,RENT_FR,4.2
+HU,Hungary,2024,RENT_MKT,4.2
+HU,Hungary,2025,OWN,89.8
+HU,Hungary,2025,OWN_L,15.1
+HU,Hungary,2025,OWN_NL,74.7
+HU,Hungary,2025,RENT,10.2
+HU,Hungary,2025,RENT_FR,5.9
+HU,Hungary,2025,RENT_MKT,4.3
+IE,Ireland,2024,OWN,69.3
+IE,Ireland,2024,OWN_L,35.5
+IE,Ireland,2024,OWN_NL,33.8
+IE,Ireland,2024,RENT,30.7
+IE,Ireland,2024,RENT_FR,17.2
+IE,Ireland,2024,RENT_MKT,13.5
+IE,Ireland,2025,OWN,70.9
+IE,Ireland,2025,OWN_L,36.2
+IE,Ireland,2025,OWN_NL,34.7
+IE,Ireland,2025,RENT,29.1
+IE,Ireland,2025,RENT_FR,14.5
+IE,Ireland,2025,RENT_MKT,14.6
+IT,Italy,2024,OWN,75.9
+IT,Italy,2024,OWN_L,12.7
+IT,Italy,2024,OWN_NL,63.2
+IT,Italy,2024,RENT,24.1
+IT,Italy,2024,RENT_FR,8.1
+IT,Italy,2024,RENT_MKT,16.0
+IT,Italy,2025,OWN,77.1
+IT,Italy,2025,OWN_L,17.3
+IT,Italy,2025,OWN_NL,59.9
+IT,Italy,2025,RENT,22.9
+IT,Italy,2025,RENT_FR,9.3
+IT,Italy,2025,RENT_MKT,13.6
+LT,Lithuania,2024,OWN,87.4
+LT,Lithuania,2024,OWN_L,16.8
+LT,Lithuania,2024,OWN_NL,70.6
+LT,Lithuania,2024,RENT,12.6
+LT,Lithuania,2024,RENT_FR,9.7
+LT,Lithuania,2024,RENT_MKT,2.9
+LT,Lithuania,2025,OWN,86.5
+LT,Lithuania,2025,OWN_L,16.8
+LT,Lithuania,2025,OWN_NL,69.7
+LT,Lithuania,2025,RENT,13.5
+LT,Lithuania,2025,RENT_FR,9.9
+LT,Lithuania,2025,RENT_MKT,3.6
+LU,Luxembourg,2024,OWN,63.5
+LU,Luxembourg,2024,OWN_L,38.5
+LU,Luxembourg,2024,OWN_NL,24.9
+LU,Luxembourg,2024,RENT,36.5
+LU,Luxembourg,2024,RENT_FR,8.3
+LU,Luxembourg,2024,RENT_MKT,28.2
+LU,Luxembourg,2025,OWN,64.1
+LU,Luxembourg,2025,OWN_L,38.0
+LU,Luxembourg,2025,OWN_NL,26.1
+LU,Luxembourg,2025,RENT,35.9
+LU,Luxembourg,2025,RENT_FR,7.8
+LU,Luxembourg,2025,RENT_MKT,28.1
+LV,Latvia,2024,OWN,83.7
+LV,Latvia,2024,OWN_L,14.4
+LV,Latvia,2024,OWN_NL,69.3
+LV,Latvia,2024,RENT,16.3
+LV,Latvia,2024,RENT_FR,10.2
+LV,Latvia,2024,RENT_MKT,6.1
+LV,Latvia,2025,OWN,82.2
+LV,Latvia,2025,OWN_L,14.3
+LV,Latvia,2025,OWN_NL,67.9
+LV,Latvia,2025,RENT,17.8
+LV,Latvia,2025,RENT_FR,11.3
+LV,Latvia,2025,RENT_MKT,6.6
+ME,Montenegro,2024,OWN,87.3
+ME,Montenegro,2024,OWN_L,1.8
+ME,Montenegro,2024,OWN_NL,85.5
+ME,Montenegro,2024,RENT,12.7
+ME,Montenegro,2024,RENT_FR,7.8
+ME,Montenegro,2024,RENT_MKT,4.9
+MK,North Macedonia,2024,OWN,87.0
+MK,North Macedonia,2024,OWN_L,0.6
+MK,North Macedonia,2024,OWN_NL,86.4
+MK,North Macedonia,2024,RENT,13.0
+MK,North Macedonia,2024,RENT_FR,12.3
+MK,North Macedonia,2024,RENT_MKT,0.7
+MT,Malta,2024,OWN,69.6
+MT,Malta,2024,OWN_L,18.9
+MT,Malta,2024,OWN_NL,50.7
+MT,Malta,2024,RENT,30.4
+MT,Malta,2024,RENT_FR,10.3
+MT,Malta,2024,RENT_MKT,20.0
+MT,Malta,2025,OWN,70.9
+MT,Malta,2025,OWN_L,20.1
+MT,Malta,2025,OWN_NL,50.9
+MT,Malta,2025,RENT,29.1
+MT,Malta,2025,RENT_FR,7.9
+MT,Malta,2025,RENT_MKT,21.2
+NL,Netherlands,2024,OWN,68.8
+NL,Netherlands,2024,OWN_L,58.1
+NL,Netherlands,2024,OWN_NL,10.6
+NL,Netherlands,2024,RENT,31.2
+NL,Netherlands,2024,RENT_FR,25.9
+NL,Netherlands,2024,RENT_MKT,5.3
+NL,Netherlands,2025,OWN,68.8
+NL,Netherlands,2025,OWN_L,57.9
+NL,Netherlands,2025,OWN_NL,10.9
+NL,Netherlands,2025,RENT,31.2
+NL,Netherlands,2025,RENT_FR,25.7
+NL,Netherlands,2025,RENT_MKT,5.5
+NO,Norway,2024,OWN,78.8
+NO,Norway,2024,OWN_L,61.9
+NO,Norway,2024,OWN_NL,16.9
+NO,Norway,2024,RENT,21.2
+NO,Norway,2024,RENT_FR,1.9
+NO,Norway,2024,RENT_MKT,19.3
+NO,Norway,2025,OWN,80.0
+NO,Norway,2025,OWN_L,61.6
+NO,Norway,2025,OWN_NL,18.4
+NO,Norway,2025,RENT,20.0
+NO,Norway,2025,RENT_FR,1.5
+NO,Norway,2025,RENT_MKT,18.5
+PL,Poland,2024,OWN,87.1
+PL,Poland,2024,OWN_L,11.7
+PL,Poland,2024,OWN_NL,75.4
+PL,Poland,2024,RENT,12.9
+PL,Poland,2024,RENT_FR,8.1
+PL,Poland,2024,RENT_MKT,4.8
+PL,Poland,2025,OWN,87.2
+PL,Poland,2025,OWN_L,12.5
+PL,Poland,2025,OWN_NL,74.7
+PL,Poland,2025,RENT,12.8
+PL,Poland,2025,RENT_FR,7.8
+PL,Poland,2025,RENT_MKT,5.0
+PT,Portugal,2024,OWN,73.4
+PT,Portugal,2024,OWN_L,32.5
+PT,Portugal,2024,OWN_NL,40.9
+PT,Portugal,2024,RENT,26.6
+PT,Portugal,2024,RENT_FR,12.2
+PT,Portugal,2024,RENT_MKT,14.4
+PT,Portugal,2025,OWN,71.2
+PT,Portugal,2025,OWN_L,31.5
+PT,Portugal,2025,OWN_NL,39.7
+PT,Portugal,2025,RENT,28.8
+PT,Portugal,2025,RENT_FR,12.5
+PT,Portugal,2025,RENT_MKT,16.3
+RO,Romania,2024,OWN,94.3
+RO,Romania,2024,OWN_L,1.5
+RO,Romania,2024,OWN_NL,92.8
+RO,Romania,2024,RENT,5.7
+RO,Romania,2024,RENT_FR,3.6
+RO,Romania,2024,RENT_MKT,2.1
+RO,Romania,2025,OWN,93.2
+RO,Romania,2025,OWN_L,1.1
+RO,Romania,2025,OWN_NL,92.0
+RO,Romania,2025,RENT,6.8
+RO,Romania,2025,RENT_FR,4.6
+RO,Romania,2025,RENT_MKT,2.3
+RS,Serbia,2024,OWN,88.9
+RS,Serbia,2024,OWN_L,1.2
+RS,Serbia,2024,OWN_NL,87.6
+RS,Serbia,2024,RENT,11.1
+RS,Serbia,2024,RENT_FR,8.7
+RS,Serbia,2024,RENT_MKT,2.5
+RS,Serbia,2025,OWN,88.9
+RS,Serbia,2025,OWN_L,2.5
+RS,Serbia,2025,OWN_NL,86.4
+RS,Serbia,2025,RENT,11.1
+RS,Serbia,2025,RENT_FR,8.6
+RS,Serbia,2025,RENT_MKT,2.6
+SE,Sweden,2024,OWN,64.8
+SE,Sweden,2024,OWN_L,49.6
+SE,Sweden,2024,OWN_NL,15.2
+SE,Sweden,2024,RENT,35.2
+SE,Sweden,2024,RENT_FR,0.6
+SE,Sweden,2024,RENT_MKT,34.6
+SE,Sweden,2025,OWN,64.6
+SE,Sweden,2025,OWN_L,48.8
+SE,Sweden,2025,OWN_NL,15.8
+SE,Sweden,2025,RENT,35.4
+SE,Sweden,2025,RENT_FR,0.6
+SE,Sweden,2025,RENT_MKT,34.9
+SI,Slovenia,2024,OWN,74.8
+SI,Slovenia,2024,OWN_L,16.3
+SI,Slovenia,2024,OWN_NL,58.5
+SI,Slovenia,2024,RENT,25.2
+SI,Slovenia,2024,RENT_FR,18.4
+SI,Slovenia,2024,RENT_MKT,6.8
+SI,Slovenia,2025,OWN,74.2
+SI,Slovenia,2025,OWN_L,15.4
+SI,Slovenia,2025,OWN_NL,58.8
+SI,Slovenia,2025,RENT,25.8
+SI,Slovenia,2025,RENT_FR,18.2
+SI,Slovenia,2025,RENT_MKT,7.6
+SK,Slovakia,2024,OWN,93.1
+SK,Slovakia,2024,OWN_L,27.4
+SK,Slovakia,2024,OWN_NL,65.7
+SK,Slovakia,2024,RENT,6.9
+SK,Slovakia,2024,RENT_FR,2.8
+SK,Slovakia,2024,RENT_MKT,4.1
+SK,Slovakia,2025,OWN,93.8
+SK,Slovakia,2025,OWN_L,25.0
+SK,Slovakia,2025,OWN_NL,68.8
+SK,Slovakia,2025,RENT,6.2
+SK,Slovakia,2025,RENT_FR,2.3
+SK,Slovakia,2025,RENT_MKT,3.9
+TR,Türkiye,2024,OWN,55.8
+TR,Türkiye,2024,OWN_L,4.8
+TR,Türkiye,2024,OWN_NL,51.0
+TR,Türkiye,2024,RENT,44.2
+TR,Türkiye,2024,RENT_FR,16.0
+TR,Türkiye,2024,RENT_MKT,28.2
+TR,Türkiye,2025,OWN,56.9
+TR,Türkiye,2025,OWN_L,5.1
+TR,Türkiye,2025,OWN_NL,51.9
+TR,Türkiye,2025,RENT,43.1
+TR,Türkiye,2025,RENT_FR,15.8
+TR,Türkiye,2025,RENT_MKT,27.3

@@ -1,0 +1,22 @@
+provider: eurostat
+provider_url: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1
+agency_id: ESTAT
+dataset: ILC_MDES02
+description: Inability to afford paying for one week annual holiday away from home
+filters:
+  freq:
+    value: A
+    description: ''
+  hhcomp:
+    value: TOTAL
+    description: ''
+  unit:
+    value: PC
+    description: ''
+  geo:
+    value: IT+EU27_2020+FR+ES+DE
+    description: ''
+start_period: '2015'
+end_period: null
+last_n: null
+first_n: null

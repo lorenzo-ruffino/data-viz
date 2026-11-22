@@ -1,0 +1,10 @@
+provider: istat
+provider_url: https://esploradati.istat.it/SDMXWS/rest
+agency_id: IT1
+dataset: 168_7_DF_DCSP_IPCA3EC2_1
+description: Ipca – Classificazione ECOICOP vers.2 (4 cifre)
+filters: {}
+start_period: null
+end_period: null
+last_n: null
+first_n: null
